@@ -3,12 +3,12 @@
 
 Summary: Qt5 - QtTranslations module
 Name:    qt5-%{qt_module}
-Version: 5.6.2
+Version: 5.9.2
 Release: 1%{?dist}
 
 License: LGPLv2 with exceptions or GPLv3 with exceptions and GFDL
 Url:     http://www.qt.io
-Source0: http://download.qt.io/official_releases/qt/5.6/%{version}/submodules/%{qt_module}-opensource-src-%{version}.tar.xz
+Source0: http://download.qt.io/official_releases/qt/5.9/%{version}/submodules/%{qt_module}-opensource-src-%{version}.tar.xz
 BuildArch: noarch
 %global _qt5_qmake %{_bindir}/qmake-qt5
 
@@ -28,6 +28,7 @@ Provides: %{_qt5}-fa = %{version}-%{release}
 Provides: %{_qt5}-fi = %{version}-%{release}
 Provides: %{_qt5}-fr = %{version}-%{release}
 Provides: %{_qt5}-gl = %{version}-%{release}
+Provides: %{_qt5}-gd = %{version}-%{release}
 Provides: %{_qt5}-he = %{version}-%{release}
 Provides: %{_qt5}-hu = %{version}-%{release}
 Provides: %{_qt5}-it = %{version}-%{release}
@@ -67,8 +68,9 @@ make install INSTALL_ROOT=%{buildroot}
 
 
 %files
-%doc LICENSE.LGPL* LGPL_EXCEPTION.txt
+%license LICENSE.*
 %lang(ar) %{_qt5_translationdir}/*_ar.qm
+%lang(bg) %{_qt5_translationdir}/*_bg.qm
 %lang(ca) %{_qt5_translationdir}/*_ca.qm
 %lang(cs) %{_qt5_translationdir}/*_cs.qm
 %lang(da) %{_qt5_translationdir}/*_da.qm
@@ -78,6 +80,7 @@ make install INSTALL_ROOT=%{buildroot}
 %lang(fa) %{_qt5_translationdir}/*_fa.qm
 %lang(fi) %{_qt5_translationdir}/*_fi.qm
 %lang(fr) %{_qt5_translationdir}/*_fr.qm
+%lang(gl) %{_qt5_translationdir}/*_gd.qm
 %lang(gl) %{_qt5_translationdir}/*_gl.qm
 %lang(he) %{_qt5_translationdir}/*_he.qm
 %lang(hu) %{_qt5_translationdir}/*_hu.qm
@@ -98,6 +101,14 @@ make install INSTALL_ROOT=%{buildroot}
 
 
 %changelog
+* Fri Oct 06 2017 Jan Grulich <jgrulich@redhat.com> - 5.9.2-1
+- Update to 5.9.2
+  Resolves: bz#1482791
+
+* Mon Aug 28 2017 Jan Grulich <jgrulich@redhat.com> - 5.9.1-1
+- Update to 5.9.1
+  Resolves: bz#1482791
+
 * Wed Jan 11 2017 Jan Grulich <jgrulich@redhat.com> - 5.6.2-1
 - Update to 5.6.2
   Resolves: bz#1384831
