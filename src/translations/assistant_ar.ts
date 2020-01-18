@@ -1,39 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.1" language="ar">
 <context>
     <name>AboutDialog</name>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Bezárás</translation>
+        <translation>أ&amp;غلق</translation>
     </message>
 </context>
 <context>
     <name>AboutLabel</name>
     <message>
         <source>Warning</source>
-        <translation>Figyelmeztetés</translation>
+        <translation>تحذير</translation>
     </message>
     <message>
         <source>Unable to launch external application.
 </source>
-        <translation>Nem indítható el a külső alkalmazás.
+        <translation>تعذّر إطلاق التّطبيق الخارجيّ.
 </translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>حسنًا</translation>
     </message>
 </context>
 <context>
     <name>Assistant</name>
     <message>
         <source>Error registering documentation file &apos;%1&apos;: %2</source>
-        <translation>Hiba a(z) „%1” dokumentációfájl regisztrálásakor: %2</translation>
-    </message>
-    <message>
-        <source>Error: %1</source>
-        <translation>Hiba: %1</translation>
+        <translation>خطأ في تسجيل ملفّ التّوثيق ’%1‘: ‏%2</translation>
     </message>
     <message>
         <source>Could not register documentation file
@@ -41,15 +37,15 @@
 
 Reason:
 %2</source>
-        <translation>Nem sikerült regisztrálni a dokumentációfájlt
+        <translation>تعذّر تسجيل ملفّ التّوثيق
 %1
 
-Oka:
+السّبب:
 %2</translation>
     </message>
     <message>
         <source>Documentation successfully registered.</source>
-        <translation>A dokumentáció sikeresen regisztrálva.</translation>
+        <translation>سُجّل التّوثيق بنجاح.</translation>
     </message>
     <message>
         <source>Could not unregister documentation file
@@ -57,42 +53,42 @@ Oka:
 
 Reason:
 %2</source>
-        <translation>Nem sikerült a dokumentációfájl regisztrálásának eltávolítása
+        <translation>تعذّرت إزالة تسجيل ملفّ التّوثيق
 %1
 
-Oka:
+السّبب:
 %2</translation>
     </message>
     <message>
         <source>Documentation successfully unregistered.</source>
-        <translation>A dokumentáció regisztrálása sikeresen eltávolítva.</translation>
+        <translation>أُزيل تسجيل التّوثيق بنجاح.</translation>
     </message>
     <message>
         <source>Error reading collection file &apos;%1&apos;: %2.</source>
-        <translation>Hiba a(z) „%1” gyűjteményfájl olvasásakor: %2.</translation>
+        <translation>خطأ في قراءة ملفّ التّجميعة ’%1‘: ‏%2.</translation>
     </message>
     <message>
         <source>Error creating collection file &apos;%1&apos;: %2.</source>
-        <translation>Hiba a(z) „%1 ”gyűjteményfájl létrehozásakor: %2.</translation>
+        <translation>خطأ في إنشاء ملفّ التّجميعة ’%1‘: ‏%2.</translation>
     </message>
     <message>
         <source>Cannot load sqlite database driver!</source>
-        <translation>Nem lehet betölteni az sqlite adatbázis-meghajtót!</translation>
+        <translation>تعذّر تحميل مشغّل قاعدة بيانات sqlite!</translation>
     </message>
 </context>
 <context>
     <name>BookmarkDialog</name>
     <message>
         <source>Add Bookmark</source>
-        <translation>Könyvjelző hozzáadása</translation>
+        <translation>أضف علامة</translation>
     </message>
     <message>
         <source>Bookmark:</source>
-        <translation>Könyvjelző:</translation>
+        <translation>العلامة:</translation>
     </message>
     <message>
         <source>Add in Folder:</source>
-        <translation>Hozzáadás mappába:</translation>
+        <translation>أضف في المجلّد:</translation>
     </message>
     <message>
         <source>+</source>
@@ -100,45 +96,45 @@ Oka:
     </message>
     <message>
         <source>New Folder</source>
-        <translation>Új mappa</translation>
+        <translation>مجلّد جديد</translation>
     </message>
     <message>
         <source>Rename Folder</source>
-        <translation>Mappa átnevezése</translation>
+        <translation>أعد تسمية المجلّد</translation>
     </message>
 </context>
 <context>
     <name>BookmarkItem</name>
     <message>
         <source>New Folder</source>
-        <translation>Új mappa</translation>
+        <translation>مجلّد جديد</translation>
     </message>
     <message>
         <source>Untitled</source>
-        <translation>Névtelen</translation>
+        <translation>غير مسمّى</translation>
     </message>
 </context>
 <context>
     <name>BookmarkManager</name>
     <message>
         <source>Untitled</source>
-        <translation>Névtelen</translation>
+        <translation>غير مسمّى</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Eltávolítás</translation>
+        <translation>أزل</translation>
     </message>
     <message>
         <source>You are going to delete a Folder, this will also&lt;br&gt;remove it&apos;s content. Are you sure to continue?</source>
-        <translation>Egy mappa törlésére készül, de ez el fogja&lt;br&gt;távolítani annak tartalmát is. Biztosan folytatja?</translation>
+        <translation>ستحذف مجلّدًا، هذا سيزيل&lt;br&gt;محتواه أيضًا. أمتأكّد من المتابعة؟</translation>
     </message>
     <message>
         <source>Manage Bookmarks...</source>
-        <translation>Könyvjelzők kezelése…</translation>
+        <translation>أدر العلامات...</translation>
     </message>
     <message>
         <source>Add Bookmark...</source>
-        <translation>Könyvjelző hozzáadása…</translation>
+        <translation>أضف علامة...</translation>
     </message>
     <message>
         <source>Ctrl+D</source>
@@ -146,151 +142,151 @@ Oka:
     </message>
     <message>
         <source>Delete Folder</source>
-        <translation>Mappa törlése</translation>
+        <translation>احذف المجلّد</translation>
     </message>
     <message>
         <source>Rename Folder</source>
-        <translation>Mappa átnevezése</translation>
+        <translation>أعد تسمية المجلّد</translation>
     </message>
     <message>
         <source>Show Bookmark</source>
-        <translation>Könyvjelző megjelenítése</translation>
+        <translation>أظهر العلامة</translation>
     </message>
     <message>
         <source>Show Bookmark in New Tab</source>
-        <translation>Könyvjelző megjelenítése új lapon</translation>
+        <translation>أظهر العلامة في لسان جديد</translation>
     </message>
     <message>
         <source>Delete Bookmark</source>
-        <translation>Könyvjelző törlése</translation>
+        <translation>احذف العلامة</translation>
     </message>
     <message>
         <source>Rename Bookmark</source>
-        <translation>Könyvjelző átnevezése</translation>
+        <translation>أعد تسمية العلامة</translation>
     </message>
 </context>
 <context>
     <name>BookmarkManagerWidget</name>
     <message>
         <source>Manage Bookmarks</source>
-        <translation>Könyvjelzők kezelése</translation>
+        <translation>أدر العلامات</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation>Keresés:</translation>
+        <translation>ابحث عن:</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Eltávolítás</translation>
+        <translation>أزل</translation>
     </message>
     <message>
         <source>Import and Backup</source>
-        <translation>Importálás és biztonsági mentés</translation>
+        <translation>استورد وانسخ احتياطيًّا</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>حسنًا</translation>
     </message>
     <message>
         <source>Import...</source>
-        <translation>Importálás…</translation>
+        <translation>استورد...</translation>
     </message>
     <message>
         <source>Export...</source>
-        <translation>Exportálás…</translation>
+        <translation>صدّر...</translation>
     </message>
     <message>
         <source>Open File</source>
-        <translation>Fájl megnyitása</translation>
+        <translation>افتح ملفًّا</translation>
     </message>
     <message>
         <source>Files (*.xbel)</source>
-        <translation>Fájlok (*.xbel)</translation>
+        <translation>ملفّات (*.xbel)</translation>
     </message>
     <message>
         <source>Save File</source>
-        <translation>Fájl mentése</translation>
+        <translation>احفظ الملفّ</translation>
     </message>
     <message>
         <source>Qt Assistant</source>
-        <translation>Qt Asszisztens</translation>
+        <translation>كيوت المساعد</translation>
     </message>
     <message>
         <source>Unable to save bookmarks.</source>
-        <translation>Nem menthetők a könyvjelzők.</translation>
+        <translation>تعذّر حفظ العلامات.</translation>
     </message>
     <message>
         <source>You are goingto delete a Folder, this will also&lt;br&gt; remove it&apos;s content. Are you sure to continue?</source>
-        <translation>Egy mappa törlésére készül, de ez el fogja&lt;br&gt;távolítani annak tartalmát is. Biztosan folytatja?</translation>
+        <translation>ستحذف مجلّدًا، هذا سيزيل&lt;br&gt;محتواه أيضًا. أمتأكّد من المتابعة؟</translation>
     </message>
     <message>
         <source>Delete Folder</source>
-        <translation>Mappa törlése</translation>
+        <translation>احذف المجلّد</translation>
     </message>
     <message>
         <source>Rename Folder</source>
-        <translation>Mappa átnevezése</translation>
+        <translation>أعد تسمية المجلّد</translation>
     </message>
     <message>
         <source>Show Bookmark</source>
-        <translation>Könyvjelző megjelenítése</translation>
+        <translation>أظهر العلامة</translation>
     </message>
     <message>
         <source>Show Bookmark in New Tab</source>
-        <translation>Könyvjelző megjelenítése új lapon</translation>
+        <translation>أظهر العلامة في لسان جديد</translation>
     </message>
     <message>
         <source>Delete Bookmark</source>
-        <translation>Könyvjelző törlése</translation>
+        <translation>احذف العلامة</translation>
     </message>
     <message>
         <source>Rename Bookmark</source>
-        <translation>Könyvjelző átnevezése</translation>
+        <translation>أعد تسمية العلامة</translation>
     </message>
 </context>
 <context>
     <name>BookmarkModel</name>
     <message>
         <source>Name</source>
-        <translation>Név</translation>
+        <translation>الاسم</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Cím</translation>
+        <translation>العنوان</translation>
     </message>
     <message>
         <source>Bookmarks Toolbar</source>
-        <translation>Könyvjelző eszköztár</translation>
+        <translation>شريط أدوات العلامات</translation>
     </message>
     <message>
         <source>Bookmarks Menu</source>
-        <translation>Könyvjelzők menü</translation>
+        <translation>قائمة العلامات</translation>
     </message>
 </context>
 <context>
     <name>BookmarkWidget</name>
     <message>
         <source>Bookmarks</source>
-        <translation>Könyvjelzők</translation>
+        <translation>العلامات</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation>Szűrő:</translation>
+        <translation>رشّح:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Hozzáadás</translation>
+        <translation>أضف</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Eltávolítás</translation>
+        <translation>أزل</translation>
     </message>
 </context>
 <context>
     <name>CentralWidget</name>
     <message>
         <source>Print Document</source>
-        <translation>Dokumentum nyomtatása</translation>
+        <translation>اطبع المستند</translation>
     </message>
 </context>
 <context>
@@ -321,220 +317,195 @@ Oka:
                            file.
 -setCurrentFilter filter   Set the filter as the active filter.
 -remove-search-index       Removes the full text search index.
--rebuild-search-index      Re-builds the full text search index (potentially slow).
+-rebuild-search-index      Obsolete. Use -remove-search-index instead.
+                           Removes the full text search index.
+                           It will be rebuilt on next Assistant run.
 -quiet                     Does not display any error or
                            status message.
 -help                      Displays this help.
 </source>
-        <translation>Használat: assistant [kapcsolók]
-
--collectionFile fájl       A megadott gyűjteményfájl
-                           használata az alapértelmezett helyett
--showUrl url               Megjeleníti az url-ben
-                           megadott dokumentumot.
--enableRemoteControl       Engedélyezi, hogy az Aszisztenst
-                           távvezéreljék.
--show widget               Megjeleníti a megadott dokk felületi elemet,
-                           amely „contents”, „index”,
-                           „bookmarks” vagy „search” lehet.
--activate widget           Aktiválja a megadott dokk felületi elemet,
-                           amely „contents”, „index”,
-                           „bookmarks” vagy „search” lehet.
--hide widget               Elrejti a megadott dokk felületi elemet,
-                           amely „contents”, „index”
-                           „bookmarks” vagy „search” lehet.
--register súgófájl         Regisztrálja a megadott súgófájlt
-                           (.qch) az adott gyűjteményfájlba.
--unregister súgófájl       Eltávolítja a megadott súgófájlt
-                           (.qch) az adott gyűjteményfájlból.
--setCurrentFilter szűrő    Beállítja a szűrőt aktív szűrőként.
--remove-search-index       Törli a szabad-szavas szöveg keresési indexet.
--rebuild-search-index      Újra előállítja a szabad-szavas szöveg keresési
-                           indexet (többnyire lassú).
--quiet                     Nem jelenít meg semmilyen hiba- vagy
-                           állapotüzenetet.
--help                      Megjeleníti ezt a súgót.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unknown option: %1</source>
-        <translation>Ismeretlen kapcsoló: %1</translation>
+        <translation>الخيار غير صالح: %1</translation>
     </message>
     <message>
         <source>The collection file &apos;%1&apos; does not exist.</source>
-        <translation>A(z) „%1” gyűjteményfájl nem létezik.</translation>
+        <translation>ملفّ التّجميعة ’%1‘ غير موجود.</translation>
     </message>
     <message>
         <source>Missing collection file.</source>
-        <translation>Hiányzó gyűjteményfájl.</translation>
+        <translation>ملفّ التّجميعة ناقص.</translation>
     </message>
     <message>
         <source>Invalid URL &apos;%1&apos;.</source>
-        <translation>Érvénytelen URL: „%1”.</translation>
+        <translation>العنوان ’%1‘ غير صالح.</translation>
     </message>
     <message>
         <source>Missing URL.</source>
-        <translation>Hiányzó URL.</translation>
+        <translation>العنوان ناقص.</translation>
     </message>
     <message>
         <source>Unknown widget: %1</source>
-        <translation>Ismeretlen felületi elem: %1</translation>
+        <translation>الودجة مجهولة: %1</translation>
     </message>
     <message>
         <source>Missing widget.</source>
-        <translation>Hiányzó felületi elem.</translation>
+        <translation>الودجة ناقصة.</translation>
     </message>
     <message>
         <source>The Qt help file &apos;%1&apos; does not exist.</source>
-        <translation>A(z) „%1” Qt súgófájl nem létezik.</translation>
+        <translation>ملفّ مساعدة كيوت ’%1‘ غير موجود.</translation>
     </message>
     <message>
         <source>Missing help file.</source>
-        <translation>Hiányzó súgófájl.</translation>
+        <translation>ملفّ المساعدة ناقص.</translation>
     </message>
     <message>
         <source>Missing filter argument.</source>
-        <translation>Hiányzó szűrőargumentum.</translation>
+        <translation>معامل المرشّح ناقص.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Hiba</translation>
+        <translation>خطأ</translation>
     </message>
     <message>
         <source>Notice</source>
-        <translation>Értesítés</translation>
+        <translation>إخطار</translation>
     </message>
 </context>
 <context>
     <name>ContentWindow</name>
     <message>
         <source>Open Link</source>
-        <translation>Hivatkozás megnyitása</translation>
+        <translation>افتح الرّابط</translation>
     </message>
     <message>
         <source>Open Link in New Tab</source>
-        <translation>Hivatkozás megnyitása új lapon</translation>
+        <translation>افتح الرّابط في لسان جديد</translation>
     </message>
 </context>
 <context>
     <name>FilterNameDialogClass</name>
     <message>
         <source>Add Filter Name</source>
-        <translation>Szűrőnév hozzáadása</translation>
+        <translation>أضف اسم مرشّح</translation>
     </message>
     <message>
         <source>Filter Name:</source>
-        <translation>Szűrő neve:</translation>
+        <translation>اسم المرشّح:</translation>
     </message>
 </context>
 <context>
     <name>FindWidget</name>
     <message>
         <source>Previous</source>
-        <translation>Előző</translation>
+        <translation>السّابقة</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Következő</translation>
+        <translation>التّالية</translation>
     </message>
     <message>
         <source>Case Sensitive</source>
-        <translation>Kis- és nagybetű érzékeny</translation>
+        <translation>حسّاس للحالة</translation>
     </message>
     <message>
         <source>&lt;img src=&quot;:/qt-project.org/assistant/images/wrap.png&quot;&gt;&amp;nbsp;Search wrapped</source>
-        <translation>&lt;img src=&quot;:/qt-project.org/assistant/images/wrap.png&quot;&gt;&amp;nbsp;A keresés körbeért</translation>
+        <translation>&lt;img src=&quot;:/qt-project.org/assistant/images/wrap.png&quot;&gt;&amp;nbsp;التفّ البحث</translation>
     </message>
 </context>
 <context>
     <name>FontPanel</name>
     <message>
         <source>Font</source>
-        <translation>Betűkészlet</translation>
+        <translation>الخطّ</translation>
     </message>
     <message>
         <source>&amp;Writing system</source>
-        <translation>Írás&amp;rendszer</translation>
+        <translation>نظام ال&amp;كتابة</translation>
     </message>
     <message>
         <source>&amp;Family</source>
-        <translation>Betűcs&amp;alád</translation>
+        <translation>ال&amp;عائلة</translation>
     </message>
     <message>
         <source>&amp;Style</source>
-        <translation>&amp;Stílus</translation>
+        <translation>ال&amp;نّمط</translation>
     </message>
     <message>
         <source>&amp;Point size</source>
-        <translation>&amp;Pontméret</translation>
+        <translation>حجم النّ&amp;قطة</translation>
     </message>
 </context>
 <context>
     <name>GlobalActions</name>
     <message>
         <source>&amp;Back</source>
-        <translation>&amp;Vissza</translation>
+        <translation>ار&amp;جع</translation>
     </message>
     <message>
         <source>&amp;Forward</source>
-        <translation>&amp;Előre</translation>
+        <translation>ت&amp;قدّم</translation>
     </message>
     <message>
         <source>&amp;Home</source>
-        <translation>&amp;Kezdőlap</translation>
+        <translation>الم&amp;نزل</translation>
     </message>
     <message>
         <source>ALT+Home</source>
-        <translation>Alt+Home</translation>
+        <translation>ALT+Home</translation>
     </message>
     <message>
         <source>Zoom &amp;in</source>
-        <translation>&amp;Nagyítás</translation>
+        <translation>&amp;قرّب</translation>
     </message>
     <message>
         <source>Zoom &amp;out</source>
-        <translation>&amp;Kicsinyítés</translation>
+        <translation>&amp;بعّد</translation>
     </message>
     <message>
         <source>&amp;Copy selected Text</source>
-        <translation>A kijelölt szöveg &amp;másolása</translation>
+        <translation>ا&amp;نسخ النّصّ المحدّد</translation>
     </message>
     <message>
         <source>&amp;Print...</source>
-        <translation>&amp;Nyomtatás…</translation>
+        <translation>ا&amp;طبع...</translation>
     </message>
     <message>
         <source>&amp;Find in Text...</source>
-        <translation>Ke&amp;resés a szövegben…</translation>
+        <translation>ا&amp;عثر في النصّ...</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation>&amp;Keresés</translation>
+        <translation>ا&amp;عثر</translation>
     </message>
 </context>
 <context>
     <name>HelpEngineWrapper</name>
     <message>
         <source>Unfiltered</source>
-        <translation>Szűretlen</translation>
+        <translation>غير مرشّح</translation>
     </message>
 </context>
 <context>
     <name>HelpViewer</name>
     <message>
         <source>Error 404...</source>
-        <translation>404-es hiba…</translation>
+        <translation>الخطأ ٤٠٤...</translation>
     </message>
     <message>
         <source>The page could not be found!</source>
-        <translation>Az oldal nem található!</translation>
+        <translation>تعذّر العثور على الصّفحة!</translation>
     </message>
     <message>
         <source>Please make sure that you have all documentation sets installed.</source>
-        <translation>Győződjön meg róla, hogy minden dokumentációs készlet telepítve van-e.</translation>
+        <translation>رجاءً تأكّد من أنّ كلّ أطقم التّوثيق مثبّتة.</translation>
     </message>
     <message>
         <source>Error loading: %1</source>
-        <translation>Hiba a betöltéskor: %1</translation>
+        <translation>خطأ في تحميل: %1</translation>
     </message>
     <message>
         <source>&lt;title&gt;about:blank&lt;/title&gt;</source>
@@ -542,137 +513,137 @@ Oka:
     </message>
     <message>
         <source>&lt;title&gt;Error 404...&lt;/title&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;The page could not be found.&lt;/h1&gt;&lt;br&gt;&lt;h3&gt;&apos;%1&apos;&lt;/h3&gt;&lt;/div&gt;</source>
-        <translation>&lt;title&gt;404-es hiba…&lt;/title&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;A lap nem található.&lt;/h1&gt;&lt;br&gt;&lt;h3&gt;„%1”&lt;/h3&gt;&lt;/div&gt;</translation>
+        <translation>&lt;title&gt;الخطأ ٤٠٤...&lt;/title&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;تعذّر العثور على الصّفحة.&lt;/h1&gt;&lt;br&gt;&lt;h3&gt;&apos;%1&apos;&lt;/h3&gt;&lt;/div&gt;</translation>
     </message>
     <message>
         <source>Open Link</source>
-        <translation>Hivatkozás megnyitása</translation>
+        <translation>افتح الرّابط</translation>
     </message>
     <message>
         <source>Open Link in New Tab	Ctrl+LMB</source>
-        <translation>Hivatkozás megnyitása új lapon	Ctrl+bal egérgomb</translation>
+        <translation>افتح الرّابط في لسان جديد	Ctrl+زرّ الفأرة الأيسر</translation>
     </message>
     <message>
         <source>Copy &amp;Link Location</source>
-        <translation>&amp;Hivatkozás helyének másolása</translation>
+        <translation>انسخ مكان الرّاب&amp;ط</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Másolás</translation>
+        <translation>انسخ</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Újratöltés</translation>
+        <translation>أعد التّحميل</translation>
     </message>
     <message>
         <source>Open Link in New Page</source>
-        <translation>Hivatkozás megnyitása új oldalon</translation>
+        <translation>افتح الرّابط في لسان جديد</translation>
     </message>
 </context>
 <context>
     <name>IndexWindow</name>
     <message>
         <source>&amp;Look for:</source>
-        <translation>&amp;Keresés erre:</translation>
+        <translation>اب&amp;حث عن:</translation>
     </message>
     <message>
         <source>Open Link</source>
-        <translation>Hivatkozás megnyitása</translation>
+        <translation>افتح الرّابط</translation>
     </message>
     <message>
         <source>Open Link in New Tab</source>
-        <translation>Hivatkozás megnyitása új lapon</translation>
+        <translation>افتح الرّابط في لسان جديد</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>Index</source>
-        <translation>Index</translation>
+        <translation>الفهرس</translation>
     </message>
     <message>
         <source>Contents</source>
-        <translation>Tartalom</translation>
+        <translation>المحتويات</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Keresés</translation>
+        <translation>البحث</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>Könyvjelzők</translation>
+        <translation>العلامات</translation>
     </message>
     <message>
         <source>Open Pages</source>
-        <translation>Oldalak megnyitása</translation>
+        <translation>الصّفحات المفتوحة</translation>
     </message>
     <message>
         <source>Qt Assistant</source>
-        <translation>Qt Asszisztens</translation>
+        <translation>كيوت المساعد</translation>
     </message>
     <message>
         <source>Bookmark Toolbar</source>
-        <translation>Könyvjelző eszköztár</translation>
+        <translation>شريط أدوات العلامات</translation>
     </message>
     <message>
         <source>Looking for Qt Documentation...</source>
-        <translation>Qt dokumentáció keresése…</translation>
+        <translation>يبحث عن توثيق كيوت...</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;Fájl</translation>
+        <translation>&amp;ملفّ</translation>
     </message>
     <message>
         <source>New &amp;Tab</source>
-        <translation>Új &amp;lap</translation>
+        <translation>&amp;لسان جديد</translation>
     </message>
     <message>
         <source>&amp;Close Tab</source>
-        <translation>Lap be&amp;zárása</translation>
+        <translation>أ&amp;غلق اللسان</translation>
     </message>
     <message>
         <source>Page Set&amp;up...</source>
-        <translation>&amp;Oldalbeállítás…</translation>
+        <translation>إ&amp;عداد الصّفحة...</translation>
     </message>
     <message>
         <source>Print Preview...</source>
-        <translation>Nyomtatási kép…</translation>
+        <translation>معاينة الطّباعة...</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation>&amp;Kilépés</translation>
+        <translation>أ&amp;خرج</translation>
     </message>
     <message>
         <source>CTRL+Q</source>
-        <translation>Ctrl+Q</translation>
+        <translation>CTRL+Q</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>&amp;Kilépés</translation>
+        <translation>أ&amp;نهِ</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>S&amp;zerkesztés</translation>
+        <translation>&amp;حرّر</translation>
     </message>
     <message>
         <source>Find &amp;Next</source>
-        <translation>Kö&amp;vetkező keresése</translation>
+        <translation>اعثر على ال&amp;تّالية</translation>
     </message>
     <message>
         <source>Find &amp;Previous</source>
-        <translation>&amp;Előző keresése</translation>
+        <translation>اعثر على ال&amp;سّابقة</translation>
     </message>
     <message>
         <source>Preferences...</source>
-        <translation>Beállítások…</translation>
+        <translation>تفضيلات...</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation>&amp;Nézet</translation>
+        <translation>من&amp;ظور</translation>
     </message>
     <message>
         <source>Normal &amp;Size</source>
-        <translation>Normá&amp;l méret</translation>
+        <translation>الح&amp;جم العاديّ</translation>
     </message>
     <message>
         <source>Ctrl+0</source>
@@ -680,79 +651,79 @@ Oka:
     </message>
     <message>
         <source>ALT+C</source>
-        <translation>Alt+C</translation>
+        <translation>ALT+C</translation>
     </message>
     <message>
         <source>ALT+I</source>
-        <translation>Alt+I</translation>
+        <translation>ALT+I</translation>
     </message>
     <message>
         <source>ALT+O</source>
-        <translation>Alt+O</translation>
+        <translation>ALT+O</translation>
     </message>
     <message>
         <source>ALT+S</source>
-        <translation>Alt+S</translation>
+        <translation>ALT+S</translation>
     </message>
     <message>
         <source>ALT+P</source>
-        <translation>Alt+P</translation>
+        <translation>ALT+P</translation>
     </message>
     <message>
         <source>&amp;Go</source>
-        <translation>&amp;Ugrás</translation>
+        <translation>ا&amp;ذهب</translation>
     </message>
     <message>
         <source>Sync with Table of Contents</source>
-        <translation>Szinkronizálás a tartalomjegyzékkel</translation>
+        <translation>زامن مع جدول المحتويات</translation>
     </message>
     <message>
         <source>Sync</source>
-        <translation>Szinkronizálás</translation>
+        <translation>زامن</translation>
     </message>
     <message>
         <source>Next Page</source>
-        <translation>Következő oldal</translation>
+        <translation>الصّفحة التّالية</translation>
     </message>
     <message>
         <source>Ctrl+Alt+Right</source>
-        <translation>Ctrl+Alt+jobb</translation>
+        <translation>Ctrl+Alt+Right</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation>Előző oldal</translation>
+        <translation>الصّفحة السّابقة</translation>
     </message>
     <message>
         <source>Ctrl+Alt+Left</source>
-        <translation>Ctrl+Alt+bal</translation>
+        <translation>Ctrl+Alt+Left</translation>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
-        <translation>&amp;Könyvjelzők</translation>
+        <translation>&amp;علامات</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;Súgó</translation>
+        <translation>م&amp;ساعدة</translation>
     </message>
     <message>
         <source>About...</source>
-        <translation>Névjegy…</translation>
+        <translation>عنْ...</translation>
     </message>
     <message>
         <source>Navigation Toolbar</source>
-        <translation>Navigációs eszköztár</translation>
+        <translation>شريط أدوات التّنقّل</translation>
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation>&amp;Ablak</translation>
+        <translation>&amp;نافذة</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Nagyítás</translation>
+        <translation>كبّر</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation>Kis méret</translation>
+        <translation>صغّر</translation>
     </message>
     <message>
         <source>Ctrl+M</source>
@@ -760,276 +731,280 @@ Oka:
     </message>
     <message>
         <source>Toolbars</source>
-        <translation>Eszköztárak</translation>
+        <translation>أشرطة الأدوات</translation>
     </message>
     <message>
         <source>Filter Toolbar</source>
-        <translation>Szűrő eszköztár</translation>
+        <translation>شريط أدوات المرشّح</translation>
     </message>
     <message>
         <source>Filtered by:</source>
-        <translation>Szűrés alapja: </translation>
+        <translation>رشّح بِ‍:</translation>
     </message>
     <message>
         <source>Address Toolbar</source>
-        <translation>Cím eszköztár</translation>
+        <translation>شريط أدوات العنوان</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Cím:</translation>
+        <translation>العنوان:</translation>
     </message>
     <message>
         <source>Could not find the associated content item.</source>
-        <translation>Nem található a hozzárendelt tartalomelem.</translation>
+        <translation>تعذّر العثور على عنصر المحتوى المرتبط.</translation>
     </message>
     <message>
         <source>&lt;center&gt;&lt;h3&gt;%1&lt;/h3&gt;&lt;p&gt;Version %2&lt;/p&gt;&lt;p&gt;Browser: %3&lt;/p&gt;&lt;/center&gt;&lt;p&gt;Copyright (C) %4 The Qt Company Ltd.&lt;/p&gt;</source>
-        <translation>&lt;center&gt;&lt;h3&gt;%1&lt;/h3&gt;&lt;p&gt;%2. verzió&lt;/p&gt;&lt;p&gt;Böngésző: %3&lt;/p&gt;&lt;/center&gt;&lt;p&gt;Copyright (C) %4 The Qt Company Ltd.&lt;/p&gt;</translation>
+        <translation>&lt;center&gt;&lt;h3&gt;%1&lt;/h3&gt;&lt;p&gt;الإصدارة %L2&lt;/p&gt;&lt;p&gt;المتصفّح: %3&lt;/p&gt;&lt;/center&gt;&lt;p&gt;حقوق النّسخ © %L4 ل‍«شركة كيوت المحدودة».&lt;/p&gt;</translation>
     </message>
     <message>
         <source>About %1</source>
-        <translation>%1 névjegye</translation>
+        <translation>عنْ %1</translation>
     </message>
     <message>
         <source>Updating search index</source>
-        <translation>Keresési index frissítése</translation>
+        <translation>يحدّث فهرس البحث</translation>
     </message>
     <message>
         <source>Could not register file &apos;%1&apos;: %2</source>
-        <translation>Nem sikerült a(z) „%1” fájl regisztrálása: %2</translation>
+        <translation>تعذّر تسجيل الملفّ ’%1‘: ‏%2</translation>
     </message>
 </context>
 <context>
     <name>OpenPagesWidget</name>
     <message>
         <source>Close %1</source>
-        <translation>%1 bezárása</translation>
+        <translation>أغلق %1</translation>
     </message>
     <message>
         <source>Close All Except %1</source>
-        <translation>Összes bezárása, kivéve: %1</translation>
+        <translation>أغلق الكلّ عدى %1</translation>
     </message>
 </context>
 <context>
     <name>PreferencesDialog</name>
     <message>
         <source>Add Documentation</source>
-        <translation>Dokumentáció hozzáadása</translation>
+        <translation>أضف توثيقًا</translation>
     </message>
     <message>
         <source>Qt Compressed Help Files (*.qch)</source>
-        <translation>Qt tömörített súgófájlok (*.qch)</translation>
+        <translation>ملفّات مساعدة كيوت مضغوطة (*.qch)</translation>
     </message>
     <message>
         <source>The namespace %1 is already registered!</source>
-        <translation>A(z) %1 névtér már regisztrálva van!</translation>
+        <translation>نطاق الأسماء %1 مسجّل بالفعل!</translation>
     </message>
     <message>
         <source>The specified file is not a valid Qt Help File!</source>
-        <translation>A megadott fájl nem érvényes Qt súgófájl!</translation>
+        <translation>الملفّ المحدّد ليس ملفّ مساعدة كيوت صالح!</translation>
     </message>
     <message>
         <source>Remove Documentation</source>
-        <translation>Dokumentáció eltávolítása</translation>
+        <translation>أزل التّوثيق</translation>
     </message>
     <message>
         <source>Some documents currently opened in Assistant reference the documentation you are attempting to remove. Removing the documentation will close those documents.</source>
-        <translation>Az Asszisztensben jelenleg néhány megnyitott dokumentum hivatkozik arra dokumentációra, amelyet eltávolítani próbál. A dokumentáció eltávolítása be fogja zárni azokat a dokumentumokat.</translation>
+        <translation>بعض المستندات المفتوحة في المساعد تشير إلى التّوثيق الذي تحاول إزالته. إزالة التّوثيق سيغلق هذه المستندات.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégse</translation>
+        <translation>ألغِ</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>حسنًا</translation>
     </message>
     <message>
         <source>Use custom settings</source>
-        <translation>Egyéni beállítások használata</translation>
+        <translation>استخدم إعدادات مخصّصة</translation>
     </message>
 </context>
 <context>
     <name>PreferencesDialogClass</name>
     <message>
         <source>Preferences</source>
-        <translation>Beállítások</translation>
+        <translation>تفضيلات</translation>
     </message>
     <message>
         <source>Fonts</source>
-        <translation>Betűkészletek</translation>
+        <translation>الخطوط</translation>
     </message>
     <message>
         <source>Font settings:</source>
-        <translation>Betűkészlet beállításai:</translation>
+        <translation>إعدادات الخطّ:</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Böngésző</translation>
+        <translation>المتصفّح</translation>
     </message>
     <message>
         <source>Application</source>
-        <translation>Alkalmazás</translation>
+        <translation>التّطبيق</translation>
     </message>
     <message>
         <source>Filters</source>
-        <translation>Szűrők</translation>
+        <translation>المرشّحات</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation>Szűrő:</translation>
+        <translation>رشّح:</translation>
     </message>
     <message>
         <source>Attributes:</source>
-        <translation>Attribútumok:</translation>
+        <translation>الخاصيّات:</translation>
     </message>
     <message>
         <source>1</source>
-        <translation>1</translation>
+        <translation>١</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Hozzáadás</translation>
+        <translation>أضف</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Eltávolítás</translation>
+        <translation>أزل</translation>
     </message>
     <message>
         <source>Documentation</source>
-        <translation>Dokumentáció</translation>
+        <translation>التّوثيق</translation>
     </message>
     <message>
         <source>Registered Documentation:</source>
-        <translation>Regisztrált dokumentáció:</translation>
+        <translation>التّوثيق المسجّل:</translation>
+    </message>
+    <message>
+        <source>&lt;Filter&gt;</source>
+        <translation>&lt;رشّح&gt;</translation>
     </message>
     <message>
         <source>Add...</source>
-        <translation>Hozzáadás…</translation>
+        <translation>أضف...</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Beállítások</translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <source>On help start:</source>
-        <translation>A súgó indításakor:</translation>
+        <translation>عند بدء المساعدة:</translation>
     </message>
     <message>
         <source>Show my home page</source>
-        <translation>Saját kezdőlap megjelenítése</translation>
+        <translation>أظهر صفحتي الرّئيسيّة</translation>
     </message>
     <message>
         <source>Show a blank page</source>
-        <translation>Üres lap megjelenítése</translation>
+        <translation>أظهر صفحة فارغة</translation>
     </message>
     <message>
         <source>Show my tabs from last session</source>
-        <translation>Saját lapok megjelenítése a legutóbbi munkamenetből</translation>
+        <translation>أظهر ألسنتي من الجلسة الأخيرة</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation>Kezdőlap</translation>
+        <translation>الصّفحة الرّئيسيّة</translation>
     </message>
     <message>
         <source>Current Page</source>
-        <translation>Jelenlegi oldal</translation>
+        <translation>الصّفحة الحاليّة</translation>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation>Üres oldal</translation>
+        <translation>صفحة فارغة</translation>
     </message>
     <message>
         <source>Restore to default</source>
-        <translation>Alapértelmezés visszaállítása</translation>
+        <translation>استعد الافتراضيّات</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation>Megjelenés</translation>
+        <translation>المظهر</translation>
     </message>
     <message>
         <source>Show tabs for each individual page</source>
-        <translation>Lapok megjelenítése az egyéni oldalakhoz</translation>
+        <translation>أظهر ألسنة لكلّ صفحة على حدة</translation>
     </message>
 </context>
 <context>
     <name>RemoteControl</name>
     <message>
         <source>Debugging Remote Control</source>
-        <translation>Hibakeresési távvezérlés</translation>
+        <translation>التّحكّم البعيد بالتّنقيح</translation>
     </message>
     <message>
         <source>Received Command: %1 %2</source>
-        <translation>A kapott parancs: %1 %2</translation>
+        <translation>استقبلتُ الأمر: %1 %2</translation>
     </message>
 </context>
 <context>
     <name>SearchWidget</name>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;Másolás</translation>
+        <translation>ا&amp;نسخ</translation>
     </message>
     <message>
         <source>Copy &amp;Link Location</source>
-        <translation>&amp;Hivatkozás helyének másolása</translation>
+        <translation>انسخ مكان الرّاب&amp;ط</translation>
     </message>
     <message>
         <source>Open Link in New Tab</source>
-        <translation>Hivatkozás megnyitása új lapon</translation>
+        <translation>افتح الرّابط في لسان جديد</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Összes kijelölése</translation>
+        <translation>حدّد الكلّ</translation>
     </message>
 </context>
 <context>
     <name>TabBar</name>
     <message>
         <source>(Untitled)</source>
-        <translation>(Névtelen)</translation>
+        <translation>(غير مسمّى)</translation>
     </message>
     <message>
         <source>New &amp;Tab</source>
-        <translation>Új &amp;lap</translation>
+        <translation>&amp;لسان جديد</translation>
     </message>
     <message>
         <source>&amp;Close Tab</source>
-        <translation>Lap be&amp;zárása</translation>
+        <translation>أ&amp;غلق اللسان</translation>
     </message>
     <message>
         <source>Close Other Tabs</source>
-        <translation>A többi lap bezárása</translation>
+        <translation>أغلق الألسنة الأخرى</translation>
     </message>
     <message>
         <source>Add Bookmark for this Page...</source>
-        <translation>Könyvjelző hozzáadása ehhez az oldalhoz…</translation>
+        <translation>أضف علامة لهذه الصّفحة...</translation>
     </message>
 </context>
 <context>
     <name>TopicChooser</name>
     <message>
         <source>Choose Topic</source>
-        <translation>Téma választása </translation>
+        <translation>اختر موضوعًا</translation>
     </message>
     <message>
         <source>&amp;Topics</source>
-        <translation>&amp;Témák</translation>
+        <translation>ال&amp;مواضيع</translation>
     </message>
     <message>
         <source>&amp;Display</source>
-        <translation>Meg&amp;jelenítés</translation>
+        <translation>ا&amp;عرض</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Bezárás</translation>
+        <translation>أ&amp;غلق</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Szűrő</translation>
+        <translation>المرشّح</translation>
     </message>
     <message>
         <source>Choose a topic for &lt;b&gt;%1&lt;/b&gt;:</source>
-        <translation>Téma választása ehhez: &lt;b&gt;%1&lt;/b&gt;:</translation>
+        <translation>اختر موضوعًا لِ‍ &lt;b&gt;%1&lt;/b&gt;:</translation>
     </message>
 </context>
 </TS>

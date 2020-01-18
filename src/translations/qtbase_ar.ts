@@ -1,314 +1,315 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="gd_GB">
+<TS version="2.1" language="ar">
 <context>
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
-        <translation>Dùin an taba</translation>
+        <translation>أغلق اللسان</translation>
     </message>
 </context>
 <context>
     <name>MAC_APPLICATION_MENU</name>
     <message>
         <source>Services</source>
-        <translation>Seirbheisean</translation>
+        <translation>الخدمات</translation>
     </message>
     <message>
         <source>Hide %1</source>
-        <translation>Falaich %1</translation>
+        <translation>أخفِ %1</translation>
     </message>
     <message>
         <source>Hide Others</source>
-        <translation>Falaich an fheadhainn eile</translation>
+        <translation>أخفِ البقيّة</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation>Seall na h-uile</translation>
+        <translation>أظهر الكلّ</translation>
     </message>
     <message>
         <source>Preferences...</source>
-        <translation>Roghainnean...</translation>
+        <translation>تفضيلات...</translation>
     </message>
     <message>
         <source>Quit %1</source>
-        <translation>Fàg %1</translation>
+        <translation>أنهِ %1</translation>
     </message>
     <message>
         <source>About %1</source>
-        <translation>Mu %1</translation>
+        <translation>عنْ %1</translation>
     </message>
 </context>
 <context>
     <name>QAbstractSocket</name>
     <message>
         <source>Socket operation timed out</source>
-        <translation>Dh’fhalbh an ùine air obrachadh socaide</translation>
+        <translation>انتهت مهلة عمليّة المقبس</translation>
     </message>
     <message>
         <source>Operation on socket is not supported</source>
-        <translation>Cha chuirear taic ris an obrachadh air an t-socaid</translation>
+        <translation>العمليّة على المقبس غير مدعومة</translation>
     </message>
     <message>
         <source>Host not found</source>
-        <translation>Cha deach an t-òstair a lorg</translation>
+        <translation>لم يُعثر على المضيف</translation>
     </message>
     <message>
         <source>Connection refused</source>
-        <translation>Chaidh an ceangal a dhiùltadh</translation>
+        <translation>رُفض الاتّصال</translation>
     </message>
     <message>
         <source>Connection timed out</source>
-        <translation>Dh’fhalbh an ùine air a’ cheangal</translation>
+        <translation>انتهت مهلة الاتّصال</translation>
     </message>
     <message>
         <source>Trying to connect while connection is in progress</source>
-        <translation>A’ feuchainn ri ceangal a dhèanamh fhad ’s a tha e ’ga ceangal</translation>
+        <translation>يحاول الاتّصال بينما الاتّصال جارٍ</translation>
     </message>
     <message>
         <source>Socket is not connected</source>
-        <translation>Chan eil an t-socaid ceangailte</translation>
+        <translation>المقبس غير متّصل</translation>
     </message>
     <message>
         <source>Network unreachable</source>
-        <translation>Cha ghabh an lìonra ruigsinn</translation>
+        <translation>لا يمكن الوصول إلى الشّبكة</translation>
     </message>
 </context>
 <context>
     <name>QAbstractSpinBox</name>
     <message>
         <source>&amp;Select All</source>
-        <translation>Tagh na &amp;h-uile</translation>
+        <translation>&amp;حدّد الكلّ</translation>
     </message>
     <message>
         <source>&amp;Step up</source>
-        <translation>&amp;Ceum suas</translation>
+        <translation>خطوة لأ&amp;على</translation>
     </message>
     <message>
         <source>Step &amp;down</source>
-        <translation>&amp;Ceum sìos</translation>
+        <translation>خطوة لأ&amp;سفل</translation>
     </message>
 </context>
 <context>
     <name>QAccessibleActionInterface</name>
     <message>
         <source>Press</source>
-        <translation>Brùth</translation>
+        <translation>انقر</translation>
     </message>
     <message>
         <source>Increase</source>
-        <translation>Meudaich</translation>
+        <translation>زِد</translation>
     </message>
     <message>
         <source>Decrease</source>
-        <translation>Lùghdaich</translation>
+        <translation>أنقص</translation>
     </message>
     <message>
         <source>ShowMenu</source>
-        <translation>Seall an clàr-taice</translation>
+        <translation>أظهر القائمة</translation>
     </message>
     <message>
         <source>SetFocus</source>
-        <translation>Suidhich am fòcas</translation>
+        <translation>اضبط التّركيز</translation>
     </message>
     <message>
         <source>Toggle</source>
-        <translation>Toglaich</translation>
+        <translation>بدّل</translation>
     </message>
     <message>
         <source>Scroll Left</source>
-        <translation>Sgrolaich gu clì</translation>
+        <translation>مرّر لليسار</translation>
     </message>
     <message>
         <source>Scroll Right</source>
-        <translation>Sgrolaich gu deas</translation>
+        <translation>مرّر لليمين</translation>
     </message>
     <message>
         <source>Scroll Up</source>
-        <translation>Sgrolaich suas</translation>
+        <translation>مرّر لأعلى</translation>
     </message>
     <message>
         <source>Scroll Down</source>
-        <translation>Sgrolaich sìos</translation>
+        <translation>مرّر لأسفل</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation>An duilleag roimhpe</translation>
+        <translation>الصّفحة السّابقة</translation>
     </message>
     <message>
         <source>Next Page</source>
-        <translation>An ath-dhuilleag</translation>
+        <translation>الصّفحة التّالية</translation>
     </message>
     <message>
         <source>Triggers the action</source>
-        <translation>Cuiridh seo an gnìomh gu dol</translation>
+        <translation>يحفّز الإجراء</translation>
     </message>
     <message>
         <source>Increase the value</source>
-        <translation>Meudaich an luach</translation>
+        <translation>يزيد القيمة</translation>
     </message>
     <message>
         <source>Decrease the value</source>
-        <translation>Lùghdaich an luach</translation>
+        <translation>يُنقص القيمة</translation>
     </message>
     <message>
         <source>Shows the menu</source>
-        <translation>Seallaidh seo an clàr-taice</translation>
+        <translation>يعرض القائمة</translation>
     </message>
     <message>
         <source>Sets the focus</source>
-        <translation>Suidhichidh seo am fòcas</translation>
+        <translation>يضبط التّركيز</translation>
     </message>
     <message>
         <source>Toggles the state</source>
-        <translation>Toglaichidh seo an staid</translation>
+        <translation>يبدّل الحالة</translation>
     </message>
     <message>
         <source>Scrolls to the left</source>
-        <translation>Sgrolaichidh seo dhan taobh chlì</translation>
+        <translation>يمرّر إلى اليسار</translation>
     </message>
     <message>
         <source>Scrolls to the right</source>
-        <translation>Sgrolaichidh seo dhan taobh deas</translation>
+        <translation>يمرّر إلى اليمين</translation>
     </message>
     <message>
         <source>Scrolls up</source>
-        <translation>Sgrolaichidh seo suas</translation>
+        <translation>يمرّر لأعلى</translation>
     </message>
     <message>
         <source>Scrolls down</source>
-        <translation>Sgrolaichidh seo sìos</translation>
+        <translation>يمرّر لأسفل</translation>
     </message>
     <message>
         <source>Goes back a page</source>
-        <translation>Thèid seo dhan duilleag roimhpe</translation>
+        <translation>يرجع صفحة إلى الوراء</translation>
     </message>
     <message>
         <source>Goes to the next page</source>
-        <translation>Thèid seo dhan ath-dhuilleag</translation>
+        <translation>ينتقل إلى الصّفحة التّالية</translation>
     </message>
 </context>
 <context>
     <name>QAndroidPlatformTheme</name>
     <message>
         <source>Yes</source>
-        <translation>Tha</translation>
+        <translation>نعم</translation>
     </message>
     <message>
         <source>Yes to All</source>
-        <translation>&quot;Tha&quot; leis na h-uile</translation>
+        <translation>نعم للكلّ</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Chan eil</translation>
+        <translation>لا</translation>
     </message>
     <message>
         <source>No to All</source>
-        <translation>&quot;Chan eil&quot; leis na h-uile</translation>
+        <translation>لا للكلّ</translation>
     </message>
 </context>
 <context>
     <name>QApplication</name>
     <message>
         <source>Executable &apos;%1&apos; requires Qt %2, found Qt %3.</source>
-        <translation>Tha am faidhle so-ghnìomhaichte “%1” feumach air Qt %2 ach chaidh Qt %3 a lorg.</translation>
+        <translatorcomment>الأعداد هنا ترجع كسلاسل ولا يمكن توطينها</translatorcomment>
+        <translation>يتطلّب التّنفيذيّ ’%1‘ كيوت %2، وجدتُ كيوت %3.</translation>
     </message>
     <message>
         <source>Incompatible Qt Library Error</source>
-        <translation>Mearachd le leabharlann Qt nach eil co-chòrdail</translation>
+        <translation>خطأ مكتبة كيوت غير متوافقة</translation>
     </message>
 </context>
 <context>
     <name>QCocoaMenuItem</name>
     <message>
         <source>About Qt</source>
-        <translation>Mu Qt</translation>
+        <translation>عنْ كيوت</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Mu dhèidhinn</translation>
+        <translation>عنْ</translation>
     </message>
     <message>
         <source>Config</source>
-        <translation>Rèiteachadh</translation>
+        <translation>ضبط</translation>
     </message>
     <message>
         <source>Preference</source>
-        <translation>Roghainn</translation>
+        <translation>تفضيلات</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Roghainnean</translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation>Roghainn</translation>
+        <translation>إعداد</translation>
     </message>
     <message>
         <source>Setup</source>
-        <translation>Suidhich</translation>
+        <translation>إعداد</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Fàg an-seo</translation>
+        <translation>أنهِ</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Fàg an-seo</translation>
+        <translation>اخرج</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Gearr às</translation>
+        <translation>قصّ</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Dèan lethbhreac</translation>
+        <translation>انسخ</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Cuir ann</translation>
+        <translation>ألصق</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Tagh na h-uile</translation>
+        <translation>حدّد الكلّ</translation>
     </message>
 </context>
 <context>
     <name>QCocoaTheme</name>
     <message>
         <source>Don&apos;t Save</source>
-        <translation>Na sàbhail</translation>
+        <translation>لا تحفظ</translation>
     </message>
 </context>
 <context>
     <name>QColorDialog</name>
     <message>
         <source>Hu&amp;e:</source>
-        <translation>&amp;Tuar:</translation>
+        <translation>ال&amp;صّبغة:</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation>&amp;Sàth:</translation>
+        <translation>الإ&amp;شباع:</translation>
     </message>
     <message>
         <source>&amp;Val:</source>
-        <translation>&amp;Luach:</translation>
+        <translation>ال&amp;قيمة:</translation>
     </message>
     <message>
         <source>&amp;Red:</source>
-        <translation>&amp;Dearg:</translation>
+        <translation>الأ&amp;حمر:</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation>&amp;Uaine:</translation>
+        <translation>الأ&amp;خضر:</translation>
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation>&amp;Gorm:</translation>
+        <translation>الأ&amp;زرق:</translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation>Seanail al&amp;pha:</translation>
+        <translation>قناة أل&amp;فا:</translation>
     </message>
     <message>
         <source>&amp;HTML:</source>
@@ -317,86 +318,86 @@
     <message>
         <source>Cursor at %1, %2
 Press ESC to cancel</source>
-        <translation>Cùrsair air %1, %2
-Bruth ESC gus sgur dheth</translation>
+        <translation>المؤشّر عند %L1، %L2
+اضغط ESC للإلغاء</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation>Tagh dath</translation>
+        <translation>اختر لونًا</translation>
     </message>
     <message>
         <source>&amp;Basic colors</source>
-        <translation>Dathan &amp;bunasach</translation>
+        <translation>الألوان الأ&amp;ساسيّة</translation>
     </message>
     <message>
         <source>&amp;Custom colors</source>
-        <translation>Dathan &amp;gnàthaichte</translation>
+        <translation>الألوان الم&amp;خصّصة</translation>
     </message>
     <message>
         <source>&amp;Add to Custom Colors</source>
-        <translation>Cuir ris na d&amp;athan gnàthaichte</translation>
+        <translation>أ&amp;ضف إلى الألوان المخصّصة</translation>
     </message>
     <message>
         <source>&amp;Pick Screen Color</source>
-        <translation>&amp;Tagh dath on sgrìn</translation>
+        <translation>اخ&amp;تر لونًا من الشّاشة</translation>
     </message>
 </context>
 <context>
     <name>QComboBox</name>
     <message>
         <source>Open the combo box selection popup</source>
-        <translation>Fosgail priob-bogsa-combo taghaidh</translation>
+        <translation>افتح منبثقة اختيار المربّع المنسدل</translation>
     </message>
     <message>
         <source>False</source>
-        <translation>Fallsa</translation>
+        <translation>خطأ</translation>
     </message>
     <message>
         <source>True</source>
-        <translation>Fìor</translation>
+        <translation>صحيح</translation>
     </message>
 </context>
 <context>
     <name>QCommandLineParser</name>
     <message>
         <source>Displays version information.</source>
-        <translation>Seallaidh seo fiosrachadh an tionndaidh.</translation>
+        <translation>يعرض معلومات الإصدار.</translation>
     </message>
     <message>
         <source>Displays this help.</source>
-        <translation>Seallaidh seo a’ chobhair seo.</translation>
+        <translation>يعرض هذه المساعدة.</translation>
     </message>
     <message>
         <source>Unknown option &apos;%1&apos;.</source>
-        <translation>Roghainn “%1” nach aithne dhuinn.</translation>
+        <translation>الخيار ’%1‘ مجهول.</translation>
     </message>
     <message>
         <source>Unknown options: %1.</source>
-        <translation>Roghainnean nach aithne dhuinn: %1.</translation>
+        <translation>الخيارات مجهولة: %1.</translation>
     </message>
     <message>
         <source>Missing value after &apos;%1&apos;.</source>
-        <translation>Tha luach a dhìth às dèidh “%1”.</translation>
+        <translation>قيمة ناقصة بعد ’%1‘.</translation>
     </message>
     <message>
         <source>Unexpected value after &apos;%1&apos;.</source>
-        <translation>Tha luach air nach robh dùil às dèidh “%1”.</translation>
+        <translation>قيمة غير متوقّعة بعد ’%1‘.</translation>
     </message>
     <message>
         <source>[options]</source>
-        <translation>[roghainnean]</translation>
+        <translation>[خيارات]</translation>
     </message>
     <message>
         <source>Usage: %1</source>
-        <translation>Cleachdadh: %1</translation>
+        <translation>‎الاستخدام:‎ %1</translation>
     </message>
     <message>
         <source>Options:</source>
-        <translation>Roghainnean:</translation>
+        <translation>خيارات:</translation>
     </message>
     <message>
         <source>Arguments:</source>
-        <translation>Argamaidean:</translation>
+        <translation>المعطيات:</translation>
     </message>
 </context>
 <context>
@@ -404,338 +405,338 @@ Bruth ESC gus sgur dheth</translation>
     <message>
         <source>%1: key is empty</source>
         <comment>QSystemSemaphore</comment>
-        <translation>%1: tha an iuchair falamh</translation>
+        <translation>%1: المفتاح فارغ</translation>
     </message>
     <message>
         <source>%1: unable to make key</source>
         <comment>QSystemSemaphore</comment>
-        <translation>%1: cha b’ urrainn dhuinn an iuchair a chruthachadh</translation>
+        <translation>%1: تعذّر عمل المفتاح</translation>
     </message>
     <message>
         <source>%1: ftok failed</source>
         <comment>QSystemSemaphore</comment>
-        <translation>%1: dh’fhàillig le ftok</translation>
+        <translation>%1: فشل ftok</translation>
     </message>
 </context>
 <context>
     <name>QCupsJobWidget</name>
     <message>
         <source>Job</source>
-        <translation>Obair</translation>
+        <translation>المهمّة</translation>
     </message>
     <message>
         <source>Job Control</source>
-        <translation>Stiùireadh na h-obrach</translation>
+        <translation>تحكّم المهمّة</translation>
     </message>
     <message>
         <source>Scheduled printing:</source>
-        <translation>Clò-bhualadh air an sgeideal:</translation>
+        <translation>الطّباعة المجدولة:</translation>
     </message>
     <message>
         <source>Billing information:</source>
-        <translation>Fiosrachadh bileachaidh:</translation>
+        <translation>معلومات الدّفع:</translation>
     </message>
     <message>
         <source>Job priority:</source>
-        <translation>Prìomhachas na h-obrach:</translation>
+        <translation>أولويّة المهمّة:</translation>
     </message>
     <message>
         <source>Banner Pages</source>
-        <translation>Duilleagan brataich</translation>
+        <translation>الصّفحات الفاصلة/Banner</translation>
     </message>
     <message>
         <source>End:</source>
         <comment>Banner page at end</comment>
-        <translation>Deireadh:</translation>
+        <translation>النّهاية:</translation>
     </message>
     <message>
         <source>Start:</source>
         <comment>Banner page at start</comment>
-        <translation>Toiseach:</translation>
+        <translation>البداية:</translation>
     </message>
     <message>
         <source>Print Immediately</source>
-        <translation>Clò-bhuail sa bhad</translation>
+        <translation>اطبع مباشرة</translation>
     </message>
     <message>
         <source>Hold Indefinitely</source>
-        <translation>Cum air ais gun chrìch</translation>
+        <translation>علّق مؤقّتًا</translation>
     </message>
     <message>
         <source>Day (06:00 to 17:59)</source>
-        <translation>Latha (06:00m gu 5:59f)</translation>
+        <translation>النّهار (٠٦:٠٠ص إلى ٠٥:٥٩م)</translation>
     </message>
     <message>
         <source>Night (18:00 to 05:59)</source>
-        <translation>Oidhche (6:00f gu 05:59m)</translation>
+        <translation>المساء (٠٦:٠٠م إلى ٠٥:٥٩ص)</translation>
     </message>
     <message>
         <source>Second Shift (16:00 to 23:59)</source>
-        <translation>An dàrna sioft (4:00f gu 11:59f)</translation>
+        <translation>الفترة الثّانية (٠٤:٠٠م إلى ١١:٥٩م)</translation>
     </message>
     <message>
         <source>Third Shift (00:00 to 07:59)</source>
-        <translation>An treas sioft (12:00m gu 07:59m)</translation>
+        <translation>الفترة الثّالثة (١٢:٠٠ص إلى ٠٧:٥٩ص)</translation>
     </message>
     <message>
         <source>Weekend (Saturday to Sunday)</source>
-        <translation>An deireadh-seachdaine (DiSathairne gu DiDòmhnaich)</translation>
+        <translation>نهاية الأسبوع (أيّام عطلة نهاية الأسبوع)</translation>
     </message>
     <message>
         <source>Specific Time</source>
-        <translation>Àm sònraichte</translation>
+        <translation>وقت محدّد</translation>
     </message>
     <message>
         <source>None</source>
         <comment>CUPS Banner page</comment>
-        <translation>Chan eil gin</translation>
+        <translation>بلا</translation>
     </message>
     <message>
         <source>Standard</source>
         <comment>CUPS Banner page</comment>
-        <translation>Stannardach</translation>
+        <translation>قياسيّة</translation>
     </message>
     <message>
         <source>Unclassified</source>
         <comment>CUPS Banner page</comment>
-        <translation>Chan ann dìomhair</translation>
+        <translation>غير مصنّف</translation>
     </message>
     <message>
         <source>Confidential</source>
         <comment>CUPS Banner page</comment>
-        <translation>Fo rùn</translation>
+        <translation>سرّيّ</translation>
     </message>
     <message>
         <source>Classified</source>
         <comment>CUPS Banner page</comment>
-        <translation>Dìomhair</translation>
+        <translation>مصنّف</translation>
     </message>
     <message>
         <source>Secret</source>
         <comment>CUPS Banner page</comment>
-        <translation>Rùn-dìomhair</translation>
+        <translation>سرّيّة</translation>
     </message>
     <message>
         <source>Top Secret</source>
         <comment>CUPS Banner page</comment>
-        <translation>Fìor-dhìomhair</translation>
+        <translation>سرّيّة للغاية</translation>
     </message>
 </context>
 <context>
     <name>QDB2Driver</name>
     <message>
         <source>Unable to connect</source>
-        <translation>Cha ghabh ceangal a dhèanamh</translation>
+        <translation>تعذّر الاتّصال</translation>
     </message>
     <message>
         <source>Unable to commit transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a chommitigeadh</translation>
+        <translation>تعذّر إيداع التّبادل</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a roladh air ais</translation>
+        <translation>تعذّر التّراجع عن التّبادل</translation>
     </message>
     <message>
         <source>Unable to set autocommit</source>
-        <translation>Cha b’ urrainn dhuinn an commitigeadh fèin-obrachail a shuidheachadh</translation>
+        <translation>تعذّر ضبط الإيداع الآليّ</translation>
     </message>
 </context>
 <context>
     <name>QDB2Result</name>
     <message>
         <source>Unable to execute statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris a ghnìomhachadh</translation>
+        <translation>تعذّر تنفيذ الإفادة</translation>
     </message>
     <message>
         <source>Unable to prepare statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris ullachadh</translation>
+        <translation>تعذّر تحضير الإفادة</translation>
     </message>
     <message>
         <source>Unable to bind variable</source>
-        <translation>Cha b’ urrainn dhuinn an caochladair a nasgadh</translation>
+        <translation>تعذّر ربط المتغيّر</translation>
     </message>
     <message>
         <source>Unable to fetch record %1</source>
-        <translation>Cha b’ urrainn dhuinn an reacord “%1” fhaighinn</translation>
+        <translation>تعذّر جلب السجلّ %1</translation>
     </message>
     <message>
         <source>Unable to fetch next</source>
-        <translation>Cha b’ urrainn dhuinn an t-ath-fhear fhaighinn</translation>
+        <translation>تعذّر جلب التّالي</translation>
     </message>
     <message>
         <source>Unable to fetch first</source>
-        <translation>Cha b’ urrainn dhuinn a’ chiad fhear fhaighinn</translation>
+        <translation>تعذّر جلب الأوّل</translation>
     </message>
 </context>
 <context>
     <name>QDBusTrayIcon</name>
     <message>
         <source>OK</source>
-        <translation>Ceart ma-thà</translation>
+        <translation>حسنًا</translation>
     </message>
 </context>
 <context>
     <name>QDateTimeParser</name>
     <message>
         <source>AM</source>
-        <translation>m</translation>
+        <translation>ص</translation>
     </message>
     <message>
         <source>am</source>
-        <translation>m</translation>
+        <translation>ص</translation>
     </message>
     <message>
         <source>PM</source>
-        <translation>f</translation>
+        <translation>م</translation>
     </message>
     <message>
         <source>pm</source>
-        <translation>f</translation>
+        <translation>م</translation>
     </message>
 </context>
 <context>
     <name>QDialog</name>
     <message>
         <source>What&apos;s This?</source>
-        <translation>Dè th’ ann?</translation>
+        <translation>ما هذا؟</translation>
     </message>
 </context>
 <context>
     <name>QDialogButtonBox</name>
     <message>
         <source>OK</source>
-        <translation>Ceart ma-thà</translation>
+        <translation>حسنًا</translation>
     </message>
 </context>
 <context>
     <name>QDirModel</name>
     <message>
         <source>Name</source>
-        <translation>Ainm</translation>
+        <translation>الاسم</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Meud</translation>
+        <translation>الحجم</translation>
     </message>
     <message>
         <source>Kind</source>
         <comment>Match OS X Finder</comment>
-        <translation>Seòrsa</translation>
+        <translation>النّوع</translation>
     </message>
     <message>
         <source>Type</source>
         <comment>All other platforms</comment>
-        <translation>Seòrsa</translation>
+        <translation>النّوع</translation>
     </message>
     <message>
         <source>Date Modified</source>
-        <translation>Ceann-là an atharrachaidh</translation>
+        <translation>تاريخ التّعديل</translation>
     </message>
 </context>
 <context>
     <name>QDnsLookup</name>
     <message>
         <source>Operation cancelled</source>
-        <translation>Chaidh sgur dhen obrachadh</translation>
+        <translation>أُلغيت العمليّة</translation>
     </message>
 </context>
 <context>
     <name>QDnsLookupRunnable</name>
     <message>
         <source>IPv6 addresses for nameservers are currently not supported</source>
-        <translation>Cha chuirear taic ri seòlaidhean IPv6 dha dh’ainm-fhrithealaichean aig an àm seo</translation>
+        <translation>عناوين IPv6 لخواديم الأسماء ليست مدعومة حاليًّا</translation>
     </message>
     <message>
         <source>Invalid domain name</source>
-        <translation>Ainm àrainne mì-dhligheach</translation>
+        <translation>اسم المجال غير صالح</translation>
     </message>
     <message>
         <source>Not yet supported on Android</source>
-        <translation>Chan eil taic ris air Android fhathast</translation>
+        <translation>ليس مدعومًا في أندرويد بعد</translation>
     </message>
     <message>
         <source>Resolver functions not found</source>
-        <translation>Cha deach foincseanan an fhuasglair a lorg</translation>
+        <translation>لم يُعثر على دوال الحلّال</translation>
     </message>
     <message>
         <source>Resolver initialization failed</source>
-        <translation>Dh’fhàillig le tòiseachadh an fuasglair</translation>
+        <translation>فشل تمهيد الحلّال</translation>
     </message>
     <message>
         <source>Server could not process query</source>
-        <translation>Cha b’ urrainn dhan fhrithealaiche a’ cheist a phròiseasadh</translation>
+        <translation>تعذّر على الخادوم معالجة الاستعلام</translation>
     </message>
     <message>
         <source>Server failure</source>
-        <translation>Fàilligeadh an fhrithealaiche</translation>
+        <translation>فشل في الخادوم</translation>
     </message>
     <message>
         <source>Non existent domain</source>
-        <translation>Àrainn nach eil ann</translation>
+        <translation>النّطاق غير موجود</translation>
     </message>
     <message>
         <source>Server refused to answer</source>
-        <translation>Dhiùlt am frithealaiche fhreagairt</translation>
+        <translation>رفض الخادوم الرّدّ</translation>
     </message>
     <message>
         <source>Invalid reply received</source>
-        <translation>Fhuair sinn freagairt mhì-dhligheach</translation>
+        <translation>استقبلتُ ردًّا غير صالح</translation>
     </message>
     <message>
         <source>Could not expand domain name</source>
-        <translation>Cha b’ urrainn dhuinn an t-ainm àrainne a leudachadh</translation>
+        <translation>تعذّر توسيع اسم النّطاق</translation>
     </message>
     <message>
         <source>Invalid IPv4 address record</source>
-        <translation>Reacord seòlaidh IPv4 mì-dhligheach</translation>
+        <translation>سجلّ عنوان IPv4 غير صالح</translation>
     </message>
     <message>
         <source>Invalid IPv6 address record</source>
-        <translation>Reacord seòlaidh IPv6 mì-dhligheach</translation>
+        <translation>سجلّ عنوان IPv6 غير صالح</translation>
     </message>
     <message>
         <source>Invalid canonical name record</source>
-        <translation>Reacord ainm cananaich nì-dhligheach</translation>
+        <translation>سجلّ الاسم المتعارف عليه غير صالح</translation>
     </message>
     <message>
         <source>Invalid name server record</source>
-        <translation>Reacord ainm-fhrithealaiche mì-dhligheach</translation>
+        <translation>سجلّ خادوم أسماء غير صالح</translation>
     </message>
     <message>
         <source>Invalid pointer record</source>
-        <translation>Reacord tomhaire mì-dhligheach</translation>
+        <translation>سجلّ مؤشّر غير صالح</translation>
     </message>
     <message>
         <source>Invalid mail exchange record</source>
-        <translation>Reacord iomlaid puist-d mì-dhligheach</translation>
+        <translation>سجلّ تبادل بريد غير صالح</translation>
     </message>
     <message>
         <source>Invalid service record</source>
-        <translation>Reacord seirbheise mì-dhligheach</translation>
+        <translation>سجلّ خدمة غير صالح</translation>
     </message>
     <message>
         <source>Invalid text record</source>
-        <translation>Reacord teacsa mì-dhligheach</translation>
+        <translation>سجلّ نصوص غير صالح</translation>
     </message>
     <message>
         <source>Resolver library can&apos;t be loaded: No runtime library loading support</source>
-        <translation>Cha ghabh leabharlann an fhuasglair a luchdadh: Chan eil taic ri luchdadh leabharlainn ri àm ruith</translation>
+        <translation>تعذّر تحميل مكتبة الحلّال: لا دعم لتحميل مكتبة بيئة تشغيل</translation>
     </message>
     <message>
         <source>No hostname given</source>
-        <translation>Cha deach ainm-òstair a thoirt seachad</translation>
+        <translation>لم يُعط اسم المضيف</translation>
     </message>
     <message>
         <source>Invalid hostname</source>
-        <translation>Ainm-òstair mì-dhligheach</translation>
+        <translation>اسم المضيف غير صالح</translation>
     </message>
     <message>
         <source>Host %1 could not be found.</source>
-        <translation>Cha deach an t-òstair “%1” a lorg.</translation>
+        <translation>تعذّر العثور على المضيف %1.</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Mearachd nach aithne dhuinn</translation>
+        <translation>خطأ مجهول</translation>
     </message>
 </context>
 <context>
@@ -743,410 +744,416 @@ Bruth ESC gus sgur dheth</translation>
     <message>
         <source>Float</source>
         <extracomment>Accessible name for button undocking a dock widget (floating state)</extracomment>
-        <translation>Cuir air fleòd</translation>
+        <translation>أعم</translation>
     </message>
     <message>
         <source>Undocks and re-attaches the dock widget</source>
-        <translation>Neo-dhocaichidh ’s ceanglaidh seo widget docaidh</translation>
+        <translation>يفكّ رصف ودجة الرّصف ويعيد إرفاقها</translation>
     </message>
     <message>
         <source>Close</source>
         <extracomment>Accessible name for button closing a dock widget</extracomment>
-        <translation>Dùin</translation>
+        <translation>أغلق</translation>
     </message>
     <message>
         <source>Closes the dock widget</source>
-        <translation>Dùinidh seo widget docaidh</translation>
+        <translation>يغلق ودجة الرّصف</translation>
     </message>
 </context>
 <context>
     <name>QErrorMessage</name>
     <message>
         <source>Debug Message:</source>
-        <translation>Teachdaireachd dì-bhugachaidh:</translation>
+        <translation>رسالة التّنقيح:</translation>
     </message>
     <message>
         <source>Warning:</source>
-        <translation>Rabhadh:</translation>
+        <translation>تحذير:</translation>
     </message>
     <message>
         <source>Critical Error:</source>
-        <translation>Mearachd mharbhtach:</translation>
+        <translation>خطأ حرج:</translation>
     </message>
     <message>
         <source>Fatal Error:</source>
-        <translation>Mearachd mharbhtach:</translation>
+        <translation>خطأ فادح:</translation>
     </message>
     <message>
         <source>Information:</source>
-        <translation>Fiosrachadh:</translation>
+        <translation>معلومات:</translation>
     </message>
     <message>
         <source>&amp;Show this message again</source>
-        <translation>&amp;Seall an teachdaireachd seo a-rithist</translation>
+        <translation>أ&amp;ظهر هذه الرّسالة مجدّدًا</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Ceart ma-thà</translation>
+        <translation>&amp;حسنًا</translation>
     </message>
 </context>
 <context>
     <name>QFile</name>
     <message>
         <source>Destination file is the same file.</source>
-        <translation>’S e an t-aon fhaidhle a tha san fhaidhle-uidhe.</translation>
+        <translation>الملفّ المقصد هو الملفّ نفسه.</translation>
     </message>
     <message>
         <source>Source file does not exist.</source>
-        <translation>Chan eil am faidhle tùsail ann.</translation>
+        <translation>الملفّ المصدر غير موجود.</translation>
     </message>
     <message>
         <source>Destination file exists</source>
-        <translation>Tha am faidhle-uidhe ann</translation>
+        <translation>الملفّ المقصد موجود</translation>
     </message>
     <message>
         <source>Error while renaming.</source>
-        <translation>Mearachd a’ cur ainm ùr air.</translation>
+        <translation>خطأ في إعادة التّسمية.</translation>
     </message>
     <message>
         <source>Unable to restore from %1: %2</source>
-        <translation>Cha b’ urrainn dhuinn aiseag o %1: %2</translation>
+        <translation>تعذّر الاسترجاع من %1: ‏%2</translation>
     </message>
     <message>
         <source>Will not rename sequential file using block copy</source>
-        <translation>Cha chuir sinn ainm ùr air faidhle sreathach le lethbhreac bloca</translation>
+        <translation>لن تُعاد تسمية الملفّ التّسلسليّ بالنّسخ الكتليّ</translation>
     </message>
     <message>
         <source>Cannot remove source file</source>
-        <translation>Cha b’ urrainn dhuinn am faidhle tùsail a thoirt air falbh</translation>
+        <translation>تعذّر حذف الملفّ المصدر</translation>
     </message>
     <message>
         <source>Cannot open %1 for input</source>
-        <translation>Cha b’ urrainn dhuinn “%1” fhosgladh a chum ion-chuir</translation>
+        <translation>تعذّر فتح %1 كدخل</translation>
     </message>
     <message>
         <source>Cannot open for output</source>
-        <translation>Cha b’ urrainn dhuinn fhosgladh a chum às-chuir</translation>
+        <translation>تعذّر الفتح كخرج</translation>
     </message>
     <message>
         <source>Failure to write block</source>
-        <translation>Dh’fhàillig le sgrìobhadh bloca</translation>
+        <translation>فشلت كتابة الكتلة</translation>
     </message>
     <message>
         <source>Cannot create %1 for output</source>
-        <translation>Cha b’ urrainn dhuinn “%1” a chruthachadh a chum às-chuir</translation>
+        <translation>تعذّر إنشاء %1 كخرج</translation>
     </message>
 </context>
 <context>
     <name>QFileDevice</name>
     <message>
         <source>No file engine available or engine does not support UnMapExtension</source>
-        <translation>Chan eil einnsean fhaidhlichean ri làimh no cha chuir an t-einnsean taic ri UnMapExtension</translation>
+        <translation>ليس ثمّة محرّك ملفّات متوفّر أو أنّ المحرّك لا يدعم UnMapExtension</translation>
     </message>
 </context>
 <context>
     <name>QFileDialog</name>
     <message>
+        <source>All Files (*)</source>
+        <translation>كلّ الملفّات (*)</translation>
+    </message>
+    <message>
         <source>Look in:</source>
-        <translation>Lorg an-seo:</translation>
+        <translation>اعثر في:</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation>Air ais</translation>
+        <translation>ارجع</translation>
     </message>
     <message>
         <source>Go back</source>
-        <translation>Rach air ais</translation>
+        <translation>اذهب للخلف</translation>
     </message>
     <message>
         <source>Alt+Left</source>
-        <translation>Alt+Gu clì</translation>
+        <translation>Alt+Left</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Air adhart</translation>
+        <translation>تقدّم</translation>
     </message>
     <message>
         <source>Go forward</source>
-        <translation>Rach air adhart</translation>
+        <translation>اذهب للأمام</translation>
     </message>
     <message>
         <source>Alt+Right</source>
-        <translation>Alt+Gu deas</translation>
+        <translation>Alt+Right</translation>
     </message>
     <message>
         <source>Parent Directory</source>
-        <translation>Pasgan pàraint</translation>
+        <translation>الدّليل الأمّ</translation>
     </message>
     <message>
         <source>Go to the parent directory</source>
-        <translation>Rach dhan phasgan pàraint</translation>
+        <translation>اذهب إلى الدّليل الأمّ</translation>
     </message>
     <message>
         <source>Alt+Up</source>
-        <translation>At+Suas</translation>
+        <translation>Alt+Up</translation>
     </message>
     <message>
         <source>Create New Folder</source>
-        <translation>Cruthaich pasgan ùr</translation>
+        <translation>أنشئ مجلّدًا جديدًا</translation>
     </message>
     <message>
         <source>Create a New Folder</source>
-        <translation>Cruthaich pasgan ùr</translation>
+        <translation>أنشئ مجلّدًا جديدًا</translation>
     </message>
     <message>
         <source>List View</source>
-        <translation>Sealladh liosta</translation>
+        <translation>منظور قائميّ</translation>
     </message>
     <message>
         <source>Change to list view mode</source>
-        <translation>Atharrach gu modh sealladh liosta</translation>
+        <translation>غيّر إلى وضع المنظور القائميّ</translation>
     </message>
     <message>
         <source>Detail View</source>
-        <translation>Sealladh mionaideach</translation>
+        <translation>منظور تفصيليّ</translation>
     </message>
     <message>
         <source>Change to detail view mode</source>
-        <translation>Atharrach gu modh seallaidh mhionaidich</translation>
+        <translation>غيّر إلى وضع المنظور التّفصيليّ</translation>
     </message>
     <message>
         <source>Sidebar</source>
-        <translation>Bàr-taoibh</translation>
+        <translation>الشّريط الجانبيّ</translation>
     </message>
     <message>
         <source>List of places and bookmarks</source>
-        <translation>Liosta nan àiteachan ’s nan comharran-leabhair</translation>
+        <translation>قائمة الأماكن والعلامات</translation>
     </message>
     <message>
         <source>Files</source>
-        <translation>Faidhlichean</translation>
+        <translation>الملفّات</translation>
     </message>
     <message>
         <source>Files of type:</source>
-        <translation>Faidhlichean dhen t-seòrsa:</translation>
+        <translation>الملفّات من النّوع:</translation>
     </message>
     <message>
         <source>Find Directory</source>
-        <translation>Lorg pasgan</translation>
+        <translation>اعثر على دليل</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Fosgail</translation>
+        <translation>افتح</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Sàbhail mar</translation>
+        <translation>احفظ كَ‍</translation>
     </message>
     <message>
         <source>Directory:</source>
-        <translation>Pasgan:</translation>
+        <translation>الدّليل:</translation>
     </message>
     <message>
         <source>File &amp;name:</source>
-        <translation>Ai&amp;nm an fhaidhle:</translation>
+        <translation>ا&amp;سم الملفّ:</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>F&amp;osgail</translation>
+        <translation>ا&amp;فتح</translation>
     </message>
     <message>
         <source>&amp;Choose</source>
-        <translation>&amp;Tagh</translation>
+        <translation>ا&amp;ختر</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>&amp;Sàbhail</translation>
-    </message>
-    <message>
-        <source>All Files (*)</source>
-        <translation>Na h-uile faidhle (*)</translation>
+        <translation>ا&amp;حفظ</translation>
     </message>
     <message>
         <source>Show </source>
-        <translation>Seall </translation>
+        <translation>أظهر </translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation>Thoi&amp;r ainm ùr air</translation>
+        <translation>أ&amp;عد التّسمية</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Sguab às</translation>
+        <translation>ا&amp;حذف</translation>
     </message>
     <message>
         <source>Show &amp;hidden files</source>
-        <translation>Seall faid&amp;hlichean falaichte</translation>
+        <translation>أظهر الملفّات الم&amp;خفيّة</translation>
     </message>
     <message>
         <source>&amp;New Folder</source>
-        <translation>&amp;Pasgan ùr</translation>
+        <translation>مجلّد &amp;جديد</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation>Na h-uile faidhle (*)</translation>
+        <translation>كلّ الملفّات (*)</translation>
     </message>
     <message>
         <source>Directories</source>
-        <translation>Pasganan</translation>
+        <translation>الأدّلة</translation>
     </message>
     <message>
         <source>%1
 Directory not found.
 Please verify the correct directory name was given.</source>
         <translation>%1
-Cha deach am pasgan a lorg.
-Dearbh gun deach ainm ceart a’ phasgain a thoirt seachad.</translation>
+لم يُعثر على الدّليل.
+رجاءً تحقّق من إعطائك الاسم الصحيح للدّليل.</translation>
     </message>
     <message>
         <source>%1 already exists.
 Do you want to replace it?</source>
-        <translation>Tha “%1” ann mu thràth.
-A bheil thu airson am fear ùr a chur ’na àite?</translation>
+        <translation>‏%1 موجود بالفعل.
+أتريد استبداله؟</translation>
     </message>
     <message>
         <source>%1
 File not found.
 Please verify the correct file name was given.</source>
         <translation>%1
-Cha deach am faidhle a lorg.
-Dearbh gun deach ainm ceart an fhaidhle a thoirt seachad.</translation>
+لم يُعثر على الملفّ.
+رجاءً تحقّق من إعطائك الاسم الصحيح للملفّ.</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation>Pasgan ùr</translation>
+        <translation>مجلّد جديد</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Sguab às</translation>
+        <translation>احذف</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is write protected.
 Do you want to delete it anyway?</source>
-        <translation>Tha dìon sgrìobhaidh air “%1”.
-A bheil thu airson sgrìobhadh thairis air co-dhiù?</translation>
+        <translation>‏’%1‘ محميّ ضدّ الكتابة.
+أتريد حذفه بأيّ حال؟</translation>
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos;?</source>
-        <translation>A bheil thu cinnteach gu bheil thu airson “%1” a sguabadh às?</translation>
+        <translation>أتريد حقًّا حذف ’%1‘؟</translation>
     </message>
     <message>
         <source>Could not delete directory.</source>
-        <translation>Cha b’ urrainn dhuinn am pasgan a sguabadh às.</translation>
+        <translation>تعذّر حذف الدّليل.</translation>
     </message>
     <message>
         <source>Recent Places</source>
-        <translation>Àiteachan o chionn ghoirid</translation>
+        <translation>الأماكن الحديثة</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Thoir air falbh</translation>
+        <translation>أزل</translation>
     </message>
     <message>
         <source>My Computer</source>
-        <translation>An coimpiutair agam</translation>
+        <translation>حاسوبي</translation>
     </message>
     <message>
         <source>Drive</source>
-        <translation>Draibh</translation>
+        <translation>القرص</translation>
     </message>
     <message>
         <source>%1 File</source>
         <extracomment>%1 is a file name suffix, for example txt</extracomment>
-        <translation>Faidhle %1</translation>
+        <translation>ملفّ %1</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Faidhle</translation>
+        <translation>ملفّ</translation>
     </message>
     <message>
         <source>File Folder</source>
         <comment>Match Windows Explorer</comment>
-        <translation>Pasgan fhaidhlichean</translation>
+        <translation>مجلّد</translation>
     </message>
     <message>
         <source>Folder</source>
         <comment>All other platforms</comment>
-        <translation>Pasgan</translation>
+        <translation>مجلّد</translation>
     </message>
     <message>
         <source>Alias</source>
         <comment>OS X Finder</comment>
-        <translation>Alias</translation>
+        <translation>اختصار</translation>
     </message>
     <message>
         <source>Shortcut</source>
         <comment>All other platforms</comment>
-        <translation>Ath-ghoirid</translation>
+        <translation>اختصار</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Chan eil fhios</translation>
+        <translation>مجهول</translation>
     </message>
 </context>
 <context>
     <name>QFileSystemModel</name>
     <message>
         <source>%1 TB</source>
-        <translation>%1 TB</translation>
+        <translatorcomment>يأتي العدد في الكود موطّنا من المحلية</translatorcomment>
+        <translation>%1 ت.بايت</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation>%1 GB</translation>
+        <translatorcomment>يأتي العدد في الكود موطّنا من المحلية</translatorcomment>
+        <translation>%1 غ.بايت</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation>%1 MB</translation>
+        <translatorcomment>يأتي العدد في الكود موطّنا من المحلية</translatorcomment>
+        <translation>%1 م.بايت</translation>
     </message>
     <message>
         <source>%1 KB</source>
-        <translation>%1 KB</translation>
+        <translatorcomment>يأتي العدد في الكود موطّنا من المحلية</translatorcomment>
+        <translation>%1 ك.بايت</translation>
     </message>
     <message>
         <source>%1 bytes</source>
-        <translation>%1 baidht</translation>
+        <translatorcomment>يأتي العدد في الكود موطّنا من المحلية</translatorcomment>
+        <translation>%1 بايت</translation>
     </message>
     <message>
         <source>Invalid filename</source>
-        <translation>Ainm-faidhle mì-dhligheach</translation>
+        <translation>اسم الملفّ غير صالح</translation>
     </message>
     <message>
         <source>&lt;b&gt;The name &quot;%1&quot; can not be used.&lt;/b&gt;&lt;p&gt;Try using another name, with fewer characters or no punctuations marks.</source>
-        <translation>&lt;b&gt;Cha ghabh an t-ainm “%1” cleachdadh.&lt;/b&gt;&lt;p&gt;Feuch ainm eile a tha nas giorra no anns nach eil caractaran puingeachaidh.</translation>
+        <translation>&lt;b&gt;لا يمكن استخدام الاسم ”%1“.&lt;/b&gt;&lt;p&gt;جرّب استخدام اسم آخر بمحارف أقلّ أو بلا علامات ترقيم.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Ainm</translation>
+        <translation>الاسم</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Meud</translation>
+        <translation>الحجم</translation>
     </message>
     <message>
         <source>Kind</source>
         <comment>Match OS X Finder</comment>
-        <translation>Seòrsa</translation>
+        <translation>النّوع</translation>
     </message>
     <message>
         <source>Type</source>
         <comment>All other platforms</comment>
-        <translation>Seòrsa</translation>
+        <translation>النّوع</translation>
     </message>
     <message>
         <source>Date Modified</source>
-        <translation>Ceann-là an atharrachaidh</translation>
+        <translation>تاريخ التّعديل</translation>
     </message>
     <message>
         <source>My Computer</source>
-        <translation>An coimpiutair agam</translation>
+        <translation>حاسوبي</translation>
     </message>
     <message>
         <source>Computer</source>
-        <translation>Coimpiutair</translation>
+        <translation>الحاسوب</translation>
     </message>
     <message>
         <source>%1 byte(s)</source>
-        <translation>%1 baidht(ichean)</translation>
+        <translatorcomment>يأتي العدد في الكود موطّنا من المحلية</translatorcomment>
+        <translation>%1 بايت</translation>
     </message>
 </context>
 <context>
@@ -1154,345 +1161,346 @@ A bheil thu airson sgrìobhadh thairis air co-dhiù?</translation>
     <message>
         <source>Normal</source>
         <comment>The Normal or Regular font weight</comment>
-        <translation>Àbhaisteach</translation>
+        <translation>طبيعيّ</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>Trom</translation>
+        <translation>ثخين</translation>
     </message>
     <message>
         <source>Demi Bold</source>
-        <translation>Leth-throm</translation>
+        <translation>نصف ثخين</translation>
     </message>
     <message>
         <source>Medium</source>
         <comment>The Medium font weight</comment>
-        <translation>Meadhanach</translation>
+        <translation>عاديّ</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Dubh</translation>
+        <translation>أسود</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Aotrom</translation>
+        <translation>خفيف</translation>
     </message>
     <message>
         <source>Thin</source>
-        <translation>Tana</translation>
+        <translation>رفيع</translation>
     </message>
     <message>
         <source>Extra Light</source>
-        <translation>Glè aotrom</translation>
+        <translation>رفيع للغاية</translation>
     </message>
     <message>
         <source>Extra Bold</source>
-        <translation>Glè throm</translation>
+        <translation>ثخين للغاية</translation>
     </message>
     <message>
         <source>Extra</source>
         <extracomment>The word for &quot;Extra&quot; as in &quot;Extra Bold, Extra Thin&quot; used as a pattern for string searches</extracomment>
-        <translation>Glè</translation>
+        <translation>للغاية</translation>
     </message>
     <message>
         <source>Demi</source>
         <extracomment>The word for &quot;Demi&quot; as in &quot;Demi Bold&quot; used as a pattern for string searches</extracomment>
-        <translation>Leth</translation>
+        <translation>نصف</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Eadailteach</translation>
+        <translation>مائل</translation>
     </message>
     <message>
         <source>Oblique</source>
-        <translation>Claon</translation>
+        <translatorcomment>هذه خطوط مائلة لكن محرك الخطوط هو من يُميل الأشكال لأنها ليست مرسومة مائلة أساسا.</translatorcomment>
+        <translation>مائل</translation>
     </message>
     <message>
         <source>Any</source>
-        <translation>Seòrsa sam bith</translation>
+        <translation>أيّ نظام</translation>
     </message>
     <message>
         <source>Latin</source>
-        <translation>Laideann</translation>
+        <translation>لاتينيّ</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation>Greugais</translation>
+        <translation>يونانيّ</translation>
     </message>
     <message>
         <source>Cyrillic</source>
-        <translation>Cirilis</translation>
+        <translation>سيريليّ</translation>
     </message>
     <message>
         <source>Armenian</source>
-        <translation>Airmeinis</translation>
+        <translation>أرمينيّ</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation>Eabhra</translation>
+        <translation>عبريّ</translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation>Arabais</translation>
+        <translation>عربيّ</translation>
     </message>
     <message>
         <source>Syriac</source>
-        <translation>Suraidheac</translation>
+        <translation>سيريانيّ</translation>
     </message>
     <message>
         <source>Thaana</source>
-        <translation>Thaana</translation>
+        <translation>ثعنيّ</translation>
     </message>
     <message>
         <source>Devanagari</source>
-        <translation>Devanagari</translation>
+        <translation>ديفاناجاريّ</translation>
     </message>
     <message>
         <source>Bengali</source>
-        <translation>Beangailis</translation>
+        <translation>بنغاليّ</translation>
     </message>
     <message>
         <source>Gurmukhi</source>
-        <translation>Gurmukhi</translation>
+        <translation>جرمخيّ</translation>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation>Gujarati</translation>
+        <translation>غوجارتيّ</translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation>Oriya</translation>
+        <translation>نظام الأوريا</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation>Taimilis</translation>
+        <translation>تاميليّ</translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation>Telugu</translation>
+        <translation>نظام التّيلوجو</translation>
     </message>
     <message>
         <source>Kannada</source>
-        <translation>Kannada</translation>
+        <translation>نظام الكانادا</translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation>Malayalam</translation>
+        <translation>مالايالاميّ</translation>
     </message>
     <message>
         <source>Sinhala</source>
-        <translation>Sinhala</translation>
+        <translation>سنهاليّ</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation>Tàidh</translation>
+        <translation>تايلانديّ</translation>
     </message>
     <message>
         <source>Lao</source>
-        <translation>Làtho</translation>
+        <translation>نظام اللاو</translation>
     </message>
     <message>
         <source>Tibetan</source>
-        <translation>Tibeitis</translation>
+        <translation>تبتيّ</translation>
     </message>
     <message>
         <source>Myanmar</source>
-        <translation>Miànmar</translation>
+        <translation>ميانماريّ</translation>
     </message>
     <message>
         <source>Georgian</source>
-        <translation>Cairtbheilis</translation>
+        <translation>جورجيّ</translation>
     </message>
     <message>
         <source>Khmer</source>
-        <translation>Cmèar</translation>
+        <translation>خميريّ</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
-        <translation>Sìnis Shimplichte</translation>
+        <translation>صينيّ مبسّط</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
-        <translation>Sìnis Thradaiseanta</translation>
+        <translation>صينيّ تقليديّ</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation>Seapanais</translation>
+        <translation>يابانيّ</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation>Coirèanais</translation>
+        <translation>كوريّ</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation>Bhiet-Namais</translation>
+        <translation>فيتناميّ</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>Samhla</translation>
+        <translation>رموز</translation>
     </message>
     <message>
         <source>Ogham</source>
-        <translation>Ogham</translation>
+        <translation>أوجهاميّ</translation>
     </message>
     <message>
         <source>Runic</source>
-        <translation>Rùn-sgrìobhadh</translation>
+        <translation>رونيّ</translation>
     </message>
     <message>
         <source>N&apos;Ko</source>
-        <translation>N’Ko</translation>
+        <translation>نظام الأنكو</translation>
     </message>
 </context>
 <context>
     <name>QFontDialog</name>
     <message>
         <source>Select Font</source>
-        <translation>Tagh cruth-clò</translation>
+        <translation>اختر خطًّا</translation>
     </message>
     <message>
         <source>&amp;Font</source>
-        <translation>&amp;Cruth-clò</translation>
+        <translation>ال&amp;خطّ</translation>
     </message>
     <message>
         <source>Font st&amp;yle</source>
-        <translation>&amp;Stoidhle a’ chrutha-chlò</translation>
+        <translation>&amp;نمط الخطّ</translation>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation>&amp;Meud</translation>
+        <translation>ال&amp;حجم</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation>Èifeachdan</translation>
+        <translation>التّأثيرات</translation>
     </message>
     <message>
         <source>Stri&amp;keout</source>
-        <translation>Loidhne &amp;troimhe</translation>
+        <translation>يتو&amp;سّطه خطّ</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation>&amp;Fo-loidhne</translation>
+        <translation>ت&amp;حته خطّ</translation>
     </message>
     <message>
         <source>Sample</source>
-        <translation>Ball-sampaill</translation>
+        <translation>عيّنة</translation>
     </message>
     <message>
         <source>Wr&amp;iting System</source>
-        <translation>Siosta&amp;m sgrìobhaidh</translation>
+        <translation>نظام ال&amp;كتابة</translation>
     </message>
 </context>
 <context>
     <name>QFtp</name>
     <message>
         <source>Not connected</source>
-        <translation>Gun cheangal</translation>
+        <translation>غير متّصل</translation>
     </message>
     <message>
         <source>Host %1 not found</source>
-        <translation>Cha deach an t-òstair “%1” a lorg</translation>
+        <translation>لم يُعثر على المضيف %1</translation>
     </message>
     <message>
         <source>Connection refused to host %1</source>
-        <translation>Chaidh an ceangal ris an òstair “%1” a dhiùltadh</translation>
+        <translation>رُفض الاتّصال بالمضيف %1</translation>
     </message>
     <message>
         <source>Connection timed out to host %1</source>
-        <translation>Dh’fhalbh an ùine air a’ cheangal ris an òstair “%1”</translation>
+        <translation>انتهت مهلة الاتّصال بالمضيف %1</translation>
     </message>
     <message>
         <source>Connected to host %1</source>
-        <translation>Ceangailte ris an òstair “%1”</translation>
+        <translation>اتّصلتُ بالمضيف %1</translation>
     </message>
     <message>
         <source>Data Connection refused</source>
-        <translation>Chaidh an ceangal dàta a dhiùltadh</translation>
+        <translation>رُفض اتّصال البيانات</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Mearachd nach aithne dhuinn</translation>
+        <translation>خطأ مجهول</translation>
     </message>
     <message>
         <source>Connecting to host failed:
 %1</source>
-        <translation>Dh’fhàillig le ceangal ris an òstair:
+        <translation>فشل الاتّصال بالمضيف:
 %1</translation>
     </message>
     <message>
         <source>Login failed:
 %1</source>
-        <translation>Dh’fhàillig leis a’ chlàradh a-steach:
+        <translation>فشل الولوج:
 %1</translation>
     </message>
     <message>
         <source>Listing directory failed:
 %1</source>
-        <translation>Dh’fhàillig le liosta a’ phasgain:
+        <translation>فشل سرد الأدّلة:
 %1</translation>
     </message>
     <message>
         <source>Changing directory failed:
 %1</source>
-        <translation>Dh’fhàillig le atharrachadh a’ phasgain:
+        <translation>فشل تغيير الدّليل:
 %1</translation>
     </message>
     <message>
         <source>Downloading file failed:
 %1</source>
-        <translation>Dh’fhàillig le luchdadh a-nuas an fhaidhle:
+        <translation>فشل تنزيل الملفّ:
 %1</translation>
     </message>
     <message>
         <source>Uploading file failed:
 %1</source>
-        <translation>Dh’fhàillig le luchdadh suas an fhaidhle:
+        <translation>فشل رفع الملفّ:
 %1</translation>
     </message>
     <message>
         <source>Removing file failed:
 %1</source>
-        <translation>Dh’fhàillig le toirt air falbh an fhaidhle:
+        <translation>فشلت إزالة الملفّ:
 %1</translation>
     </message>
     <message>
         <source>Creating directory failed:
 %1</source>
-        <translation>Dh’fhàillig le cruthachadh a’ phasgain:
+        <translation>فشل إنشاء الدّليل:
 %1</translation>
     </message>
     <message>
         <source>Removing directory failed:
 %1</source>
-        <translation>Dh’fhàillig le toirt air falbh a’ phasgain:
+        <translation>فشلت إزالة الدّليل:
 %1</translation>
     </message>
     <message>
         <source>Connection closed</source>
-        <translation>Chaidh an ceangal a dhùnadh</translation>
+        <translation>رُفض الاتّصال</translation>
     </message>
 </context>
 <context>
     <name>QGnomeTheme</name>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Ceart ma-thà</translation>
+        <translation>&amp;حسنًا</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>&amp;Sàbhail</translation>
+        <translation>ا&amp;حفظ</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Sguir dheth</translation>
+        <translation>أل&amp;غِ</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Dùin</translation>
+        <translation>أ&amp;غلق</translation>
     </message>
     <message>
         <source>Close without Saving</source>
-        <translation>Dùin gun a shàbhaladh</translation>
+        <translation>أغلق بلا حفظ</translation>
     </message>
 </context>
 <context>
@@ -1500,694 +1508,699 @@ A bheil thu airson sgrìobhadh thairis air co-dhiù?</translation>
     <message>
         <source>QT_LAYOUT_DIRECTION</source>
         <comment>Translate this string to the string &apos;LTR&apos; in left-to-right languages or to &apos;RTL&apos; in right-to-left languages (such as Hebrew and Arabic) to get proper widget layout.</comment>
-        <translation>LTR</translation>
+        <translation>RTL</translation>
     </message>
 </context>
 <context>
     <name>QHostInfo</name>
     <message>
         <source>No host name given</source>
-        <translation>Cha deach ainm-òstair a thoirt seachad</translation>
+        <translation>لم يُعط اسم المضيف</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Mearachd nach aithne dhuinn</translation>
+        <translation>خطأ مجهول</translation>
     </message>
 </context>
 <context>
     <name>QHostInfoAgent</name>
     <message>
         <source>No host name given</source>
-        <translation>Cha deach ainm-òstair a thoirt seachad</translation>
+        <translation>لم يُعط اسم المضيف</translation>
     </message>
     <message>
         <source>Invalid hostname</source>
-        <translation>Ainm-òstair mì-dhligheach</translation>
+        <translation>اسم المضيف غير صالح</translation>
     </message>
     <message>
         <source>Unknown address type</source>
-        <translation>Seòrsa seòlaidh nach aithne dhuinn</translation>
+        <translation>نوع العنوان مجهول</translation>
     </message>
     <message>
         <source>Host not found</source>
-        <translation>Cha deach an t-òstair a lorg</translation>
+        <translation>لم يُعثر على المضيف</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Mearachd nach aithne dhuinn</translation>
+        <translation>خطأ مجهول</translation>
     </message>
     <message>
         <source>Unknown error (%1)</source>
-        <translation>Mearachd nach aithne dhuinn (%1)</translation>
+        <translation>خطأ مجهول (%1)</translation>
     </message>
 </context>
 <context>
     <name>QHttp</name>
     <message>
         <source>Host %1 not found</source>
-        <translation>Cha deach an t-òstair “%1” a lorg</translation>
+        <translation>لم يُعثر على المضيف %1</translation>
     </message>
     <message>
         <source>Connection refused</source>
-        <translation>Chaidh an ceangal a dhiùltadh</translation>
+        <translation>رُفض الاتّصال</translation>
     </message>
     <message>
         <source>Connection closed</source>
-        <translation>Chaidh an ceangal a dhùnadh</translation>
+        <translation>أُغلق الاتّصال</translation>
     </message>
     <message>
         <source>Proxy requires authentication</source>
-        <translation>Feumaidh am progsaidh dearbhadh</translation>
+        <translation>الوسيط يطلب الاستيثاق</translation>
     </message>
     <message>
         <source>Host requires authentication</source>
-        <translation>Feumaidh an t-òstair dearbhadh</translation>
+        <translation>المضيف يطلب الاستيثاق</translation>
     </message>
     <message>
         <source>Data corrupted</source>
-        <translation>Dàta coirbte</translation>
+        <translation>البيانات معطوبة</translation>
     </message>
     <message>
         <source>Unknown protocol specified</source>
-        <translation>Chaidh pròtacal nach aithne dhuinn a shònrachadh</translation>
+        <translation>حُدّد ميفاق مجهول</translation>
     </message>
     <message>
         <source>SSL handshake failed</source>
-        <translation>Dh’fhàillig le crathadh-làimhe SSL</translation>
+        <translation>فشلت مصافحة SSL</translation>
     </message>
     <message>
         <source>Too many redirects</source>
-        <translation>Tha cus sìnidhean air adhart ann</translation>
+        <translation>الكثير من إعادات التّوجيه</translation>
     </message>
     <message>
         <source>Insecure redirect</source>
-        <translation>Sìneadh air adhart neo-thèarainte</translation>
+        <translation>إعادة توجيه غير آمنة</translation>
     </message>
 </context>
 <context>
     <name>QHttpSocketEngine</name>
     <message>
         <source>Did not receive HTTP response from proxy</source>
-        <translation>Cha d’ fhuair sinn freagairt HTTP on phrogsaidh</translation>
+        <translation>لم أستقبل ردّ HTTP من الوكيل</translation>
     </message>
     <message>
         <source>Error parsing authentication request from proxy</source>
-        <translation>Mearachd le parsadh iarrtas dearbhaidh on phrogsaidh</translation>
+        <translation>خطأ في تحليل طلب الاستيثاق من الوكيل</translation>
     </message>
     <message>
         <source>Authentication required</source>
-        <translation>Tha feum air dearbhadh</translation>
+        <translation>الاستيثاق مطلوب</translation>
     </message>
     <message>
         <source>Proxy denied connection</source>
-        <translation>Dhiùlt am progsaidh an ceangal</translation>
+        <translation>رفض الوكيل الاتّصال</translation>
     </message>
     <message>
         <source>Error communicating with HTTP proxy</source>
-        <translation>Mearachd conaltraidh le progsaidh HTTP</translation>
+        <translation>خطأ في التّواصل مع وكيل HTTP</translation>
     </message>
     <message>
         <source>Proxy server not found</source>
-        <translation>Cha deach frithealaiche progsaidh a lorg</translation>
+        <translation>لم يُعثر على الخادوم الوكيل</translation>
     </message>
     <message>
         <source>Proxy connection refused</source>
-        <translation>Chaidh an ceangal ris a’ phrogsaidh a dhiùltadh</translation>
+        <translation>رُفض اتّصال الوكيل</translation>
     </message>
     <message>
         <source>Proxy server connection timed out</source>
-        <translation>Dh’fhalbh an ùine air a’ cheangal ris an fhrithealaiche phrogsaidh</translation>
+        <translation>انتهت مهلة اتّصال خادوم الوكيل</translation>
     </message>
     <message>
         <source>Proxy connection closed prematurely</source>
-        <translation>Chaidh an ceangal ris a’ phrogsaidh a dhùnadh ro thràth</translation>
+        <translation>أُغلق اتّصال الوكيل فجأة</translation>
     </message>
 </context>
 <context>
     <name>QIBaseDriver</name>
     <message>
         <source>Error opening database</source>
-        <translation>Mearachd le fosgladh an stòir-dhàta</translation>
+        <translation>خطأ في فتح قاعدة البيانات</translation>
     </message>
     <message>
         <source>Could not start transaction</source>
-        <translation>Cha b’ urrainn dhuinn tòiseachadh air an tar-chur</translation>
+        <translation>تعذّر بدء التّبادل</translation>
     </message>
     <message>
         <source>Unable to commit transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a chommitigeadh</translation>
+        <translation>تعذّر إيداع التّبادل</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a roladh air ais</translation>
+        <translation>تعذّر التّراجع عن التّبادل</translation>
     </message>
 </context>
 <context>
     <name>QIBaseResult</name>
     <message>
         <source>Unable to create BLOB</source>
-        <translation>Cha ghabh BLOB a chruthachadh</translation>
+        <translation>تعذّر إنشاء BLOB</translation>
     </message>
     <message>
         <source>Unable to write BLOB</source>
-        <translation>Cha ghabh BLOB a sgrìobhadh</translation>
+        <translation>تعذّرت كتابة BLOB</translation>
     </message>
     <message>
         <source>Unable to open BLOB</source>
-        <translation>Cha ghabh BLOB fhosgladh</translation>
+        <translation>تعذّر فتح BLOB</translation>
     </message>
     <message>
         <source>Unable to read BLOB</source>
-        <translation>Cha ghabh BLOB a leughadh</translation>
+        <translation>تعذّرت قراءة BLOB</translation>
     </message>
     <message>
         <source>Could not find array</source>
-        <translation>Cha b’ urrainn dhuinn an arraigh a lorg</translation>
+        <translation>تعذّر العثور على المصفوفة</translation>
     </message>
     <message>
         <source>Could not get array data</source>
-        <translation>Cha b’ urrainn dhuinn dàta na h-arraigh a lorg</translation>
+        <translation>تعذّر الحصول على بيانات المصفوفة</translation>
     </message>
     <message>
         <source>Could not get query info</source>
-        <translation>Cha b’ urrainn dhuinn fiosrachadh na ceist fhaighinn</translation>
+        <translation>تعذّر الحصول على بيانات الاستعلام</translation>
     </message>
     <message>
         <source>Could not start transaction</source>
-        <translation>Cha b’ urrainn dhuinn tòiseachadh air an tar-chur</translation>
+        <translation>تعذّر بدء التّبادل</translation>
     </message>
     <message>
         <source>Unable to commit transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a chommitigeadh</translation>
+        <translation>تعذّر إيداع التّبادل</translation>
     </message>
     <message>
         <source>Could not allocate statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris a riarachadh</translation>
+        <translation>تعذّر تخصيص مكان للإفادة</translation>
     </message>
     <message>
         <source>Could not prepare statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris ullachadh</translation>
+        <translation>تعذّر تحضير الإفادة</translation>
     </message>
     <message>
         <source>Could not describe input statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris ion-chuir a mhìneachadh</translation>
+        <translation>تعذّر وصف الإفادة الدّخل</translation>
     </message>
     <message>
         <source>Could not describe statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris a mhìneachadh</translation>
+        <translation>تعذّر وصف الإفادة</translation>
     </message>
     <message>
         <source>Unable to close statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris a dhùnadh</translation>
+        <translation>تعذّر إغلاق الإفادة</translation>
     </message>
     <message>
         <source>Unable to execute query</source>
-        <translation>Cha b’ urrainn dhuinn a’ cheist a ghnìomhachadh</translation>
+        <translation>تعذّر تنفيذ الاستعلام</translation>
     </message>
     <message>
         <source>Could not fetch next item</source>
-        <translation>Cha b’ urrainn dhuinn an t-ath-nì fhaighinn</translation>
+        <translation>تعذّر جلب العنصر التّالي</translation>
     </message>
     <message>
         <source>Could not get statement info</source>
-        <translation>Cha b’ urrainn dhuinn fiosrachadh na h-aithrise fhaighinn</translation>
+        <translation>تعذّر الحصول على معلومات الإفادة</translation>
     </message>
 </context>
 <context>
     <name>QIODevice</name>
     <message>
         <source>Permission denied</source>
-        <translation>Cead air a dhiùltadh</translation>
+        <translation>رُفض التّصريح</translation>
     </message>
     <message>
         <source>Too many open files</source>
-        <translation>Tha cus faidhlichean fosgailte</translation>
+        <translation>الكثير من الملفّات المفتوحة</translation>
     </message>
     <message>
         <source>No such file or directory</source>
-        <translation>Chan eil am faidhle no pasgan seo ann</translation>
+        <translation>لا ملفّ أو دليل كهذا</translation>
     </message>
     <message>
         <source>No space left on device</source>
-        <translation>Chan eil àite air fhàgail air an uidheam</translation>
+        <translation>لا مساحة متبقّية في الجهاز</translation>
     </message>
     <message>
         <source>file to open is a directory</source>
-        <translation>tha am faidhle ri fhosgladh ’na phasgan</translation>
+        <translation>الملفّ لفتحه ما هو إلّا دليل</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Mearachd nach aithne dhuinn</translation>
+        <translation>خطأ مجهول</translation>
     </message>
 </context>
 <context>
     <name>QImageReader</name>
     <message>
         <source>Invalid device</source>
-        <translation>Uidheam mì-dhligheach</translation>
+        <translation>الجهاز غير صالح</translation>
     </message>
     <message>
         <source>File not found</source>
-        <translation>Cha deach am faidhle a lorg</translation>
+        <translation>لم يُعثر على الملفّ</translation>
     </message>
     <message>
         <source>Unsupported image format</source>
-        <translation>Fòrmat deilbh ris nach cuirear taic</translation>
+        <translation>نسق الصّورة غير مدعوم</translation>
     </message>
     <message>
         <source>Unable to read image data</source>
-        <translation>Cha b’ urrainn dhuinn dàta an deilbh a leughadh</translation>
+        <translation>تعذّرت قراءة بيانات الصّورة</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Mearachd nach aithne dhuinn</translation>
+        <translation>خطأ مجهول</translation>
     </message>
 </context>
 <context>
     <name>QImageWriter</name>
     <message>
         <source>Unknown error</source>
-        <translation>Mearachd nach aithne dhuinn</translation>
+        <translation>خطأ مجهول</translation>
     </message>
     <message>
         <source>Device is not set</source>
-        <translation>Cha deach an t-uidheam a shuidheachadh</translation>
+        <translation>لم يُعيّن الجهاز</translation>
     </message>
     <message>
         <source>Cannot open device for writing: %1</source>
-        <translation>Cha b’ urrainn dhuinn an t-inneal fhosgladh a chum sgrìobhaidh: %1</translation>
+        <translation>تعذّر فتح الجهاز للكتابة: %1</translation>
     </message>
     <message>
         <source>Device not writable</source>
-        <translation>Cha ghabh sgrìobhadh dhan uidheam</translation>
+        <translation>الجهاز غير قابل للقراءة</translation>
     </message>
     <message>
         <source>Unsupported image format</source>
-        <translation>Fòrmat deilbh ris nach cuirear taic</translation>
+        <translation>نسق الصّورة غير مدعوم</translation>
     </message>
 </context>
 <context>
     <name>QInputDialog</name>
     <message>
         <source>Enter a value:</source>
-        <translation>Cuir a-steach luach:</translation>
+        <translation>أدخل قيمة:</translation>
     </message>
 </context>
 <context>
     <name>QJsonParseError</name>
     <message>
         <source>no error occurred</source>
-        <translation>cha do thachair mearachd</translation>
+        <translation>لم تحدث أخطاء</translation>
     </message>
     <message>
         <source>unterminated object</source>
-        <translation>oibseact neo-chrìochnaichte</translation>
+        <translation>كائن لم يُنهى</translation>
     </message>
     <message>
         <source>missing name separator</source>
-        <translation>tha sgaradair ainm a dhìth</translation>
+        <translation>قاسم الأسماء ناقص</translation>
     </message>
     <message>
         <source>unterminated array</source>
-        <translation>arraigh neo-chrìochnaichte</translation>
+        <translation>مصفوفة لم تُنهى</translation>
     </message>
     <message>
         <source>missing value separator</source>
-        <translation>tha sgaradair luach a dhìth</translation>
+        <translation>قاسم القيم ناقص</translation>
     </message>
     <message>
         <source>illegal value</source>
-        <translation>luach mì-dhligheach</translation>
+        <translation>قيمة غير صالحة</translation>
     </message>
     <message>
         <source>invalid termination by number</source>
-        <translation>crìochnachadh mì-dhligheach le àireamh</translation>
+        <translation>إنهاء غير صالح عبر عدد</translation>
     </message>
     <message>
         <source>illegal number</source>
-        <translation>àireamh mhì-dhligheach</translation>
+        <translation>عدد غير صالح</translation>
     </message>
     <message>
         <source>invalid escape sequence</source>
-        <translation>sreath teàrnaidh mì-dhligheach</translation>
+        <translation>تسلسل هروب غير صالح</translation>
     </message>
     <message>
         <source>invalid UTF8 string</source>
-        <translation>sreang UTF8 mhì-dhligheach</translation>
+        <translation>سلسلة UTF8 غير صالحة</translation>
     </message>
     <message>
         <source>unterminated string</source>
-        <translation>sreang neo-chrìochnaichte</translation>
+        <translation>سلسلة لم تُنهى</translation>
     </message>
     <message>
         <source>object is missing after a comma</source>
-        <translation>tha oibseact a dhìth às dèidh cromaig</translation>
+        <translation>كائن ناقص بعد الفاصلة</translation>
     </message>
     <message>
         <source>too deeply nested document</source>
-        <translation>tha neadachadh ro dhomhainn aig an sgrìobhainn</translation>
+        <translation>مستند متداخل بشدّة كبيرة</translation>
     </message>
     <message>
         <source>too large document</source>
-        <translation>tha an sgrìobhainn ro mhòr</translation>
+        <translation>مستند كبير جدًّا</translation>
     </message>
     <message>
         <source>garbage at the end of the document</source>
-        <translation>tha sgudal air deireadh na sgrìobhainn</translation>
+        <translation>مخلّفات في نهاية المستند</translation>
     </message>
 </context>
 <context>
     <name>QKeySequenceEdit</name>
     <message>
         <source>Press shortcut</source>
-        <translation>Brùth air an ath-ghoirid</translation>
+        <translation>اضغط اختصارًا</translation>
     </message>
     <message>
         <source>%1, ...</source>
         <extracomment>This text is an &quot;unfinished&quot; shortcut, expands like &quot;Ctrl+A, ...&quot;</extracomment>
-        <translation>%1, …</translation>
+        <translation>‏‎%1‎، ...</translation>
     </message>
 </context>
 <context>
     <name>QLibrary</name>
     <message>
         <source>&apos;%1&apos; is not an ELF object (%2)</source>
-        <translation>Chan eil “%1” ’na oibseact ELF (%2)</translation>
+        <translation>ليس ’%1‘ كائن ELF ‏(%2)</translation>
+    </message>
+    <message>
+        <source>file too small</source>
+        <translation>الملفّ صغير جدًّا</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is not an ELF object</source>
-        <translation>Chan eil “%1” ’na oibseact ELF</translation>
+        <translation>ليس ’%1‘ كائن ELF</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is an invalid ELF object (%2)</source>
-        <translation>Chan eil “%1” ’na oibseact ELF dligheach (%2)</translation>
+        <translation>ليس ’%1‘ كائن ELF صالح (%2)</translation>
     </message>
     <message>
         <source>odd cpu architecture</source>
-        <translation>ailtireachd cpu neònach</translation>
+        <translation>معماريّة المعالج غريبة</translation>
     </message>
     <message>
         <source>wrong cpu architecture</source>
-        <translation>ailtireachd cpu chearr</translation>
+        <translation>معماريّة المعالج خاطئة</translation>
     </message>
     <message>
         <source>odd endianness</source>
-        <translation>seòrsa endian neònach</translation>
+        <translation>طرفيّة البايتات غريبة</translation>
     </message>
     <message>
         <source>unexpected e_shsize</source>
-        <translation>e_shsize ris nach robh dùil</translation>
+        <translation>‏e_shsize غير متوقّع</translation>
     </message>
     <message>
         <source>unexpected e_shentsize</source>
-        <translation>e_shentsize ris nach robh dùil</translation>
+        <translation>‏e_shentsize غير متوقّع</translation>
     </message>
     <message numerus="yes">
         <source>announced %n section(s), each %1 byte(s), exceed file size</source>
         <translation>
-            <numerusform>chaidh %n earra(i)nn a ghairm, %1 baidht aig gach tè, meud faidhle ro mhòr</numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+            <numerusform>لم يُعلن أيّ قسم، بطول %L1 بايت، تخطّى حجم الملفّ</numerusform>
+            <numerusform>أُعلن قسم واحد، بطول %L1 بايت، تخطّى حجم الملفّ</numerusform>
+            <numerusform>أُعلن قسمين، بطول %L1 بايت، تخطّى حجم الملفّ</numerusform>
+            <numerusform>أُعلنت %Ln أقسام، بطول %L1 بايت، تخطّى حجم الملفّ</numerusform>
+            <numerusform>أُعلن %Ln قسمًا، بطول %L1 بايت، تخطّى حجم الملفّ</numerusform>
+            <numerusform>أُعلن %Ln قسم، بطول %L1 بايت، تخطّى حجم الملفّ</numerusform>
         </translation>
     </message>
     <message>
         <source>shstrtab section header seems to be at %1</source>
-        <translation>tha coltas gu bheil bann-cinn shstrtab aig %1</translation>
+        <translatorcomment>عدد ليس عاديا</translatorcomment>
+        <translation>تبدو ترويسة قسم shstrtab عند %1</translation>
     </message>
     <message>
         <source>string table seems to be at %1</source>
-        <translation>tha coltas gu bheil clàr sreanga aig %1</translation>
+        <translatorcomment>عدد ليس عاديا</translatorcomment>
+        <translation>يبدو جدول السّلاسل عند %1</translation>
     </message>
     <message>
         <source>section name %1 of %2 behind end of file</source>
-        <translation>tha ainm earrainn %1 aig %2 air cùl deireadh an fhaidhle</translation>
+        <translation>اسم القسم %L1 من أصل %L2 خلف نهاية الملفّ</translation>
     </message>
     <message>
         <source>empty .rodata. not a library.</source>
-        <translation>chan eil .rodata. falamh ’na thasglann.</translation>
+        <translation>‏‎.rodate فارغة. ليست مكتبة.</translation>
     </message>
     <message>
         <source>missing section data. This is not a library.</source>
-        <translation>tha dàta earrainn a dhìth. Chan eil seo ’na thasglann.</translation>
+        <translation>بيانات القسم ناقصة. ليست هذه بمكتبة.</translation>
     </message>
     <message>
         <source>Failed to extract plugin meta data from &apos;%1&apos;</source>
-        <translation>Cha deach leinn meata-dàta plugain às-tharraing o “%1”</translation>
+        <translation>فشل استخراج البيانات الوصفيّة للملحقة من ’%1‘</translation>
     </message>
     <message>
         <source>The shared library was not found.</source>
-        <translation>Cha deach an leabharlann co-roinnte a lorg.</translation>
+        <translation>لم يُعثر على المكتبة المشتركة.</translation>
     </message>
     <message>
         <source>The file &apos;%1&apos; is not a valid Qt plugin.</source>
-        <translation>Chan eil am faidhle “%1” ’na phlugan Qt dligheach.</translation>
+        <translation>الملفّ ’%1‘ ليس ملحقة كيوت صالحة.</translation>
     </message>
     <message>
         <source>The plugin &apos;%1&apos; uses incompatible Qt library. (%2.%3.%4) [%5]</source>
-        <translation>Tha am plugan “%1” a’ cleachdadh leabharlann Qt nach eil co-chòrdail. (%2.%3.%4) [%5]</translation>
+        <translation>تستخدم الملحقة ’%1‘ مكتبة كيوت غير متوافقة (%2.%3.%4) [%5]</translation>
     </message>
     <message>
         <source>The plugin &apos;%1&apos; uses incompatible Qt library. (Cannot mix debug and release libraries.)</source>
-        <translation>Tha am plugan “%1” a’ cleachdadh leabharlann Qt nach eil co-chòrdail. (Cha ghabh leabharlannan sgaoilidh is dì-bhugachaidh a cur ri chèile.)</translation>
+        <translation>تستخدم الملحقة ’%1‘ مكتبة كيوت غير متوافقة (لا يمكن دمج مكتبات التّنقيح والإصدار.)</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Mearachd nach aithne dhuinn</translation>
+        <translation>خطأ مجهول</translation>
     </message>
     <message>
         <source>Cannot load library %1: %2</source>
-        <translation>Cha b’ urrainn dhuinn an leabharlann “%1” a luchdadh: %2</translation>
+        <translation>تعذّر تحميل المكتبة %1: ‏%2</translation>
     </message>
     <message>
         <source>Cannot unload library %1: %2</source>
-        <translation>Cha b’ urrainn dhuinn an leabharlann “%1” a dhì-luchdadh: %2</translation>
+        <translation>تعذّر إلغاء تحميل المكتبة %1: ‏%2</translation>
     </message>
     <message>
         <source>Cannot resolve symbol &quot;%1&quot; in %2: %3</source>
-        <translation>cha b’ urrainn dhuinn an samhla “%1” fhuasgladh ann an “%2”: %3</translation>
+        <translation>تعذّر حلّ الرّمز ”%1“ في %2، %3</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is not a valid Mach-O binary (%2)</source>
-        <translation>Chan eil “%1” na Mach-O binary dligheach (%2)</translation>
+        <translation>ليس ’%1‘ ثنائيّ Mach-O صالح (%2)</translation>
     </message>
     <message>
         <source>file is corrupt</source>
-        <translation>tha am faidhle coirbte</translation>
-    </message>
-    <message>
-        <source>file too small</source>
-        <translation>tha am faidhle ro bheag</translation>
+        <translation>الملفّ معطوب</translation>
     </message>
     <message>
         <source>no suitable architecture in fat binary</source>
-        <translation>chan eil ailtireachd iomchaidh sa bhìnearaidh fat</translation>
+        <translation>لا معماريّة مناسبة في ثنائيّ fat</translation>
     </message>
     <message>
         <source>invalid magic %1</source>
-        <translation>%1 draoidheach mì-dhligheach</translation>
+        <translation>الرّقم السّحريّ %1 غير صالح</translation>
     </message>
     <message>
         <source>wrong architecture</source>
-        <translation>ailtireachd chearr</translation>
+        <translation>المعماريّة خاطئة</translation>
     </message>
     <message>
         <source>not a dynamic library</source>
-        <translation>chan eil seo ’na leabharlann innsgineach</translation>
+        <translation>ليست مكتبة حركيّة</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is not a Qt plugin</source>
-        <translation>chan eil “%1” ’na phlugan Qt</translation>
+        <translation>ليست ’%1‘ ليست ملحقة كيوت</translation>
     </message>
 </context>
 <context>
     <name>QLineEdit</name>
     <message>
         <source>&amp;Undo</source>
-        <translation>&amp;Neo-dhèan</translation>
+        <translation>&amp;تراجع</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>&amp;Ath-dhèan</translation>
+        <translation>أ&amp;عد</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation>&amp;Gearr às</translation>
+        <translation>&amp;قصّ</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>Dèan lethbhrea&amp;c</translation>
+        <translation>ا&amp;نسخ</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>Cuir a&amp;nn</translation>
+        <translation>أل&amp;صق</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Sguab às</translation>
+        <translation>احذف</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Tagh na h-uile</translation>
+        <translation>حدّد الكلّ</translation>
     </message>
 </context>
 <context>
     <name>QLocalServer</name>
     <message>
         <source>%1: Name error</source>
-        <translation>%1: Mearachd ainm</translation>
+        <translation>‏%1: خطأ في الاسم</translation>
     </message>
     <message>
         <source>%1: Permission denied</source>
-        <translation>%1: Cead air a dhiùltadh</translation>
+        <translation>‏%1: رُفض التّصريح</translation>
     </message>
     <message>
         <source>%1: Address in use</source>
-        <translation>%1: Tha an seòladh ’ga chleachdadh</translation>
+        <translation>‏%1: العنوان مستخدم</translation>
     </message>
     <message>
         <source>%1: Unknown error %2</source>
-        <translation>%1: Mearachd nach aithne dhuinn %2</translation>
+        <translation>‏%1: الخطأ %2 مجهول</translation>
     </message>
 </context>
 <context>
     <name>QLocalSocket</name>
     <message>
         <source>%1: Connection refused</source>
-        <translation>%1: Chaidh an ceangal a dhiùltadh</translation>
+        <translation>‏%1: رُفض الاتّصال</translation>
     </message>
     <message>
         <source>%1: Remote closed</source>
-        <translation>%1: Chaidh an socaid chèin a dhùnadh</translation>
+        <translation>‏%1: أُغلق البعيد</translation>
     </message>
     <message>
         <source>%1: Invalid name</source>
-        <translation>%1: Ainm mì-dhligheach</translation>
+        <translation>‏%1: الاسم غير صالح</translation>
     </message>
     <message>
         <source>%1: Socket access error</source>
-        <translation>%1: Mearachd inntrigeadh socaide</translation>
+        <translation>‏%1: خطأ في النّفاذ إلى المقبس</translation>
     </message>
     <message>
         <source>%1: Socket resource error</source>
-        <translation>%1: Mearachd goireas socaide</translation>
+        <translation>‏%1: خطأ في مورد المقبس</translation>
     </message>
     <message>
         <source>%1: Socket operation timed out</source>
-        <translation>%1: Dh’fhalbh an ùine air obrachadh socaide</translation>
+        <translation>‏%1: انتهت عمليّة المقبس</translation>
     </message>
     <message>
         <source>%1: Datagram too large</source>
-        <translation>%1: Tha an dàta-ghram ro mhòr</translation>
+        <translation>‏%1: مخطّط البيانات كبير جدًّا</translation>
     </message>
     <message>
         <source>%1: Connection error</source>
-        <translation>%1: Mearachd leis a’ cheangal</translation>
+        <translation>‏%1: خطأ في الاتّصال</translation>
     </message>
     <message>
         <source>%1: The socket operation is not supported</source>
-        <translation>%1: Chan eil taic ris an obrachadh socaide</translation>
+        <translation>‏%1: عمليّة المقبس غير مدعومة</translation>
     </message>
     <message>
         <source>%1: Operation not permitted when socket is in this state</source>
-        <translation>%1: chan eil an t-obrachadh ceadaichte fhad ’s a tha an t-socaid san staid seo</translation>
+        <translation>‏%1: لا يُسمح بهذه العمليّة والمقبس في هذه الحالة</translation>
     </message>
     <message>
         <source>%1: Unknown error</source>
-        <translation>%1: Mearachd nach aithne dhuinn</translation>
+        <translation>‏%1: خطأ مجهول</translation>
     </message>
     <message>
         <source>Trying to connect while connection is in progress</source>
-        <translation>A’ feuchainn ri ceangal a dhèanamh fhad ’s a tha e ’ga ceangal</translation>
+        <translation>يحاول الاتّصال بينما الاتّصال جارٍ</translation>
     </message>
     <message>
         <source>%1: Unknown error %2</source>
-        <translation>%1: Mearachd nach aithne dhuinn %2</translation>
+        <translation>‏%1: الخطأ %2 مجهول</translation>
     </message>
     <message>
         <source>%1: Access denied</source>
-        <translation>%1: Chaidh an t-inntrigeadh a dhiùltadh</translation>
+        <translation>‏%1: رُفض التّصريح</translation>
     </message>
 </context>
 <context>
     <name>QMYSQLDriver</name>
     <message>
         <source>Unable to allocate a MYSQL object</source>
-        <translation>Cha deach leinn oibseact MYSQL a riarachadh</translation>
+        <translation>تعذّر تخصيص مكان لكائن MYSQL</translation>
     </message>
     <message>
         <source>Unable to open database &apos;%1&apos;</source>
-        <translation>Cha deach leinn an stòr-dàta “%1” fhosgladh</translation>
+        <translation>تعذّر فتح قاعدة البيانات ’%1‘</translation>
     </message>
     <message>
         <source>Unable to connect</source>
-        <translation>Cha ghabh ceangal a dhèanamh</translation>
+        <translation>تعذّر الاتّصال</translation>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation>Cha b’ urrainn dhuinn tòiseachadh air an tar-chur</translation>
+        <translation>تعذّر بدء التّبادل</translation>
     </message>
     <message>
         <source>Unable to commit transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a chommitigeadh</translation>
+        <translation>تعذّر إيداع التّبادل</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a roladh air ais</translation>
+        <translation>تعذّر التّراجع عن التّبادل</translation>
     </message>
 </context>
 <context>
     <name>QMYSQLResult</name>
     <message>
         <source>Unable to fetch data</source>
-        <translation>Cha b’ urrainn dhuinn an dàta fhaighinn</translation>
+        <translation>تعذّر جلب البيانات</translation>
     </message>
     <message>
         <source>Unable to execute query</source>
-        <translation>Cha b’ urrainn dhuinn a’ cheist a ghnìomhachadh</translation>
+        <translation>تعذّر تنفيذ الاستعلام</translation>
     </message>
     <message>
         <source>Unable to store result</source>
-        <translation>Tha b’ urrainn dhuinn an toradh a stòradh</translation>
+        <translation>تعذّر تخزين النّتيجة</translation>
     </message>
     <message>
         <source>Unable to execute next query</source>
-        <translation>Cha b’ urrainn dhuinn a ath-cheist a ghnìomhachadh</translation>
+        <translation>تعذّر تنفيذ الاستعلام التّالي</translation>
     </message>
     <message>
         <source>Unable to store next result</source>
-        <translation>Tha b’ urrainn dhuinn an t-ath-toradh a stòradh</translation>
+        <translation>تعذّر تخزين الاستعلام التّالي</translation>
     </message>
     <message>
         <source>Unable to prepare statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris ullachadh</translation>
+        <translation>تعذّر تحضير الإفادة</translation>
     </message>
     <message>
         <source>Unable to reset statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris ath-shuidheachadh</translation>
+        <translation>تعذّر تصفير الإفادة</translation>
     </message>
     <message>
         <source>Unable to bind value</source>
-        <translation>Cha b’ urrainn dhuinn an luach a nasgadh</translation>
+        <translation>تعذّر ربط القيمة</translation>
     </message>
     <message>
         <source>Unable to execute statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris a ghnìomhachadh</translation>
+        <translation>تعذّر تنفيذ الإفادة</translation>
     </message>
     <message>
         <source>Unable to bind outvalues</source>
-        <translation>Cha b’ urrainn dhuinn na luachan a-mach a nasgadh</translation>
+        <translatorcomment>يبدو أنها قيم تخرج من دالة من الدوال في MySQL</translatorcomment>
+        <translation>تعذّر ربط القيم الخارِجة</translation>
     </message>
     <message>
         <source>Unable to store statement results</source>
-        <translation>Tha b’ urrainn dhuinn toraidhean na h-aithrise a stòradh</translation>
+        <translation>تعذّر تخزين نتائج الإفادة</translation>
     </message>
 </context>
 <context>
     <name>QMdiArea</name>
     <message>
         <source>(Untitled)</source>
-        <translation>(Gun tiotal)</translation>
+        <translation>(غير مسمّى)</translation>
     </message>
 </context>
 <context>
@@ -2198,382 +2211,371 @@ A bheil thu airson sgrìobhadh thairis air co-dhiù?</translation>
     </message>
     <message>
         <source>%1 - [%2]</source>
-        <translation>%1 – [%2]</translation>
+        <translation>%1 - [%2]</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation>Fìor-lùghdaich</translation>
+        <translation>صغّر</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation>Làn-mheudaich</translation>
+        <translation>كبّر</translation>
     </message>
     <message>
         <source>Unshade</source>
-        <translation>Neo-sgàil</translation>
+        <translation>ألغِ التّظليل</translation>
     </message>
     <message>
         <source>Shade</source>
-        <translation>Sgàil</translation>
+        <translation>ظلّل</translation>
     </message>
     <message>
         <source>Restore Down</source>
-        <translation>Aisig a-nuas</translation>
+        <translation>استعد لأسفل</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation>Aisig</translation>
+        <translation>استعد</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Dùin</translation>
+        <translation>أغلق</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Cobhair</translation>
+        <translation>مساعدة</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation>Clàr-taice</translation>
+        <translation>قائمة</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation>&amp;Aisig</translation>
+        <translation>ا&amp;ستعد</translation>
     </message>
     <message>
         <source>&amp;Move</source>
-        <translation>&amp;Gluais</translation>
+        <translation>ا&amp;نقل</translation>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation>&amp;Meud</translation>
+        <translation>ال&amp;حجم</translation>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation>Fìor-&amp;lùghdaich</translation>
+        <translation>&amp;صغّر</translation>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation>Làn-&amp;mheudaich</translation>
+        <translation>&amp;كبّر</translation>
     </message>
     <message>
         <source>Stay on &amp;Top</source>
-        <translation>&amp;Air uachdar an-còmhnaidh</translation>
+        <translation>ابقي في الأ&amp;على</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Dùin</translation>
+        <translation>أ&amp;غلق</translation>
     </message>
 </context>
 <context>
     <name>QMessageBox</name>
     <message>
         <source>Show Details...</source>
-        <translation>Seall am mion-fhiosrachadh…</translation>
+        <translation>أظهر التّفاصيل...</translation>
     </message>
     <message>
         <source>Hide Details...</source>
-        <translation>Falaich am mion-fhiosrachadh…</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across all major desktop operating systems. It is also available for embedded Linux and other embedded and mobile operating systems.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 3.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 3 is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the GNU LGPL version 3.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) %1 The Qt Company Ltd and other contributors.&lt;/p&gt;&lt;p&gt;Qt and the Qt logo are trademarks of The Qt Company Ltd.&lt;/p&gt;&lt;p&gt;Qt is The Qt Company Ltd product developed as an open source project. See &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; for more information.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;’S e acainn C++ a th ann an Qt gus aplacaidean ioma-ùrlarach a leasachadh.&lt;/p&gt;&lt;p&gt;Le Qt, gabhaidh an t-aon bhun-tùs a phortadh thar nan siostaman-obrachaidh desktop mòra uile. Tha e ri fhaighinn airson Linux leabaichte agus siostaman-obrachaidh leabaichte ’s mobile eile cuideachd.&lt;/p&gt;&lt;p&gt;Tha Qt ri fhaighinn fo thrì roghainnean ceadachais eadar-dhealaichte ach am bi e freagarrach do dh’fheumalachdan iomadh luchd-chleachdaidh.&lt;/p&gt;&lt;p&gt;Tha Qt fon aonta cheadachais choimeirsealta againn iomchaidh dha leasachadh bathair-bhog fo shealbh/coimeirsealta mur eilear airson bun-tùs a cho-roinneadh le treas-phàrtaidh no mur urrainnear gèilleadh ri teirmichean GNU LGPL tionndadh 3 air adhbhar eile.&lt;/p&gt;&lt;p&gt;Tha Qt fo cheadachas GNU LGPL tionndadh 3 iomchaidh dha leasachadh aplacaidean Qt mas urrainnear gèilleadh ri teirmichean ’s cumhaichean a’ GNU LGPL tionndadh 3.&lt;/p&gt;&lt;p&gt;Faic &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; airson foir-shealladh air ceadachasan Qt.&lt;/p&gt;&lt;p&gt;Còir-lethbhreac (C) %1 The Qt Company earr. ’s tabhartaichean eile.&lt;/p&gt;&lt;p&gt;Tha Qt agus suaicheantas Qt ’nan comharran-malairt aig The Qt Company earr.&lt;/p&gt;&lt;p&gt;Is Qt am bathar aig The Qt Company earr. A tha ’ga leasachadh mar phròiseact open source. Faic &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; airson barrachd fiosrachaidh.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="vanished">Ceart ma-thà</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="vanished">Cobhair</translation>
+        <translation>أخفِ التّفاصيل...</translation>
     </message>
     <message>
         <source>&lt;h3&gt;About Qt&lt;/h3&gt;&lt;p&gt;This program uses Qt version %1.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Mu Qt&lt;/h3&gt;&lt;p&gt;Tha am prògram seo a’ chleachdadh Qt tionndadh %1.&lt;/p&gt;</translation>
+        <translatorcomment>العدد يأتي سلسلة غير موطنة</translatorcomment>
+        <translation>&lt;h3&gt;عنْ كيوت&lt;/h3&gt;&lt;p&gt;يستخدم هذا البرنامج الإصدارة %1 من كيوت.&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across all major desktop operating systems. It is also available for embedded Linux and other embedded and mobile operating systems.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 3 or GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 3 is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the GNU LGPL version 3.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) %1 The Qt Company Ltd and other contributors.&lt;/p&gt;&lt;p&gt;Qt and the Qt logo are trademarks of The Qt Company Ltd.&lt;/p&gt;&lt;p&gt;Qt is The Qt Company Ltd product developed as an open source project. See &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; for more information.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;’S e acainn C++ a th ann an Qt gus aplacaidean ioma-ùrlarach a leasachadh.&lt;/p&gt;&lt;p&gt;Le Qt, gabhaidh an t-aon bhun-tùs a phortadh thar nan siostaman-obrachaidh desktop mòra uile. Tha e ri fhaighinn airson Linux leabaichte agus siostaman-obrachaidh leabaichte ’s mobile eile cuideachd.&lt;/p&gt;&lt;p&gt;Tha Qt ri fhaighinn fo thrì roghainnean ceadachais eadar-dhealaichte ach am bi e freagarrach do dh’fheumalachdan iomadh luchd-chleachdaidh.&lt;/p&gt;&lt;p&gt;Tha Qt fon aonta cheadachais choimeirsealta againn iomchaidh dha leasachadh bathair-bhog fo shealbh/coimeirsealta mur eilear airson bun-tùs a cho-roinneadh le treas-phàrtaidh no mur urrainnear gèilleadh ri teirmichean GNU LGPL tionndadh 3 no GNU LGPL tionndadh 2.1. air adhbhar eile.&lt;/p&gt;&lt;p&gt;Tha Qt fo cheadachas GNU LGPL tionndadh 3 iomchaidh dha leasachadh aplacaidean Qt mas urrainnear gèilleadh ri teirmichean ’s cumhaichean a’ GNU LGPL tionndadh 3.&lt;/p&gt;&lt;p&gt;Tha Qt fo cheadachas GNU LGPL tionndadh 2.1 iomchaidh dha leasachadh aplacaidean Qt mas urrainnear gèilleadh ri teirmichean ’s cumhaichean a’ GNU LGPL tionndadh 2.1.&lt;/p&gt;&lt;p&gt;Faic &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; airson foir-shealladh air ceadachasan Qt.&lt;/p&gt;&lt;p&gt;Còir-lethbhreac (C) %1 The Qt Company earr. ’s tabhartaichean eile.&lt;/p&gt;&lt;p&gt;Tha Qt agus suaicheantas Qt ’nan comharran-malairt aig The Qt Company earr.&lt;/p&gt;&lt;p&gt;Is Qt am bathar aig The Qt Company earr. A tha ’ga leasachadh mar phròiseact open source. Faic &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; airson barrachd fiosrachaidh.&lt;/p&gt;</translation>
+        <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across all major desktop operating systems. It is also available for embedded Linux and other embedded and mobile operating systems.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 3.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 3 is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the GNU LGPL version 3.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) %1 The Qt Company Ltd and other contributors.&lt;/p&gt;&lt;p&gt;Qt and the Qt logo are trademarks of The Qt Company Ltd.&lt;/p&gt;&lt;p&gt;Qt is The Qt Company Ltd product developed as an open source project. See &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; for more information.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;«كيوت/Qt» هي عُدّة أدوات C++‎ لتطوير التّطبيقات على مختلف المنصّات.&lt;/p&gt;&lt;p&gt;تقدّم «كيوت» نقل التّطبيقات (بكتابة نصّ مصدري موحّد) إلى أغلب أنظمة التّشغيل للحواسيب المكتبيّة. تتوفّر «كيوت» أيضًا ل‍«لينكس/Linux» المضمّن وغيرها من أنظمة التشغيل المضمّنة والمحمولة.&lt;/p&gt;&lt;p&gt;«كيوت» متوفّرة بثلاثة خيارات ترخيص مختلفة صُمّمت لملائمة احتياجات مستخدمينا المختلفة.&lt;/p&gt;&lt;p&gt;نسخة «كيوت» المرخّصة باتّفاقيّة التّرخيص التّجاريّة منّا مناسِبة لتطوير البرمجيّات المملوكة/التّجاريّة متى ما لم ترد مشاركة النّصوص البرمجيّة مع أطراف ثالثة أو إن لم يمكنك الامتثال لقوانين «رخصة جنو العموميّة الصّغرى/GNU LGPL» الإصدارة الثّالثة.&lt;/p&gt;&lt;p&gt;نسخة «كيوت» المرخّصة ب‍«رخصة جنو العموميّة الصّغرى» الإصدارة الثّالثة مناسِبة لتطوير تطبيقات&amp;nbsp;«كيوت» إن أمكنك الامتثال إلى قوانين «رخصة جنو العموميّة الصّغرى» الإصدارة الثّالثة وشروطها.&lt;/p&gt;&lt;p&gt;رجاءً طالع &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; لأخذ نظرة عامة عن ترخيص «كيوت»&lt;/p&gt;&lt;p&gt;التّرجمة العربيّة: إنّ لفظة ”كيوت“ هي لفظة منقولة حرفيًّا من الاسم الأصليّ Qt. يجب العودة إلى الاسم الأصليّ Qt لأيّة اعتبارات قانونيّة أو ترخيصيّة.&lt;/p&gt;&lt;p&gt;حقوق النّسخ © %L1 ل‍«شركة كيوت المحدودة/Qt Company Ltd» والمساهمين الآخرين.&lt;/p&gt;&lt;p&gt;إنّ Qt وشعار «كيوت» علامات تجاريّة ل‍«شركة كيوت المحدودة».&lt;/p&gt;&lt;p&gt;إنّ «كيوت» هي منتج «شركة كيوت المحدودة» الذي يُطوّر باعتباره مشروعًا مفتوح المصدر. طالع &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; لمزيد من المعلومات.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation>Mu Qt</translation>
+        <translation>عنْ كيوت</translation>
     </message>
 </context>
 <context>
     <name>QNativeSocketEngine</name>
     <message>
         <source>Unable to initialize non-blocking socket</source>
-        <translation>Cha deach leinn socaid neo-bhacaidh a thòiseachadh</translation>
+        <translation>تعذّر تمهيد مقبس غير مانع</translation>
     </message>
     <message>
         <source>Unable to initialize broadcast socket</source>
-        <translation>Cha deach leinn socaid craolaidh a thòiseachadh</translation>
+        <translation>تعذّر تمهيد مقبس بثّ</translation>
     </message>
     <message>
         <source>Attempt to use IPv6 socket on a platform with no IPv6 support</source>
-        <translation>Oidhirp air socaid IPv6 a chleachdadh air ùrlar nach cuir taic ri IPv6</translation>
+        <translation>محاولة استخدام مقبس IPv6 على منصّة لا تدعمه</translation>
     </message>
     <message>
         <source>The remote host closed the connection</source>
-        <translation>Dhùin an t-òstair cèin an ceangal</translation>
+        <translation>أغلق المضيف البعيد الاتّصال</translation>
     </message>
     <message>
         <source>Network operation timed out</source>
-        <translation>Dh’fhalbh an ùine air obrachadh an lìonraidh</translation>
+        <translation>انتهت مهلة عمليّة الشّبكة</translation>
     </message>
     <message>
         <source>Out of resources</source>
-        <translation>Dìth ghoireasan</translation>
+        <translation>نفذت الموارد</translation>
     </message>
     <message>
         <source>Unsupported socket operation</source>
-        <translation>Cha chuirear taic ris an obrachadh socaide</translation>
+        <translation>عمليّة المقبس غير مدعومة</translation>
     </message>
     <message>
         <source>Protocol type not supported</source>
-        <translation>Cha chuirear taic ris an t-seòrsa pròtacail</translation>
+        <translation>نوع الميفاق غير مدعوم</translation>
     </message>
     <message>
         <source>Invalid socket descriptor</source>
-        <translation>Tuairisgeulaiche socaide mì-dhligheach</translation>
+        <translation>واصِف المقبس غير مدعوم</translation>
     </message>
     <message>
         <source>Host unreachable</source>
-        <translation>Cha ghabh an t-òstair ruigsinn</translation>
+        <translation>لا يمكن الوصول إلى المضيف</translation>
     </message>
     <message>
         <source>Network unreachable</source>
-        <translation>Cha ghabh an lìonra ruigsinn</translation>
+        <translation>لا يمكن الوصول إلى الشّبكة</translation>
     </message>
     <message>
         <source>Permission denied</source>
-        <translation>Cead air a dhiùltadh</translation>
+        <translation>رُفض التّصريح</translation>
     </message>
     <message>
         <source>Connection timed out</source>
-        <translation>Dh’fhalbh an ùine air a’ cheangal</translation>
+        <translation>انتهت مهلة الاتّصال</translation>
     </message>
     <message>
         <source>Connection refused</source>
-        <translation>Chaidh an ceangal a dhiùltadh</translation>
+        <translation>رُفض الاتّصال</translation>
     </message>
     <message>
         <source>The bound address is already in use</source>
-        <translation>Tha an seòladh naisgte ’ga chleachdadh mar-thà</translation>
+        <translation>العنوان المربوط مستخدم فعلًا</translation>
     </message>
     <message>
         <source>The address is not available</source>
-        <translation>Chan eil an seòladh ri fhaighinn</translation>
+        <translation>العنوان غير متوفّر</translation>
     </message>
     <message>
         <source>The address is protected</source>
-        <translation>Tha an seòladh dìonta</translation>
+        <translation>العنوان محميّ</translation>
     </message>
     <message>
         <source>Datagram was too large to send</source>
-        <translation>Bha an dàta-ghram ro mhòr gus a chur</translation>
+        <translation>مخطّط البيانات كبير جدًّا ليُرسل</translation>
     </message>
     <message>
         <source>Unable to send a message</source>
-        <translation>Cha b’ urrainn dhuinn teachdaireachd a chur</translation>
+        <translation>تعذّر إرسال الرّسالة</translation>
     </message>
     <message>
         <source>Unable to receive a message</source>
-        <translation>Cha b’ urrainn dhuinn teachdaireachd fhaighinn</translation>
+        <translation>تعذّر استقبال الرّسالة</translation>
     </message>
     <message>
         <source>Unable to write</source>
-        <translation>Cha ghabh a sgrìobhadh</translation>
+        <translation>تعذّرت الكتابة</translation>
     </message>
     <message>
         <source>Network error</source>
-        <translation>Mearachd lìonraidh</translation>
+        <translation>خطأ شبكيّ</translation>
     </message>
     <message>
         <source>Another socket is already listening on the same port</source>
-        <translation>Tha socaid eile ag èisteachd ris an aon phort mar-thà</translation>
+        <translation>هناك مقبس آخر يستمع إلى نفس المنفذ بالفعل</translation>
     </message>
     <message>
         <source>Operation on non-socket</source>
-        <translation>Obrachadh air rud nach eil ’na shocaid</translation>
+        <translation>عمليّة على ما هو ليس مقبس</translation>
     </message>
     <message>
         <source>The proxy type is invalid for this operation</source>
-        <translation>Tha seòrsa a’ phrogsaidh mì-dhligheach airson an obrachaidh seo</translation>
+        <translation>نوع الوكيل غير صالح لهذه العمليّة</translation>
     </message>
     <message>
         <source>Temporary error</source>
-        <translation>Mearachd shealadach</translation>
+        <translation>خطأ مؤقّت</translation>
     </message>
     <message>
         <source>Network dropped connection on reset</source>
-        <translation>Bhris an lìonra an ceangal leis an ath-shuidheachadh</translation>
+        <translation>أسقطت الشّبكة الاتّصال عند التّصفير</translation>
     </message>
     <message>
         <source>Connection reset by peer</source>
-        <translation>Chaidh an ceangal ath-shuidheachadh leis an t-seise</translation>
+        <translation>صفّر النّدّ الاتّصال</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Mearachd nach aithne dhuinn</translation>
+        <translation>خطأ مجهول</translation>
     </message>
 </context>
 <context>
     <name>QNetworkAccessCacheBackend</name>
     <message>
         <source>Error opening %1</source>
-        <translation>Mearachd a’ fosgladh %1</translation>
+        <translation>خطأ في فتح %1</translation>
     </message>
 </context>
 <context>
     <name>QNetworkAccessDataBackend</name>
     <message>
         <source>Invalid URI: %1</source>
-        <translation>URI mì-dhligheach: %1</translation>
+        <translation>معرّف URI غير صالح: %1</translation>
     </message>
 </context>
 <context>
     <name>QNetworkAccessDebugPipeBackend</name>
     <message>
         <source>Write error writing to %1: %2</source>
-        <translation>Mearachd a’ sgrìobhadh gu %1: %2</translation>
+        <translation>خطأ كتابة في الكتابة إلى %1: ‏%2</translation>
     </message>
     <message>
         <source>Socket error on %1: %2</source>
-        <translation>Mearachd socaide air %1: %2</translation>
+        <translation>خطأ مقبس في %1: ‏%2</translation>
     </message>
     <message>
         <source>Remote host closed the connection prematurely on %1</source>
-        <translation>Dhùin an t-òstair cèin an ceangal ro thràth air %1</translation>
+        <translation>أغلق المضيف البعيد الاتّصال نهائيًّا في %1</translation>
     </message>
 </context>
 <context>
     <name>QNetworkAccessFileBackend</name>
     <message>
         <source>Request for opening non-local file %1</source>
-        <translation>iarrtas gus faidhle %1 nach eil ionadail fhosgladh</translation>
+        <translation>طلب فتح ملفّ %1 غير المحلّيّ</translation>
     </message>
     <message>
         <source>Error opening %1: %2</source>
-        <translation>Mearachd a’ fosgladh %1: %2</translation>
+        <translation>خطأ في فتح %1: ‏%2</translation>
     </message>
     <message>
         <source>Write error writing to %1: %2</source>
-        <translation>Mearachd a’ sgrìobhadh gu %1: %2</translation>
+        <translation>خطأ كتابة في الكتابة في %1: ‏%2</translation>
     </message>
     <message>
         <source>Cannot open %1: Path is a directory</source>
-        <translation>Chan urrainn dhuinn %1 fhosgladh: Tha an t-slighe ’na phasgan</translation>
+        <translation>تعذّر فتح %1: المسار هو دليل</translation>
     </message>
     <message>
         <source>Read error reading from %1: %2</source>
-        <translation>Mearachd leughaidh a’ leughadh o %1: %2</translation>
+        <translation>خطأ قراءة في القراءة من %1: ‏%2</translation>
     </message>
 </context>
 <context>
     <name>QNetworkAccessFtpBackend</name>
     <message>
         <source>No suitable proxy found</source>
-        <translation>Cha deach progsaidh iomchaidh a lorg</translation>
+        <translation>لم يُعثر على وكيل مناسب</translation>
     </message>
     <message>
         <source>Cannot open %1: is a directory</source>
-        <translation>Chan urrainn dhuinn %1 fhosgladh: Tha e ’na phasgan</translation>
+        <translation>تعذّر فتح %1: يبدو دليلًا</translation>
     </message>
     <message>
         <source>Logging in to %1 failed: authentication required</source>
-        <translation>Cha deach leinn loga a sgrìobhadh gu %1: tha feum air dearbhadh</translation>
+        <translation>فشل الولوج إلى %1: الاستيثاق مطلوب</translation>
     </message>
     <message>
         <source>Error while downloading %1: %2</source>
-        <translation>Mearachd le luchdadh a-nuas %1: %2</translation>
+        <translation>خطأ أثناء تنزيل %1: ‏%2</translation>
     </message>
     <message>
         <source>Error while uploading %1: %2</source>
-        <translation>Mearachd le luchdadh suas %1: %2</translation>
+        <translation>خطأ أثناء رفع %1: ‏%2</translation>
     </message>
 </context>
 <context>
     <name>QNetworkAccessManager</name>
     <message>
         <source>Network access is disabled.</source>
-        <translation>Chaidh inntrigeadh dhan lìonra a chur à comas.</translation>
+        <translation>النّفاذ إلى الشّبكة معطّل.</translation>
     </message>
 </context>
 <context>
     <name>QNetworkReply</name>
     <message>
         <source>Error transferring %1 - server replied: %2</source>
-        <translation>Mearachd a’ tar-chur %1 – fhreagair am frithealaiche: %2</translation>
+        <translation>خطأ في نقل %1 - ردّ الخادوم بِ‍: %2</translation>
     </message>
     <message>
         <source>Background request not allowed.</source>
-        <translation>Chan eil iarrtas sa chùlaibh ceadaichte.</translation>
+        <translation>الطّلب الخلفيّ غير مسموح.</translation>
     </message>
     <message>
         <source>Network session error.</source>
-        <translation>Mearachd le seisean an lìonraidh.</translation>
+        <translation>خطأ في جلسة الشّبكة.</translation>
     </message>
     <message>
         <source>backend start error.</source>
-        <translation>mearachd tòiseachaidh a’ backend.</translation>
+        <translation>خطأ في بدء السّند.</translation>
     </message>
     <message>
         <source>Temporary network failure.</source>
-        <translation>Fàilligeadh sealadach an lìonraidh.</translation>
+        <translation>فشل شبكيّ مؤقّت.</translation>
     </message>
     <message>
         <source>Protocol &quot;%1&quot; is unknown</source>
-        <translation>Chan aithne dhuinn am pròtacal “%1”</translation>
+        <translation>الميفاق ”%1“ مجهول</translation>
     </message>
 </context>
 <context>
     <name>QNetworkReplyHttpImpl</name>
     <message>
         <source>Operation canceled</source>
-        <translation>Chaidh sgur dhen obrachadh</translation>
+        <translation>أُلغيت العمليّة</translation>
     </message>
     <message>
         <source>No suitable proxy found</source>
-        <translation>Cha deach progsaidh iomchaidh a lorg</translation>
+        <translation>لم يُعثر على وكيل ملائم</translation>
     </message>
 </context>
 <context>
     <name>QNetworkReplyImpl</name>
     <message>
         <source>Operation canceled</source>
-        <translation>Chaidh sgur dhen obrachadh</translation>
+        <translation>أُلغيت العمليّة</translation>
     </message>
 </context>
 <context>
     <name>QNetworkSession</name>
     <message>
         <source>Invalid configuration.</source>
-        <translation>Rèiteachadh mì-dhligheach.</translation>
+        <translation>الضّبط غير صالح.</translation>
     </message>
 </context>
 <context>
     <name>QNetworkSessionPrivateImpl</name>
     <message>
         <source>Unknown session error.</source>
-        <translation>Mearachd seisein nach aithne dhuinn.</translation>
+        <translation>خطأ مقبس مجهول.</translation>
     </message>
     <message>
         <source>The session was aborted by the user or system.</source>
-        <translation>Chaidh sgur dhen t-seisean leis a’ chleachdaiche no leis an t-siostam.</translation>
+        <translation>أُجهضت الجلسة من المستخدم أو النّظام.</translation>
     </message>
     <message>
         <source>The requested operation is not supported by the system.</source>
-        <translation>Cha chuir an siostam taic ris an obrachadh a chaidh iarraidh.</translation>
+        <translation>العمليّة المطلوبة لا يدعمها النّظام.</translation>
     </message>
     <message>
         <source>The specified configuration cannot be used.</source>
-        <translation>Cha ghabh an rèiteachadh sònraichte cleachdadh.</translation>
+        <translation>تعذّر استخدام الضّبط المحدّد.</translation>
     </message>
     <message>
         <source>Roaming was aborted or is not possible.</source>
-        <translation>Chaidh sgur dhe dhol air fàrsan no cha ghabh a dhèanamh.</translation>
+        <translation>أُجهض التّجوال أو أنّه غير ممكن.</translation>
     </message>
 </context>
 <context>
@@ -2581,284 +2583,284 @@ A bheil thu airson sgrìobhadh thairis air co-dhiù?</translation>
     <message>
         <source>Unable to initialize</source>
         <comment>QOCIDriver</comment>
-        <translation>Cha ghabh a thòiseachadh</translation>
+        <translation>تعذّر التّمهيد</translation>
     </message>
     <message>
         <source>Unable to logon</source>
-        <translation>Cha ghabh clàradh a-steach</translation>
+        <translation>تعذّر الولوج</translation>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation>Cha b’ urrainn dhuinn tòiseachadh air an tar-chur</translation>
+        <translation>تعذّر بدء التّبادل</translation>
     </message>
     <message>
         <source>Unable to commit transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a chommitigeadh</translation>
+        <translation>تعذّر إيداع التّبادل</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a roladh air ais</translation>
+        <translation>تعذّر التّراجع عن التّبادل</translation>
     </message>
 </context>
 <context>
     <name>QOCIResult</name>
     <message>
         <source>Unable to bind column for batch execute</source>
-        <translation>Cha b’ urrainn dhuinn an colbh a nasgadh airson grunn ghnìomhachadh</translation>
+        <translation>تعذّر ربط العمود لدفعة التّنفيذ</translation>
     </message>
     <message>
         <source>Unable to execute batch statement</source>
-        <translation>Cha b’ urrainn dhuinn grunn-aithris a ghnìomhachadh</translation>
+        <translation>تعذّر تنفيذ مجموعة الإفادات</translation>
     </message>
     <message>
         <source>Unable to goto next</source>
-        <translation>Cha b’ urrainn dhuinn dol dhan ath-fhear</translation>
+        <translation>تعذّر الذّهاب للتّالي goto</translation>
     </message>
     <message>
         <source>Unable to alloc statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris a riarachadh</translation>
+        <translation>تعذّر تخصيص مكان للإفادة</translation>
     </message>
     <message>
         <source>Unable to prepare statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris ullachadh</translation>
+        <translation>تعذّر تحضير الإفادة</translation>
     </message>
     <message>
         <source>Unable to get statement type</source>
-        <translation>Cha b’ urrainn dhuinn seòrsa na h-aithrise fhaighinn</translation>
+        <translation>تعذّر الحصول على نوع الإفادة</translation>
     </message>
     <message>
         <source>Unable to bind value</source>
-        <translation>Cha b’ urrainn dhuinn an luach a nasgadh</translation>
+        <translation>تعذّر ربط القيمة</translation>
     </message>
     <message>
         <source>Unable to execute statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris a ghnìomhachadh</translation>
+        <translation>تعذّر تنفيذ الإفادة</translation>
     </message>
 </context>
 <context>
     <name>QODBCDriver</name>
     <message>
         <source>Unable to connect</source>
-        <translation>Cha ghabh ceangal a dhèanamh</translation>
+        <translation>تعذّر الاتّصال</translation>
     </message>
     <message>
         <source>Unable to connect - Driver doesn&apos;t support all functionality required</source>
-        <translation>Cha ghabh ceangal a dhèanamh – cha chuir an draibhear taic ris a h-uile foincsean a dh’fheumas sinn</translation>
+        <translation>تعذّر الاتّصال - لا يدعم المشغّل كامل الوظيفة المطلوبة</translation>
     </message>
     <message>
         <source>Unable to disable autocommit</source>
-        <translation>Cha b’ urrainn dhuinn an commitigeadh fèin-obrachail a chur à comas</translation>
+        <translation>تعذّر تعطيل الإيداع الآليّ</translation>
     </message>
     <message>
         <source>Unable to commit transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a chommitigeadh</translation>
+        <translation>تعذّر إيداع التّبادل</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a roladh air ais</translation>
+        <translation>تعذّر التّراجع عن التّبادل</translation>
     </message>
     <message>
         <source>Unable to enable autocommit</source>
-        <translation>Cha b’ urrainn dhuinn an commitigeadh fèin-obrachail a chur an comas</translation>
+        <translation>تعذّر تفعيل الإيداع الآليّ</translation>
     </message>
 </context>
 <context>
     <name>QODBCResult</name>
     <message>
-        <source>Unable to fetch last</source>
-        <translation>Cha b’ urrainn dhuinn am fear mu dheireadh fhaighinn</translation>
-    </message>
-    <message>
         <source>QODBCResult::reset: Unable to set &apos;SQL_CURSOR_STATIC&apos; as statement attribute. Please check your ODBC driver configuration</source>
-        <translation>QODBCResult::reset: Cha b’ urrainn dhuinn “SQL_CURSOR_STATIC” a shuidheachadh ’na bhuadh aithrise. Thoir sùil air rèiteachadh an draibheir ODBC agad</translation>
+        <translation>‏QODBCResult::reset: تعذّر ضبط ’SQL_CURSOR_STATIC‘ كقيمة للإفادة. رجاءً افحص ضبط مشغّل ODBC لديك</translation>
     </message>
     <message>
         <source>Unable to execute statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris a ghnìomhachadh</translation>
+        <translation>تعذّر تنفيذ الإفادة</translation>
     </message>
     <message>
         <source>Unable to fetch</source>
-        <translation>Cha b’ urrainn dhuinn fhaighinn</translation>
+        <translation>تعذّر الجلب</translation>
     </message>
     <message>
         <source>Unable to fetch next</source>
-        <translation>Cha b’ urrainn dhuinn an t-ath-fhear fhaighinn</translation>
+        <translation>تعذّر جلب التّالية</translation>
     </message>
     <message>
         <source>Unable to fetch first</source>
-        <translation>Cha b’ urrainn dhuinn a’ chiad fhear fhaighinn</translation>
+        <translation>تعذّر جلب الأولى</translation>
     </message>
     <message>
         <source>Unable to fetch previous</source>
-        <translation>Cha b’ urrainn dhuinn am fear roimhe fhaighinn</translation>
+        <translation>تعذّر جلب السّابقة</translation>
+    </message>
+    <message>
+        <source>Unable to fetch last</source>
+        <translation>تعذّر جلب الأخيرة</translation>
     </message>
     <message>
         <source>Unable to prepare statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris ullachadh</translation>
+        <translation>تعذّر تحضير الإفادة</translation>
     </message>
     <message>
         <source>Unable to bind variable</source>
-        <translation>Cha b’ urrainn dhuinn an caochladair a nasgadh</translation>
+        <translation>تعذّر ربط المتغيّر</translation>
     </message>
 </context>
 <context>
     <name>QPSQLDriver</name>
     <message>
         <source>Unable to connect</source>
-        <translation>Cha ghabh ceangal a dhèanamh</translation>
+        <translation>تعذّر الاتّصال</translation>
     </message>
     <message>
         <source>Could not begin transaction</source>
-        <translation>Cha b’ urrainn dhuinn tòiseachadh air an tar-chur</translation>
+        <translation>تعذّر بدء التّبادل</translation>
     </message>
     <message>
         <source>Could not commit transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a chommitigeadh</translation>
+        <translation>تعذّر إيداع التّبادل</translation>
     </message>
     <message>
         <source>Could not rollback transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a roladh air ais</translation>
+        <translation>تعذّر التّراجع عن التّبادل</translation>
     </message>
     <message>
         <source>Unable to subscribe</source>
-        <translation>Cha b’ urrainn dhuinn fo-sgrìobhadh</translation>
+        <translation>تعذّر الاشتراك</translation>
     </message>
     <message>
         <source>Unable to unsubscribe</source>
-        <translation>Cha b’ urrainn dhuinn crìoch a chur air an fho-sgrìobhadh</translation>
+        <translation>تعذّر إلغاء الاشتراك</translation>
     </message>
 </context>
 <context>
     <name>QPSQLResult</name>
     <message>
         <source>Unable to create query</source>
-        <translation>Cha b’ urrainn dhuinn a’ cheist a chruthachadh</translation>
+        <translation>تعذّر إنشاء الاستعلام</translation>
     </message>
     <message>
         <source>Unable to prepare statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris ullachadh</translation>
+        <translation>تعذّر تحضير الإفادة</translation>
     </message>
 </context>
 <context>
     <name>QPageSetupWidget</name>
     <message>
         <source>Form</source>
-        <translation>Foirm</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <source>Paper</source>
-        <translation>Pàipear</translation>
+        <translation>الورقة</translation>
     </message>
     <message>
         <source>Page size:</source>
-        <translation>Meud na duilleige:</translation>
+        <translation>مقاس الورقة:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation>Leud:</translation>
+        <translation>العرض:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation>Àirde:</translation>
+        <translation>الارتفاع:</translation>
     </message>
     <message>
         <source>Paper source:</source>
-        <translation>Tùs a’ phàipeir:</translation>
+        <translation>مصدر الورق:</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Comhair</translation>
+        <translation>الاتّجاه</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Portraid</translation>
+        <translation>طوليّ</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation>Dreach-tìre</translation>
+        <translation>عرضيّ</translation>
     </message>
     <message>
         <source>Reverse landscape</source>
-        <translation>Dreach-tìre contrarra</translation>
+        <translation>عرضيّ معكوس</translation>
     </message>
     <message>
         <source>Reverse portrait</source>
-        <translation>Portraid chontrarra</translation>
+        <translation>طوليّ معكوس</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation>Marghain</translation>
+        <translation>الهوامش</translation>
     </message>
     <message>
         <source>top margin</source>
-        <translation>am marghan aig a’ bharr</translation>
+        <translation>الهامش العلويّ</translation>
     </message>
     <message>
         <source>left margin</source>
-        <translation>am marghan clì</translation>
+        <translation>الهامش الأيسر</translation>
     </message>
     <message>
         <source>right margin</source>
-        <translation>am marghan deas</translation>
+        <translation>الهامش الأيمن</translation>
     </message>
     <message>
         <source>bottom margin</source>
-        <translation>am marghan aig a’ bhonn</translation>
+        <translation>الهامش السفليّ</translation>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation>Co-dhealbhachd na duilleige</translation>
+        <translation>تصميم الصّفحة</translation>
     </message>
     <message>
         <source>Page order:</source>
-        <translation>Òrdugh nan duilleagan:</translation>
+        <translation>ترتيب الصّفحات:</translation>
     </message>
     <message>
         <source>Pages per sheet:</source>
-        <translation>Co mheud duilleag air gach siota:</translation>
+        <translation>الصّفحات في كلّ ورقة:</translation>
     </message>
     <message>
         <source>Millimeters (mm)</source>
-        <translation>Mille-mheatair (mm)</translation>
+        <translation>ملّيمتر (مم)</translation>
     </message>
     <message>
         <source>Inches (in)</source>
-        <translation>Òirleach (in)</translation>
+        <translation>بوصة (بوصة)</translation>
     </message>
     <message>
         <source>Points (pt)</source>
-        <translation>Puing (pt)</translation>
+        <translation>نقطة (نقطة)</translation>
     </message>
     <message>
         <source>Pica (P̸)</source>
-        <translation>Pica (P̸)</translation>
+        <translation>پيكا (P̸)</translation>
     </message>
     <message>
         <source>Didot (DD)</source>
-        <translation>Didot (DD)</translation>
+        <translation>ديدوت (DD)</translation>
     </message>
     <message>
         <source>Cicero (CC)</source>
-        <translation>Cicero (CC)</translation>
+        <translation>سيسرو (CC)</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Gnàthaichte</translation>
+        <translation>مخصّص</translation>
     </message>
     <message>
         <source>mm</source>
         <extracomment>Unit &apos;Millimeter&apos;</extracomment>
-        <translation>mm</translation>
+        <translation>مم</translation>
     </message>
     <message>
         <source>pt</source>
         <extracomment>Unit &apos;Points&apos;</extracomment>
-        <translation>pt</translation>
+        <translation>نقطة</translation>
     </message>
     <message>
         <source>in</source>
         <extracomment>Unit &apos;Inch&apos;</extracomment>
-        <translation>in</translation>
+        <translation>بوصة</translation>
     </message>
     <message>
         <source>P̸</source>
@@ -2881,37 +2883,37 @@ A bheil thu airson sgrìobhadh thairis air co-dhiù?</translation>
     <message>
         <source>Custom (%1mm x %2mm)</source>
         <extracomment>Custom size name in millimeters</extracomment>
-        <translation>Gnàthaiche (%1mm x %2mm)</translation>
+        <translation>مخصّص (%L1مم × %L2مم)</translation>
     </message>
     <message>
         <source>Custom (%1pt x %2pt)</source>
         <extracomment>Custom size name in points</extracomment>
-        <translation>Gnàthaiche (%1pt x %2pt)</translation>
+        <translation>مخصّص (%L1نقطة × %L2نقطة)</translation>
     </message>
     <message>
         <source>Custom (%1in x %2in)</source>
         <extracomment>Custom size name in inches</extracomment>
-        <translation>Gnàthaiche (%1in x %2in)</translation>
+        <translation>مخصّص (%L1بوصة × %L2بوصة)</translation>
     </message>
     <message>
         <source>Custom (%1pc x %2pc)</source>
         <extracomment>Custom size name in picas</extracomment>
-        <translation>Gnàthaiche (%1pc x %2pc)</translation>
+        <translation>مخصّص (%L1پيكا × %L2پيكا)</translation>
     </message>
     <message>
         <source>Custom (%1DD x %2DD)</source>
         <extracomment>Custom size name in didots</extracomment>
-        <translation>Gnàthaiche (%1DD x %2DD)</translation>
+        <translation>مخصّص (%L1ديدوت × %L2ديدوت)</translation>
     </message>
     <message>
         <source>Custom (%1CC x %2CC)</source>
         <extracomment>Custom size name in ciceros</extracomment>
-        <translation>Gnàthaiche (%1CC x %2CC)</translation>
+        <translation>مخصّص (%L1سيسرو × %L2سيسرو)</translation>
     </message>
     <message>
         <source>%1 x %2 in</source>
         <extracomment>Page size in &apos;Inch&apos;.</extracomment>
-        <translation>%1 x %2 in</translation>
+        <translation>%L1 × %L2 بوصة</translation>
     </message>
     <message>
         <source>A0</source>
@@ -3003,59 +3005,59 @@ A bheil thu airson sgrìobhadh thairis air co-dhiù?</translation>
     </message>
     <message>
         <source>Executive (7.5 x 10 in)</source>
-        <translation>Executive (7.5 x 10 in)</translation>
+        <translation>تنفيذيّ (٧٫٥ × ١٠ بوصة)</translation>
     </message>
     <message>
         <source>Executive (7.25 x 10.5 in)</source>
-        <translation>Executive (7.25 x 10.5 in)</translation>
+        <translation>تنفيذيّ (٧٫٢٥ × ١٠٫٥ بوصة)</translation>
     </message>
     <message>
         <source>Folio (8.27 x 13 in)</source>
-        <translation>Folio (8.27 x 13 in)</translation>
+        <translation>ملفّ (٨٫٢٧ × ١٣ بوصة)</translation>
     </message>
     <message>
         <source>Legal</source>
-        <translation>Legal</translation>
+        <translation>قانونيّ</translation>
     </message>
     <message>
         <source>Letter / ANSI A</source>
-        <translation>Letter / ANSI A</translation>
+        <translation>رسالة / ANSI A</translation>
     </message>
     <message>
         <source>Tabloid / ANSI B</source>
-        <translation>Tabloid / ANSI B</translation>
+        <translation>تابلويد / ANSI B</translation>
     </message>
     <message>
         <source>Ledger / ANSI B</source>
-        <translation>Ledger / ANSI B</translation>
+        <translation>دفتر / ANSI B</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Gnàthaichte</translation>
+        <translation>مخصّص</translation>
     </message>
     <message>
         <source>A3 Extra</source>
-        <translation>A3 Extra</translation>
+        <translation>‏A3 أكبر</translation>
     </message>
     <message>
         <source>A4 Extra</source>
-        <translation>A4 Extra</translation>
+        <translation>‏A4 أكبر</translation>
     </message>
     <message>
         <source>A4 Plus</source>
-        <translation>A4 Plus</translation>
+        <translation>‏A4 زائد</translation>
     </message>
     <message>
         <source>A4 Small</source>
-        <translation>A4 Beag</translation>
+        <translation>‏A4 أصغر</translation>
     </message>
     <message>
         <source>A5 Extra</source>
-        <translation>A5 Extra</translation>
+        <translation>‏A5 أكبر</translation>
     </message>
     <message>
         <source>B5 Extra</source>
-        <translation>B5 Extra</translation>
+        <translation>‏B5 أكبر</translation>
     </message>
     <message>
         <source>JIS B0</source>
@@ -3115,71 +3117,71 @@ A bheil thu airson sgrìobhadh thairis air co-dhiù?</translation>
     </message>
     <message>
         <source>Legal Extra</source>
-        <translation>Legal Extra</translation>
+        <translation>قانونيّ أكبر</translation>
     </message>
     <message>
         <source>Letter Extra</source>
-        <translation>Letter Extra</translation>
+        <translation>رسالة أكبر</translation>
     </message>
     <message>
         <source>Letter Plus</source>
-        <translation>Letter Plus</translation>
+        <translation>رسالة زائد</translation>
     </message>
     <message>
         <source>Letter Small</source>
-        <translation>Letter Beag</translation>
+        <translation>رسالة أصغر</translation>
     </message>
     <message>
         <source>Tabloid Extra</source>
-        <translation>Tabloid Extra</translation>
+        <translation>تابلويد أكبر</translation>
     </message>
     <message>
         <source>Architect A</source>
-        <translation>Ailtire A</translation>
+        <translation>معماريّ A</translation>
     </message>
     <message>
         <source>Architect B</source>
-        <translation>Ailtire B</translation>
+        <translation>معماريّ B</translation>
     </message>
     <message>
         <source>Architect C</source>
-        <translation>Ailtire C</translation>
+        <translation>معماريّ C</translation>
     </message>
     <message>
         <source>Architect D</source>
-        <translation>Ailtire D</translation>
+        <translation>معماريّ D</translation>
     </message>
     <message>
         <source>Architect E</source>
-        <translation>Ailtire E</translation>
+        <translation>معماريّ E</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation>Nòta</translation>
+        <translation>ملاحظة</translation>
     </message>
     <message>
         <source>Quarto</source>
-        <translation>Quarto</translation>
+        <translation>ربعيّ</translation>
     </message>
     <message>
         <source>Statement</source>
-        <translation>Aithris</translation>
+        <translation>إفادة</translation>
     </message>
     <message>
         <source>Super A</source>
-        <translation>Super A</translation>
+        <translation>‏A ضخم</translation>
     </message>
     <message>
         <source>Super B</source>
-        <translation>Super B</translation>
+        <translation>‏B ضخم</translation>
     </message>
     <message>
         <source>Postcard</source>
-        <translation>Cairt-phuist</translation>
+        <translation>بطاقة بريديّة</translation>
     </message>
     <message>
         <source>Double Postcard</source>
-        <translation>Cairt-phuist dhùbailte</translation>
+        <translation>بطاقة بريديّة مزدوجة</translation>
     </message>
     <message>
         <source>PRC 16K</source>
@@ -3191,1709 +3193,1567 @@ A bheil thu airson sgrìobhadh thairis air co-dhiù?</translation>
     </message>
     <message>
         <source>PRC 32K Big</source>
-        <translation>PRC 32K Mòr</translation>
+        <translation>‏PRC 32K كبير</translation>
     </message>
     <message>
         <source>Fan-fold US (14.875 x 11 in)</source>
-        <translation>Fan-fold US (14.875 x 11 in)</translation>
+        <translation>مطويّة أمريكيّة (١٤٫٨٧٥ × ١١ بوصة)</translation>
     </message>
     <message>
         <source>Fan-fold German (8.5 x 12 in)</source>
-        <translation>Fan-fold Gearmailteach (8.5 x 12 in)</translation>
+        <translation>مطويّة ألمانيّة (٨٫٥ × ١٢ بوصة)</translation>
     </message>
     <message>
         <source>Fan-fold German Legal (8.5 x 13 in)</source>
-        <translation>Fan-fold Laghail Gearmailteach (8.5 x 12 in)</translation>
+        <translation>مطويّة ألمانيّة قانونيّة (٨٫٥ × ١٣ بوصة)</translation>
     </message>
     <message>
         <source>Envelope B4</source>
-        <translation>Cèiseag B4</translation>
+        <translation>ظرف B4</translation>
     </message>
     <message>
         <source>Envelope B5</source>
-        <translation>Cèiseag B5</translation>
+        <translation>ظرف B5</translation>
     </message>
     <message>
         <source>Envelope B6</source>
-        <translation>Cèiseag B6</translation>
+        <translation>ظرف B6</translation>
     </message>
     <message>
         <source>Envelope C0</source>
-        <translation>Cèiseag C0</translation>
+        <translation>ظرف C0</translation>
     </message>
     <message>
         <source>Envelope C1</source>
-        <translation>Cèiseag C1</translation>
+        <translation>ظرف C1</translation>
     </message>
     <message>
         <source>Envelope C2</source>
-        <translation>Cèiseag C2</translation>
+        <translation>ظرف C2</translation>
     </message>
     <message>
         <source>Envelope C3</source>
-        <translation>Cèiseag C3</translation>
+        <translation>ظرف C3</translation>
     </message>
     <message>
         <source>Envelope C4</source>
-        <translation>Cèiseag C4</translation>
+        <translation>ظرف C4</translation>
     </message>
     <message>
         <source>Envelope C5</source>
-        <translation>Cèiseag C5</translation>
+        <translation>ظرف C5</translation>
     </message>
     <message>
         <source>Envelope C6</source>
-        <translation>Cèiseag C6</translation>
+        <translation>ظرف C6</translation>
     </message>
     <message>
         <source>Envelope C65</source>
-        <translation>Cèiseag C65</translation>
+        <translation>ظرف C65</translation>
     </message>
     <message>
         <source>Envelope C7</source>
-        <translation>Cèiseag C7</translation>
+        <translation>ظرف C7</translation>
     </message>
     <message>
         <source>Envelope DL</source>
-        <translation>Cèiseag DL</translation>
+        <translation>ظرف DL</translation>
     </message>
     <message>
         <source>Envelope US 9</source>
-        <translation>Cèiseag US 9</translation>
+        <translation>ظرف أمريكيّ 9</translation>
     </message>
     <message>
         <source>Envelope US 10</source>
-        <translation>Cèiseag US 10</translation>
+        <translation>ظرف أمريكيّ 10</translation>
     </message>
     <message>
         <source>Envelope US 11</source>
-        <translation>Cèiseag US 11</translation>
+        <translation>ظرف أمريكيّ 11</translation>
     </message>
     <message>
         <source>Envelope US 12</source>
-        <translation>Cèiseag US 12</translation>
+        <translation>ظرف أمريكيّ 12</translation>
     </message>
     <message>
         <source>Envelope US 14</source>
-        <translation>Cèiseag US 14</translation>
+        <translation>ظرف أمريكيّ 14</translation>
     </message>
     <message>
         <source>Envelope Monarch</source>
-        <translation>Cèiseag Monarch</translation>
+        <translation>ظرف ملكيّ</translation>
     </message>
     <message>
         <source>Envelope Personal</source>
-        <translation>Cèiseag Phearsanta</translation>
+        <translation>ظرف شخصيّ</translation>
     </message>
     <message>
         <source>Envelope Chou 3</source>
-        <translation>Cèiseag Chou 3</translation>
+        <translation>ظرف تشو ٣</translation>
     </message>
     <message>
         <source>Envelope Chou 4</source>
-        <translation>Cèiseag Chou 4</translation>
+        <translation>ظرف تشو ٤</translation>
     </message>
     <message>
         <source>Envelope Invite</source>
-        <translation>Cèiseag Cuiridh</translation>
+        <translation>ظرف دعوة</translation>
     </message>
     <message>
         <source>Envelope Italian</source>
-        <translation>Cèiseag Eadailteach</translation>
+        <translation>ظرف إيطاليّ</translation>
     </message>
     <message>
         <source>Envelope Kaku 2</source>
-        <translation>Cèiseag Kaku 2</translation>
+        <translation>ظرف كاكو ٢</translation>
     </message>
     <message>
         <source>Envelope Kaku 3</source>
-        <translation>Cèiseag Kaku 3</translation>
+        <translation>ظرف كاكو ٣</translation>
     </message>
     <message>
         <source>Envelope PRC 1</source>
-        <translation>Cèiseag PRC 1</translation>
+        <translation>ظرف PRC ‏١</translation>
     </message>
     <message>
         <source>Envelope PRC 2</source>
-        <translation>Cèiseag PRC 2</translation>
+        <translation>ظرف PRC ‏٢</translation>
     </message>
     <message>
         <source>Envelope PRC 3</source>
-        <translation>Cèiseag PRC 3</translation>
+        <translation>ظرف PRC ‏٣</translation>
     </message>
     <message>
         <source>Envelope PRC 4</source>
-        <translation>Cèiseag PRC 4</translation>
+        <translation>ظرف PRC ‏٤</translation>
     </message>
     <message>
         <source>Envelope PRC 5</source>
-        <translation>Cèiseag PRC 5</translation>
+        <translation>ظرف PRC ‏٥</translation>
     </message>
     <message>
         <source>Envelope PRC 6</source>
-        <translation>Cèiseag PRC 6</translation>
+        <translation>ظرف PRC ‏٦</translation>
     </message>
     <message>
         <source>Envelope PRC 7</source>
-        <translation>Cèiseag PRC 7</translation>
+        <translation>ظرف PRC ‏٧</translation>
     </message>
     <message>
         <source>Envelope PRC 8</source>
-        <translation>Cèiseag PRC 8</translation>
+        <translation>ظرف PRC ‏٨</translation>
     </message>
     <message>
         <source>Envelope PRC 9</source>
-        <translation>Cèiseag PRC 9</translation>
+        <translation>ظرف PRC ‏٩</translation>
     </message>
     <message>
         <source>Envelope PRC 10</source>
-        <translation>Cèiseag PRC 10</translation>
+        <translation>ظرف PRC ‏١٠</translation>
     </message>
     <message>
         <source>Envelope You 4</source>
-        <translation>Cèiseag You 4</translation>
+        <translation>ظرفك أنت ٤</translation>
     </message>
 </context>
 <context>
     <name>QPlatformTheme</name>
     <message>
         <source>OK</source>
-        <translation>Ceart ma-thà</translation>
+        <translation>حسنًا</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Sàbhail</translation>
+        <translation>احفظ</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation>Sàbhail na h-uile</translation>
+        <translation>احفظ الكلّ</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Fosgail</translation>
+        <translation>افتح</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Tha</translation>
+        <translation>&amp;نعم</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation>“Tha” leis n&amp;a h-uile</translation>
+        <translation>ن&amp;عم للكلّ</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Chan eil</translation>
+        <translation>&amp;لا</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation>“Chan eil” leis na h-&amp;uile</translation>
+        <translation>لا لل&amp;كلّ</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Sguir dheth</translation>
+        <translation>أجهض</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation>Feuch a-rithist</translation>
+        <translation>حاول مجدّدًا</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation>Leig seachad</translation>
+        <translation>تجاهل</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Dùin</translation>
+        <translation>أغلق</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Sguir dheth</translation>
+        <translation>ألغِ</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation>Tilg air falbh</translation>
+        <translation>ارفض</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Cobhair</translation>
+        <translation>مساعدة</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Cuir an sàs</translation>
+        <translation>طبّق</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Ath-shuidhich</translation>
+        <translation>صفّر</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation>Aisig na bun-roghainnean</translation>
+        <translation>استعد الافتراضيّات</translation>
     </message>
 </context>
 <context>
     <name>QPluginLoader</name>
     <message>
         <source>The plugin was not loaded.</source>
-        <translation>Cha deach am plugan a luchdadh.</translation>
+        <translation>لم تُحمّل الملحقة.</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Mearachd nach aithne dhuinn</translation>
+        <translation>خطأ مجهول</translation>
     </message>
 </context>
 <context>
     <name>QPrintDialog</name>
     <message>
         <source>Print</source>
-        <translation>Clò-bhuail</translation>
+        <translation>اطبع</translation>
     </message>
     <message>
         <source>Left to Right, Top to Bottom</source>
-        <translation>Clì gu deas, barr gu bonn</translation>
+        <translation>يسار إلى يمين، أعلى إلى أسفل</translation>
     </message>
     <message>
         <source>Left to Right, Bottom to Top</source>
-        <translation>Clì gu deas, bonn gu barr</translation>
+        <translation>يسار إلى يمين، أسفل إلى أعلى</translation>
     </message>
     <message>
         <source>Right to Left, Bottom to Top</source>
-        <translation>Deas gu clì, bonn gu barr</translation>
+        <translation>يمين إلى يسار، أسفل إلى أعلى</translation>
     </message>
     <message>
         <source>Right to Left, Top to Bottom</source>
-        <translation>Deas gu clì, barr gu bonn</translation>
+        <translation>يمين إلى يسار، أعلى إلى أسفل</translation>
     </message>
     <message>
         <source>Bottom to Top, Left to Right</source>
-        <translation>Bonn gu barr, clì gu deas</translation>
+        <translation>أسفل إلى أعلى، يسار إلى يمين</translation>
     </message>
     <message>
         <source>Bottom to Top, Right to Left</source>
-        <translation>Bonn gu barr, deas gu clì</translation>
+        <translation>أسفل إلى أعلى، يمين إلى يسار</translation>
     </message>
     <message>
         <source>Top to Bottom, Left to Right</source>
-        <translation>Barr gu bonn, clì gu deas</translation>
+        <translation>أعلى إلى أسفل، يسار إلى يمين</translation>
     </message>
     <message>
         <source>Top to Bottom, Right to Left</source>
-        <translation>Barr gu bonn, deas gu clì</translation>
+        <translation>أعلى إلى أسفل، يمين إلى يسار</translation>
     </message>
     <message>
         <source>1 (1x1)</source>
-        <translation>1 (1x1)</translation>
+        <translation>‏١ (١×١)</translation>
     </message>
     <message>
         <source>2 (2x1)</source>
-        <translation>2 (2x1)</translation>
+        <translation>‏٢ (٢×١)</translation>
     </message>
     <message>
         <source>4 (2x2)</source>
-        <translation>4 (2x2)</translation>
+        <translation>‏٤ (٢×٢)</translation>
     </message>
     <message>
         <source>6 (2x3)</source>
-        <translation>6 (2x3)</translation>
+        <translation>‏٦ (٢×٣)</translation>
     </message>
     <message>
         <source>9 (3x3)</source>
-        <translation>9 (3x3)</translation>
+        <translation>‏٩ (٣×٣)</translation>
     </message>
     <message>
         <source>16 (4x4)</source>
-        <translation>16 (4x4)</translation>
+        <translation>‏١٦ (٤×٤)</translation>
     </message>
     <message>
         <source>All Pages</source>
-        <translation>A h-uile duilleag</translation>
+        <translation>كلّ الصّفحات</translation>
     </message>
     <message>
         <source>Odd Pages</source>
-        <translation>Duilleagan corra</translation>
+        <translation>الصّفحات الفرديّة</translation>
     </message>
     <message>
         <source>Even Pages</source>
-        <translation>Duilleagan cothrom</translation>
+        <translation>الصّفحات الزّوجيّة</translation>
     </message>
     <message>
         <source>&amp;Options &gt;&gt;</source>
-        <translation>R&amp;oghainnean &gt;&gt;</translation>
+        <translation>&amp;خيارات &gt;&gt;</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation>&amp;Clò-bhuail</translation>
+        <translation>ا&amp;طبع</translation>
     </message>
     <message>
         <source>&amp;Options &lt;&lt;</source>
-        <translation>R&amp;oghainnean &lt;&lt;</translation>
+        <translation>&amp;خيارات &lt;&lt;</translation>
     </message>
     <message>
         <source>Print to File (PDF)</source>
-        <translation>Clò-bhuail gu faidhle (PDF)</translation>
+        <translation>اطبع إلى ملفّ (PDF)</translation>
     </message>
     <message>
         <source>Local file</source>
-        <translation>Faidhle ionadail</translation>
+        <translation>ملفّ محلّيّ</translation>
     </message>
     <message>
         <source>Write PDF file</source>
-        <translation>Sgrìobh faidhle PDF</translation>
+        <translation>ملفّ PDF للكتابة</translation>
     </message>
     <message>
         <source>Print To File ...</source>
-        <translation>Clò-bhuail gu faidhle…</translation>
+        <translation>اطبع إلى ملفّ...</translation>
     </message>
     <message>
         <source>%1 is a directory.
 Please choose a different file name.</source>
-        <translation>Tha %1 ’na phasgan.
-Tagh ainm faidhle eile.</translation>
+        <translation>إنّ %1 دليل.
+رجاءً اختر اسم ملفّ آخر.</translation>
     </message>
     <message>
         <source>File %1 is not writable.
 Please choose a different file name.</source>
-        <translation>Cha ghabh sgrìobhadh dhan fhaidhle %1.
-Tagh ainm faidhle eile.</translation>
+        <translation>الملفّ %1 غير قابل للكتابة.
+رجاءً اختر اسم ملفّ آخر.</translation>
     </message>
     <message>
         <source>%1 already exists.
 Do you want to overwrite it?</source>
-        <translation>Tha %1 ann mar-thà.
-A bheil thu airson sgrìobhadh thairis air?</translation>
+        <translation>إنّ %1 موجود بالفعل.
+أتريد الكتابة فوقه؟</translation>
     </message>
     <message>
         <source>Options &apos;Pages Per Sheet&apos; and &apos;Page Set&apos; cannot be used together.
 Please turn one of those options off.</source>
-        <translation>Cha ghabh na roghainnean “Co mheud duilleag air gach siota” ’s “Seata dhuilleagan” a chleachdadh còmhla.
-Cuir tè dhe na roghainnean sin dheth.</translation>
+        <translation>لا يمكن استخدام خياريّ ’الصّفحات في كلّ ورقة‘ و’طقم صفحات‘ في آن واحد.
+رجاءً عطّل أحدهما.</translation>
     </message>
     <message>
         <source>The &apos;From&apos; value cannot be greater than the &apos;To&apos; value.</source>
-        <translation>Chan fhaod luach “O” a bhith nas motha na luach “Gu”.</translation>
+        <translation>لا يمكن أن تكون قيمة ’من‘ أعلى من قيمة ’إلى‘.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Ceart ma-thà</translation>
+        <translation>حسنًا</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Fèin-obrachail</translation>
+        <translation>آليّ</translation>
     </message>
 </context>
 <context>
     <name>QPrintPreviewDialog</name>
     <message>
         <source>Page Setup</source>
-        <translation>Roghainnean na duilleige</translation>
+        <translation>إعداد الصّفحة</translation>
     </message>
     <message>
         <source>%1%</source>
-        <translation>%1%</translation>
+        <translation>‏%L1٪</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Ro-shealladh clò-bhualaidh</translation>
+        <translation>معاينة الطّباعة</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>An ath-dhuilleag</translation>
+        <translation>الصّفحة التّالية</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>An duilleag roimhpe</translation>
+        <translation>الصّفحة السّابقة</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>A’ chiad duilleag</translation>
+        <translation>الصّفحة الأولى</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>An duilleag mu dheireadh</translation>
+        <translation>الصّفحة الأخيرة</translation>
     </message>
     <message>
         <source>Fit width</source>
-        <translation>Co-fhreagair ris an leud</translation>
+        <translation>لائم العرض</translation>
     </message>
     <message>
         <source>Fit page</source>
-        <translation>Co-fhreagair ris an duilleag</translation>
+        <translation>لائم الصّفحة</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Sùm a-steach</translation>
+        <translation>قرّب</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Sùm a-mach</translation>
+        <translation>بعّد</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Portraid</translation>
+        <translation>طوليّ</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation>Dreach-tìre</translation>
+        <translation>عرضيّ</translation>
     </message>
     <message>
         <source>Show single page</source>
-        <translation>Seall duilleagan fa leth</translation>
+        <translation>أظهر صفحة واحدة</translation>
     </message>
     <message>
         <source>Show facing pages</source>
-        <translation>Seall duilleagan aghaidheach</translation>
+        <translation>أظهر الصّفحات متقابلةً</translation>
     </message>
     <message>
         <source>Show overview of all pages</source>
-        <translation>Seall foir-shealladh air na duilleagan uile</translation>
+        <translation>أظهر لمحة لكلّ الصّفحات</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation>Clò-bhuail</translation>
+        <translation>اطبع</translation>
     </message>
     <message>
         <source>Page setup</source>
-        <translation>Roghainnean na duilleige</translation>
+        <translation>إعداد الصّفحة</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Às-phortaich gu PDF</translation>
+        <translation>صدّر إلى PDF</translation>
     </message>
 </context>
 <context>
     <name>QPrintPropertiesDialog</name>
     <message>
         <source>Printer Properties</source>
-        <translation>Roghainnean a’ chlò-bhualadair</translation>
+        <translation>خصائص الطّابعة</translation>
     </message>
     <message>
         <source>Job Options</source>
-        <translation>Roghainnean na h-obrach</translation>
+        <translation>خيارات المهمّة</translation>
     </message>
 </context>
 <context>
     <name>QPrintPropertiesWidget</name>
     <message>
         <source>Form</source>
-        <translation>Foirm</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation>Duilleag</translation>
+        <translation>الصّفحة</translation>
     </message>
 </context>
 <context>
     <name>QPrintSettingsOutput</name>
     <message>
         <source>Form</source>
-        <translation>Foirm</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <source>Copies</source>
-        <translation>Lethbhreacan</translation>
+        <translation>النُّسخ</translation>
     </message>
     <message>
         <source>Print range</source>
-        <translation>Rainse a’ chlò-bhualaidh</translation>
+        <translation>مجال الطّباعة</translation>
     </message>
     <message>
         <source>Print all</source>
-        <translation>Clò-bhuail na h-uile</translation>
+        <translation>اطبع الكلّ</translation>
     </message>
     <message>
         <source>Pages from</source>
-        <translation>Duilleagan o</translation>
+        <translation>الصّفحات من</translation>
     </message>
     <message>
         <source>to</source>
-        <translation>gu</translation>
+        <translation>إلى</translation>
     </message>
     <message>
         <source>Current Page</source>
-        <translation>An duilleag làithreach</translation>
+        <translation>الصّفحة الحاليّة</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation>Taghadh</translation>
+        <translation>التّحديد</translation>
     </message>
     <message>
         <source>Page Set:</source>
-        <translation>Seata dhuilleagan:</translation>
+        <translation>طقم الصّفحات:</translation>
     </message>
     <message>
         <source>Output Settings</source>
-        <translation>Roghainnean an às-chuir</translation>
+        <translation>خيارات الخرج</translation>
     </message>
     <message>
         <source>Copies:</source>
-        <translation>Lethbhreacan:</translation>
+        <translation>النُّسخ:</translation>
     </message>
     <message>
         <source>Collate</source>
-        <translation>Collaidich</translation>
+        <translation>جمّع</translation>
     </message>
     <message>
         <source>Reverse</source>
-        <translation>Deireadh air thoiseach</translation>
+        <translation>اعكس</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Roghainnean</translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <source>Color Mode</source>
-        <translation>Modh datha</translation>
+        <translation>الوضع اللونيّ</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>Dath</translation>
+        <translation>ملوّن</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation>Liath-sgèile</translation>
+        <translation>تدرّج الرّماديّ</translation>
     </message>
     <message>
         <source>Duplex Printing</source>
-        <translation>Clò-bhualadh dà-thaobhach</translation>
+        <translation>الطّباعة على الوجهين</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Chan eil gin</translation>
+        <translation>بلا</translation>
     </message>
     <message>
         <source>Long side</source>
-        <translation>Taobh fada</translation>
+        <translation>الجهة الطّولية</translation>
     </message>
     <message>
         <source>Short side</source>
-        <translation>Taobh goirid</translation>
+        <translation>الجهة القصيرة</translation>
     </message>
 </context>
 <context>
     <name>QPrintWidget</name>
     <message>
         <source>Form</source>
-        <translation>Foirm</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <source>Printer</source>
-        <translation>Clò-bhualadair</translation>
+        <translation>الطّابعة</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>Ai&amp;nm:</translation>
+        <translation>الا&amp;سم:</translation>
     </message>
     <message>
         <source>P&amp;roperties</source>
-        <translation>&amp;Roghainnean</translation>
+        <translation>&amp;خصائص</translation>
     </message>
     <message>
         <source>Location:</source>
-        <translation>Ionad:</translation>
+        <translation>المكان:</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Ro-shealladh</translation>
+        <translation>عاين</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation>Seòrsa:</translation>
+        <translation>النّوع:</translation>
     </message>
     <message>
         <source>Output &amp;file:</source>
-        <translation>&amp;Faidhle às-chuir:</translation>
+        <translation>ال&amp;ملفّ الخرج:</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>…</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
     <name>QProcess</name>
     <message>
         <source>Process failed to start</source>
-        <translation>Dh’fhàillig le tòiseachadh air a’ phròiseas</translation>
+        <translation>فشل بدء العمليّة</translation>
     </message>
     <message>
         <source>Process crashed</source>
-        <translation>Thuislich am pròiseas</translation>
+        <translation>انهارت العمليّة</translation>
     </message>
     <message>
         <source>Process operation timed out</source>
-        <translation>Dh’fhalbh an ùine air obrachadh a’ phròiseis</translation>
+        <translation>انتهت مهلة عمليّة العمليّة</translation>
     </message>
     <message>
         <source>Error reading from process</source>
-        <translation>Mearachd le leughadh on phròiseas</translation>
+        <translation>خطأ في القراءة من العمليّة</translation>
     </message>
     <message>
         <source>Error writing to process</source>
-        <translation>Mearachd le sgrìobhadh dhan phròiseas</translation>
+        <translation>خطأ في الكتابة إلى العمليّة</translation>
     </message>
     <message>
         <source>No program defined</source>
-        <translation>Cha deach prògram a mhìneachadh</translation>
+        <translation>لم يُحدَّد برنامج</translation>
     </message>
     <message>
         <source>Could not open input redirection for reading</source>
-        <translation>Cha b’ urrainn dhuinn sìneadh air adhart an ion-chuir fhosgladh a chum leughaidh</translation>
+        <translation>تعذّر فتح إعادة توجيه الدّخل للقراءة</translation>
     </message>
     <message>
         <source>Resource error (fork failure): %1</source>
-        <translation>Mearachd goireis (fàilligeadh na fuirce): %1</translation>
+        <translation>خطأ في الموارد (فشل النّسخ/Fork): ‏%1</translation>
     </message>
     <message>
         <source>Could not open output redirection for writing</source>
-        <translation>Cha b’ urrainn dhuinn sìneadh air adhart an às-chuir fhosgladh a chum sgrìobhaidh</translation>
+        <translation>تعذّر فتح إعادة توجيه الخرج للكتابة</translation>
     </message>
     <message>
         <source>Process failed to start: %1</source>
-        <translation>Dh’fhàillig le tòiseachadh air a’ phròiseas: %1</translation>
+        <translation>فشل بدء العمليّة: %1</translation>
     </message>
 </context>
 <context>
     <name>QProgressDialog</name>
     <message>
         <source>Cancel</source>
-        <translation>Sguir dheth</translation>
-    </message>
-</context>
-<context>
-    <name>QQnxFileDialogHelper</name>
-    <message>
-        <source>All files (*.*)</source>
-        <translation type="vanished">Na h-uile faidhle (*.*)</translation>
-    </message>
-</context>
-<context>
-    <name>QQnxFilePicker</name>
-    <message>
-        <source>Pick a file</source>
-        <translation type="vanished">Tagh faidhle</translation>
+        <translation>ألغِ</translation>
     </message>
 </context>
 <context>
     <name>QRegExp</name>
     <message>
         <source>no error occurred</source>
-        <translation>cha do thachair mearachd</translation>
+        <translation>لم تحدث أخطاء</translation>
     </message>
     <message>
         <source>disabled feature used</source>
-        <translation>chaidh gleus à comas a chleachdadh</translation>
+        <translation>استُخدمت ميزة معطّلة</translation>
     </message>
     <message>
         <source>bad char class syntax</source>
-        <translation>droch cho-chàradh air clas caractair</translation>
+        <translation>صياغة صنف المحرف سيّئة</translation>
     </message>
     <message>
         <source>bad lookahead syntax</source>
-        <translation>droch cho-chàradh lookahead</translation>
+        <translation>صياغة نظر للأمام سيّئة</translation>
     </message>
     <message>
         <source>lookbehinds not supported, see QTBUG-2371</source>
-        <translation>chan eil taic ri lookbehind, faic QTBUG-2371</translation>
+        <translation>النّظر للخلف غير مدعوم، طالع العلّة رقم ٢٣٧١</translation>
     </message>
     <message>
         <source>bad repetition syntax</source>
-        <translation>droch cho-chàradh atharrais</translation>
+        <translation>صياغة تكرار سيّئة</translation>
     </message>
     <message>
         <source>invalid octal value</source>
-        <translation>luach ochdach mì-dhligheach</translation>
+        <translation>قيمة ثمانيّة غير صالحة</translation>
     </message>
     <message>
         <source>missing left delim</source>
-        <translation>tha comharra-crìche clì a dhìth</translation>
+        <translation>محدّد اليسار ناقص</translation>
     </message>
     <message>
         <source>unexpected end</source>
-        <translation>deireadh gun dùil</translation>
+        <translation>نهاية غير متوقّعة</translation>
     </message>
     <message>
         <source>met internal limit</source>
-        <translation>chaidh crìoch an eadaraimh a choileanadh</translation>
+        <translation>قابلتُ الحدّ الدّاخليّ</translation>
     </message>
     <message>
         <source>invalid interval</source>
-        <translation>eadaramh mì-dhligheach</translation>
+        <translation>فترة غير صالحة</translation>
     </message>
     <message>
         <source>invalid category</source>
-        <translation>roinn-seòrsa mì-dhligheach</translation>
+        <translation>فئة غير صالحة</translation>
     </message>
 </context>
 <context>
     <name>QRegularExpression</name>
     <message>
         <source>no error</source>
-        <translation>gun mhearachd</translation>
+        <translation>لا أخطاء</translation>
     </message>
     <message>
         <source>\ at end of pattern</source>
-        <translation>\ air deireadh pàtrain</translation>
+        <translation>\ عند نهاية النّمط</translation>
     </message>
     <message>
         <source>\c at end of pattern</source>
-        <translation>\c air deireadh pàtrain</translation>
+        <translation>‏‎\c عند نهاية النّمط</translation>
     </message>
     <message>
         <source>unrecognized character follows \</source>
-        <translation>tha caractar nach aithne dhuinn às dhèidh \ ann</translation>
+        <translation>محرف لا يمكن فهمه يتبع \</translation>
     </message>
     <message>
         <source>numbers out of order in {} quantifier</source>
-        <translation>droch òrdugh air àireamhan ann an uimhrichear {}</translation>
+        <translation>الأعداد ليست مرتّبة في محدّد {}</translation>
     </message>
     <message>
         <source>number too big in {} quantifier</source>
-        <translation>àireamh ro mhòr ann an uimhrichear {}</translation>
+        <translation>العدد كبير جدًّا في محدّد {}</translation>
     </message>
     <message>
         <source>missing terminating ] for character class</source>
-        <translation>tha ] crìochnachaidh a dhìth air clas charactaran</translation>
+        <translation>محرف [ الإنهائيّ ناقص لصنف المحرف</translation>
     </message>
     <message>
         <source>invalid escape sequence in character class</source>
-        <translation>sreath teàrnaidh mì-dligheach ann an clas charactaran</translation>
+        <translation>تسلسل هروب غير صالح في صنف المحرف</translation>
     </message>
     <message>
         <source>range out of order in character class</source>
-        <translation>tha droch-òrdugh air rainse ann an clas charactaran</translation>
-    </message>
-    <message>
-        <source>nothing to repeat</source>
-        <translation type="vanished">chan eil dad ri atharrais ann</translation>
-    </message>
-    <message>
-        <source>internal error: unexpected repeat</source>
-        <translation>mearachd inntearnail: atharrais air nach robh dùil</translation>
-    </message>
-    <message>
-        <source>unrecognized character after (? or (?-</source>
-        <translation>tha caractar nach aithne dhuinn às dhèidh (? no (?-</translation>
-    </message>
-    <message>
-        <source>POSIX named classes are supported only within a class</source>
-        <translation>Cha chuirear taic ri clasaichean ainmichte POSIX ach am broinn clas</translation>
-    </message>
-    <message>
-        <source>missing )</source>
-        <translation type="vanished">tha ) a dhìth</translation>
-    </message>
-    <message>
-        <source>reference to non-existent subpattern</source>
-        <translation>reifreans air fo-phàtran nach eil ann</translation>
-    </message>
-    <message>
-        <source>erroffset passed as NULL</source>
-        <translation type="vanished">chaidh erroffset a chur ann ’na NULL</translation>
-    </message>
-    <message>
-        <source>unknown option bit(s) set</source>
-        <translation type="vanished">tha seata biod(aichean) ann nach aithne dhuinn</translation>
-    </message>
-    <message>
-        <source>missing ) after comment</source>
-        <translation type="vanished">tha ) a dhìth às dèidh beachd</translation>
-    </message>
-    <message>
-        <source>regular expression is too large</source>
-        <translation>tha an t-eas-preisean riaghailteach ro mhòr</translation>
-    </message>
-    <message>
-        <source>failed to get memory</source>
-        <translation type="vanished">cha deach leinn cuimhne fhaighinn</translation>
-    </message>
-    <message>
-        <source>unmatched parentheses</source>
-        <translation type="vanished">chan eil na camagan a-rèir a chèile</translation>
-    </message>
-    <message>
-        <source>internal error: code overflow</source>
-        <translation>mearachd inntearnail: taosgadh còid</translation>
-    </message>
-    <message>
-        <source>unrecognized character after (?&lt;</source>
-        <translation type="vanished">tha caractar nach aithne dhuinn às dhèidh (?&lt; ann</translation>
-    </message>
-    <message>
-        <source>lookbehind assertion is not fixed length</source>
-        <translation>chan eil fad socraichte aig a’ lookbehind assertion</translation>
-    </message>
-    <message>
-        <source>malformed number or name after (?(</source>
-        <translation>tha àireamh no ainm le droch-chumadh às dèidh (?(</translation>
-    </message>
-    <message>
-        <source>conditional group contains more than two branches</source>
-        <translation>tha corr is dà mheur aig buidheann cumhach</translation>
-    </message>
-    <message>
-        <source>assertion expected after (?(</source>
-        <translation type="vanished">tha dùil air assertion às dèidh (?(</translation>
-    </message>
-    <message>
-        <source>(?R or (?[+-]digits must be followed by )</source>
-        <translation>feumaidh ) a bhith as dèidh (?R no (?[+-]àireamhan</translation>
-    </message>
-    <message>
-        <source>unknown POSIX class name</source>
-        <translation>ainm clas POSIX nach aithne dhuinn</translation>
-    </message>
-    <message>
-        <source>POSIX collating elements are not supported</source>
-        <translation>cha chuirear taic ri eileamaidean POSIX collaididh</translation>
-    </message>
-    <message>
-        <source>this version of PCRE is not compiled with PCRE_UTF8 support</source>
-        <translation type="vanished">cha deach an tionndadh seo dhe PCRE a thrusadh le taic ri PCRE_UTF8</translation>
-    </message>
-    <message>
-        <source>character value in \x{...} sequence is too large</source>
-        <translation type="vanished">tha luach caractair ann an sreath \x{...} ro mhòr</translation>
-    </message>
-    <message>
-        <source>invalid condition (?(0)</source>
-        <translation>cumha mhì-dhligheach (?(0)</translation>
-    </message>
-    <message>
-        <source>\C not allowed in lookbehind assertion</source>
-        <translation type="vanished">chan eil \C ceadaichte ann an lookbehind assertion</translation>
-    </message>
-    <message>
-        <source>PCRE does not support \L, \l, \N{name}, \U, or \u</source>
-        <translation>cha chuir PCRE taic ri \L, \l, \N{ainm}, \U no \u</translation>
-    </message>
-    <message>
-        <source>number after (?C is &gt; 255</source>
-        <translation type="vanished">tha àireamh às dèidh (?C nas motha na 255</translation>
-    </message>
-    <message>
-        <source>closing ) for (?C expected</source>
-        <translation type="vanished">an dùil air ) a dhùineas (?C</translation>
-    </message>
-    <message>
-        <source>recursive call could loop indefinitely</source>
-        <translation type="vanished">b’ urrainn do ghairm ath-chùrsach a lùbadh gu buan</translation>
-    </message>
-    <message>
-        <source>unrecognized character after (?P</source>
-        <translation>tha caractar nach aithne dhuinn às dhèidh (?P ann</translation>
-    </message>
-    <message>
-        <source>syntax error in subpattern name (missing terminator)</source>
-        <translation>tha mearachd co-chàraidh ann an ainm fo-phàtrain (tha crìochnaichear a dhìth)</translation>
-    </message>
-    <message>
-        <source>two named subpatterns have the same name</source>
-        <translation type="vanished">tha an t-aon ainm air dà fho-phàtran ainmichte</translation>
-    </message>
-    <message>
-        <source>invalid UTF-8 string</source>
-        <translation type="vanished">sreang UTF-8 mhì-dhligheach</translation>
-    </message>
-    <message>
-        <source>support for \P, \p, and \X has not been compiled</source>
-        <translation type="vanished">cha deach taic ri \P, \p agus \X a thrusadh</translation>
-    </message>
-    <message>
-        <source>malformed \P or \p sequence</source>
-        <translation>droch-chruth air sreath \P no \p</translation>
-    </message>
-    <message>
-        <source>unknown property name after \P or \p</source>
-        <translation>ainm buaidhe nach aithne dhuinn às dèidh \P no \p</translation>
-    </message>
-    <message>
-        <source>subpattern name is too long (maximum 32 characters)</source>
-        <translation type="vanished">tha ainm an fho-phàtrain ro fhada (32 caractar air a char as motha)</translation>
-    </message>
-    <message>
-        <source>too many named subpatterns (maximum 10000)</source>
-        <translation type="vanished">tha cus fho-phàtranan ainmichte ann (10000 air a char as motha)</translation>
-    </message>
-    <message>
-        <source>octal value is greater than \377 (not in UTF-8 mode)</source>
-        <translation type="vanished">tha luach ochdach nas motha na \377 (chan ann sa mhodh UTF-8)</translation>
-    </message>
-    <message>
-        <source>internal error: overran compiling workspace</source>
-        <translation>mearachd inntearnail: taosgadh air rum-obrach trusaidh</translation>
-    </message>
-    <message>
-        <source>internal error: previously-checked referenced subpattern not found</source>
-        <translation>mearachd inntearnail: tha reifreans air fo-phràtran nach deach a lorg ’s a chaidh a dhearbhadh roimhe</translation>
-    </message>
-    <message>
-        <source>DEFINE group contains more than one branch</source>
-        <translation>tha corr is aon mheur ann am buidheann DEFINE</translation>
-    </message>
-    <message>
-        <source>repeating a DEFINE group is not allowed</source>
-        <translation type="vanished">Chan fhaodar buidheann DEFINE atharrais</translation>
-    </message>
-    <message>
-        <source>inconsistent NEWLINE options</source>
-        <translation type="vanished">roghainnean NEWLINE neo-chunbhalach</translation>
-    </message>
-    <message>
-        <source>\g is not followed by a braced, angle-bracketed, or quoted name/number or by a plain number</source>
-        <translation>tha \g ann nach eil ’ga leantainn le ainm/àireamh le camagan dualach no ceàrnagach no iomradh no le àireamh lom</translation>
-    </message>
-    <message>
-        <source>a numbered reference must not be zero</source>
-        <translation>chan fhaod reifreans àireamhaichte a bhith ’na neoni</translation>
-    </message>
-    <message>
-        <source>an argument is not allowed for (*ACCEPT), (*FAIL), or (*COMMIT)</source>
-        <translation>chan eil argamaid ceadaichte air (*ACCEPT), (*FAIL) no (*COMMIT)</translation>
-    </message>
-    <message>
-        <source>(*VERB) not recognized</source>
-        <translation type="vanished">cha do dh’aithnich sinn (*VERB)</translation>
-    </message>
-    <message>
-        <source>number is too big</source>
-        <translation>tha an àireamh ro mhòr</translation>
-    </message>
-    <message>
-        <source>subpattern name expected</source>
-        <translation>tha dùil air ainm fo-phàtrain</translation>
-    </message>
-    <message>
-        <source>digit expected after (?+</source>
-        <translation>tha dùil air àireamh às dèidh (?+</translation>
-    </message>
-    <message>
-        <source>] is an invalid data character in JavaScript compatibility mode</source>
-        <translation type="vanished">tha ] ’na charactar dàta mì-dhligheach ann am modh co-chòrdalachd JavaScript</translation>
-    </message>
-    <message>
-        <source>different names for subpatterns of the same number are not allowed</source>
-        <translation>chan eil ainmean diofraichte air fo-phàtranan air an aon àireamh ceadaichte</translation>
-    </message>
-    <message>
-        <source>(*MARK) must have an argument</source>
-        <translation>feumaidh argamaid a bhith aig (*MARK)</translation>
-    </message>
-    <message>
-        <source>this version of PCRE is not compiled with PCRE_UCP support</source>
-        <translation type="vanished">cha deach an tionndadh seo dhe PCRE a thrusadh le taic ri PCRE_UCP</translation>
-    </message>
-    <message>
-        <source>\c must be followed by an ASCII character</source>
-        <translation type="vanished">feumaidh caractar ASCII a bhith ann às dèidh \c</translation>
-    </message>
-    <message>
-        <source>\k is not followed by a braced, angle-bracketed, or quoted name</source>
-        <translation>tha \k ann nach eil ’ga leantainn le ainm le camagan dualach no ceàrnagach no iomradh</translation>
-    </message>
-    <message>
-        <source>internal error: unknown opcode in find_fixedlength()</source>
-        <translation>mearachd inntearnail: tha opcode nach aithne dhuinn ann am find_fixedlength()</translation>
-    </message>
-    <message>
-        <source>\N is not supported in a class</source>
-        <translation>cha chuirear taic ri \N ann an clas</translation>
-    </message>
-    <message>
-        <source>too many forward references</source>
-        <translation type="vanished">tha cus reifreansan air adhart ann</translation>
-    </message>
-    <message>
-        <source>disallowed Unicode code point (&gt;= 0xd800 &amp;&amp; &lt;= 0xdfff)</source>
-        <translation>tha phuing còd Unicode ann nach eil ceadaichte (&gt;= 0xd800 &amp;&amp; &lt;= 0xdfff)</translation>
-    </message>
-    <message>
-        <source>invalid UTF-16 string</source>
-        <translation type="vanished">sreang UTF-16 mhì-dhligheach</translation>
-    </message>
-    <message>
-        <source>name is too long in (*MARK), (*PRUNE), (*SKIP), or (*THEN)</source>
-        <translation>tha ainm ro fhada ann am (*MARK), (*PRUNE), (*SKIP) no (*THEN)</translation>
-    </message>
-    <message>
-        <source>character value in \u.... sequence is too large</source>
-        <translation type="vanished">tha luach caractair ann an sreath \u.... ro mhòr</translation>
-    </message>
-    <message>
-        <source>invalid UTF-32 string</source>
-        <translation type="vanished">sreang UTF-32 mhì-dhligheach</translation>
-    </message>
-    <message>
-        <source>setting UTF is disabled by the application</source>
-        <translation type="vanished">chaidh suidheachadh UTF a chur à comas leis an aplacaid</translation>
-    </message>
-    <message>
-        <source>non-hex character in \x{} (closing brace missing?)</source>
-        <translation>tha caractar nach eil sia-dheicheach ann an \x{} (a bheil a’ chamag dhùnaidh a dhìth?)</translation>
-    </message>
-    <message>
-        <source>non-octal character in \o{} (closing brace missing?)</source>
-        <translation>tha caractar nach eil ochdach ann an \o{} (a bheil a’ chamag dùnaidh a dhìth?)</translation>
-    </message>
-    <message>
-        <source>missing opening brace after \o</source>
-        <translation>tha camag dhualach fosglaidh a dhìth às dèidh \o</translation>
-    </message>
-    <message>
-        <source>parentheses are too deeply nested</source>
-        <translation>tha neadachadh ro dhomhainn air na camagan</translation>
-    </message>
-    <message>
-        <source>invalid range in character class</source>
-        <translation>rainse mhì-dligheach ann an clas charactaran</translation>
-    </message>
-    <message>
-        <source>group name must start with a non-digit</source>
-        <translation>chan fhaod ainm buidhinn a thòiseachadh le àireamh</translation>
+        <translation>المجال غير مرتّب في صنف المحرف</translation>
     </message>
     <message>
         <source>quantifier does not follow a repeatable item</source>
-        <translation>chan eil an t-uimhrichear a’ tighinn às dèidh nì a ghabhas atharrais</translation>
+        <translation>المحدّد لا يتبع عنصرًا يمكن تكراره</translation>
+    </message>
+    <message>
+        <source>internal error: unexpected repeat</source>
+        <translation>خطأ داخلي: تكرار غير متوقّع</translation>
+    </message>
+    <message>
+        <source>unrecognized character after (? or (?-</source>
+        <translation>محرف لا يمكن فهمه بعد ‎)?‎ أو ‎)?-‎</translation>
+    </message>
+    <message>
+        <source>POSIX named classes are supported only within a class</source>
+        <translation>الأصناف المسمّاة حسب POSIX مدعومة فقط داخل الأصناف</translation>
+    </message>
+    <message>
+        <source>POSIX collating elements are not supported</source>
+        <translation>عناصر POSIX المجموعة ليست مدعومة</translation>
     </message>
     <message>
         <source>missing closing parenthesis</source>
-        <translation>tha camag dùnaidh a dhìth</translation>
+        <translation>الأقواس الغالقة ناقصة</translation>
+    </message>
+    <message>
+        <source>reference to non-existent subpattern</source>
+        <translation>مرجع إلى نمط فرعيّ غير موجود</translation>
     </message>
     <message>
         <source>pattern passed as NULL</source>
-        <translation>chaidh pàtran a chur ann ’na NULL</translation>
+        <translation>مُرّر النّمط ك‍ NULL</translation>
     </message>
     <message>
         <source>unrecognised compile-time option bit(s)</source>
-        <translation>tha biod no dhà nach aithne dhuinn ann an roghainn àm trusaidh</translation>
+        <translation>بتّة/بتّات خيار وقت التّصريف لا يمكن فهمها</translation>
     </message>
     <message>
         <source>missing ) after (?# comment</source>
-        <translation>tha ) a dhìth às dèidh beachd (?#</translation>
+        <translation>( ناقص بعد تعليق ‎(?#‎</translation>
+    </message>
+    <message>
+        <source>parentheses are too deeply nested</source>
+        <translation>الأقواس متداخلة كثيرًا جدًّا</translation>
+    </message>
+    <message>
+        <source>regular expression is too large</source>
+        <translation>التّعبير النّمطيّ كبير جدًّا</translation>
     </message>
     <message>
         <source>failed to allocate heap memory</source>
-        <translation>cha deach leinn cuimhne heap a riarachadh</translation>
+        <translation>فشل تخصيص ذاكرة تكويم</translation>
     </message>
     <message>
         <source>unmatched closing parenthesis</source>
-        <translation>camag dùnaidh gun seise</translation>
+        <translation>الأقواس الغالقة لا تتطابق</translation>
+    </message>
+    <message>
+        <source>internal error: code overflow</source>
+        <translation>خطأ داخليّ: فيض في الكود</translation>
     </message>
     <message>
         <source>letter or underscore expected after (?&lt; or (?&apos;</source>
-        <translation>thathar an dùil air litir no fo-loidhne às dèidh (?&lt; no (?&apos;</translation>
+        <translation>توقّعتُ حرفًا أو شرطة سفليّة بعد ‎(?&lt;‎ أو ‎(?&apos;‎</translation>
+    </message>
+    <message>
+        <source>lookbehind assertion is not fixed length</source>
+        <translation>إثبات النّظر للخلف ليس بطول ثابت</translation>
+    </message>
+    <message>
+        <source>malformed number or name after (?(</source>
+        <translation>عدد/اسم تالف بعد ‎(?(‎</translation>
+    </message>
+    <message>
+        <source>conditional group contains more than two branches</source>
+        <translation>تحتوي المجموعة الشّرطيّة أكثر من فرعين</translation>
     </message>
     <message>
         <source>assertion expected after (?( or (?(?C)</source>
-        <translation>tha dùil air assertion às dèidh (?( no (?(?C)</translation>
+        <translation>توقّعتُ إثباتًا بعد ‎(?(‎ أو ‎(?(?C)‎</translation>
+    </message>
+    <message>
+        <source>(?R or (?[+-]digits must be followed by )</source>
+        <translation>يجب أن تُتبع ‎(?R أو ‎(?[+-]digits بِ‍ (</translation>
+    </message>
+    <message>
+        <source>unknown POSIX class name</source>
+        <translation>اسم صنف POSIX مجهول</translation>
     </message>
     <message>
         <source>internal error in pcre2_study(): should not occur</source>
-        <translation>mearachd inntearnail ann am pcre2_study(): cha bu chòir dha a bhith ann</translation>
+        <translation>خطأ داخليّ في pcre2_study()‎: لا يجب أن يحصل</translation>
     </message>
     <message>
         <source>this version of PCRE2 does not have Unicode support</source>
-        <translation>cha chuir an tionndadh seo dhe PCRE2 taic ri Unicode</translation>
+        <translation>ليس في إصدارة PCRE2 هذه دعم يونيكود</translation>
     </message>
     <message>
         <source>parentheses are too deeply nested (stack check)</source>
-        <translation>tha neadachadh ro dhomhainn air na camagan (dearbhadh staca)</translation>
+        <translation>الأقواس متداخلة كثيرًا جدًّا (تحقُّق من الرّصّة)</translation>
     </message>
     <message>
         <source>character code point value in \x{} or \o{} is too large</source>
-        <translation>tha an luach air puing còd caractair ann an sreath \x{...} no \o{} ro mhòr</translation>
+        <translation>قيمة نققطة المحرف الرّمزيّة في ‎\x{}‎ أو ‎\o{}‎ كبيرة جدًّا</translation>
+    </message>
+    <message>
+        <source>invalid condition (?(0)</source>
+        <translation>الشّرط ‎(?(0)‎ غير صالح</translation>
     </message>
     <message>
         <source>\C is not allowed in a lookbehind assertion</source>
-        <translation>chan eil \C ceadaichte ann an lookbehind assertion</translation>
+        <translation>‏‎\C ليس مسموحًا في إثبات نظر للخلف</translation>
+    </message>
+    <message>
+        <source>PCRE does not support \L, \l, \N{name}, \U, or \u</source>
+        <translation>لا يدعم PCRE الآتي: ‎\L، أو ‎\l، أو ‎\N{name}‎، أو ‎\U أو ‎\u</translation>
     </message>
     <message>
         <source>number after (?C is greater than 255</source>
-        <translation>tha àireamh às dèidh (?C nas motha na 255</translation>
+        <translation>العدد بعد ‎(?C أكبر من ٢٥٥</translation>
     </message>
     <message>
         <source>closing parenthesis for (?C expected</source>
-        <translation>an dùil air camag a dhùineas (?C</translation>
+        <translation>توقّعتُ أقواس غالقة ل‍ ‎(?C</translation>
     </message>
     <message>
         <source>invalid escape sequence in (*VERB) name</source>
-        <translation>sreath teàrnaidh mì-dligheach ann an ainm (*VERB)</translation>
+        <translation>تسلسل هروب غير صالح في اسم (‎*VERB)</translation>
+    </message>
+    <message>
+        <source>unrecognized character after (?P</source>
+        <translation>محرف لا يمكن فهمه بعد ‎(?P</translation>
+    </message>
+    <message>
+        <source>syntax error in subpattern name (missing terminator)</source>
+        <translation>خطأ صياغيّ في اسم النّمط الفرعيّ (المُنهي ناقص)</translation>
     </message>
     <message>
         <source>two named subpatterns have the same name (PCRE2_DUPNAMES not set)</source>
-        <translation>tha an t-aon ainm air dà fho-phàtran ainmichte (cha deach PCRE2_DUPNAMES a shuidheachadh)</translation>
+        <translation>نمطان فرعيّان مسمّيان ولهما نفس الاسم (لم يُضبط PCRE2_DUPNAMES)</translation>
+    </message>
+    <message>
+        <source>group name must start with a non-digit</source>
+        <translation>يجب أن يبدأ اسم المجموعة بأيّ شيء عدا الأرقام</translation>
     </message>
     <message>
         <source>this version of PCRE2 does not have support for \P, \p, or \X</source>
-        <translation>cha chuir an tionndadh seo dhe PCRE2 taic ri \P, \p no \X</translation>
+        <translation>ليس في إصدارة PCRE2 هذه دعم ‎\P، أو ‎\p أو ‎\X</translation>
+    </message>
+    <message>
+        <source>malformed \P or \p sequence</source>
+        <translation>تسلسل ‎\P أو ‎\p تالف</translation>
+    </message>
+    <message>
+        <source>unknown property name after \P or \p</source>
+        <translation>اسم خاصيّة مجهول بعد ‎\P أو ‎\p</translation>
     </message>
     <message>
         <source>subpattern name is too long (maximum 10000 characters)</source>
-        <translation>tha ainm an fho-phàtrain ro fhada (10000 caractar air a char as motha)</translation>
+        <translation>اسم النّمط الفرعيّ طويل جدًّا (الأقصى هو ١٠٠٠ محرف)</translation>
     </message>
     <message>
         <source>too many named subpatterns (maximum 256)</source>
-        <translation>tha cus fho-phàtranan ainmichte ann (256 air a char as motha)</translation>
+        <translation>الكثير من الأنماط الفرعيّة المسمّاة (الأقصى هو ٢٥٦)</translation>
+    </message>
+    <message>
+        <source>invalid range in character class</source>
+        <translation>مجال غير صالح في صنف المحرف</translation>
     </message>
     <message>
         <source>octal value is greater than \377 in 8-bit non-UTF-8 mode</source>
-        <translation>tha luach ochdach nas motha na \377 ann am modh 8-biodan gun UTF-8</translation>
+        <translation>القيمة الثّمانيّة أكبر من ‎\377 في وضع ”٨ بتّ ليس-UTF8“</translation>
+    </message>
+    <message>
+        <source>internal error: overran compiling workspace</source>
+        <translation>خطأ داخليّ: تجاوزتُ مساحة عمل التّصريف</translation>
+    </message>
+    <message>
+        <source>internal error: previously-checked referenced subpattern not found</source>
+        <translation>خطأ داخليّ: لم يُعثر على النّمط الفرعيّ المرجع المفحوص مسبقًا</translation>
+    </message>
+    <message>
+        <source>DEFINE group contains more than one branch</source>
+        <translation>تحتوي مجموعة DEFINE أكثر من فرع واحد</translation>
+    </message>
+    <message>
+        <source>missing opening brace after \o</source>
+        <translation>قوس الفتح ناقص بعد ‎\o</translation>
     </message>
     <message>
         <source>internal error: unknown newline setting</source>
-        <translation>mearachd inntearnail: roghainn loidhnichean ùra nach aithne dhuinn</translation>
+        <translation>خطأ داخليّ: إعداد أسطر جديدة مجهول</translation>
+    </message>
+    <message>
+        <source>\g is not followed by a braced, angle-bracketed, or quoted name/number or by a plain number</source>
+        <translation>‏‎\g ليس متبوعًا باسم/عدد محاطٍ بأقواس مجعّدة، أو زاويّة أو علامات اقتباس أو بعدد صِرف</translation>
+    </message>
+    <message>
+        <source>a numbered reference must not be zero</source>
+        <translation>يجب أن يكون المرجع المرقّم أيّ شيء عدا الصّفر</translation>
+    </message>
+    <message>
+        <source>an argument is not allowed for (*ACCEPT), (*FAIL), or (*COMMIT)</source>
+        <translation>ليس مسموحًا بالمعطيات لِ‍ (‎*ACCEPT)، أو (‎*FAIL) أو (‎*COMMIT)</translation>
     </message>
     <message>
         <source>(*VERB) not recognized or malformed</source>
-        <translation>cha do dh’aithnich sinn (*VERB) no tha droch-chrùth air</translation>
+        <translation>‏(‎*VERB) لا يمكن فهمه أو تالف</translation>
+    </message>
+    <message>
+        <source>number is too big</source>
+        <translation>العدد كبير جدًّا</translation>
+    </message>
+    <message>
+        <source>subpattern name expected</source>
+        <translation>توقّعتُ اسم نمط فرعيّ</translation>
+    </message>
+    <message>
+        <source>digit expected after (?+</source>
+        <translation>توقّعتُ رقمًا بعد ‎)?+‎</translation>
+    </message>
+    <message>
+        <source>non-octal character in \o{} (closing brace missing?)</source>
+        <translation>محرف ليس ثمانيّ في ‎\o{}‎ (القوس الغالق ناقص؟)</translation>
+    </message>
+    <message>
+        <source>different names for subpatterns of the same number are not allowed</source>
+        <translation>ليس مسموحًا بأسماء مختلفة لأنماط فرعيّة لها نفس العدد</translation>
+    </message>
+    <message>
+        <source>(*MARK) must have an argument</source>
+        <translation>يجب أن يكون ل‍ (‎*MARK) معطًى</translation>
+    </message>
+    <message>
+        <source>non-hex character in \x{} (closing brace missing?)</source>
+        <translation>محرف ليس ستّ عشريّ في ‎\x{}‎ (القوس الغالق ناقص؟)</translation>
     </message>
     <message>
         <source>\c must be followed by a printable ASCII character</source>
-        <translation>feumaidh caractar ASCII a ghabhas clò-bhualadh a bhith ann às dèidh \c</translation>
+        <translation>يجب أن يُتبع ‎\c بمحرف آسكي مطبوع</translation>
     </message>
     <message>
         <source>\c must be followed by a letter or one of [\]^_?</source>
-        <translation>feumaidh litir no fear dhe [\]^_? a bhith ann às dèidh \c</translation>
+        <translation>يجب أن يُتبع ‎\c بحرف أو واحد من ‎[\]^_?‎</translation>
+    </message>
+    <message>
+        <source>\k is not followed by a braced, angle-bracketed, or quoted name</source>
+        <translation>‏‎\k ليس متبوعًا باسم محاطٍ بأقواس مجعّدة، أو زاويّة أو علامات اقتباس</translation>
+    </message>
+    <message>
+        <source>internal error: unknown opcode in find_fixedlength()</source>
+        <translation>خطأ داخليّ: رمز عمليّة مجهول في find_fixedlength()‎</translation>
+    </message>
+    <message>
+        <source>\N is not supported in a class</source>
+        <translation>‏‎\N ليس مدعومًا في صنف</translation>
     </message>
     <message>
         <source>SPARE ERROR</source>
-        <translation>MEARACHD SPARE</translation>
+        <translation>خطأ عند الحاجة</translation>
+    </message>
+    <message>
+        <source>disallowed Unicode code point (&gt;= 0xd800 &amp;&amp; &lt;= 0xdfff)</source>
+        <translation>نقطة رمزيّة يونيكوديّة غير مسموح بها (أكبر من 0xd800 وأصغر من 0xdfff)</translation>
     </message>
     <message>
         <source>using UTF is disabled by the application</source>
-        <translation>chaidh cleachdadh UTF a chur à comas leis an aplacaid</translation>
+        <translation>عطّل التّطبيق استخدام UTF</translation>
     </message>
     <message>
         <source>using UCP is disabled by the application</source>
-        <translation>chaidh cleachdadh UCP a chur à comas leis an aplacaid</translation>
+        <translation>عطّل التّطبيق استخدام UCP</translation>
+    </message>
+    <message>
+        <source>name is too long in (*MARK), (*PRUNE), (*SKIP), or (*THEN)</source>
+        <translation>الاسم طويل جدًّا في (‎*MARK)، أو (‎*PRUNE)، أو (‎*SKIP) أو (‎*THEN)</translation>
     </message>
     <message>
         <source>character code point value in \u.... sequence is too large</source>
-        <translation>tha an luach air puing còd caractair ann an sreath \u.... ro mhòr</translation>
+        <translation>قيمة نقطة رمزيّة محرفيّة في ‎\u.... التّتابع كبير جدًّا</translation>
     </message>
     <message>
         <source>digits missing in \x{} or \o{}</source>
-        <translation>tha àireamhan a dìth ann an \x{} no \o{}</translation>
+        <translation>خانات ناقصة في ‎\x{}‎ أو ‎\o{}‎</translation>
     </message>
     <message>
         <source>syntax error in (?(VERSION condition</source>
-        <translation>Mearachd co-chàraidh ann an cumha (?(VERSION</translation>
+        <translation>خطأ صياغيّ في شرط ‎(?(VERSION</translation>
     </message>
     <message>
         <source>internal error: unknown opcode in auto_possessify()</source>
-        <translation>mearachd inntearnail: tha opcode nach aithne dhuinn ann am auto_possessify()</translation>
+        <translation>خطأ داخليّ: رمز عمليّة مجهول في auto_possessify()‎</translation>
     </message>
     <message>
         <source>missing terminating delimiter for callout with string argument</source>
-        <translation>tha comharra-crìche deiridh a dhìth air gairm le argamaid sreanga</translation>
+        <translation>محدّد الإنهاء ناقص للنّداء بمعطى سلسلة</translation>
     </message>
     <message>
         <source>unrecognized string delimiter follows (?C</source>
-        <translation>Tha comharra-crìche nach aithne dhuinn às dèidh (?C</translation>
+        <translation>محدّد سلاسل لا يمكن فهمه يتبع ‎(?C</translation>
     </message>
     <message>
         <source>using \C is disabled by the application</source>
-        <translation>chaidh cleachdadh \C a chur à comas leis an aplacaid</translation>
+        <translation>عطّل التّطبيق استخدام ‎\C</translation>
     </message>
     <message>
         <source>(?| and/or (?J: or (?x: parentheses are too deeply nested</source>
-        <translation>tha neadachadh ro dhomhainn air camagan (?| agus/no (?J: no (?x:</translation>
+        <translation>أقواس ‎)?|‎ و/أو ‎)?J:‎ أو ‎)?x:‎ متداخلة كثيرًا جدًّا</translation>
     </message>
     <message>
         <source>using \C is disabled in this PCRE2 library</source>
-        <translation>chaidh cleachdadh \C a chur à comas san leabharlann PCRE2 seo</translation>
+        <translation>استخدام ‎\C معطّل في مكتبة PCRE2 هذه</translation>
     </message>
     <message>
         <source>regular expression is too complicated</source>
-        <translation>tha an t-eas-preisean riaghailteach ro thoinnte</translation>
+        <translation>التّعبير النّمطيّ معقّد جدًّا</translation>
     </message>
     <message>
         <source>lookbehind assertion is too long</source>
-        <translation>tha an lookbehind assertion ro fhada</translation>
+        <translation>إثبات النّظر للخلف طويل جدًّا</translation>
     </message>
     <message>
         <source>pattern string is longer than the limit set by the application</source>
-        <translation>tha sreang a’ phàtrain nas fhaide na a’ chrìoch a chaidh a shuidheachadh leis an aplacaid</translation>
+        <translation>طول سلسلة النّمط أطول من الحدّ الذي ضبطه التّطبيق</translation>
     </message>
     <message>
         <source>no match</source>
-        <translation>cha deach seise a lorg</translation>
+        <translation>لا تطابق</translation>
     </message>
     <message>
         <source>partial match</source>
-        <translation>seise nach eil foirfe</translation>
+        <translation>تطابق جزئيّ</translation>
     </message>
     <message>
         <source>UTF-8 error: 1 byte missing at end</source>
-        <translation>mearachd UTF-8: tha 1 bhaidht a dhìth air an deireadh</translation>
+        <translation>خطأ UTF-8: هناك بايت واحد ناقص في النّهاية</translation>
     </message>
     <message>
         <source>UTF-8 error: 2 bytes missing at end</source>
-        <translation>mearachd UTF-8: tha 2 bhaidht a dhìth air an deireadh</translation>
+        <translation>خطأ UTF-8: هناك بايتين ناقصين في النّهاية</translation>
     </message>
     <message>
         <source>UTF-8 error: 3 bytes missing at end</source>
-        <translation>mearachd UTF-8: tha 3 baidhtichean a dhìth air an deireadh</translation>
+        <translation>خطأ UTF-8: هناك ٣ بايتات ناقصة في النّهاية</translation>
     </message>
     <message>
         <source>UTF-8 error: 4 bytes missing at end</source>
-        <translation>mearachd UTF-8: tha 4 baidhtichean a dhìth air an deireadh</translation>
+        <translation>خطأ UTF-8: هناك ٤ بايتات ناقصة في النّهاية</translation>
     </message>
     <message>
         <source>UTF-8 error: 5 bytes missing at end</source>
-        <translation>mearachd UTF-8: tha 5 baidhtichean a dhìth air an deireadh</translation>
+        <translation>خطأ UTF-8: هناك ٥ بايتات ناقصة في النّهاية</translation>
     </message>
     <message>
         <source>UTF-8 error: byte 2 top bits not 0x80</source>
-        <translation>mearachd UTF-8: chan eil an 2 bhiod as àirde aig a’ bhaidht ’nan 0x80</translation>
+        <translation>خطأ UTF-8: بتّات البايت الثّاني العلويّة ليست 0x80</translation>
     </message>
     <message>
         <source>UTF-8 error: byte 3 top bits not 0x80</source>
-        <translation>mearachd UTF-8: chan eil na 3 biotaichean as àirde aig a’ bhaidht ’nan 0x80</translation>
+        <translation>خطأ UTF-8: بتّات البايت الثّالث العلويّة ليست 0x80</translation>
     </message>
     <message>
         <source>UTF-8 error: byte 4 top bits not 0x80</source>
-        <translation>mearachd UTF-8: chan eil na 4 biotaichean as àirde aig a’ bhaidht ’nan 0x80</translation>
+        <translation>خطأ UTF-8: بتّات البايت الرّابع العلويّة ليست 0x80</translation>
     </message>
     <message>
         <source>UTF-8 error: byte 5 top bits not 0x80</source>
-        <translation>mearachd UTF-8: chan eil na 5 biotaichean as àirde aig a’ bhaidht ’nan 0x80</translation>
+        <translation>خطأ UTF-8: بتّات البايت الخامس العلويّة ليست 0x80</translation>
     </message>
     <message>
         <source>UTF-8 error: byte 6 top bits not 0x80</source>
-        <translation>mearachd UTF-8: chan eil na 6 biotaichean as àirde aig a’ bhaidht ’nan 0x80</translation>
+        <translation>خطأ UTF-8: بتّات البايت السّادس العلويّة ليست 0x80</translation>
     </message>
     <message>
         <source>UTF-8 error: 5-byte character is not allowed (RFC 3629)</source>
-        <translation>mearachd UTF-8: chan eil caractar aig a bheil 5 baidhtichean ceadaichte (RFC 3629)</translation>
+        <translation>خطأ UTF-8: ليس مسموحًا بمحرف يشغل ٥ بايتات (RFC 3629)</translation>
     </message>
     <message>
         <source>UTF-8 error: 6-byte character is not allowed (RFC 3629)</source>
-        <translation>mearachd UTF-8: chan eil caractar aig a bheil 6 baidhtichean ceadaichte (RFC 3629)</translation>
+        <translation>خطأ UTF-8: ليس مسموحًا بمحرف يشغل ٦ بايتات (RFC 3629)</translation>
     </message>
     <message>
         <source>UTF-8 error: code points greater than 0x10ffff are not defined</source>
-        <translation>mearachd UTF-8: cha deach puingean còdachaidh nas motha na 0x10ffff a mhìneachadh</translation>
+        <translation>خطأ UTF-8: النّقاط الرّمزيّة الأكبر من 0x10ffff غير معرّفة</translation>
     </message>
     <message>
         <source>UTF-8 error: code points 0xd800-0xdfff are not defined</source>
-        <translation>mearachd UTF-8: cha deach na puingean còdachaidh 0xd800-0xdfff a mhìneachadh</translation>
+        <translation>خطأ UTF-8: النّقاط الرّمزيّة 0xd800‏←0xdfff غير معرّفة</translation>
     </message>
     <message>
         <source>UTF-8 error: overlong 2-byte sequence</source>
-        <translation>mearachd UTF-8: sreath 2 bhaidht a tha ro fhada</translation>
+        <translation>خطأ UTF-8: تسلسل بايتان أطول من اللازم</translation>
     </message>
     <message>
         <source>UTF-8 error: overlong 3-byte sequence</source>
-        <translation>mearachd UTF-8: sreath 3 baidhtichean a tha ro fhada</translation>
+        <translation>خطأ UTF-8: تسلسل ٣بايت أطول من اللازم</translation>
     </message>
     <message>
         <source>UTF-8 error: overlong 4-byte sequence</source>
-        <translation>mearachd UTF-8: sreath 4 baidhtichean a tha ro fhada</translation>
+        <translation>خطأ UTF-8: تسلسل ٤بايت أطول من اللازم</translation>
     </message>
     <message>
         <source>UTF-8 error: overlong 5-byte sequence</source>
-        <translation>mearachd UTF-8: sreath 5 baidhtichean a tha ro fhada</translation>
+        <translation>خطأ UTF-8: تسلسل ٥بايت أطول من اللازم</translation>
     </message>
     <message>
         <source>UTF-8 error: overlong 6-byte sequence</source>
-        <translation>mearachd UTF-8: sreath 6 baidhtichean a tha ro fhada</translation>
+        <translation>خطأ UTF-8: تسلسل ٦بايت أطول من اللازم</translation>
     </message>
     <message>
         <source>UTF-8 error: isolated byte with 0x80 bit set</source>
-        <translation>mearachd UTF-8: baidht fa leth air an deach am biod 0x80 a shuidheachadh</translation>
+        <translation>خطأ UTF-8: بايت معزول وبتّ 0x80 مضبوط</translation>
     </message>
     <message>
         <source>UTF-8 error: illegal byte (0xfe or 0xff)</source>
-        <translation>mearachd UTF-8: baidht mì-dhligheach (0xfe no 0xff)</translation>
+        <translation>خطأ UTF-8: بايت غير قانونيّ (0xfe أو 0xff)</translation>
     </message>
     <message>
         <source>UTF-16 error: missing low surrogate at end</source>
-        <translation>mearachd UTF-16: tha ionadair ìosal a dhìth air an deireadh</translation>
+        <translation>خطأ UTF-16: بديل منخفض ناقص في النّهاية</translation>
     </message>
     <message>
         <source>UTF-16 error: invalid low surrogate</source>
-        <translation>mearachd UTF-16: tha an t-ionadair ìosal mì-dhligheach</translation>
+        <translation>خطأ UTF-16: بديل منخفض غير صالح</translation>
     </message>
     <message>
         <source>UTF-16 error: isolated low surrogate</source>
-        <translation>mearachd UTF-16: tha an t-ionadair ìosal fa leth</translation>
+        <translation>خطأ UTF-16: بديل منخفض معزول</translation>
     </message>
     <message>
         <source>UTF-32 error: code points 0xd800-0xdfff are not defined</source>
-        <translation>mearachd UTF-32: cha deach na puingean còrachaidh 0xd800-0xdfff a mhìneachadh</translation>
+        <translation>خطأ UTF-32: النّقاط الرّمزيّة 0xd800‏←0xdfff غير معرّفة</translation>
     </message>
     <message>
         <source>UTF-32 error: code points greater than 0x10ffff are not defined</source>
-        <translation>mearachd UTF-32: cha deach puingean còdachaidh nas motha na 0x10ffff a mhìneachadh</translation>
+        <translation>خطأ UTF-32: النّقاط الرّمزيّة الأكبر من 0x10ffff غير معرّفة</translation>
     </message>
     <message>
         <source>bad data value</source>
-        <translation>droch-luach dàta</translation>
+        <translation>قيمة بيانات سيّئة</translation>
     </message>
     <message>
         <source>patterns do not all use the same character tables</source>
-        <translation>cha chleachd na pàtranan uile na h-aon chlàran charactaran</translation>
+        <translation>لا تستخدم الأنماط كلّها نفس جداول المحارف</translation>
     </message>
     <message>
         <source>magic number missing</source>
-        <translation>tha àireamh dhraoidheach a dhìth</translation>
+        <translation>العدد السّحريّ ناقص</translation>
     </message>
     <message>
         <source>pattern compiled in wrong mode: 8/16/32-bit error</source>
-        <translation>chaidh am pàtran a thrusadh sa mhodh chearr: mearachd 8/16/32-biod</translation>
+        <translation>صُرّف النّمط بوضع خاطئ: خطأ ٨/١٦/٣٢ بتّة</translation>
     </message>
     <message>
         <source>bad offset value</source>
-        <translation>droch-luach frìth-àireimh</translation>
+        <translation>قيمة إزاحة سيّئة</translation>
     </message>
     <message>
         <source>bad option value</source>
-        <translation>droch-luach roghainne</translation>
+        <translation>قيمة خيار سيّئ</translation>
     </message>
     <message>
         <source>invalid replacement string</source>
-        <translation>sreang ionadaich mhì-dhligheach</translation>
+        <translation>نصّ استبدال غير صالح</translation>
     </message>
     <message>
         <source>bad offset into UTF string</source>
-        <translation>droch-fhrìth-àireimh a-steach dha shreang UTF</translation>
+        <translation>إزاحة سيّئة نحو سلسلة UTF</translation>
     </message>
     <message>
         <source>callout error code</source>
-        <translation>còd mearachd gairme</translation>
+        <translation>رمز خطأ نداء</translation>
     </message>
     <message>
         <source>invalid data in workspace for DFA restart</source>
-        <translation>tha dàta mì-dhligheach san rum-obrach airson ath-thòiseachadh DFA</translation>
+        <translation>بيانات غير صالحة في مساحة العمل لإعادة تشغيل DFA</translation>
     </message>
     <message>
         <source>too much recursion for DFA matching</source>
-        <translation>tha cus ath-chùrsachd airson maideadh DFA ann</translation>
+        <translation>تكراريّات كثيرة لمطابقة DFA</translation>
     </message>
     <message>
         <source>backreference condition or recursion test is not supported for DFA matching</source>
-        <translation>cha chuir maidseadh DFA taic ri cumha backreference no deuchainn air ath-chùrsachd</translation>
+        <translation>شرط المرجع الخلفيّ أو اختبار التّكراريّة غير مدعومات لمطابقة DFA</translation>
     </message>
     <message>
         <source>function is not supported for DFA matching</source>
-        <translation>cha chuir maidseadh DFA taic ris an fhoincsean</translation>
+        <translation>الدّالة غير مدعومة لمطابقة DFA</translation>
     </message>
     <message>
         <source>pattern contains an item that is not supported for DFA matching</source>
-        <translation>tha nì sa phàtran ris nach cuir maidseadh DFA taic</translation>
+        <translation>يحتوي النّمط عنصرًا ليس مدعومًا لمطابقة DFA</translation>
     </message>
     <message>
         <source>workspace size exceeded in DFA matching</source>
-        <translation>tha meud an ruim-obrach ro mhòr sa mhaidseadh DFA</translation>
+        <translation>تُخطّي حجم مساحة العمل في مطابقة DFA</translation>
     </message>
     <message>
         <source>internal error - pattern overwritten?</source>
-        <translation>mearachd inntearnail - an deach sgrìobhadh thairis air a’ phàtran?</translation>
+        <translation>خطأ داخليّ - كُتب على النّمط؟</translation>
     </message>
     <message>
         <source>bad JIT option</source>
-        <translation>droch-roghainn JIT</translation>
+        <translation>خيار JIT سيّئ</translation>
     </message>
     <message>
         <source>JIT stack limit reached</source>
-        <translation>ràinig sinn crìoch an staca JIT</translation>
+        <translation>وصلتُ إلى حدّ رصّة JIT</translation>
     </message>
     <message>
         <source>match limit exceeded</source>
-        <translation>chaidh sinn thar crìochan a’ mhaidsidh</translation>
+        <translation>تخطّيتُ حدّ التّطابق</translation>
     </message>
     <message>
         <source>no more memory</source>
-        <translation>chan eil cuimhne air a fàgail</translation>
+        <translation>لا مزيد من الذّاكرة</translation>
     </message>
     <message>
         <source>unknown substring</source>
-        <translation>fo-shreang nach aithne dhuinn</translation>
+        <translation>سلسلة فرعيّة مجهولة</translation>
     </message>
     <message>
         <source>non-unique substring name</source>
-        <translation>ainm air fo-shreang nach eil fa leth</translation>
+        <translation>اسم السّلسلة الفرعيّة ليس فريدًا</translation>
     </message>
     <message>
         <source>NULL argument passed</source>
-        <translation>chaidh argamaid NULL a chur a-nall</translation>
+        <translation>مُرّر معطى NULL</translation>
     </message>
     <message>
         <source>nested recursion at the same subject position</source>
-        <translation>tha ath-chùrsachd leabaichte air an aon ionaid cuspair</translation>
+        <translation>تكراريّة متداخلة في نفس مكان الموضوع</translation>
     </message>
     <message>
         <source>recursion limit exceeded</source>
-        <translation>chaidh sinn thar crìochan na h-ath-chùrsachd</translation>
+        <translation>تخطّيتُ حدّ التّكراريّة</translation>
     </message>
     <message>
         <source>requested value is not available</source>
-        <translation>chan eil an luach a dh’iarr thu ri fhaighinn</translation>
+        <translation>القيمة المطلوبة غير متوفّرة</translation>
     </message>
     <message>
         <source>requested value is not set</source>
-        <translation>cha deach an luach a dh’iarr thu a shuidheachadh</translation>
+        <translation>القيمة المطلوبة لم تُضبط</translation>
     </message>
     <message>
         <source>offset limit set without PCRE2_USE_OFFSET_LIMIT</source>
-        <translation>chaidh crìoch na frìth-àireimh a shuidheachadh às aonais PCRE2_USE_OFFSET_LIMIT</translation>
+        <translation>ضُبط حدّ للإزاحة دون PCRE2_USE_OFFSET_LIMIT</translation>
     </message>
     <message>
         <source>bad escape sequence in replacement string</source>
-        <translation>droch-shreath teàrnaidh ann an sreang ionadaich</translation>
+        <translation>تسلسل هروب سيّئ في نصّ الاستبدال</translation>
     </message>
     <message>
         <source>expected closing curly bracket in replacement string</source>
-        <translation>an dùil air camag dhualach dùnaidh ann an sreang ionadaich</translation>
+        <translation>توقّعتُ قوسًا مجعّدًا غالقًا في نصّ الاستبدال</translation>
     </message>
     <message>
         <source>bad substitution in replacement string</source>
-        <translation>droch-ionadachadh ann an sreang ionadaich</translation>
+        <translation>إبدال سيّئ في نصّ الاستبدال</translation>
     </message>
     <message>
         <source>match with end before start is not supported</source>
-        <translation>cha chuir sinn taic ri maideadh an deiridh ro mhaidseadh an toisich</translation>
+        <translation>المطابقة بالنّهاية قبل البداية غير مدعومة</translation>
     </message>
     <message>
         <source>too many replacements (more than INT_MAX)</source>
-        <translation>tha cus ionadachaidhean ann (corr is INT_MAX)</translation>
+        <translation>الكثير من الاستبدالات (أكثر من INT_MAX)</translation>
     </message>
 </context>
 <context>
     <name>QSQLite2Driver</name>
     <message>
         <source>Error opening database</source>
-        <translation>Mearachd le fosgladh an stòir-dhàta</translation>
+        <translation>خطأ في فتح قاعدة البيانات</translation>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation>Cha b’ urrainn dhuinn tòiseachadh air an tar-chur</translation>
+        <translation>تعذّر بدء التّبادل</translation>
     </message>
     <message>
         <source>Unable to commit transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a chommitigeadh</translation>
+        <translation>تعذّر إيداع التّبادل</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a roladh air ais</translation>
+        <translation>تعذّر التّراجع عن التّبادل</translation>
     </message>
 </context>
 <context>
     <name>QSQLite2Result</name>
     <message>
         <source>Unable to fetch results</source>
-        <translation>Cha b’ urrainn dhuinn na toraidhean fhaighinn</translation>
+        <translation>تعذّر جلب النّتائج</translation>
     </message>
     <message>
         <source>Unable to execute statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris a ghnìomhachadh</translation>
+        <translation>تعذّر تنفيذ الإفادة</translation>
     </message>
 </context>
 <context>
     <name>QSQLiteDriver</name>
     <message>
         <source>Error opening database</source>
-        <translation>Mearachd le fosgladh an stòir-dhàta</translation>
+        <translation>خطأ في فتح قاعدة البيانات</translation>
     </message>
     <message>
         <source>Error closing database</source>
-        <translation>Mearachd le dùnadh an stòir-dhàta</translation>
+        <translation>خطأ في غلق قاعدة البيانات</translation>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation>Cha b’ urrainn dhuinn tòiseachadh air an tar-chur</translation>
+        <translation>تعذّر بدء التّبادل</translation>
     </message>
     <message>
         <source>Unable to commit transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a chommitigeadh</translation>
+        <translation>تعذّر إيداع التّبادل</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
-        <translation>Cha b’ urrainn dhuinn an tar-chur a roladh air ais</translation>
+        <translation>تعذّر التّراجع عن التّبادل</translation>
     </message>
 </context>
 <context>
     <name>QSQLiteResult</name>
     <message>
         <source>Unable to fetch row</source>
-        <translation>Cha b’ urrainn dhuinn an ràgh fhaighinn</translation>
+        <translation>تعذّر جلب الصّفّ</translation>
     </message>
     <message>
         <source>No query</source>
-        <translation>Chan eil ceist ann</translation>
+        <translation>لا استعلام</translation>
     </message>
     <message>
         <source>Unable to execute statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris a ghnìomhachadh</translation>
+        <translation>تعذّر تنفيذ الإفادة</translation>
     </message>
     <message>
         <source>Unable to execute multiple statements at a time</source>
-        <translation>Chan urrainn duinn iomadh aithris a ghnìomhachadh aig an aon àm</translation>
+        <translation>لا يمكن تنفيذ عدّة إفادات في آن معًا</translation>
     </message>
     <message>
         <source>Unable to reset statement</source>
-        <translation>Cha b’ urrainn dhuinn an aithris ath-shuidheachadh</translation>
+        <translation>تعذّر تصفير الإفادة</translation>
     </message>
     <message>
         <source>Unable to bind parameters</source>
-        <translation>Cha b’ urrainn dhuinn na paramadairean a nasgadh</translation>
+        <translation>تعذّر ربط المعاملات</translation>
     </message>
     <message>
         <source>Parameter count mismatch</source>
-        <translation>Chan eil cunntas nam paramadair a-rèir a chèile</translation>
+        <translation>عدد المعاملات لا يتطابق</translation>
     </message>
 </context>
 <context>
     <name>QSaveFile</name>
     <message>
         <source>Existing file %1 is not writable</source>
-        <translation>Cha ghabh sgrìobhadh dhan fhaidhle “%1” a tha ann</translation>
+        <translation>الملفّ %1 الموجود غير قابل للكتابة</translation>
     </message>
     <message>
         <source>Filename refers to a directory</source>
-        <translation>Tha ainm-faidhle a’ toirt iomradh air pasgan</translation>
+        <translation>اسم الملفّ يشير إلى دليل</translation>
     </message>
     <message>
         <source>Writing canceled by application</source>
-        <translation>Sguir an aplacaid dhen sgrìobhadh</translation>
+        <translation>ألغى التّطبيق الكتابة</translation>
     </message>
 </context>
 <context>
     <name>QScrollBar</name>
     <message>
         <source>Scroll here</source>
-        <translation>Sgrolaich an-seo</translation>
+        <translation>مرّر إلى هنا</translation>
     </message>
     <message>
         <source>Left edge</source>
-        <translation>An oir chlì</translation>
+        <translation>الحافّة اليسرى</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Barr</translation>
+        <translation>الأعلى</translation>
     </message>
     <message>
         <source>Right edge</source>
-        <translation>An oir dheas</translation>
+        <translation>الحافّة اليمنى</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Bonn</translation>
+        <translation>الأسفل</translation>
     </message>
     <message>
         <source>Page left</source>
-        <translation>Duilleag dhan taobh chlì</translation>
+        <translation>الصّفحة اليسرى</translation>
     </message>
     <message>
         <source>Page up</source>
-        <translation>Duilleag suas</translation>
+        <translation>الصّفحة العليا</translation>
     </message>
     <message>
         <source>Page right</source>
-        <translation>Duilleag dhan taobh deas</translation>
+        <translation>الصّفحة اليمنى</translation>
     </message>
     <message>
         <source>Page down</source>
-        <translation>Duilleag sìos</translation>
+        <translation>الصّفحة السّفلى</translation>
     </message>
     <message>
         <source>Scroll left</source>
-        <translation>Sgrolaich gu clì</translation>
+        <translation>مرّر لليسار</translation>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation>Sgrolaich suas</translation>
+        <translation>مرّر للأعلى</translation>
     </message>
     <message>
         <source>Scroll right</source>
-        <translation>Sgrolaich gu deas</translation>
+        <translation>مرّر لليمين</translation>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation>Sgrolaich sìos</translation>
+        <translation>مرّر للأسفل</translation>
     </message>
 </context>
 <context>
     <name>QSctpSocket</name>
     <message>
         <source>The remote host closed the connection</source>
-        <translation>Dhùin an t-òstair cèin an ceangal</translation>
+        <translation>أغلق المضيف البعيد الاتّصال</translation>
     </message>
 </context>
 <context>
     <name>QSharedMemory</name>
     <message>
         <source>%1: unable to set key on lock</source>
-        <translation>%1: cha b’ urrainn dhuinn an iuchair a shuidheachadh air a’ ghlas</translation>
+        <translation>‏%1: تعذّر ضبط مفتاح للقفل</translation>
     </message>
     <message>
         <source>%1: create size is less then 0</source>
-        <translation>%1: tha meud a’ chruthachaidh nas lugha na 0</translation>
+        <translation>‏%1: حجم الإنشاء أقلّ من ٠</translation>
     </message>
     <message>
         <source>%1: unable to lock</source>
-        <translation>%1: cha ghabh a ghlasadh</translation>
+        <translation>‏%1: تعذّر القفل</translation>
     </message>
     <message>
         <source>%1: unable to unlock</source>
-        <translation>%1: cha ghabh a’ ghlas a thoirt fo bharr</translation>
+        <translation>‏%1: تعذّرت إزالة القفل</translation>
     </message>
     <message>
         <source>%1: key is empty</source>
-        <translation>%1: tha an iuchair falamh</translation>
+        <translation>‏%1: المفتاح فارغ</translation>
     </message>
     <message>
         <source>%1: bad name</source>
-        <translation>%1: droch-ainm</translation>
+        <translation>‏%1: الاسم سيّء</translation>
     </message>
     <message>
         <source>%1: UNIX key file doesn&apos;t exist</source>
-        <translation>%1: chan eil faidhle iuchrach UNIX ann</translation>
+        <translation>‏%1: مفتاح ملفّ يونكس غير موجود</translation>
     </message>
     <message>
         <source>%1: ftok failed</source>
-        <translation>%1: dh’fhàillig le ftok</translation>
+        <translation>‏%1: فشل ftok</translation>
     </message>
     <message>
         <source>%1: unable to make key</source>
-        <translation>%1: cha b’ urrainn dhuinn an iuchair a chruthachadh</translation>
+        <translation>‏%1: تعذّر عمل المفتاح</translation>
     </message>
     <message>
         <source>%1: system-imposed size restrictions</source>
-        <translation>%1: tha an siostam a sparradh cuingeachaidhean air a’ mheud</translation>
+        <translation>‏%1: قيود حجم فرضها النّظام</translation>
     </message>
     <message>
         <source>%1: not attached</source>
-        <translation>%1: cha deach a cheangal ris</translation>
+        <translation>‏%1: ليس مرفقًا</translation>
     </message>
     <message>
         <source>%1: permission denied</source>
-        <translation>%1: cead air a dhiùltadh</translation>
+        <translation>‏%1: رُفض التّصريح</translation>
     </message>
     <message>
         <source>%1: already exists</source>
-        <translation>%1: tha seo ann mar-thà</translation>
+        <translation>‏%1: موجود بالفعل</translation>
     </message>
     <message>
         <source>%1: doesn&apos;t exist</source>
-        <translation>%1: chan eil seo ann</translation>
+        <translation>‏%1: غير موجود</translation>
     </message>
     <message>
         <source>%1: out of resources</source>
-        <translation>%1: dìth ghoireasan</translation>
+        <translation>‏%1: نفذت الموارد</translation>
     </message>
     <message>
         <source>%1: unknown error %2</source>
-        <translation>%1: mearachd nach aithne dhuinn %2</translation>
+        <translation>‏%1: الخطأ %2 مجهول</translation>
     </message>
     <message>
         <source>%1: invalid size</source>
-        <translation>%1: meud mì-dhligheach</translation>
+        <translation>‏%1: الحجم غير صالح</translation>
     </message>
     <message>
         <source>%1: key error</source>
-        <translation>%1: mearachd iuchrach</translation>
+        <translation>‏%1: خطأ في المفتاح</translation>
     </message>
     <message>
         <source>%1: size query failed</source>
-        <translation>%1: dh’fhàillig le ceasnachadh a’ mheud</translation>
+        <translation>‏%1 فشل استعلام الحجم</translation>
     </message>
 </context>
 <context>
@@ -4909,7 +4769,7 @@ Cuir tè dhe na roghainnean sin dheth.</translation>
     </message>
     <message>
         <source>Tab</source>
-        <translation>Taba</translation>
+        <translation>Tab</translation>
     </message>
     <message>
         <source>Backtab</source>
@@ -4957,19 +4817,19 @@ Cuir tè dhe na roghainnean sin dheth.</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Gu clì</translation>
+        <translation>اليسار</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>Suas</translation>
+        <translation>الأعلى</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Gu deas</translation>
+        <translation>اليمين</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation>Sìos</translation>
+        <translation>الأسفل</translation>
     </message>
     <message>
         <source>PgUp</source>
@@ -4993,217 +4853,217 @@ Cuir tè dhe na roghainnean sin dheth.</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation>Menu</translation>
+        <translation>القائمة</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Cobhair</translation>
+        <translation>المساعدة</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation>Air ais</translation>
+        <translation>عودة</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Air adhart</translation>
+        <translation>تقدّم</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Cuir stad air</translation>
+        <translation>إيقاف</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation>Ath-nuadhaich</translation>
+        <translation>إنعاش</translation>
     </message>
     <message>
         <source>Volume Down</source>
-        <translation>Fuaim -</translation>
+        <translation>خفض الصّوت</translation>
     </message>
     <message>
         <source>Volume Mute</source>
-        <translation>Mùch an fhuaim</translation>
+        <translation>كتم الصّوت</translation>
     </message>
     <message>
         <source>Volume Up</source>
-        <translation>Fuaim +</translation>
+        <translation>رفع الصّوت</translation>
     </message>
     <message>
         <source>Bass Boost</source>
-        <translation>Spionnadh beusa</translation>
+        <translation>Bass Boost</translation>
     </message>
     <message>
         <source>Bass Up</source>
-        <translation>Beus +</translation>
+        <translation>رفع Bass</translation>
     </message>
     <message>
         <source>Bass Down</source>
-        <translation>Beus -</translation>
+        <translation>خفض Bass</translation>
     </message>
     <message>
         <source>Treble Up</source>
-        <translation>Trìobail +</translation>
+        <translation>رفع Treble</translation>
     </message>
     <message>
         <source>Treble Down</source>
-        <translation>Trìobail -</translation>
+        <translation>خفض Treble</translation>
     </message>
     <message>
         <source>Media Play</source>
-        <translation>Cluich meadhan</translation>
+        <translation>تشغيل الوسائط</translation>
     </message>
     <message>
         <source>Media Stop</source>
-        <translation>Cuir stad air meadhan</translation>
+        <translation>إيقاف الوسائط</translation>
     </message>
     <message>
         <source>Media Previous</source>
-        <translation>Am meadhan roimhe</translation>
+        <translation>الوسيط السّابق</translation>
     </message>
     <message>
         <source>Media Next</source>
-        <translation>An ath-mheadhan</translation>
+        <translation>الوسيط التّالي</translation>
     </message>
     <message>
         <source>Media Record</source>
-        <translation>Clàraich meadhan</translation>
+        <translation>تسجيل وسيط</translation>
     </message>
     <message>
         <source>Media Pause</source>
         <extracomment>Media player pause button</extracomment>
-        <translation>Cuir meadhan ’na stad</translation>
+        <translation>إلباث الوسيط</translation>
     </message>
     <message>
         <source>Toggle Media Play/Pause</source>
         <extracomment>Media player button to toggle between playing and paused</extracomment>
-        <translation>Toglaich cluich/stad a’ mheadhain</translation>
+        <translation>تبديل تشغيل/إلباث الوسائط</translation>
     </message>
     <message>
         <source>Home Page</source>
-        <translation>Duilleag-dhachaigh</translation>
+        <translation>الصّفحة الرّئيسيّة</translation>
     </message>
     <message>
         <source>Favorites</source>
-        <translation>Annsachdan</translation>
+        <translation>المفضّلة</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Lorg</translation>
+        <translation>البحث</translation>
     </message>
     <message>
         <source>Standby</source>
-        <translation>Fuireachas</translation>
+        <translation>تعليق</translation>
     </message>
     <message>
         <source>Open URL</source>
-        <translation>Fosgail URL</translation>
+        <translation>فتح عنوان</translation>
     </message>
     <message>
         <source>Launch Mail</source>
-        <translation>Cuir am post gu dol</translation>
+        <translation>إطلاق البريد</translation>
     </message>
     <message>
         <source>Launch Media</source>
-        <translation>Cuir am meadhan gu dol</translation>
+        <translation>إطلاق الوسائط</translation>
     </message>
     <message>
         <source>Launch (0)</source>
-        <translation>Cuir gu dol (0)</translation>
+        <translation>إطلاق (0)</translation>
     </message>
     <message>
         <source>Launch (1)</source>
-        <translation>Cuir gu dol (1)</translation>
+        <translation>إطلاق (1)</translation>
     </message>
     <message>
         <source>Launch (2)</source>
-        <translation>Cuir gu dol (2)</translation>
+        <translation>إطلاق (2)</translation>
     </message>
     <message>
         <source>Launch (3)</source>
-        <translation>Cuir gu dol (3)</translation>
+        <translation>إطلاق (3)</translation>
     </message>
     <message>
         <source>Launch (4)</source>
-        <translation>Cuir gu dol (4)</translation>
+        <translation>إطلاق (4)</translation>
     </message>
     <message>
         <source>Launch (5)</source>
-        <translation>Cuir gu dol (5)</translation>
+        <translation>إطلاق (5)</translation>
     </message>
     <message>
         <source>Launch (6)</source>
-        <translation>Cuir gu dol (6)</translation>
+        <translation>إطلاق (6)</translation>
     </message>
     <message>
         <source>Launch (7)</source>
-        <translation>Cuir gu dol (7)</translation>
+        <translation>إطلاق (7)</translation>
     </message>
     <message>
         <source>Launch (8)</source>
-        <translation>Cuir gu dol (8)</translation>
+        <translation>إطلاق (8)</translation>
     </message>
     <message>
         <source>Launch (9)</source>
-        <translation>Cuir gu dol (9)</translation>
+        <translation>إطلاق (9)</translation>
     </message>
     <message>
         <source>Launch (A)</source>
-        <translation>Cuir gu dol (A)</translation>
+        <translation>إطلاق (A)</translation>
     </message>
     <message>
         <source>Launch (B)</source>
-        <translation>Cuir gu dol (B)</translation>
+        <translation>إطلاق (B)</translation>
     </message>
     <message>
         <source>Launch (C)</source>
-        <translation>Cuir gu dol (C)</translation>
+        <translation>إطلاق (C)</translation>
     </message>
     <message>
         <source>Launch (D)</source>
-        <translation>Cuir gu dol (D)</translation>
+        <translation>إطلاق (D)</translation>
     </message>
     <message>
         <source>Launch (E)</source>
-        <translation>Cuir gu dol (E)</translation>
+        <translation>إطلاق (E)</translation>
     </message>
     <message>
         <source>Launch (F)</source>
-        <translation>Cuir gu dol (F)</translation>
+        <translation>إطلاق (F)</translation>
     </message>
     <message>
         <source>Monitor Brightness Up</source>
-        <translation>Soilleireachd na sgrìn +</translation>
+        <translation>رفع سطوع الشّاشة</translation>
     </message>
     <message>
         <source>Monitor Brightness Down</source>
-        <translation>Soilleireachd na sgrìn -</translation>
+        <translation>خفض سطوع الشّاشة</translation>
     </message>
     <message>
         <source>Keyboard Light On/Off</source>
-        <translation>Solas a’ mheur-chlàir air/dheth</translation>
+        <translation>تفعيل/تعطيل إضاءة لوحة المفاتيح</translation>
     </message>
     <message>
         <source>Keyboard Brightness Up</source>
-        <translation>Soilleireachd a’ mheur-chlàir +</translation>
+        <translation>رفع سطوع لوحة المفاتيح</translation>
     </message>
     <message>
         <source>Keyboard Brightness Down</source>
-        <translation>Soilleireachd a’ mheur-chlàir -</translation>
+        <translation>خفض سطوع لوحة المفاتيح</translation>
     </message>
     <message>
         <source>Power Off</source>
-        <translation>Cuir a’ chumhachd dheth</translation>
+        <translation>إطفاء</translation>
     </message>
     <message>
         <source>Wake Up</source>
-        <translation>Dùisg</translation>
+        <translation>إيقاظ</translation>
     </message>
     <message>
         <source>Eject</source>
-        <translation>Gluais a-mach</translation>
+        <translation>إخراج</translation>
     </message>
     <message>
         <source>Screensaver</source>
-        <translation>Sàbhalaiche-sgrìn</translation>
+        <translation>حافظ الشّاشة</translation>
     </message>
     <message>
         <source>WWW</source>
@@ -5211,227 +5071,227 @@ Cuir tè dhe na roghainnean sin dheth.</translation>
     </message>
     <message>
         <source>Sleep</source>
-        <translation>Cuir ’na chadal</translation>
+        <translation>نوم</translation>
     </message>
     <message>
         <source>LightBulb</source>
-        <translation>Bolgan solais</translation>
+        <translation>المصباح</translation>
     </message>
     <message>
         <source>Shop</source>
-        <translation>Bùth</translation>
+        <translation>التّسوّق</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Eachdraidh</translation>
+        <translation>التّأريخ</translation>
     </message>
     <message>
         <source>Add Favorite</source>
-        <translation>Cuir annsachd ris</translation>
+        <translation>إضافة مفضّلة</translation>
     </message>
     <message>
         <source>Hot Links</source>
-        <translation>Ceanglaichean trice</translation>
+        <translation>الرّوابط السّريعة</translation>
     </message>
     <message>
         <source>Adjust Brightness</source>
-        <translation>Gleus an t-soilleireachd</translation>
+        <translation>ضبط السّطوع</translation>
     </message>
     <message>
         <source>Finance</source>
-        <translation>Ionmhas</translation>
+        <translation>الماليّة</translation>
     </message>
     <message>
         <source>Community</source>
-        <translation>Coimhearsnachd</translation>
+        <translation>المجتمع</translation>
     </message>
     <message>
         <source>Media Rewind</source>
-        <translation>Toinneadh air ais meadhain</translation>
+        <translation>تدوير الوسائط</translation>
     </message>
     <message>
         <source>Back Forward</source>
-        <translation>Air ais air adhart</translation>
+        <translation>للخلف للأمام</translation>
     </message>
     <message>
         <source>Application Left</source>
-        <translation>Aplacaid gu clì</translation>
+        <translation>التّطبيقات لليسار</translation>
     </message>
     <message>
         <source>Application Right</source>
-        <translation>Aplacaid gu deas</translation>
+        <translation>التّطبيقات لليمين</translation>
     </message>
     <message>
         <source>Book</source>
-        <translation>Leabhar</translation>
+        <translation>كتاب</translation>
     </message>
     <message>
         <source>CD</source>
-        <translation>CD</translation>
+        <translation>أسطوانة</translation>
     </message>
     <message>
         <source>Calculator</source>
-        <translation>Àireamhair</translation>
+        <translation>الحاسبة</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Falamhaich</translation>
+        <translation>مسح</translation>
     </message>
     <message>
         <source>Clear Grab</source>
-        <translation>Clear Grab</translation>
+        <translation>مسح الانتزاع</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Dùin</translation>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Dèan lethbhreac</translation>
+        <translation>نسخ</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Gearr às</translation>
+        <translation>قصّ</translation>
     </message>
     <message>
         <source>Display</source>
-        <translation>Display</translation>
+        <translation>العرض</translation>
     </message>
     <message>
         <source>DOS</source>
-        <translation>DOS</translation>
+        <translation>دوس</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation>Sgrìobhainnean</translation>
+        <translation>المستندات</translation>
     </message>
     <message>
         <source>Spreadsheet</source>
-        <translation>Cliath-dhuilleag</translation>
+        <translation>ورقة ممتدّة</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Brabhsair</translation>
+        <translation>المتصفّح</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Geama</translation>
+        <translation>لعبة</translation>
     </message>
     <message>
         <source>Go</source>
-        <translation>Siuthad</translation>
+        <translation>انطلاق</translation>
     </message>
     <message>
         <source>iTouch</source>
-        <translation>iTouch</translation>
+        <translation>آي‌تَش</translation>
     </message>
     <message>
         <source>Logoff</source>
-        <translation>Clàraich a-mach</translation>
+        <translation>الخروج</translation>
     </message>
     <message>
         <source>Market</source>
-        <translation>Margadh</translation>
+        <translation>السّوق</translation>
     </message>
     <message>
         <source>Meeting</source>
-        <translation>Coinneamh</translation>
+        <translation>اجتماع</translation>
     </message>
     <message>
         <source>Keyboard Menu</source>
-        <translation>Clàr-taice a’ mheur-chlàir</translation>
+        <translation>قائمة لوحة المفاتيح</translation>
     </message>
     <message>
         <source>Menu PB</source>
-        <translation>Menu PB</translation>
+        <translation>قائمة PB</translation>
     </message>
     <message>
         <source>My Sites</source>
-        <translation>Na làraichean agam</translation>
+        <translation>مواقعي</translation>
     </message>
     <message>
         <source>News</source>
-        <translation>Naidheachdan</translation>
+        <translation>الأخبار</translation>
     </message>
     <message>
         <source>Home Office</source>
-        <translation>Oifis taighe</translation>
+        <translation>مكتب المنزل</translation>
     </message>
     <message>
         <source>Option</source>
-        <translation>Roghainn</translation>
+        <translation>الخيار</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Cuir ann</translation>
+        <translation>لصق</translation>
     </message>
     <message>
         <source>Phone</source>
-        <translation>Cuir fòn</translation>
+        <translation>الهاتف</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation>Freagair</translation>
+        <translation>رَدّ</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Ath-luchdaich</translation>
+        <translation>إعادة تحميل</translation>
     </message>
     <message>
         <source>Rotate Windows</source>
-        <translation>Cuairtich na h-uinneagan</translation>
+        <translation>تدوير النّوافذ</translation>
     </message>
     <message>
         <source>Rotation PB</source>
-        <translation>Rotation PB</translation>
+        <translation>دوران PB</translation>
     </message>
     <message>
         <source>Rotation KB</source>
-        <translation>Rotation KB</translation>
+        <translation>دوران KB</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Sàbhail</translation>
+        <translation>حفظ</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation>Cuir</translation>
+        <translation>إرسال</translation>
     </message>
     <message>
         <source>Spellchecker</source>
-        <translation>Dearbhair-litreachaidh</translation>
+        <translation>مدقّق الإملاء</translation>
     </message>
     <message>
         <source>Split Screen</source>
-        <translation>Sgrìn sgoilte</translation>
+        <translation>تقسيم الشّاشة</translation>
     </message>
     <message>
         <source>Support</source>
-        <translation>Taic</translation>
+        <translation>الدّعم</translation>
     </message>
     <message>
         <source>Task Panel</source>
-        <translation>Panail nan saothair</translation>
+        <translation>لوحة المهامّ</translation>
     </message>
     <message>
         <source>Terminal</source>
-        <translation>Tèirmineal</translation>
+        <translation>الطّرفيّة</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Innealan</translation>
+        <translation>الأدوات</translation>
     </message>
     <message>
         <source>Travel</source>
-        <translation>Siubhail</translation>
+        <translation>السّفر</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation>Video</translation>
+        <translation>الفيديو</translation>
     </message>
     <message>
         <source>Word Processor</source>
-        <translation>Pròiseasadh fhaclan</translation>
+        <translation>معالج الكلمات</translation>
     </message>
     <message>
         <source>XFer</source>
@@ -5439,430 +5299,430 @@ Cuir tè dhe na roghainnean sin dheth.</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>Sùm a-steach</translation>
+        <translation>تقريب</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation>Sùm a-mach</translation>
+        <translation>إبعاد</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation>Air falbh</translation>
+        <translation>بعيد</translation>
     </message>
     <message>
         <source>Messenger</source>
-        <translation>Teachdaire</translation>
+        <translation>المرسال</translation>
     </message>
     <message>
         <source>WebCam</source>
-        <translation>Camara-lìn</translation>
+        <translation>كمرة الوبّ</translation>
     </message>
     <message>
         <source>Mail Forward</source>
-        <translation>Sìneadh air adhart puist</translation>
+        <translation>تمرير البريد</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation>Dealbhan</translation>
+        <translation>الصّور</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation>Ceòl</translation>
+        <translation>الموسيقى</translation>
     </message>
     <message>
         <source>Battery</source>
-        <translation>Bataraidh</translation>
+        <translation>البطّاريّة</translation>
     </message>
     <message>
         <source>Bluetooth</source>
-        <translation>Bluetooth</translation>
+        <translation>بلوثوت</translation>
     </message>
     <message>
         <source>Wireless</source>
-        <translation>Uèirleas</translation>
+        <translation>الشّبكة اللاسلكيّة</translation>
     </message>
     <message>
         <source>Ultra Wide Band</source>
-        <translation>Bann ultra-leathann</translation>
+        <translation>النّطاق العريض جدًّا</translation>
     </message>
     <message>
         <source>Media Fast Forward</source>
-        <translation>Toinneadh air adhart meadhain</translation>
+        <translation>تقديم الوسائط للأمام</translation>
     </message>
     <message>
         <source>Audio Repeat</source>
-        <translation>Ath-chluich fuaime</translation>
+        <translation>تكرار الصّوت</translation>
     </message>
     <message>
         <source>Audio Random Play</source>
-        <translation>Cluich air thuaiream fuaime</translation>
+        <translation>تشغيل عشوائيّ للصّوت</translation>
     </message>
     <message>
         <source>Subtitle</source>
-        <translation>Fo-thiotal</translation>
+        <translation>التّرجمات</translation>
     </message>
     <message>
         <source>Audio Cycle Track</source>
-        <translation>Cuairtich traca fuaime</translation>
+        <translation>تبديل المقطوعة الصّوتيّة</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Ùine</translation>
+        <translation>الوقت</translation>
     </message>
     <message>
         <source>Hibernate</source>
-        <translation>Dèan cadal-geamhraidh</translation>
+        <translation>إسبات</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Seall</translation>
+        <translation>المنظور</translation>
     </message>
     <message>
         <source>Top Menu</source>
-        <translation>Clàr-taice barra</translation>
+        <translation>القائمة العلويّة</translation>
     </message>
     <message>
         <source>Power Down</source>
-        <translation>Dùin sìos</translation>
+        <translation>إطفاء</translation>
     </message>
     <message>
         <source>Suspend</source>
-        <translation>Cuir ’na dhàil</translation>
+        <translation>تعليق</translation>
     </message>
     <message>
         <source>Microphone Mute</source>
-        <translation>Mùch am micreofon</translation>
+        <translation>كتم الميكروفون</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation>Dearg</translation>
+        <translation>الأحمر</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Uaine</translation>
+        <translation>الأخضر</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation>Buidhe</translation>
+        <translation>الأصفر</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Gorm</translation>
+        <translation>الأزرق</translation>
     </message>
     <message>
         <source>Channel Up</source>
-        <translation>Seanail suas</translation>
+        <translation>رفع القناة</translation>
     </message>
     <message>
         <source>Channel Down</source>
-        <translation>Seanail sìos</translation>
+        <translation>خفض القناة</translation>
     </message>
     <message>
         <source>Guide</source>
-        <translation>Treòir</translation>
+        <translation>الدّليل</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation>Fiosrachadh</translation>
+        <translation>معلومات</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Roghainnean</translation>
+        <translation>الإعدادات</translation>
     </message>
     <message>
         <source>Microphone Volume Up</source>
-        <translation>Àirde a’ mhicreofon +</translation>
+        <translation>رفع صوت الميكروفون</translation>
     </message>
     <message>
         <source>Microphone Volume Down</source>
-        <translation>Àirde a’ mhicreofon -</translation>
+        <translation>خفض صوت الميكروفون</translation>
     </message>
     <message>
         <source>New</source>
-        <translation>Ùr</translation>
+        <translation>جديد</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Fosgail</translation>
+        <translation>فتح</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>Lorg</translation>
+        <translation>بحث</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Neo-dhèan</translation>
+        <translation>تراجع</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation>Ath-dhèan</translation>
+        <translation>إعادة</translation>
     </message>
     <message>
         <source>Print Screen</source>
-        <translation>Print Screen</translation>
+        <translation>طباعة الشّاشة</translation>
     </message>
     <message>
         <source>Page Up</source>
-        <translation>Page Up</translation>
+        <translation>صفحة لأعلى</translation>
     </message>
     <message>
         <source>Page Down</source>
-        <translation>Page Down</translation>
+        <translation>صفحة لأسفل</translation>
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation>Caps Lock</translation>
+        <translation>قُفل حالة الأحرف</translation>
     </message>
     <message>
         <source>Num Lock</source>
-        <translation>Num Lock</translation>
+        <translation>قُفل الأرقام</translation>
     </message>
     <message>
         <source>Number Lock</source>
-        <translation>Number Lock</translation>
+        <translation>قُفل لوحة الأرقام</translation>
     </message>
     <message>
         <source>Scroll Lock</source>
-        <translation>Scroll Lock</translation>
+        <translation>قُفل التّمرير</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation>Insert</translation>
+        <translation>إدراج</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Delete</translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <source>Escape</source>
-        <translation>Escape</translation>
+        <translation>هروب</translation>
     </message>
     <message>
         <source>System Request</source>
-        <translation>System Request</translation>
+        <translation>طلب النّظام</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Select</translation>
+        <translation>تحديد</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Tha</translation>
+        <translation>نعم</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Chan eil</translation>
+        <translation>لا</translation>
     </message>
     <message>
         <source>Context1</source>
-        <translation>Co-theacsa1</translation>
+        <translation>سياق١</translation>
     </message>
     <message>
         <source>Context2</source>
-        <translation>Co-theacsa2</translation>
+        <translation>سياق٢</translation>
     </message>
     <message>
         <source>Context3</source>
-        <translation>Co-theacsa3</translation>
+        <translation>سياق٣</translation>
     </message>
     <message>
         <source>Context4</source>
-        <translation>Co-theacsa4</translation>
+        <translation>سياق٤</translation>
     </message>
     <message>
         <source>Call</source>
         <extracomment>Button to start a call (note: a separate button is used to end the call)</extracomment>
-        <translation>Gairm</translation>
+        <translation>مهاتفة</translation>
     </message>
     <message>
         <source>Hangup</source>
         <extracomment>Button to end a call (note: a separate button is used to start the call)</extracomment>
-        <translation>Cuir crìoch air a’ ghairm</translation>
+        <translation>قطع المكالمة</translation>
     </message>
     <message>
         <source>Toggle Call/Hangup</source>
         <extracomment>Button that will hang up if we&apos;re in call, or make a call if we&apos;re not.</extracomment>
-        <translation>Toglaich gairm ’s a crìoch</translation>
+        <translation>تبديل المهاتفة/قطع المكالمة</translation>
     </message>
     <message>
         <source>Flip</source>
-        <translation>Thoir flip</translation>
+        <translation>قلب</translation>
     </message>
     <message>
         <source>Voice Dial</source>
         <extracomment>Button to trigger voice dialing</extracomment>
-        <translation>Daithealadh gutha</translation>
+        <translation>مهاتفة صوتيّة</translation>
     </message>
     <message>
         <source>Last Number Redial</source>
         <extracomment>Button to redial the last number called</extracomment>
-        <translation>Ath-dhaitheal an àireamh mu dheireadh</translation>
+        <translation>إعادة مهاتفة آخر رقم</translation>
     </message>
     <message>
         <source>Camera Shutter</source>
         <extracomment>Button to trigger the camera shutter (take a picture)</extracomment>
-        <translation>Còmhla-camara</translation>
+        <translation>غالِق الكمرة</translation>
     </message>
     <message>
         <source>Camera Focus</source>
         <extracomment>Button to focus the camera</extracomment>
-        <translation>Fòcas camara</translation>
+        <translation>تركيز الكمرة</translation>
     </message>
     <message>
         <source>Kanji</source>
-        <translation>Kanji</translation>
+        <translation>الكانجي</translation>
     </message>
     <message>
         <source>Muhenkan</source>
-        <translation>Muhenkan</translation>
+        <translation>الموهينكان</translation>
     </message>
     <message>
         <source>Henkan</source>
-        <translation>Henkan</translation>
+        <translation>الهينكان</translation>
     </message>
     <message>
         <source>Romaji</source>
-        <translation>Romaji</translation>
+        <translation>الرّومانجي</translation>
     </message>
     <message>
         <source>Hiragana</source>
-        <translation>Hiragana</translation>
+        <translation>الهيراغانا</translation>
     </message>
     <message>
         <source>Katakana</source>
-        <translation>Katakana</translation>
+        <translation>الكاتاكانا</translation>
     </message>
     <message>
         <source>Hiragana Katakana</source>
-        <translation>Hiragana Katakana</translation>
+        <translation>الهيراغانا الكاتاكانا</translation>
     </message>
     <message>
         <source>Zenkaku</source>
-        <translation>Zenkaku</translation>
+        <translation>الزّينكاكو</translation>
     </message>
     <message>
         <source>Hankaku</source>
-        <translation>Hankaku</translation>
+        <translation>الهانكاكو</translation>
     </message>
     <message>
         <source>Zenkaku Hankaku</source>
-        <translation>Zenkaku Hankaku</translation>
+        <translation>الزّينكاكو الهينكاكو</translation>
     </message>
     <message>
         <source>Touroku</source>
-        <translation>Touroku</translation>
+        <translation>التّوروكو</translation>
     </message>
     <message>
         <source>Massyo</source>
-        <translation>Massyo</translation>
+        <translation>الماسيو</translation>
     </message>
     <message>
         <source>Kana Lock</source>
-        <translation>Kana Lock</translation>
+        <translation>قُفل الكانا</translation>
     </message>
     <message>
         <source>Kana Shift</source>
-        <translation>Kana Shift</translation>
+        <translation>‏Shift الكانا</translation>
     </message>
     <message>
         <source>Eisu Shift</source>
-        <translation>Eisu Shift</translation>
+        <translation>‏Shift الإيسو</translation>
     </message>
     <message>
         <source>Eisu toggle</source>
-        <translation>Eisu toggle</translation>
+        <translation>تبديل الإيسو</translation>
     </message>
     <message>
         <source>Code input</source>
-        <translation>Ion-chur còd</translation>
+        <translation>دخل الكود</translation>
     </message>
     <message>
         <source>Multiple Candidate</source>
-        <translation>Iomadh tagraiche</translation>
+        <translation>عدّة مرشَّحات</translation>
     </message>
     <message>
         <source>Previous Candidate</source>
-        <translation>An tagraiche roimhe</translation>
+        <translation>المرشَّح السّابق</translation>
     </message>
     <message>
         <source>Hangul</source>
-        <translation>Hangul</translation>
+        <translation>الهانغول</translation>
     </message>
     <message>
         <source>Hangul Start</source>
-        <translation>Hangul Start</translation>
+        <translation>بداية الهانغول</translation>
     </message>
     <message>
         <source>Hangul End</source>
-        <translation>Hangul End</translation>
+        <translation>نهاية الهانغول</translation>
     </message>
     <message>
         <source>Hangul Hanja</source>
-        <translation>Hangul Hanja</translation>
+        <translation>الهانغول الهانجا</translation>
     </message>
     <message>
         <source>Hangul Jamo</source>
-        <translation>Hangul Jamo</translation>
+        <translation>الهانغول الجامو</translation>
     </message>
     <message>
         <source>Hangul Romaja</source>
-        <translation>Hangul Romaja</translation>
+        <translation>الهانغول الرّوماجا</translation>
     </message>
     <message>
         <source>Hangul Jeonja</source>
-        <translation>Hangul Jeonja</translation>
+        <translation>الهانغول الجيونجا</translation>
     </message>
     <message>
         <source>Hangul Banja</source>
-        <translation>Hangul Banja</translation>
+        <translation>الهانغول البانجا</translation>
     </message>
     <message>
         <source>Hangul PreHanja</source>
-        <translation>Hangul PreHanja</translation>
+        <translation>الهانغول ما قبل الهانجا</translation>
     </message>
     <message>
         <source>Hangul PostHanja</source>
-        <translation>Hangul PostHanja</translation>
+        <translation>الهانغول ما بعد الهانجا</translation>
     </message>
     <message>
         <source>Hangul Special</source>
-        <translation>Hangul sònraichte</translation>
+        <translation>الهانغول خاصّ</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Sguir dheth</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <source>Printer</source>
-        <translation>Clò-bhualadair</translation>
+        <translation>الطّابعة</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation>Cuir an gnìomh</translation>
+        <translation>تنفيذ</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation>Cluich</translation>
+        <translation>تشغيل</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Sùm</translation>
+        <translation>التّكبير</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Fàg an-seo</translation>
+        <translation>خروج</translation>
     </message>
     <message>
         <source>Touchpad Toggle</source>
-        <translation>Toglachadh a’ phada-shuathaidh</translation>
+        <translation>تبديل لوحة اللمس</translation>
     </message>
     <message>
         <source>Touchpad On</source>
-        <translation>Cuir am pada-suathaidh air</translation>
+        <translation>تفعيل لوحة اللمس</translation>
     </message>
     <message>
         <source>Touchpad Off</source>
-        <translation>Cuir am pada-suathaidh dheth</translation>
+        <translation>تعطيل لوحة اللمس</translation>
     </message>
     <message>
         <source>Ctrl</source>
@@ -5886,7 +5746,7 @@ Cuir tè dhe na roghainnean sin dheth.</translation>
     </message>
     <message>
         <source>+</source>
-        <translation>+</translation>
+        <translation></translation>
     </message>
     <message>
         <source>F%1</source>
@@ -5897,59 +5757,59 @@ Cuir tè dhe na roghainnean sin dheth.</translation>
     <name>QSocks5SocketEngine</name>
     <message>
         <source>Connection to proxy refused</source>
-        <translation>Chaidh an ceangal dhan phrogsaidh a dhiùltadh</translation>
+        <translation>رُفض الاتّصال بالوكيل</translation>
     </message>
     <message>
         <source>Connection to proxy closed prematurely</source>
-        <translation>Chaidh an ceangal dhan phrogsaidh a dhùnadh ro thràth</translation>
+        <translation>أُغلق الاتّصال بالمضيف البعيد نهائيًّا</translation>
     </message>
     <message>
         <source>Proxy host not found</source>
-        <translation>Cha deach òstair progsaidh a lorg</translation>
+        <translation>لم يُعثر على مضيف الوكيل</translation>
     </message>
     <message>
         <source>Connection to proxy timed out</source>
-        <translation>Dh’fhalbh an ùine air a’ cheangal dhan phrogsaidh</translation>
+        <translation>انتهت مهلة الاتّصال بالوكيل</translation>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation>Dh’fhàillig le dearbhadh a’ phrogsaidh</translation>
+        <translation>فشل الاستيثاق مع الوكيل</translation>
     </message>
     <message>
         <source>Proxy authentication failed: %1</source>
-        <translation>Dh’fhàillig le dearbhadh a’ phrogsaidh: %1</translation>
+        <translation>فشل الاستيثاق مع الوكيل: %1</translation>
     </message>
     <message>
         <source>SOCKS version 5 protocol error</source>
-        <translation>Mearachd le pròtacal SOCKS tionndadh 5</translation>
+        <translation>خطأ في ميفاق SOCKS الإصدارة 5</translation>
     </message>
     <message>
         <source>General SOCKSv5 server failure</source>
-        <translation>Fàilligeadh frithealaiche SOCKSv5 coitcheann</translation>
+        <translation>فشل خادوم SOCKSv5 عامّ</translation>
     </message>
     <message>
         <source>Connection not allowed by SOCKSv5 server</source>
-        <translation>Cha cheadaich am frithealaiche SOCKSv5 ceangal</translation>
+        <translation>خادوم SOCKS بالإصدارة الخامسة لا يسمح بالاتّصال</translation>
     </message>
     <message>
         <source>TTL expired</source>
-        <translation>Dh’fhalbh an ùine air TTL</translation>
+        <translation>انتهت صلاحيّة TTL</translation>
     </message>
     <message>
         <source>SOCKSv5 command not supported</source>
-        <translation>Cha chuirear taic ri àithne SOCKSv5</translation>
+        <translation>أمر SOCKSv5 غير مدعوم</translation>
     </message>
     <message>
         <source>Address type not supported</source>
-        <translation>Cha chuirear taic ris an t-seòrsa seòlaidh</translation>
+        <translation>نوع العنوان غير مدعوم</translation>
     </message>
     <message>
         <source>Unknown SOCKSv5 proxy error code 0x%1</source>
-        <translation>Còd mearachd progsaidh SOCKSv5 0x%1 nach aithne dhuinn</translation>
+        <translation>رمز خطأ وكيل SOCKSv5 مجهول 0x%1</translation>
     </message>
     <message>
         <source>Network operation timed out</source>
-        <translation>Dh’fhalbh an ùine air obrachadh an lìonraidh</translation>
+        <translation>انتهت مهلة العمليّة الشّبكيّة</translation>
     </message>
 </context>
 <context>
@@ -5957,864 +5817,864 @@ Cuir tè dhe na roghainnean sin dheth.</translation>
     <message>
         <source>invalid role</source>
         <extracomment>Role of an accessible object - the object is in an invalid state or could not be constructed</extracomment>
-        <translation>dreuchd mhì-dhligheach</translation>
+        <translation>دور غير صالح</translation>
     </message>
     <message>
         <source>title bar</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>bàr-tiotail</translation>
+        <translation>شريط عنوان</translation>
     </message>
     <message>
         <source>menu bar</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>bàr clàir-thaice</translation>
+        <translation>شريط قوائم</translation>
     </message>
     <message>
         <source>scroll bar</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>bàr-sgrolaidh</translation>
+        <translation>شريط تمرير</translation>
     </message>
     <message>
         <source>grip</source>
         <extracomment>Role of an accessible object - the grip is usually used for resizing another object</extracomment>
-        <translation>greim</translation>
+        <translation>مقبض</translation>
     </message>
     <message>
         <source>sound</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>fuaim</translation>
+        <translation>صوت</translation>
     </message>
     <message>
         <source>cursor</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>cùrsair</translation>
+        <translation>مؤشّر</translation>
     </message>
     <message>
         <source>text caret</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>carait teacsa</translation>
+        <translation>مؤشّر النّصّ</translation>
     </message>
     <message>
         <source>alert message</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>teachdaireachd rabhaidh</translation>
+        <translation>رسالة تحذير</translation>
     </message>
     <message>
         <source>frame</source>
         <extracomment>Role of an accessible object: a window with frame and title
 ----------
 Role of an accessible object</extracomment>
-        <translation>frèam</translation>
+        <translation>إطار</translation>
     </message>
     <message>
         <source>filler</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>lìonadair</translation>
+        <translation>مالئ</translation>
     </message>
     <message>
         <source>popup menu</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>priob-chlàr-taice</translation>
+        <translation>قائمة منبثقة</translation>
     </message>
     <message>
         <source>menu item</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>nì clàir-thaice</translation>
+        <translation>عنصر قائمة</translation>
     </message>
     <message>
         <source>tool tip</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>gliocas-sgrìn</translation>
+        <translation>تلميحة</translation>
     </message>
     <message>
         <source>application</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>aplacaid</translation>
+        <translation>تطبيق</translation>
     </message>
     <message>
         <source>document</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>sgrìobhainn</translation>
+        <translation>مستند</translation>
     </message>
     <message>
         <source>panel</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>panail</translation>
+        <translation>لوحة</translation>
     </message>
     <message>
         <source>chart</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>cairt</translation>
+        <translation>رسم بيانيّ</translation>
     </message>
     <message>
         <source>dialog</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>còmhradh</translation>
+        <translation>حواريّ</translation>
     </message>
     <message>
         <source>separator</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>sgaradair</translation>
+        <translation>فاصل</translation>
     </message>
     <message>
         <source>tool bar</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>bàr-inneal</translation>
+        <translation>شريط أدوات</translation>
     </message>
     <message>
         <source>status bar</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>bàr-staide</translation>
+        <translation>شريط حالة</translation>
     </message>
     <message>
         <source>table</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>clàr</translation>
+        <translation>جدول</translation>
     </message>
     <message>
         <source>column header</source>
         <extracomment>Role of an accessible object - part of a table</extracomment>
-        <translation>bann-cinn cuilbh</translation>
+        <translation>ترويسة أعمدة</translation>
     </message>
     <message>
         <source>row header</source>
         <extracomment>Role of an accessible object - part of a table</extracomment>
-        <translation>bann-cinn ràigh</translation>
+        <translation>ترويسة صفوف</translation>
     </message>
     <message>
         <source>column</source>
         <extracomment>Role of an accessible object - part of a table</extracomment>
-        <translation>colbh</translation>
+        <translation>عمود</translation>
     </message>
     <message>
         <source>row</source>
         <extracomment>Role of an accessible object - part of a table</extracomment>
-        <translation>ràgh</translation>
+        <translation>صفّ</translation>
     </message>
     <message>
         <source>cell</source>
         <extracomment>Role of an accessible object - part of a table</extracomment>
-        <translation>cealla</translation>
+        <translation>خليّة</translation>
     </message>
     <message>
         <source>link</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>ceangal</translation>
+        <translation>وصلة</translation>
     </message>
     <message>
         <source>help balloon</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>builgean cobharach</translation>
+        <translation>فقّاعة المساعدة</translation>
     </message>
     <message>
         <source>assistant</source>
         <extracomment>Role of an accessible object - a helper dialog</extracomment>
-        <translation>cuidiche</translation>
+        <translation>المُساعد</translation>
     </message>
     <message>
         <source>list</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>liosta</translation>
+        <translation>قائمة</translation>
     </message>
     <message>
         <source>list item</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>nì liosta</translation>
+        <translation>عنصر قائمة</translation>
     </message>
     <message>
         <source>tree</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>craobh</translation>
+        <translation>شجرة</translation>
     </message>
     <message>
         <source>tree item</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>nì craoibhe</translation>
+        <translation>عنصر شجرة</translation>
     </message>
     <message>
         <source>page tab</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>taba dhuilleagan</translation>
+        <translation>صفحة لسان</translation>
     </message>
     <message>
         <source>property page</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>duilleag nan roghainnean</translation>
+        <translation>صفحة خصائص</translation>
     </message>
     <message>
         <source>indicator</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>taisbeanair</translation>
+        <translation>مؤشّر</translation>
     </message>
     <message>
         <source>graphic</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>grafaigeachd</translation>
+        <translation>رسم</translation>
     </message>
     <message>
         <source>label</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>leubail</translation>
+        <translation>لصيقة</translation>
     </message>
     <message>
         <source>text</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>teacsa</translation>
+        <translation>نصّ</translation>
     </message>
     <message>
         <source>push button</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>putan putaidh</translation>
+        <translation>زرّ</translation>
     </message>
     <message>
         <source>check box</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>bogsa-cromaige</translation>
+        <translation>مربّع تأشير</translation>
     </message>
     <message>
         <source>radio button</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>putan rèidio</translation>
+        <translation>زرّ راديو</translation>
     </message>
     <message>
         <source>combo box</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>bogsa combo</translation>
+        <translation>مربّع منسدل</translation>
     </message>
     <message>
         <source>progress bar</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>bàr adhartais</translation>
+        <translation>شريط تقدّم</translation>
     </message>
     <message>
         <source>dial</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>daitheal</translation>
+        <translation>قرص ساعة</translation>
     </message>
     <message>
         <source>hotkey field</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>raon grad-iuchrach</translation>
+        <translation>حقل لمفتاح سريع</translation>
     </message>
     <message>
         <source>slider</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>sleamhnachan</translation>
+        <translation>منزلقة</translation>
     </message>
     <message>
         <source>spin box</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>bogsa-toinneimh</translation>
+        <translation>مربّع دوّار</translation>
     </message>
     <message>
         <source>canvas</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>canabhas</translation>
+        <translation>رقعة رسم</translation>
     </message>
     <message>
         <source>animation</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>beòthachadh</translation>
+        <translation>حركة</translation>
     </message>
     <message>
         <source>equation</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>co-aontar</translation>
+        <translation>معادلة</translation>
     </message>
     <message>
         <source>button with drop down</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>putan le clàr-taice teàrnaidh</translation>
+        <translation>زرّ بقائمة منسدلة</translation>
     </message>
     <message>
         <source>button menu</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>clàr-taice putain</translation>
+        <translation>زرّ قائمة</translation>
     </message>
     <message>
         <source>button with drop down grid</source>
         <extracomment>Role of an accessible object - a button that expands a grid.</extracomment>
-        <translation>putan le griod teàrnaidh</translation>
+        <translation>زرّ بشبكة منسدلة</translation>
     </message>
     <message>
         <source>space</source>
         <extracomment>Role of an accessible object - blank space between other objects.</extracomment>
-        <translation>beàrn</translation>
+        <translation>مسافة</translation>
     </message>
     <message>
         <source>page tab list</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>liosta taba dhuilleagan</translation>
+        <translation>قائمة ألسنة صفحات</translation>
     </message>
     <message>
         <source>clock</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>cleoc</translation>
+        <translation>ساعة</translation>
     </message>
     <message>
         <source>splitter</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>sgoiltear</translation>
+        <translation>قاسِم</translation>
     </message>
     <message>
         <source>layered pane</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>leòsan fillte</translation>
+        <translation>لوحة مسطّحة</translation>
     </message>
     <message>
         <source>web document</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>sgrìobhainn-lìn</translation>
+        <translation>مستند وبّ</translation>
     </message>
     <message>
         <source>paragraph</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>paragraf</translation>
+        <translation>فقرة</translation>
     </message>
     <message>
         <source>section</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>earrann</translation>
+        <translation>قسم</translation>
     </message>
     <message>
         <source>color chooser</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>roghnaichear dhathan</translation>
+        <translation>مُنتقي الألوان</translation>
     </message>
     <message>
         <source>footer</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>bann-coise</translation>
+        <translation>تذييل</translation>
     </message>
     <message>
         <source>form</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>foirm</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <source>heading</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>ceann-sgrìobhaidh</translation>
+        <translation>ترويسة</translation>
     </message>
     <message>
         <source>note</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>nòta</translation>
+        <translation>ملاحظة</translation>
     </message>
     <message>
         <source>complementary content</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>co-shusbaint</translation>
+        <translation>محتوًى مكمّل</translation>
     </message>
     <message>
         <source>unknown</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>chan eil fhios</translation>
+        <translation>مجهول</translation>
     </message>
 </context>
 <context>
     <name>QSslDiffieHellmanParameter</name>
     <message>
         <source>No error</source>
-        <translation>Gun mhearachd</translation>
+        <translation>لا أخطاء</translation>
     </message>
     <message>
         <source>Invalid input data</source>
-        <translation>Dàta ion-chuir mì-dhligheach</translation>
+        <translation>بيانات الدّخل غير صالحة</translation>
     </message>
     <message>
         <source>The given Diffie-Hellman parameters are deemed unsafe</source>
-        <translation>Thathar a’ meas nach eil na paramadairean Diffie-Hellman a chaidh a thoirt seachad sàbhailte</translation>
+        <translation>يُظنّ أنّ معاملات Diffie-Hellman المعطاة غير آمنة</translation>
     </message>
 </context>
 <context>
     <name>QSslSocket</name>
     <message>
         <source>Error when setting the elliptic curves (%1)</source>
-        <translation>Mearachd le suidheachadh nan lùban eileapsach (%1)</translation>
+        <translation>خطأ في ضبط منحنيات الإهليلجيّ (%1)</translation>
     </message>
     <message>
         <source>Error creating SSL context (%1)</source>
-        <translation>Mearachd le cruthachadh na co-theacsa SSL (%1)</translation>
+        <translation>خطأ في إنشاء سياق SSL ‏(%1)</translation>
     </message>
     <message>
         <source>unsupported protocol</source>
-        <translation>pròtacal ris nach cuirear taic</translation>
+        <translation>ميفاق غير مدعوم</translation>
     </message>
     <message>
         <source>Invalid or empty cipher list (%1)</source>
-        <translation>Liosta shifirean mhì-dligheach no fhalamh (%1)</translation>
+        <translation>قائمة الشّفرات فارغة أو غير صالحة (%1)</translation>
     </message>
     <message>
         <source>Cannot provide a certificate with no key, %1</source>
-        <translation>Cha ghabh teisteanas gun iuchair toirt seachad, %1</translation>
+        <translation>لا يمكن توفير شهادة دون مفتاح، %1</translation>
     </message>
     <message>
         <source>Error loading local certificate, %1</source>
-        <translation>Mearachd a’ luchdadh teisteanais ionadaich, %1</translation>
+        <translation>خطأ في تحميل الشّهادة المحليّة، %1</translation>
     </message>
     <message>
         <source>Error loading private key, %1</source>
-        <translation>mearachd le luchdadh iuchrach phrìobhaidich, %1</translation>
+        <translation>خطأ في تحميل المفتاح الخاصّ، %1</translation>
     </message>
     <message>
         <source>Private key does not certify public key, %1</source>
-        <translation>Chan eil an iuchair phrìobhaideach ’na theisteanas dhan iuchair phoblach, %1</translation>
+        <translation>لا يؤكّد المفتاح الخاصّ المفتاحَ العامّ، %1</translation>
     </message>
     <message>
         <source>Diffie-Hellman parameters are not valid</source>
-        <translation>Chan eil na paramadairean Diffie-Hellman dligheach</translation>
+        <translation>معاملات Diffie-Hellman غير صالحة</translation>
     </message>
     <message>
         <source>OpenSSL version too old, need at least v1.0.2</source>
-        <translation>Tha an tionndadh de dh’OpenSSL ro shean, tha feum air tionndadh 1.0.2 air a char as lugha</translation>
+        <translation>إصدارة OpenSSL قديمة جدًّا، تحتاج ١٫٠٫٢ على الأقلّ</translation>
     </message>
     <message>
         <source>No error</source>
-        <translation>Gun mhearachd</translation>
+        <translation>لا أخطاء</translation>
     </message>
     <message>
         <source>The issuer certificate could not be found</source>
-        <translation>Cha deach teisteanas an fhoillsicheir a lorg</translation>
+        <translation>تعذّر العثور على شهادة المُصدِر</translation>
     </message>
     <message>
         <source>The certificate signature could not be decrypted</source>
-        <translation>Cha b’ urrainn dhuinn soidhneadh an teisteanais a dhì-chrioptachadh</translation>
+        <translation>تعذّر فكّ تعمية توقيع الشّهادة</translation>
     </message>
     <message>
         <source>The public key in the certificate could not be read</source>
-        <translation>Cha b’ urrainn dhuinn an iuchair phoblach san teisteanas a leughadh</translation>
+        <translation>تعذّرت قراءة المفتاح العموميّ في الشّهادة</translation>
     </message>
     <message>
         <source>The signature of the certificate is invalid</source>
-        <translation>Tha soidhneadh an teisteanais mì-dhligheach</translation>
+        <translation>توقيع الشّهادة غير صالح</translation>
     </message>
     <message>
         <source>The certificate is not yet valid</source>
-        <translation>Chan eil an teisteanas dligheach fhathast</translation>
+        <translation>الشّهادة غير صالحة بعد</translation>
     </message>
     <message>
         <source>The certificate has expired</source>
-        <translation>Dh’fhalbh an ùine air an teisteanas</translation>
+        <translation>انتهت صلاحيّة الشّهادة</translation>
     </message>
     <message>
         <source>The certificate&apos;s notBefore field contains an invalid time</source>
-        <translation>Tha àm mì-dhligheach ann an raon notBefore an teisteanais</translation>
+        <translation>في حقل ”ليس قبل“ للشّهادة وقت غير صالح</translation>
     </message>
     <message>
         <source>The certificate&apos;s notAfter field contains an invalid time</source>
-        <translation>Tha àm mì-dhligheach ann an raon notAfter an teisteanais</translation>
+        <translation>في حقل ”ليس بعد“ للشّهادة وقت غير صالح</translation>
     </message>
     <message>
         <source>The certificate is self-signed, and untrusted</source>
-        <translation>Chaidh an teisteanas fhèin-shoidhneadh ’s chan eil earbsa ann</translation>
+        <translation>الشّهادة موقّعة ذاتيًّا وغير موثوقة</translation>
     </message>
     <message>
         <source>The root certificate of the certificate chain is self-signed, and untrusted</source>
-        <translation>Chaidh teisteanas-freumha a’ cheangail teisteanais fhèin-shoidhneadh ’s chan eil earbsa ann</translation>
+        <translation>الشّهادة الجذر لسلسلة الشّهادات موقّعة ذاتيًّا وغير موثوقة</translation>
     </message>
     <message>
         <source>The issuer certificate of a locally looked up certificate could not be found</source>
-        <translation>Cha do lorg sinn teisteanas an fhoillsicheir aig teisteanas a lorg sinn gu h-ionadail</translation>
+        <translation>تعذّر العثور على شهادة المُصدِر لشهادة بُحث عنها محليًّا</translation>
     </message>
     <message>
         <source>No certificates could be verified</source>
-        <translation>Cha b’ urrainn dhuinn teisteanas a dhearbhadh</translation>
+        <translation>تعذّر التّحقّق من أيّ شهادة</translation>
     </message>
     <message>
         <source>One of the CA certificates is invalid</source>
-        <translation>Tha teisteanas ùghdarrais ann nach eil dligheach</translation>
+        <translation>إحدى شهادات سلطة الشّهادات غير صالحة</translation>
     </message>
     <message>
         <source>The basicConstraints path length parameter has been exceeded</source>
-        <translation>Chaidh dol thairis air paramadair fad slighe nam basicConstraints</translation>
+        <translation>تُخطّي معامل طول مسار ”القيود الأساسيّة“</translation>
     </message>
     <message>
         <source>The supplied certificate is unsuitable for this purpose</source>
-        <translation>Chan eil an teisteanas a chaidh a thoirt seachad freagarrach airson an adhbhair seo</translation>
+        <translation>الشّهادة المقدّمة ليست مناسبة لهذا الغرض</translation>
     </message>
     <message>
         <source>The root CA certificate is not trusted for this purpose</source>
-        <translation>Chan eil earbsa ann an teisteanas an ùghdarrais airson an adhbhair seo</translation>
+        <translation>شهادة سلطة الشّهادات الجذر ليس موثوقة لهذا الغرض</translation>
     </message>
     <message>
         <source>The root CA certificate is marked to reject the specified purpose</source>
-        <translation>Tha comharra ri teisteanas an ùghdarrais gus an t-adhbhar sònraichte a dhiùltadh</translation>
+        <translation>شهادة سلطة الشّهادات الجذر موسومة لرفض الغرض المطلوب</translation>
     </message>
     <message>
         <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate</source>
-        <translation>Chaidh tagraiche làithreach aig teisteanas an ùghdarrais a dhiùltadh o nach eil ainm a chuspair a-rèir ainm foillsicheir an teisteanais làithrich</translation>
+        <translation>رُفضت شهادة المُصدِر المرشّحة الحاليّة لأنّ اسم الموضوع لم يطابق اسم مُصدِر الشّهادة الحاليّة</translation>
     </message>
     <message>
         <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate</source>
-        <translation>Chaidh tagraiche làithreach aig teisteanas an ùghdarrais a dhiùltadh on a tha ainm is àireamh shreathach fhoillsicheir ann ’s chan eil iad a-rèir aithnichear iuchrach ùghdarrais an teisteanais làithrich</translation>
+        <translation>رُفضت شهادة المُصدِر المرشّحة الحاليّة لأنّ اسم المُصدِر والرّقم التّسلسليّ كانا موجودين ولكن لم يطابقان معرّف سلطة الشّهادة الحاليّة</translation>
     </message>
     <message>
         <source>The peer did not present any certificate</source>
-        <translation>Cha dug an seise teisteanas seachad</translation>
+        <translation>لم يقدّم النّدّ أيّ شهادة</translation>
     </message>
     <message>
         <source>The host name did not match any of the valid hosts for this certificate</source>
-        <translation>Cha robh ainm an t-òstair a’ maidseadh gin dhe na h-òstairean dligheach aig an teisteanas seo</translation>
+        <translation>لم يطابق اسم المضيف أيّ مضيف صالح لهذه الشّهادة</translation>
     </message>
     <message>
         <source>The peer certificate is blacklisted</source>
-        <translation>Tha teisteanas an t-seise air an dubh-liosta</translation>
+        <translation>شهادة النّدّ في القائمة السّوداء</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Mearachd nach aithne dhuinn</translation>
+        <translation>خطأ مجهول</translation>
     </message>
     <message>
         <source>The TLS/SSL connection has been closed</source>
-        <translation>Chaidh an ceangal TLS/SSL a dhùnadh</translation>
+        <translation>أُغلق اتّصال TLS/SSL</translation>
     </message>
     <message>
         <source>Error creating SSL session, %1</source>
-        <translation>Mearachd a’ cruthachadh seisean SSL, %1</translation>
+        <translation>خطأ في إنشاء جلسة SSL،‏ %1</translation>
     </message>
     <message>
         <source>Error creating SSL session: %1</source>
-        <translation>Mearachd a’ cruthachadh seisean SSL: %1</translation>
+        <translation>خطأ في إنشاء جلسة SSL: ‏%1</translation>
     </message>
     <message>
         <source>Unable to init SSL Context: %1</source>
-        <translation>Mearachd le tòiseachadh co-theacsa SSL: %1</translation>
+        <translation>تعذّر إنشاء سياق SSL: ‏%1</translation>
     </message>
     <message>
         <source>Unable to write data: %1</source>
-        <translation>Cha b’ urrainn dhuinn dàta a sgrìobhadh: %1</translation>
+        <translation>تعذّرت كتابة البيانات: %1</translation>
     </message>
     <message>
         <source>Unable to decrypt data: %1</source>
-        <translation>Cha b’ urrainn dhuinn dàta a dhì-chrioptachadh: %1</translation>
+        <translation>تعذّر فكّ تعمية البيانات: %1</translation>
     </message>
     <message>
         <source>Error while reading: %1</source>
-        <translation>Mearachd le leughadh: %1</translation>
+        <translation>خطأ أثناء القراءة: %1</translation>
     </message>
     <message>
         <source>Error during SSL handshake: %1</source>
-        <translation>Mearachd le crathadh-làimhe SSL: %1</translation>
+        <translation>خطأ أثناء مصافحة SSL: ‏%1</translation>
     </message>
 </context>
 <context>
     <name>QStandardPaths</name>
     <message>
         <source>Desktop</source>
-        <translation>An deasg</translation>
+        <translation>سطح المكتب</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation>Sgrìobhainnean</translation>
+        <translation>المستندات</translation>
     </message>
     <message>
         <source>Fonts</source>
-        <translation>Cruthan-clò</translation>
+        <translation>الخطوط</translation>
     </message>
     <message>
         <source>Applications</source>
-        <translation>Aplacaidean</translation>
+        <translation>التّطبيقات</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation>Ceòl</translation>
+        <translation>الموسيقى</translation>
     </message>
     <message>
         <source>Movies</source>
-        <translation>Filmichean</translation>
+        <translation>الأفلام</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation>Dealbhan</translation>
+        <translation>الصّور</translation>
     </message>
     <message>
         <source>Temporary Directory</source>
-        <translation>Pasgan sealadach</translation>
+        <translation>الدّليل المؤقّت</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation>Dhachaigh</translation>
+        <translation>المنزل</translation>
     </message>
     <message>
         <source>Cache</source>
-        <translation>Tasgadan</translation>
+        <translation>الخبيئة</translation>
     </message>
     <message>
         <source>Shared Data</source>
-        <translation>Dàta co-roinnte</translation>
+        <translation>البيانات المشتركة</translation>
     </message>
     <message>
         <source>Runtime</source>
-        <translation>Àm ruith</translation>
+        <translation>زمن التّشغيل</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation>Rèiteachadh</translation>
+        <translation>الضّبط</translation>
     </message>
     <message>
         <source>Shared Configuration</source>
-        <translation>Rèiteachadh co-roinnte</translation>
+        <translation>الضّبط المشترك</translation>
     </message>
     <message>
         <source>Shared Cache</source>
-        <translation>Tasgadan co-roinnte</translation>
+        <translation>الخبيئة المشتركة</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation>Luchdadh a-nuas</translation>
+        <translation>التّنزيلات</translation>
     </message>
     <message>
         <source>Application Data</source>
-        <translation>Dàta aplacaid</translation>
+        <translation>بيانات التّطبيقات</translation>
     </message>
     <message>
         <source>Application Configuration</source>
-        <translation>Rèiteachadh aplacaid</translation>
+        <translation>ضبط التّطبيقات</translation>
     </message>
 </context>
 <context>
     <name>QStateMachine</name>
     <message>
         <source>Missing initial state in compound state &apos;%1&apos;</source>
-        <translation>Tha staid-thòiseachaidh a dhìth air an staid fhillte “%1”</translation>
+        <translation>الحالة الأوّليّة للحالة المركّبة ’%1‘ ناقصة</translation>
     </message>
     <message>
         <source>Missing default state in history state &apos;%1&apos;</source>
-        <translation>Tha staid thùsail a dhìth air staid an eachdraidh “%1”</translation>
+        <translation>الحالة الافتراضيّة ناقصة في تأريخ الحالات ’%1‘</translation>
     </message>
     <message>
         <source>No common ancestor for targets and source of transition from state &apos;%1&apos;</source>
-        <translation>Chan eil an t-aon shinnsear aig targaid ’s tùs an tar-mhùthaidh ann on staid “%1” a-mach</translation>
+        <translation>لا سلف عام لأهداف الانتقال من الحالة ’%1‘ ومصادره</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Mearachd nach aithne dhuinn</translation>
+        <translation>خطأ مجهول</translation>
     </message>
 </context>
 <context>
     <name>QSystemSemaphore</name>
     <message>
         <source>%1: permission denied</source>
-        <translation>%1: cead air a dhiùltadh</translation>
+        <translation>‏%1: رُفض التّصريح</translation>
     </message>
     <message>
         <source>%1: already exists</source>
-        <translation>%1: tha seo ann mar-thà</translation>
+        <translation>‏%1: موجود بالفعل</translation>
     </message>
     <message>
         <source>%1: does not exist</source>
-        <translation>%1: chan eil seo ann</translation>
+        <translation>‏%1: غير موجود</translation>
     </message>
     <message>
         <source>%1: out of resources</source>
-        <translation>%1: dìth ghoireasan</translation>
+        <translation>‏%1: نفذت الموارد</translation>
     </message>
     <message>
         <source>%1: unknown error %2</source>
-        <translation>%1: mearachd nach aithne dhuinn %2</translation>
+        <translation>‏%1: الخطأ %2 مجهول</translation>
     </message>
 </context>
 <context>
     <name>QTDSDriver</name>
     <message>
         <source>Unable to open connection</source>
-        <translation>Cha b’ urrainn dhuinn an ceangal fhosgladh</translation>
+        <translation>تعذّر فتح اتّصال</translation>
     </message>
     <message>
         <source>Unable to use database</source>
-        <translation>Cha b’ urrainn dhuinn an stòr-dàta a chleachdadh</translation>
+        <translation>تعذّر استخدام قاعدة البيانات</translation>
     </message>
 </context>
 <context>
     <name>QTabBar</name>
     <message>
         <source>Scroll Left</source>
-        <translation>Sgrolaich gu clì</translation>
+        <translation>مرّر لليسار</translation>
     </message>
     <message>
         <source>Scroll Right</source>
-        <translation>Sgrolaich gu deas</translation>
+        <translation>مرّر لليمين</translation>
     </message>
 </context>
 <context>
     <name>QTcpServer</name>
     <message>
         <source>Operation on socket is not supported</source>
-        <translation>Cha chuirear taic ris an obrachadh air an t-socaid</translation>
+        <translation>العمليّة على المقبس غير مدعومة</translation>
     </message>
 </context>
 <context>
     <name>QTgaFile</name>
     <message>
         <source>Could not read image data</source>
-        <translation>Cha b’ urrainn dhuinn dàta an deilbh a leughadh</translation>
+        <translation>تعذّرت قراءة بيانات الصّورة</translation>
     </message>
     <message>
         <source>Sequential device (eg socket) for image read not supported</source>
-        <translation>Cha chuirear taic ris an uidheam shreathach (can socaid) gus dealbh a leughadh</translation>
+        <translation>الأجهزة التّسلسليّة (مثل المقابس) لقراءة الصّور غير مدعومة</translation>
     </message>
     <message>
         <source>Seek file/device for image read failed</source>
-        <translation>Dh’fhàillig le sireadh an fhaidhle/uidheim gus dealbh a leughadh</translation>
+        <translation>فشل سعي الملفّ/الجهاز لقراءة الصّورة</translation>
     </message>
     <message>
         <source>Image header read failed</source>
-        <translation>Dh’fhàillig le leughadh bann-cinn an deilbh</translation>
+        <translation>فشلت قراءة ترويسة الصّورة</translation>
     </message>
     <message>
         <source>Image type not supported</source>
-        <translation>Cha chuirear taic ris an t-seòrsa deilbh</translation>
+        <translation>نوع الصّورة غير مدعوم</translation>
     </message>
     <message>
         <source>Image depth not valid</source>
-        <translation>Chan eil doimhne an deilbh dhligheach</translation>
+        <translation>عمق الصّورة غير مدعوم</translation>
     </message>
     <message>
         <source>Could not seek to image read footer</source>
-        <translation>Dh’fhàillig le sireadh bann-coise an deilbh</translation>
+        <translation>تعذّر السّعيّ إلى ترويسة قراءة الصّورة</translation>
     </message>
     <message>
         <source>Could not read footer</source>
-        <translation>Cha b’ urrainn dhuinn am bann-coise a leughadh</translation>
+        <translation>تعذّرت قراءة التّذييل</translation>
     </message>
     <message>
         <source>Image type (non-TrueVision 2.0) not supported</source>
-        <translation>Cha chuirear taic ris an t-seòrsa deilbh (nach eil ’na TrueVision 2.0)</translation>
+        <translation>نوع الصّورة (ليست تروفيرشن ٢٫٠) غير مدعوم</translation>
     </message>
     <message>
         <source>Could not reset to read data</source>
-        <translation>Cha b’ urrainn dhuinn ath-shuidheachadh gus an dàta a leughadh</translation>
+        <translation>تعذّر التّصفير لقراءة البيانات</translation>
     </message>
 </context>
 <context>
     <name>QUdpSocket</name>
     <message>
         <source>Unable to send a datagram</source>
-        <translation>Cha b’ urrainn dhuinn an dàta-ghram a chur</translation>
+        <translation>تعذّر إرسال مخطّط بيانات</translation>
     </message>
     <message>
         <source>No datagram available for reading</source>
-        <translation>Chan eil dàta-ghram ri fhaighinn a chum leughaidh</translation>
+        <translation>لا مخطّط بيانات لقراءته</translation>
     </message>
 </context>
 <context>
     <name>QUndoGroup</name>
     <message>
         <source>Undo %1</source>
-        <translation>Neo-dhèan %1</translation>
+        <translation>تراجع عن %1</translation>
     </message>
     <message>
         <source>Undo</source>
         <comment>Default text for undo action</comment>
-        <translation>Neo-dhèan</translation>
+        <translation>تراجع</translation>
     </message>
     <message>
         <source>Redo %1</source>
-        <translation>Ath-dhèan %1</translation>
+        <translation>أعد %1</translation>
     </message>
     <message>
         <source>Redo</source>
         <comment>Default text for redo action</comment>
-        <translation>Ath-dhèan</translation>
+        <translation>أعد</translation>
     </message>
 </context>
 <context>
     <name>QUndoModel</name>
     <message>
         <source>&lt;empty&gt;</source>
-        <translation>&lt;falamh&gt;</translation>
+        <translation>&lt;فارغ&gt;</translation>
     </message>
 </context>
 <context>
     <name>QUndoStack</name>
     <message>
         <source>Undo %1</source>
-        <translation>Neo-dhèan %1</translation>
+        <translation>تراجع عن %1</translation>
     </message>
     <message>
         <source>Undo</source>
         <comment>Default text for undo action</comment>
-        <translation>Neo-dhèan</translation>
+        <translation>تراجع</translation>
     </message>
     <message>
         <source>Redo %1</source>
-        <translation>Ath-dhèan %1</translation>
+        <translation>أعد %1</translation>
     </message>
     <message>
         <source>Redo</source>
         <comment>Default text for redo action</comment>
-        <translation>Ath-dhèan</translation>
+        <translation>أعد</translation>
     </message>
 </context>
 <context>
     <name>QUnicodeControlCharacterMenu</name>
     <message>
         <source>LRM Left-to-right mark</source>
-        <translation>LRM Comharra clì-gu-deas</translation>
+        <translation>علامة يسار إلى يمين (LRM)</translation>
     </message>
     <message>
         <source>RLM Right-to-left mark</source>
-        <translation>RLM Comharra deas-gu-clì</translation>
+        <translation>علامة يمين إلى يسار (RLM)</translation>
     </message>
     <message>
         <source>ZWJ Zero width joiner</source>
-        <translation>ZWJ Caractar nasgaidh gun leud</translation>
+        <translation>واصل صفريّ العرض (ZWJ)</translation>
     </message>
     <message>
         <source>ZWNJ Zero width non-joiner</source>
-        <translation>ZWNJ Caractar neo-nasgaidh gun leud</translation>
+        <translation>فاصل صفريّ العرض (ZWNJ)</translation>
     </message>
     <message>
         <source>ZWSP Zero width space</source>
-        <translation>ZWSP Beàrn gun leud</translation>
+        <translation>مسافة صفريّة العرض (ZWSP)</translation>
     </message>
     <message>
         <source>LRE Start of left-to-right embedding</source>
-        <translation>LRE Toiseach air leabachadh clì-gu-deas</translation>
+        <translation>بداية غرس يسار إلى يمين (LRE)</translation>
     </message>
     <message>
         <source>RLE Start of right-to-left embedding</source>
-        <translation>RLE Toiseach air leabachadh deas-gu-clì</translation>
+        <translation>بداية غرس يمين إلى يسار (RLE)</translation>
     </message>
     <message>
         <source>LRO Start of left-to-right override</source>
-        <translation>LRO Toiseach air tar-àithne clì-gu-deas</translation>
+        <translation>بداية تخطّي يسار إلى يمين (LRO)</translation>
     </message>
     <message>
         <source>RLO Start of right-to-left override</source>
-        <translation>RLO Toiseach air tar-àithne deas-gu-clì</translation>
+        <translation>بداية تخطّي يمين إلى يسار (RLO)</translation>
     </message>
     <message>
         <source>PDF Pop directional formatting</source>
-        <translation>PDF Pop am fòrmatadh comhaireach</translation>
+        <translation>أزل التّنسيق ثنائيّ الاتّجاه (PDF)</translation>
     </message>
     <message>
         <source>LRI Left-to-right isolate</source>
-        <translation>LRI Leth-oireach clì-gu-deas</translation>
+        <translation>عزل يسار إلى يمين (LRI)</translation>
     </message>
     <message>
         <source>RLI Right-to-left isolate</source>
-        <translation>RLI Leth-oireach deas-gu-clì</translation>
+        <translation>عزل يمين إلى يسار (RLI)</translation>
     </message>
     <message>
         <source>FSI First strong isolate</source>
-        <translation>FSI A’ chiad leth-oireach làidir</translation>
+        <translation>عزل أول محرف قويّ (FSI)</translation>
     </message>
     <message>
         <source>PDI Pop directional isolate</source>
-        <translation>PDI Pop an leth-oireach comhaireach</translation>
+        <translation>أزل العزل ثنائيّ الاتّجاه (PDF)</translation>
     </message>
     <message>
         <source>Insert Unicode control character</source>
-        <translation>Cuir a-steach caractar-smachd Unicode</translation>
+        <translation>أدرج محرف يونيكود تحكّميّ</translation>
     </message>
 </context>
 <context>
     <name>QWhatsThisAction</name>
     <message>
         <source>What&apos;s This?</source>
-        <translation>Dè th’ ann?</translation>
+        <translation>ما هذا؟</translation>
     </message>
 </context>
 <context>
@@ -6828,35 +6688,35 @@ Role of an accessible object</extracomment>
     <name>QWidgetTextControl</name>
     <message>
         <source>&amp;Undo</source>
-        <translation>&amp;Neo-dhèan</translation>
+        <translation>&amp;تراجع</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>&amp;Ath-dhèan</translation>
+        <translation>أ&amp;عد</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation>&amp;Gearr às</translation>
+        <translation>&amp;قصّ</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>Dèan lethbhrea&amp;c</translation>
+        <translation>ا&amp;نسخ</translation>
     </message>
     <message>
         <source>Copy &amp;Link Location</source>
-        <translation>Dèan lethbhreac de sheò&amp;ladh a’ cheangail</translation>
+        <translation>انسخ و&amp;صلة المكان</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>Cuir a&amp;nn</translation>
+        <translation>أل&amp;صق</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Sguab às</translation>
+        <translation>احذف</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Tagh na h-uile</translation>
+        <translation>حدّد الكلّ</translation>
     </message>
 </context>
 <context>
@@ -6865,298 +6725,298 @@ Role of an accessible object</extracomment>
         <source>Qt cannot load the direct2d platform plugin because the Direct2D version on this system is too old. The minimum system requirement for this platform plugin is Windows 7 SP1 with Platform Update.
 
 The minimum Direct2D version required is %1.%2.%3.%4. The Direct2D version on this system is %5.%6.%7.%8.</source>
-        <translation>Chan urrainn dha Qt plugan an ùrlair direct2d platform a luchdadh on a tha an tionndadh dhe Direct2D air an t-siostam seo ro shean. Tha am plugan ùrlair seo feumach air Windows 7 SP1 with Platform Update air a char as lugha.
+        <translation>تعذّر على كيوت تحميل ملحقة المنصّة direct2d لأنّ إصدارة Direct2D في هذا النّظام قديمة جدًّا. النّظام المطلوب لملحقة المنصّة هذه هو على الأقل وندوز ٧ بحزمة الخدمات الأولى وتحديثات المنصّة.
 
-Is %1.%2.%3.%4 an tionndadh as sine dhe Direct2D a dh’obraicheas. Is %5.%6.%7.%8 an tionndadh dhe Direct2D air an t-siostam seo.</translation>
+إصدارة Direct2D الدّنيا المطلوبة هي %L1٫%L2٫%L3٫%L4. إصدارة Direct2D في هذا النّظام هي %L5٫%L6٫%L7٫%L8.</translation>
     </message>
     <message>
         <source>Cannot load direct2d platform plugin</source>
-        <translation>Cha b’ urrainn dhuinn plugan an ùrlair direct2d a luchdadh</translation>
+        <translation>تعذّر تحميل ملحقة المنصّة direct2d</translation>
     </message>
 </context>
 <context>
     <name>QWizard</name>
     <message>
         <source>Go Back</source>
-        <translation>Air ais</translation>
+        <translation>ارجع</translation>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
-        <translation>&lt; Air Ai&amp;s</translation>
+        <translation>&lt; ال&amp;سّابق</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation>Lean air adhart</translation>
+        <translation>تابع</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>Air &amp;adhart</translation>
+        <translation>ال&amp;تّالي</translation>
     </message>
     <message>
         <source>&amp;Next &gt;</source>
-        <translation>Air &amp;adhart &gt;</translation>
+        <translation>ال&amp;تّالي &gt;</translation>
     </message>
     <message>
         <source>Commit</source>
-        <translation>Dèan commit</translation>
+        <translation>أودع</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation>Deiseil</translation>
+        <translation>تمّ</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation>&amp;Crìochnaich</translation>
+        <translation>أن&amp;هِ</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Sguir dheth</translation>
+        <translation>ألغِ</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Cobhair</translation>
+        <translation>مساعدة</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>Cob&amp;hair</translation>
+        <translation>م&amp;ساعدة</translation>
     </message>
 </context>
 <context>
     <name>QXml</name>
     <message>
         <source>no error occurred</source>
-        <translation>cha do thachair mearachd</translation>
+        <translation>لم تحدث أخطاء</translation>
     </message>
     <message>
         <source>error triggered by consumer</source>
-        <translation>dh’adhbharaich an caitheadair mearachd</translation>
+        <translation>خطأ حفّزه مستهلك</translation>
     </message>
     <message>
         <source>unexpected end of file</source>
-        <translation>deireadh faidhle ris nach robh dùil</translation>
+        <translation>توقّعتُ نهاية الملفّ</translation>
     </message>
     <message>
         <source>more than one document type definition</source>
-        <translation>tha iomadh document type definition ann</translation>
+        <translation>أكثر من تعريف واحد لنوع المستند</translation>
     </message>
     <message>
         <source>error occurred while parsing element</source>
-        <translation>thachair mearachd le parsadh na h-eileamaid</translation>
+        <translation>حدث خطأ في تحليل العنصر</translation>
     </message>
     <message>
         <source>tag mismatch</source>
-        <translation>chan eil na tagaichean a-rèir a chèile</translation>
+        <translation>الوسوم لا تتطابق</translation>
     </message>
     <message>
         <source>error occurred while parsing content</source>
-        <translation>thachair mearachd le parsadh na susbaint</translation>
+        <translation>حدث خطأ في تحليل المحتويات</translation>
     </message>
     <message>
         <source>unexpected character</source>
-        <translation>caractar ris nach robh dùil</translation>
+        <translation>محرف غير متوقّع</translation>
     </message>
     <message>
         <source>invalid name for processing instruction</source>
-        <translation>ainm mì-dhligheach air àithne pròiseasaidh</translation>
+        <translation>اسم غير صالح لتعليمة المعالجة</translation>
     </message>
     <message>
         <source>version expected while reading the XML declaration</source>
-        <translation>bhathar an dùil ri tionndadh le leughadh an foirghill XML</translation>
+        <translation>توقّعتُ الإصدارة أثناء قراءة تعريف XML</translation>
     </message>
     <message>
         <source>wrong value for standalone declaration</source>
-        <translation>luach cearr air foirgheall aonaranach</translation>
+        <translation>قيمة خاطئة للتّعريف المستقلّ</translation>
     </message>
     <message>
         <source>encoding declaration or standalone declaration expected while reading the XML declaration</source>
-        <translation>bhathar an dùil ri foirgheall còdachaidh no aonarach le leughadh an fhoirghill XML</translation>
+        <translation>توقّعتُ تعريف التّرميز أو تعريفًا مستقلًا أثناء قراءة تعريف XML</translation>
     </message>
     <message>
         <source>standalone declaration expected while reading the XML declaration</source>
-        <translation>bhathar an dùil ri foirgheall aonarach le leughadh an foirghill XML</translation>
+        <translation>توقّعتُ تعريفًا مستقلًا أثناء قراءة تعريف XML</translation>
     </message>
     <message>
         <source>error occurred while parsing document type definition</source>
-        <translation>thachair mearachd le parsadh an document type definition</translation>
+        <translation>حدث خطأ أثناء تحليل تعريف نوع المستند</translation>
     </message>
     <message>
         <source>letter is expected</source>
-        <translation>thathar an dùil ri litir</translation>
+        <translation>توقّعتُ حرفًا</translation>
     </message>
     <message>
         <source>error occurred while parsing comment</source>
-        <translation>thachair mearachd le parsadh a’ bheachd</translation>
+        <translation>حدث خطأ أثناء تحليل التّعليق</translation>
     </message>
     <message>
         <source>error occurred while parsing reference</source>
-        <translation>thachair mearachd le parsadh an reifreans</translation>
+        <translation>حدث خطأ أثناء تحليل المرجع</translation>
     </message>
     <message>
         <source>internal general entity reference not allowed in DTD</source>
-        <translation>chan eil reifreans eintiteis coitcheann inntearnail ceadaichte ann an DTD</translation>
+        <translation>لا يسمح DTD بمراجع الكيان العامّة الدّاخليّة</translation>
     </message>
     <message>
         <source>external parsed general entity reference not allowed in attribute value</source>
-        <translation>chan eil reifreans eintiteis coitcheann air a pharsadh on taobh a-muigh ceadaichte ann an luach buaidhe</translation>
+        <translation>مراجع الكيانات العامّة المحلّلة خارجًا ليست مسموحة في قيم الخواصّ</translation>
     </message>
     <message>
         <source>external parsed general entity reference not allowed in DTD</source>
-        <translation>chan eil reifreans eintiteis coitcheann air a pharsadh on taobh a-muigh ceadaichte ann an DTD</translation>
+        <translation>لا يسمح DTD بمراجع الكيان العامّة المحلّلة خارجًا</translation>
     </message>
     <message>
         <source>unparsed entity reference in wrong context</source>
-        <translation>tha reifreans eintiteis nach deach a pharsadh sa cho-theacsa chearr</translation>
+        <translation>مرجع كيان لم يُحلّل في سياق خاطئ</translation>
     </message>
     <message>
         <source>recursive entities</source>
-        <translation>eintiteasan ath-chùrsach</translation>
+        <translation>كيانات تكراريّة</translation>
     </message>
     <message>
         <source>error in the text declaration of an external entity</source>
-        <translation>mearachd ann am foirgheall teacsa aig eintiteas on taobh a-muigh</translation>
+        <translation>خطأ في التّعريف النّصّيّ لكيان خارجيّ</translation>
     </message>
 </context>
 <context>
     <name>QXmlStream</name>
     <message>
         <source>Extra content at end of document.</source>
-        <translation>Tha susbaint a bharrachd air deireadh na sgrìobhainn.</translation>
+        <translation>محتوًى إضافيّ نهاية المستند.</translation>
     </message>
     <message>
         <source>Invalid entity value.</source>
-        <translation>Luach eintiteis mì-dhligheach.</translation>
+        <translation>قيمة الكيان غير صالحة.</translation>
     </message>
     <message>
         <source>Invalid XML character.</source>
-        <translation>Caractar XML mì-dhligheach.</translation>
+        <translation>محرف XML غير صالح.</translation>
     </message>
     <message>
         <source>Sequence &apos;]]&gt;&apos; not allowed in content.</source>
-        <translation>Chan eil an sreath “]]&gt;” ceadaichte am broinn susbaint.</translation>
+        <translation>التّتابع ’‎]]&gt;‎‘ غير مسموح به في المحتوى.</translation>
     </message>
     <message>
         <source>Encountered incorrectly encoded content.</source>
-        <translation>Thachradh air susbaint nach deach a chòdachadh mar bu chòir.</translation>
+        <translation>واجهتُ محتوًى مرمّز بشكل خاطئ.</translation>
     </message>
     <message>
         <source>Namespace prefix &apos;%1&apos; not declared</source>
-        <translation>Tha foirgheall a dhìth air ro-leasachan ainm-spàis “%1”</translation>
+        <translation>سابقة نطاق الأسماء ’%1‘ لم تُعرّف</translation>
     </message>
     <message>
         <source>Illegal namespace declaration.</source>
-        <translation>Foirgheall ainm-spàs mì-dhligheach.</translation>
+        <translation>تعريف نطاق أسماء غير قانونيّ.</translation>
     </message>
     <message>
         <source>Attribute &apos;%1&apos; redefined.</source>
-        <translation>Chaidh am buadh “%1” ath-mhìneachadh.</translation>
+        <translation>أُعيد تعريف الخاصّيّة ’%1‘.</translation>
     </message>
     <message>
         <source>Unexpected character &apos;%1&apos; in public id literal.</source>
-        <translation>Caractar “%1” ris nach robh dùil ann an litearail id poblach.</translation>
+        <translation>المحرف ’%1‘ غير متوقّع حرفيًّا في معرّف عامّ.</translation>
     </message>
     <message>
         <source>Invalid XML version string.</source>
-        <translation>Sreang tionndaidh XML mhì-dhligheach.</translation>
+        <translation>سلسلة إصدارة XML غير صالحة.</translation>
     </message>
     <message>
         <source>Unsupported XML version.</source>
-        <translation>Tionndadh dhe XML ris nach cuirear taic.</translation>
+        <translation>إصدارة XML غير مدعومة.</translation>
     </message>
     <message>
         <source>The standalone pseudo attribute must appear after the encoding.</source>
-        <translation>Feumaidh am pseudo-bhuadh aonaranach a nochdadh às dèid a’ chòdachaidh.</translation>
+        <translation>خاصيّة pseudo المستقلّة يجب أن تظهر بعد التّرميز.</translation>
     </message>
     <message>
         <source>%1 is an invalid encoding name.</source>
-        <translation>Chan eil %1 ’na ainm còdachaidh dligheach.</translation>
+        <translation>%1 اسم ترميز غير صالح.</translation>
     </message>
     <message>
         <source>Encoding %1 is unsupported</source>
-        <translation>Cha chuirear taic ri còdachadh %1</translation>
+        <translation>التّرميز %1 غير مدعوم</translation>
     </message>
     <message>
         <source>Standalone accepts only yes or no.</source>
-        <translation>Cha ghabh an t-aonarach ach ri “yes” no “no”.</translation>
+        <translation>يقبل خيار مستقلّ/Standalone قمتيّ نعم/yes ولا/no فقط.</translation>
     </message>
     <message>
         <source>Invalid attribute in XML declaration.</source>
-        <translation>Buadh mì-dhligheach ann am foirghill XML.</translation>
+        <translation>خاصيّة غير صالحة في تعريف XML.</translation>
     </message>
     <message>
         <source>Premature end of document.</source>
-        <translation>Thàinig crìoch na sgrìobhainn ro thràth.</translation>
+        <translation>انتهى المستند قبل أوانه.</translation>
     </message>
     <message>
         <source>Invalid document.</source>
-        <translation>Sgrìobhainn mhì-dhligheach.</translation>
+        <translation>مستند غير صالح.</translation>
     </message>
     <message>
         <source>Expected </source>
-        <translation>An dùil ri </translation>
+        <translation>توقّعتُ </translation>
     </message>
     <message>
         <source>, but got &apos;</source>
-        <translation>, ach fhuaras ’</translation>
+        <translation>، ولكنّي وجدتُ ’</translation>
     </message>
     <message>
         <source>Unexpected &apos;</source>
-        <translation>Tha seo ann gun dùil: ’</translation>
+        <translation>لم أتوقّع ’</translation>
     </message>
     <message>
         <source>Expected character data.</source>
-        <translation>An dùil ri dàta charactaran.</translation>
+        <translation>توقّعتُ بيانات محرفيّة.</translation>
     </message>
     <message>
         <source>Recursive entity detected.</source>
-        <translation>Mhothaich sinn do dh’eintiteas ath-chùrsach.</translation>
+        <translation>اكتشفتُ كيانًا تكراريًّا.</translation>
     </message>
     <message>
         <source>Start tag expected.</source>
-        <translation>An dùil ri taga tòiseachaidh.</translation>
+        <translation>توقّعتُ وسم بداية.</translation>
     </message>
     <message>
         <source>NDATA in parameter entity declaration.</source>
-        <translation>NDATA ann am foirgheall eintiteas paramadair.</translation>
+        <translation>‏NDATA في تعريف كيان المعامل.</translation>
     </message>
     <message>
         <source>XML declaration not at start of document.</source>
-        <translation>Foirgheall XML nach eil aig toiseach na sgrìobhainn.</translation>
+        <translation>تعريف XML ليس في بداية المستند.</translation>
     </message>
     <message>
         <source>%1 is an invalid processing instruction name.</source>
-        <translation>Chan eil %1 ’na ainm àithne pròiseasaidh dhligheach.</translation>
+        <translation>ليس %1 اسم تعليمة معالجة صالح.</translation>
     </message>
     <message>
         <source>Invalid processing instruction name.</source>
-        <translation>Ainm àithne pròiseasaidh mì-dhligheach.</translation>
+        <translation>اسم تعليمة معالجة غير صالح.</translation>
     </message>
     <message>
         <source>%1 is an invalid PUBLIC identifier.</source>
-        <translation>Chan eil %1 ’na aithnichear PUBLIC dligheach.</translation>
+        <translation>ليس %1 معرّف PUBLIC صالح.</translation>
     </message>
     <message>
         <source>Invalid XML name.</source>
-        <translation>Ainm XML mì-dhligheach.</translation>
+        <translation>اسم XML غير صالح.</translation>
     </message>
     <message>
         <source>Opening and ending tag mismatch.</source>
-        <translation>Chan eil an taga fosglaidh ’s an taga deiridh a-rèir a chèile.</translation>
+        <translation>وسما البداية والإغلاق لا يتطابقان.</translation>
     </message>
     <message>
         <source>Entity &apos;%1&apos; not declared.</source>
-        <translation>Tha foirgheall a dhìth air an eintiteas “%1”.</translation>
+        <translation>لم يُعرّف الكيان ’%1‘.</translation>
     </message>
     <message>
         <source>Reference to unparsed entity &apos;%1&apos;.</source>
-        <translation>Reifreans gu eintiteas “%1” nach deach a pharsadh.</translation>
+        <translation>مرجع إلى كيان لم يُحلّل ’%1‘.</translation>
     </message>
     <message>
         <source>Reference to external entity &apos;%1&apos; in attribute value.</source>
-        <translation>Iomradh air eintiteas on taobh a-muigh “%1” ann an luach buaidh.</translation>
+        <translation>مرجع إلى كيان خارجيّ ’%1‘ في قيمة خاصيّة.</translation>
     </message>
     <message>
         <source>Invalid character reference.</source>
-        <translation>Reifreans mì-dhligheach air caractar.</translation>
+        <translation>مرجع محرفيّ غير صالح.</translation>
     </message>
 </context>
 </TS>

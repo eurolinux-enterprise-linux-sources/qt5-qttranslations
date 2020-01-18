@@ -1,57 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.1" language="ar">
 <context>
     <name>QScriptBreakpointsModel</name>
     <message>
         <source>ID</source>
-        <translation>Azonosító</translation>
+        <translation>المعرّف</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>Hely</translation>
+        <translation>المكان</translation>
     </message>
     <message>
         <source>Condition</source>
-        <translation>Feltétel</translation>
+        <translation>الشّرط</translation>
     </message>
     <message>
         <source>Ignore-count</source>
-        <translation>Kihagyások száma</translation>
+        <translation>عدد مرّات التّجاهل</translation>
     </message>
     <message>
         <source>Single-shot</source>
-        <translation>Egyetlen kép</translation>
+        <translatorcomment>يعني أن نقطة التوقف ستُحذف ما إن يصل المنقح إليها ويحفزها trigger it</translatorcomment>
+        <translation>تُحذف عند التّحفيز</translation>
     </message>
     <message>
         <source>Hit-count</source>
-        <translation>Találatszám</translation>
+        <translation>عدّد مرّات التّطابق</translation>
     </message>
 </context>
 <context>
     <name>QScriptBreakpointsWidget</name>
     <message>
         <source>New</source>
-        <translation>Új</translation>
+        <translation>جديد</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Törlés</translation>
+        <translation>احذف</translation>
     </message>
 </context>
 <context>
     <name>QScriptDebugger</name>
     <message>
         <source>Go to Line</source>
-        <translation>Ugrás sorra</translation>
+        <translation>اذهب إلى السّطر</translation>
     </message>
     <message>
         <source>Line:</source>
-        <translation>Sor:</translation>
+        <translation>السّطر:</translation>
     </message>
     <message>
         <source>Interrupt</source>
-        <translation>Megszakítás</translation>
+        <translation>اقطع</translation>
     </message>
     <message>
         <source>Shift+F5</source>
@@ -59,7 +60,7 @@
     </message>
     <message>
         <source>Continue</source>
-        <translation>Folytatás</translation>
+        <translation>تابع</translation>
     </message>
     <message>
         <source>F5</source>
@@ -67,7 +68,7 @@
     </message>
     <message>
         <source>Step Into</source>
-        <translation>Belelépés</translation>
+        <translation>اخطُ للدّاخل</translation>
     </message>
     <message>
         <source>F11</source>
@@ -75,7 +76,7 @@
     </message>
     <message>
         <source>Step Over</source>
-        <translation>Átlépés</translation>
+        <translation>تخطّ</translation>
     </message>
     <message>
         <source>F10</source>
@@ -83,7 +84,7 @@
     </message>
     <message>
         <source>Step Out</source>
-        <translation>Kilépés</translation>
+        <translation>اخطُ للخارج</translation>
     </message>
     <message>
         <source>Shift+F11</source>
@@ -91,7 +92,7 @@
     </message>
     <message>
         <source>Run to Cursor</source>
-        <translation>Futtatás a kurzorig</translation>
+        <translation>شغّل إلى المؤشّر</translation>
     </message>
     <message>
         <source>Ctrl+F10</source>
@@ -99,11 +100,11 @@
     </message>
     <message>
         <source>Run to New Script</source>
-        <translation>Futtatás új parancsfájlig</translation>
+        <translation>شغّل إلى سكرِبت جديد</translation>
     </message>
     <message>
         <source>Toggle Breakpoint</source>
-        <translation>Töréspont be- és kikapcsolása</translation>
+        <translation>بدّل نقطة التّوقّف</translation>
     </message>
     <message>
         <source>F9</source>
@@ -111,19 +112,19 @@
     </message>
     <message>
         <source>Clear Debug Output</source>
-        <translation>Hibakeresési kimenet törlése</translation>
+        <translation>امحُ خرج التّنقيح</translation>
     </message>
     <message>
         <source>Clear Error Log</source>
-        <translation>Hibanapló törlése</translation>
+        <translation>امحُ سجلّ الأخطاء</translation>
     </message>
     <message>
         <source>Clear Console</source>
-        <translation>Konzol törlése</translation>
+        <translation>امحُ المعراض</translation>
     </message>
     <message>
         <source>&amp;Find in Script...</source>
-        <translation>&amp;Keresés a parancsfájlban…</translation>
+        <translation>ا&amp;عثر في السّكرِبت...</translation>
     </message>
     <message>
         <source>Ctrl+F</source>
@@ -131,7 +132,7 @@
     </message>
     <message>
         <source>Find &amp;Next</source>
-        <translation>&amp;Következő keresése</translation>
+        <translation>ا&amp;عثر على التّالي</translation>
     </message>
     <message>
         <source>F3</source>
@@ -139,7 +140,7 @@
     </message>
     <message>
         <source>Find &amp;Previous</source>
-        <translation>&amp;Előző keresése</translation>
+        <translation>ا&amp;عثر على السّابق</translation>
     </message>
     <message>
         <source>Shift+F3</source>
@@ -151,129 +152,129 @@
     </message>
     <message>
         <source>Debug</source>
-        <translation>Hibakeresés</translation>
+        <translation>نقّح</translation>
     </message>
 </context>
 <context>
     <name>QScriptDebuggerCodeFinderWidget</name>
     <message>
         <source>Close</source>
-        <translation>Bezárás</translation>
+        <translation>أغلق</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Előző</translation>
+        <translation>السّابق</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Következő</translation>
+        <translation>التّالي</translation>
     </message>
     <message>
         <source>Case Sensitive</source>
-        <translation>Kis- és nagybetű érzékeny</translation>
+        <translation>حسّاس للحالة</translation>
     </message>
     <message>
         <source>Whole words</source>
-        <translation>Teljes szavak</translation>
+        <translation>كلمات كاملة</translation>
     </message>
     <message>
         <source>&lt;img src=&quot;:/qt/scripttools/debugging/images/wrap.png&quot;&gt;&amp;nbsp;Search wrapped</source>
-        <translation>&lt;img src=&quot;:/qt/scripttools/debugging/images/wrap.png&quot;&gt;&amp;nbsp;A keresés körbeért</translation>
+        <translation>&lt;img src=&quot;:/qt/scripttools/debugging/images/wrap.png&quot;&gt;&amp;nbsp;التفّ البحث</translation>
     </message>
 </context>
 <context>
     <name>QScriptDebuggerLocalsModel</name>
     <message>
         <source>Name</source>
-        <translation>Név</translation>
+        <translation>الاسم</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Érték</translation>
+        <translation>القيمة</translation>
     </message>
 </context>
 <context>
     <name>QScriptDebuggerStackModel</name>
     <message>
         <source>Level</source>
-        <translation>Szint</translation>
+        <translation>المستوى</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Név</translation>
+        <translation>الاسم</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>Hely</translation>
+        <translation>المكان</translation>
     </message>
 </context>
 <context>
     <name>QScriptEdit</name>
     <message>
         <source>Toggle Breakpoint</source>
-        <translation>Töréspont be- és kikapcsolása</translation>
+        <translation>بدّل نقطة التّوقّف</translation>
     </message>
     <message>
         <source>Disable Breakpoint</source>
-        <translation>Töréspont letiltása</translation>
+        <translation>عطّل نقطة التّوقّف</translation>
     </message>
     <message>
         <source>Enable Breakpoint</source>
-        <translation>Töréspont engedélyezése</translation>
+        <translation>فعّل نقطة التّوقّف</translation>
     </message>
     <message>
         <source>Breakpoint Condition:</source>
-        <translation>Töréspont feltétele:</translation>
+        <translation>شرط نقطة التّوقّف:</translation>
     </message>
 </context>
 <context>
     <name>QScriptEngineDebugger</name>
     <message>
         <source>Loaded Scripts</source>
-        <translation>Betöltött parancsfájlok</translation>
+        <translation>السّكرِبتات المحمّلة</translation>
     </message>
     <message>
         <source>Breakpoints</source>
-        <translation>Töréspontok</translation>
+        <translation>نقاط التّوقّف</translation>
     </message>
     <message>
         <source>Stack</source>
-        <translation>Verem</translation>
+        <translation>التّكدّس</translation>
     </message>
     <message>
         <source>Locals</source>
-        <translation>Helyi változók</translation>
+        <translation>المحليّات</translation>
     </message>
     <message>
         <source>Console</source>
-        <translation>Konzol</translation>
+        <translation>المعراض</translation>
     </message>
     <message>
         <source>Debug Output</source>
-        <translation>Hibakeresési kimenet</translation>
+        <translation>خرج التّنقيح</translation>
     </message>
     <message>
         <source>Error Log</source>
-        <translation>Hibanapló</translation>
+        <translation>سجلّ الأخطاء</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Keresés</translation>
+        <translation>ابحث</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Nézet</translation>
+        <translation>منظور</translation>
     </message>
     <message>
         <source>Qt Script Debugger</source>
-        <translation>Qt parancsfájl hibakereső</translation>
+        <translation>منقّح كيوت للسّكرِبتات</translation>
     </message>
 </context>
 <context>
     <name>QScriptNewBreakpointWidget</name>
     <message>
         <source>Close</source>
-        <translation>Bezárás</translation>
+        <translation>أغلق</translation>
     </message>
 </context>
 </TS>

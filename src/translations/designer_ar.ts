@@ -1,603 +1,625 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.1" language="ar">
 <context>
     <name>AbstractFindWidget</name>
     <message>
         <source>&amp;Previous</source>
-        <translation>&amp;Előző</translation>
+        <translation>ال&amp;سّابق</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>&amp;Következő </translation>
+        <translation>ال&amp;تّالي</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation>Kis- és &amp;nagybetű érzékeny</translation>
+        <translation>&amp;حسّاس للحالة</translation>
     </message>
     <message>
         <source>Whole &amp;words</source>
-        <translation>&amp;Teljes szavak</translation>
+        <translation>&amp;كلمات كاملة</translation>
     </message>
     <message>
         <source>&lt;img src=&quot;:/qt-project.org/shared/images/wrap.png&quot;&gt;&amp;nbsp;Search wrapped</source>
-        <translation>&lt;img src=&quot;:/qt-project.org/shared/images/wrap.png&quot;&gt;&amp;nbsp;A keresés körbeért</translation>
+        <translation>&lt;img src=&quot;:/qt-project.org/shared/images/wrap.png&quot;&gt;&amp;nbsp;التفّ البحث</translation>
     </message>
 </context>
 <context>
     <name>AbstractItemEditor</name>
     <message>
         <source>Selectable</source>
-        <translation>Kiválasztható</translation>
+        <translation>يمكن تحديده</translation>
     </message>
     <message>
         <source>Editable</source>
-        <translation>Szerkeszthető</translation>
+        <translation>يمكن تحريره</translation>
     </message>
     <message>
         <source>DragEnabled</source>
-        <translation>Húzás engedélyezve</translation>
+        <translation>السّحب مفعّل</translation>
     </message>
     <message>
         <source>DropEnabled</source>
-        <translation>Ejtés engedélyezve</translation>
+        <translation>الإسقاط مفعّل</translation>
     </message>
     <message>
         <source>UserCheckable</source>
-        <translation>Felhasználó bejelölheti</translation>
+        <translation>يمكن للمستخدم تأشيره</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation>Engedélyezve</translation>
+        <translation>مفعّل</translation>
     </message>
     <message>
         <source>Tristate</source>
-        <translation>Három állapotú</translation>
+        <translation>ثلاثيّ الحالة</translation>
     </message>
     <message>
         <source>Unchecked</source>
-        <translation>Nem bejelölt</translation>
+        <translation>غير مؤشّر</translation>
     </message>
     <message>
         <source>PartiallyChecked</source>
-        <translation>Részlegesen bejelölt</translation>
+        <translation>مؤشّر جزئيًّا</translation>
     </message>
     <message>
         <source>Checked</source>
-        <translation>Bejelölt</translation>
+        <translation>مؤشّر</translation>
     </message>
 </context>
 <context>
     <name>AddLinkDialog</name>
     <message>
         <source>Insert Link</source>
-        <translation>Hivatkozás beszúrása</translation>
+        <translation>أدرج رابطًا</translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation>Cím:</translation>
+        <translation>العنوان:</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation>URL:</translation>
+        <translation>عنوان الرّابط:</translation>
     </message>
 </context>
 <context>
     <name>AppFontDialog</name>
     <message>
         <source>Additional Fonts</source>
-        <translation>További betűkészletek</translation>
+        <translation>خطوط إضافيّة</translation>
     </message>
 </context>
 <context>
     <name>AppFontManager</name>
     <message>
         <source>&apos;%1&apos; is not a file.</source>
-        <translation>A(z) „%1” nem egy fájl.</translation>
+        <translation>ليس ’%1‘ ملفًّا.</translation>
     </message>
     <message>
         <source>The font file &apos;%1&apos; does not have read permissions.</source>
-        <translation>A(z) „%1” betűkészletfájlon nincs olvasási jog.</translation>
+        <translation>ملفّ الخطّ ’%1‘ لا يملك تصاريح قراءة.</translation>
     </message>
     <message>
         <source>The font file &apos;%1&apos; is already loaded.</source>
-        <translation>A(z) „%1” betűkészletfájl már be van töltve.</translation>
+        <translation>ملفّ الخطّ ’%1‘ محمّل بالفعل.</translation>
     </message>
     <message>
         <source>The font file &apos;%1&apos; could not be loaded.</source>
-        <translation>A(z) „%1” betűkészletfájlt nem sikerült betölteni.</translation>
+        <translation>تعذّر تحميل ملفّ الخطّ ’%1‘.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is not a valid font id.</source>
-        <translation>A(z) „%1” nem érvényes betűkészlet-azonosító.</translation>
+        <translation>ليس ’%1‘ معرّف خطّ صالح.</translation>
     </message>
     <message>
         <source>There is no loaded font matching the id &apos;%1&apos;.</source>
-        <translation>Nincs „%1” azonosítóra illeszkedő betűkészlet betöltve.</translation>
+        <translation>لا خطّ محمّل يطابق المعرّف ’%1‘.</translation>
     </message>
     <message>
         <source>The font &apos;%1&apos; (%2) could not be unloaded.</source>
-        <translation>A(z) „%1” (%2) betűkészletet nem sikerült eltávolítani.</translation>
+        <translation>تعذّرت إزالة تحميل الخطّ ’%1‘ ‏(%2).</translation>
     </message>
 </context>
 <context>
     <name>AppFontWidget</name>
     <message>
         <source>Fonts</source>
-        <translation>Betűkészletek</translation>
+        <translation>الخطوط</translation>
     </message>
     <message>
         <source>Add font files</source>
-        <translation>Betűkészletfájlok hozzáadása</translation>
+        <translation>أضف ملفّات خطوط</translation>
     </message>
     <message>
         <source>Remove current font file</source>
-        <translation>Jelenlegi betűkészletfájl eltávolítása</translation>
+        <translation>أزل ملفّ الخطّ الحاليّ</translation>
     </message>
     <message>
         <source>Remove all font files</source>
-        <translation>Minden betűkészletfájl eltávolítása</translation>
+        <translation>أزل كلّ ملفّات الخطوط</translation>
     </message>
     <message>
         <source>Add Font Files</source>
-        <translation>Betűkészletfájlok hozzáadása</translation>
+        <translation>أضف ملفّات خطوط</translation>
     </message>
     <message>
         <source>Font files (*.ttf)</source>
-        <translation>Betűkészletfájlok (*.ttf)</translation>
+        <translation>ملفّات الخطوط (*.ttf)</translation>
     </message>
     <message>
         <source>Error Adding Fonts</source>
-        <translation>Hiba a betűkészlet hozzáadásakor</translation>
+        <translation>خطأ في إضافة الخطوط</translation>
     </message>
     <message>
         <source>Error Removing Fonts</source>
-        <translation>Hiba a betűkészlet eltávolításakor</translation>
+        <translation>خطأ في إزالة الخطوط</translation>
     </message>
     <message>
         <source>Remove Fonts</source>
-        <translation>Betűkészletek eltávolítása</translation>
+        <translation>أزل الخطوط</translation>
     </message>
     <message>
         <source>Would you like to remove all fonts?</source>
-        <translation>Az összes betűkészletet el szeretné távolítani?</translation>
+        <translation>أتريد إزالة كلّ الخطوط؟</translation>
     </message>
 </context>
 <context>
     <name>AppearanceOptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation>Űrlap</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <source>User Interface Mode</source>
-        <translation>Felhasználói felület módja</translation>
+        <translation>وضع واجهة المستخدم</translation>
     </message>
 </context>
 <context>
     <name>AssistantClient</name>
     <message>
         <source>Unable to send request: Assistant is not responding.</source>
-        <translation>Nem küldhető el a kérés: az Asszisztens nem válaszol.</translation>
+        <translation>تعذّر إرسال الطّلب: المساعد لا يستجيب.</translation>
     </message>
     <message>
         <source>The binary &apos;%1&apos; does not exist.</source>
-        <translation>A(z) „%1” bináris nem létezik.</translation>
+        <translation>الثّنائيّ ’%1‘ غير موجود.</translation>
     </message>
     <message>
         <source>Unable to launch assistant (%1).</source>
-        <translation>Nem indítható el az Asszisztens (%1)</translation>
+        <translation>تعذّر إطلاق المساعد (%1).</translation>
     </message>
 </context>
 <context>
     <name>BrushPropertyManager</name>
     <message>
         <source>No brush</source>
-        <translation>Nincs ecset</translation>
+        <translation>لا فُرش</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>Tömör</translation>
+        <translation>صلب</translation>
     </message>
     <message>
         <source>Dense 1</source>
-        <translation>Sűrű 1</translation>
+        <translation>كثيف ١</translation>
     </message>
     <message>
         <source>Dense 2</source>
-        <translation>Sűrű 2</translation>
+        <translation>كثيف ٢</translation>
     </message>
     <message>
         <source>Dense 3</source>
-        <translation>Sűrű 3</translation>
+        <translation>كثيف ٣</translation>
     </message>
     <message>
         <source>Dense 4</source>
-        <translation>Sűrű 4</translation>
+        <translation>كثيف ٤</translation>
     </message>
     <message>
         <source>Dense 5</source>
-        <translation>Sűrű 5</translation>
+        <translation>كثيف ٥</translation>
     </message>
     <message>
         <source>Dense 6</source>
-        <translation>Sűrű 6</translation>
+        <translation>كثيف ٦</translation>
     </message>
     <message>
         <source>Dense 7</source>
-        <translation>Sűrű 7</translation>
+        <translation>كثيف ٧</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Vízszintes</translation>
+        <translation>أفقيّ</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Függőleges</translation>
+        <translation>رأسيّ</translation>
     </message>
     <message>
         <source>Cross</source>
-        <translation>Kereszt</translation>
+        <translation>رأسيّ وأفقيّ</translation>
     </message>
     <message>
         <source>Backward diagonal</source>
-        <translation>Fordított átlós</translation>
+        <translation>قُطريّ للخارج</translation>
     </message>
     <message>
         <source>Forward diagonal</source>
-        <translation>Előre átlós</translation>
+        <translation>قُطريّ للداخل</translation>
     </message>
     <message>
         <source>Crossing diagonal</source>
-        <translation>Keresztátlós</translation>
+        <translation>قُطريّ متداخل</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation>Stílus</translation>
+        <translation>النّمط</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>Szín</translation>
+        <translation>اللون</translation>
     </message>
     <message>
         <source>[%1, %2]</source>
-        <translation>[%1, %2]</translation>
+        <translatorcomment>أول قيمة مترجمة بالأعلى</translatorcomment>
+        <translation>[%1، %2]</translation>
     </message>
 </context>
 <context>
     <name>Command</name>
     <message>
         <source>Add connection</source>
-        <translation>Kapcsolat hozzáadása</translation>
+        <translation>إضافة الاتّصال</translation>
     </message>
     <message>
         <source>Adjust connection</source>
-        <translation>Kapcsolat módosítása</translation>
+        <translation>ضبط الاتّصال</translation>
     </message>
     <message>
         <source>Delete connections</source>
-        <translation>Kapcsolatok törlése</translation>
+        <translation>حذف الاتّصالات</translation>
     </message>
     <message>
         <source>Change source</source>
-        <translation>Forrás módosítása</translation>
+        <translation>تغيير المصدر</translation>
     </message>
     <message>
         <source>Change target</source>
-        <translation>Cél módosítása</translation>
+        <translation>تغيير الهدف</translation>
     </message>
     <message>
         <source>Add &apos;%1&apos; to &apos;%2&apos;</source>
         <extracomment>Command description for adding buttons to a QButtonGroup</extracomment>
-        <translation>„%1” hozzáadása ehhez: „%2”</translation>
+        <translation>إضافة ’%1‘ إلى ’%2‘</translation>
     </message>
     <message>
         <source>Morph %1/&apos;%2&apos; into %3</source>
         <extracomment>MorphWidgetCommand description</extracomment>
-        <translation>%1/„%2” átalakítása erre: %3</translation>
+        <translation>تبديل %1/‏’%2‘ إلى %3</translation>
     </message>
     <message>
         <source>Insert &apos;%1&apos;</source>
-        <translation>„%1” beszúrása</translation>
+        <translation>إدراج ’%1‘</translation>
     </message>
     <message>
         <source>Change Z-order of &apos;%1&apos;</source>
-        <translation>„%1” mélységének módosítása</translation>
+        <translation>تغيير التّرتيب العينيّ لِ‍ ’%1‘</translation>
     </message>
     <message>
         <source>Raise &apos;%1&apos;</source>
-        <translation>„%1” előrébb hozása</translation>
+        <translation>رفع ’%1‘</translation>
     </message>
     <message>
         <source>Lower &apos;%1&apos;</source>
-        <translation>„%1” hátrébb küldése</translation>
+        <translation>إنزال ’%1‘</translation>
     </message>
     <message>
         <source>Delete &apos;%1&apos;</source>
-        <translation>„%1” törlése</translation>
+        <translation>حذف ’%1‘</translation>
     </message>
     <message>
         <source>Reparent &apos;%1&apos;</source>
-        <translation>„%1” szülőjének módosítása</translation>
+        <translation>تغيير أبّ ’%1‘</translation>
     </message>
     <message>
         <source>Promote to custom widget</source>
-        <translation>Előléptetés egyéni felületi elemmé</translation>
+        <translation>التّرقية إلى ودجة مخصّصة</translation>
     </message>
     <message>
         <source>Demote from custom widget</source>
-        <translation>Lefokozás egyéni felületi elemről</translation>
+        <translation>الإنزال من ودجة مخصّصة</translation>
     </message>
     <message>
         <source>Lay out using grid</source>
-        <translation>Elrendezés rács használatával</translation>
+        <translation>التّخطيط باستخدام الشّبكة</translation>
     </message>
     <message>
         <source>Lay out vertically</source>
-        <translation>Elrendezés függőlegesen</translation>
+        <translation>التّخطيط رأسيًّا</translation>
     </message>
     <message>
         <source>Lay out horizontally</source>
-        <translation>Elrendezés vízszintesen</translation>
+        <translation>التّخطيط أفقيًّا</translation>
     </message>
     <message>
         <source>Break layout</source>
-        <translation>Elrendezés feltörése</translation>
+        <translation>كسر التّخطيط</translation>
     </message>
     <message>
         <source>Simplify Grid Layout</source>
-        <translation>Rács elrendezés egyszerűsítése</translation>
+        <translation>تبسيط تخطيط الشّبكة</translation>
     </message>
     <message>
         <source>Move Page</source>
-        <translation>Oldal áthelyezése</translation>
+        <translation>نقل الصّفحة</translation>
     </message>
     <message>
         <source>Delete Page</source>
-        <translation>Oldal törlése</translation>
+        <translation>حذف الصّفحة</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation>Oldal</translation>
+        <translatorcomment>غير مستخدمة كما يبدو</translatorcomment>
+        <translation>صفحة</translation>
     </message>
     <message>
         <source>Insert Page</source>
-        <translation>Oldal beszúrása</translation>
+        <translation>إدراج الصّفحة</translation>
     </message>
     <message>
         <source>Change Tab order</source>
-        <translation>Lapsorrend módosítása</translation>
+        <translation>تغيير ترتيب Tab</translation>
     </message>
     <message>
         <source>Create Menu Bar</source>
-        <translation>Menüsor létrehozása</translation>
+        <translation>إنشاء شريط القوائم</translation>
     </message>
     <message>
         <source>Delete Menu Bar</source>
-        <translation>Menüsor törlése</translation>
+        <translation>حذف شريط القوائم</translation>
     </message>
     <message>
         <source>Create Status Bar</source>
-        <translation>Állapotsor létrehozása</translation>
+        <translation>إنشاء شريط الحالة</translation>
     </message>
     <message>
         <source>Delete Status Bar</source>
-        <translation>Állapotsor törlése</translation>
+        <translation>حذف شريط الحالة</translation>
     </message>
     <message>
         <source>Add Tool Bar</source>
-        <translation>Eszköztár hozzáadása</translation>
+        <translation>إضافة شريط الأدوات</translation>
     </message>
     <message>
         <source>Add Dock Window</source>
-        <translation>Dokkablak hozzáadása</translation>
+        <translation>إضافة نافذة الرّصف</translation>
     </message>
     <message>
         <source>Adjust Size of &apos;%1&apos;</source>
-        <translation>„%1” méretének beállítása</translation>
+        <translation>ضبط مقاس ’%1‘</translation>
     </message>
     <message>
         <source>Change Form Layout Item Geometry</source>
-        <translation>Űrlapelrendezés elem geometriájának módosítása</translation>
+        <translation>تغيير هندسة العنصر في تخطيط الاستمارة</translation>
     </message>
     <message>
         <source>Change Layout Item Geometry</source>
-        <translation>Elrendezés elem geometriájának módosítása</translation>
+        <translation>تغيير هندسة العنصر في التّخطيط</translation>
     </message>
     <message>
         <source>Delete Subwindow</source>
-        <translation>Gyermekablak törlése</translation>
+        <translation>حذف النّافذة الفرعيّة</translation>
     </message>
     <message>
         <source>Insert Subwindow</source>
-        <translation>Gyermekablak beszúrása</translation>
+        <translation>إدراج النّافذة الفرعيّة</translation>
     </message>
     <message>
         <source>Subwindow</source>
-        <translation>Gyermekablak</translation>
+        <translation>النّافذة الفرعيّة</translation>
     </message>
     <message>
         <source>Change Table Contents</source>
-        <translation>Táblázat tartalmának módosítása</translation>
+        <translation>تغيير محتويات الجدول</translation>
     </message>
     <message>
         <source>Change Tree Contents</source>
-        <translation>Fa tartalmának módosítása</translation>
+        <translation>تغيير محتويات الشّجرة</translation>
     </message>
     <message>
         <source>Add action</source>
-        <translation>Művelet hozzáadása</translation>
+        <translation>إضافة الإجراء</translation>
     </message>
     <message>
         <source>Remove action</source>
-        <translation>Művelet eltávolítása</translation>
+        <translation>إزالة الإجراء</translation>
     </message>
     <message>
         <source>Add menu</source>
-        <translation>Menü hozzáadása</translation>
+        <translation>إضافة القائمة</translation>
     </message>
     <message>
         <source>Remove menu</source>
-        <translation>Menü eltávolítása</translation>
+        <translation>إزالة القائمة</translation>
     </message>
     <message>
         <source>Create submenu</source>
-        <translation>Almenü létrehozása</translation>
+        <translation>إنشاء القائمة الفرعيّة</translation>
     </message>
     <message>
         <source>Delete Tool Bar</source>
-        <translation>Eszköztár törlése</translation>
+        <translation>حذف شريط الأدوات</translation>
     </message>
     <message>
         <source>Change layout of &apos;%1&apos; from %2 to %3</source>
-        <translation>„%1” elrendezésének módosítása: %2 → %3</translation>
+        <translation>تغيير تخطيط ’%1‘ من %2 إلى %3</translation>
     </message>
     <message>
         <source>Change layout alignment</source>
-        <translation>Elrendezés igazításának módosítása</translation>
+        <translation>تغيير محاذاة التّخطيط</translation>
     </message>
     <message>
         <source>Set action text</source>
-        <translation>Művelet szövegének beállítása</translation>
+        <translation>ضبط نصّ الإجراء</translation>
     </message>
     <message>
         <source>Insert action</source>
-        <translation>Művelet beszúrása</translation>
+        <translation>إدراج الإجراء</translation>
     </message>
     <message>
         <source>Move action</source>
-        <translation>Művelet áthelyezése</translation>
+        <translation>نقل الإجراء</translation>
     </message>
     <message>
         <source>Change Title</source>
-        <translation>Cím módosítása</translation>
+        <translation>تغيير العنوان</translation>
     </message>
     <message>
         <source>Insert Menu</source>
-        <translation>Menü beszúrása</translation>
+        <translation>إدراج القائمة</translation>
     </message>
     <message>
         <source>Changed &apos;%1&apos; of &apos;%2&apos;</source>
-        <translation>A(z) „%2” objektum „%1” tulajdonsága megváltoztatva</translation>
+        <translation>تغيير ’%1‘ لِ‍ ’%2‘</translation>
     </message>
     <message numerus="yes">
         <source>Changed &apos;%1&apos; of %n objects</source>
         <translation>
-            <numerusform>%n objektum „%1” tulajdonsága megváltoztatva</numerusform>
+            <numerusform>لم يُغيّر شيء</numerusform>
+            <numerusform>تغيير ’%1‘ لكائن واحد</numerusform>
+            <numerusform>تغيير ’%1‘ لكائنين</numerusform>
+            <numerusform>تغيير ’%1‘ لِ‍ %Ln كائنات</numerusform>
+            <numerusform>تغيير ’%1‘ لِ‍ %Ln كائنًا</numerusform>
+            <numerusform>غيّرت# ’%1‘ لِ‍ %Ln كائن</numerusform>
         </translation>
     </message>
     <message>
         <source>Reset &apos;%1&apos; of &apos;%2&apos;</source>
-        <translation>A(z) „%2” objektum „%1” tulajdonsága visszaállítva</translation>
+        <translation>تصفير ’%1‘ لِ‍ ’%2‘</translation>
     </message>
     <message numerus="yes">
         <source>Reset &apos;%1&apos; of %n objects</source>
         <translation>
-            <numerusform>%n objektum „%1” tulajdonsága visszaállítva</numerusform>
+            <numerusform>لم يُصفّر شيء</numerusform>
+            <numerusform>تصفير ’%1‘ لكائن واحد</numerusform>
+            <numerusform>تصفير ’%1‘ لكائنين</numerusform>
+            <numerusform>تصفير ’%1‘ لِ‍ %Ln كائنات</numerusform>
+            <numerusform>تصفير ’%1‘ لِ‍ %Ln كائنًا</numerusform>
+            <numerusform>تصفير ’%1‘ لِ‍ %Ln كائن</numerusform>
         </translation>
     </message>
     <message>
         <source>Add dynamic property &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation>A(z) „%1” dinamikus tulajdonság hozzáadása a(z) „%2” objektumhoz</translation>
+        <translation>إضافة الخاصيّة الحركيّة ’%1‘ إلى ’%2‘</translation>
     </message>
     <message numerus="yes">
         <source>Add dynamic property &apos;%1&apos; to %n objects</source>
         <translation>
-            <numerusform>A(z) „%1” dinamikus tulajdonság hozzáadása %n objektumhoz</numerusform>
+            <numerusform>عدم إضافة شيء</numerusform>
+            <numerusform>إضافة الخاصيّة الحركيّة ’%1‘ إلى كائن واحد</numerusform>
+            <numerusform>إضافة الخاصيّة الحركيّة ’%1‘ إلى كائنين</numerusform>
+            <numerusform>إضافة الخاصيّة الحركيّة ’%1‘ إلى %Ln كائنات</numerusform>
+            <numerusform>إضافة الخاصيّة الحركيّة ’%1‘ إلى %Ln كائنًا</numerusform>
+            <numerusform>إضافة الخاصيّة الحركيّة ’%1‘ إلى %Ln كائن</numerusform>
         </translation>
     </message>
     <message>
         <source>Remove dynamic property &apos;%1&apos; from &apos;%2&apos;</source>
-        <translation>A(z) „%1” dinamikus tulajdonság eltávolítása a(z) „%2” objektumból</translation>
+        <translation>إزالة الخاصيّة الحركيّة ’%1‘ من ’%2‘</translation>
     </message>
     <message numerus="yes">
         <source>Remove dynamic property &apos;%1&apos; from %n objects</source>
         <translation>
-            <numerusform>A(z) „%1” dinamikus tulajdonság eltávolítása %n objektumból</numerusform>
+            <numerusform>عدم إزالة شيء</numerusform>
+            <numerusform>إزالة الخاصيّة الحركيّة ’%1‘ من كائن واحد</numerusform>
+            <numerusform>إزالة الخاصيّة الحركيّة ’%1‘ من كائنين</numerusform>
+            <numerusform>إزالة الخاصيّة الحركيّة ’%1‘ من %Ln كائنات</numerusform>
+            <numerusform>إزالة الخاصيّة الحركيّة ’%1‘ من %Ln كائنًا</numerusform>
+            <numerusform>إزالة الخاصيّة الحركيّة ’%1‘ من %Ln كائن</numerusform>
         </translation>
     </message>
     <message>
         <source>Change signals/slots</source>
-        <translation>Jelzések és tárolóhelyek módosítása</translation>
+        <translation>تغيير الإشارات/الأتلام</translation>
     </message>
     <message>
         <source>Change signal</source>
-        <translation>Jelzés módosítása</translation>
+        <translation>تغيير الإشارة</translation>
     </message>
     <message>
         <source>Change slot</source>
-        <translation>Tárolóhely módosítása</translation>
+        <translation>تغيير التّلم</translation>
     </message>
     <message>
         <source>Change signal-slot connection</source>
-        <translation>Jelzés-tárolóhely kapcsolat módosítása</translation>
+        <translation>تغيير اتّصال الإشارة-التّلم</translation>
     </message>
     <message>
         <source>Change sender</source>
-        <translation>Küldő módosítása</translation>
+        <translation>تغيير المرسل</translation>
     </message>
     <message>
         <source>Change receiver</source>
-        <translation>Fogadó módosítása</translation>
+        <translation>تغيير المستقبل</translation>
     </message>
     <message>
         <source>Create button group</source>
-        <translation>Gombcsoport létrehozása</translation>
+        <translation>إنشاء مجموعة أزرار</translation>
     </message>
     <message>
         <source>Break button group</source>
-        <translation>Gombcsoport feltörése</translation>
+        <translation>كسر مجموعة الأزرار</translation>
     </message>
     <message>
         <source>Break button group &apos;%1&apos;</source>
-        <translation>A(z) „%1” gombcsoport feltörése</translation>
+        <translation>كسر مجموعة الأزرار ’%1‘</translation>
     </message>
     <message>
         <source>Add buttons to group</source>
-        <translation>Gombok hozzáadása a csoporthoz</translation>
+        <translation>إضافة الأزرار إلى المجموعة</translation>
     </message>
     <message>
         <source>Remove buttons from group</source>
-        <translation>Gombok eltávolítása a csoportból</translation>
+        <translation>إزالة الأزرار من المجوعة</translation>
     </message>
     <message>
         <source>Remove &apos;%1&apos; from &apos;%2&apos;</source>
         <extracomment>Command description for removing buttons from a QButtonGroup</extracomment>
-        <translation>„%1” eltávolítása innen: „%2”</translation>
+        <translation>إزالة ’%1‘ من ’%2‘</translation>
     </message>
 </context>
 <context>
     <name>ConnectDialog</name>
     <message>
         <source>Configure Connection</source>
-        <translation>Kapcsolatok beállítása</translation>
+        <translation>اضبط الاتّصال</translation>
     </message>
     <message>
         <source>GroupBox</source>
-        <translation>Csoporttároló doboz</translation>
+        <translation>مربّع مجموعة</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>Szerkesztés…</translation>
+        <translation>حرّر...</translation>
     </message>
     <message>
         <source>Show signals and slots inherited from QWidget</source>
-        <translation>A QWidget objektumból származtatott jelzések és tárolóhelyek megjelenítése</translation>
+        <translation>أظهر الإشارات والأتلام الموروثة من QWidget</translation>
     </message>
 </context>
 <context>
     <name>ConnectionDelegate</name>
     <message>
         <source>&lt;object&gt;</source>
-        <translation>&lt;objektum&gt;</translation>
+        <translation>&lt;الكائن&gt;</translation>
     </message>
     <message>
         <source>&lt;signal&gt;</source>
-        <translation>&lt;jelzés&gt;</translation>
+        <translation>&lt;الإشارة&gt;</translation>
     </message>
     <message>
         <source>&lt;slot&gt;</source>
-        <translation>&lt;tárolóhely&gt;</translation>
+        <translation>&lt;التّلم&gt;</translation>
     </message>
 </context>
 <context>
@@ -605,62 +627,62 @@
     <message>
         <source>Standard (96 x 96)</source>
         <extracomment>Embedded device standard screen resolution</extracomment>
-        <translation>Szabványos (96 x 96)</translation>
+        <translation>قياسيّ (٩٦ × ٩٦)</translation>
     </message>
     <message>
         <source>Greenphone (179 x 185)</source>
         <extracomment>Embedded device screen resolution</extracomment>
-        <translation>Greenphone (179 x 185)</translation>
+        <translation>الهاتف الأخضر (١٧٩×١٨٥)</translation>
     </message>
     <message>
         <source>High (192 x 192)</source>
         <extracomment>Embedded device high definition screen resolution</extracomment>
-        <translation>Nagy (192 x 192)</translation>
+        <translation>عالية (١٩٢ × ١٩٢)</translation>
     </message>
 </context>
 <context>
     <name>Designer</name>
     <message>
         <source>Unable to launch %1.</source>
-        <translation>A(z) %1 nem indítható el.</translation>
+        <translation>تعذّر إطلاق %1.</translation>
     </message>
     <message>
         <source>%1 timed out.</source>
-        <translation>A(z) %1 túllépte az időkorlátot.</translation>
+        <translation>انتهت مهلة %1.</translation>
     </message>
     <message>
         <source>Custom Widgets</source>
-        <translation>Egyéni felületi elemek</translation>
+        <translation>الودجات المخصّصة</translation>
     </message>
     <message>
         <source>Promoted Widgets</source>
-        <translation>Előléptetett felület elemek</translation>
+        <translation>الودجات المرقّاة</translation>
     </message>
     <message>
         <source>Qt Designer</source>
-        <translation>Qt Tervező</translation>
+        <translation>كيوت المصمّم</translation>
     </message>
     <message>
         <source>This file cannot be read because the extra info extension failed to load.</source>
-        <translation>Ez a fájl nem olvasható, mert a további információs kiterjesztést nem sikerült betölteni.</translation>
+        <translation>تعذّرت قراءة هذا الملفّ بسبب فشل تحميل امتداد المعلومات الإضافيّة.</translation>
     </message>
 </context>
 <context>
     <name>DesignerMetaEnum</name>
     <message>
         <source>%1 is not a valid enumeration value of &apos;%2&apos;.</source>
-        <translation>A(z) %1 nem a(z) „%2” felsorolt típus érvényes értéke.</translation>
+        <translation>ليست %1 قيمة تعداديّة صالحة لِ‍ ’%2‘.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; could not be converted to an enumeration value of type &apos;%2&apos;.</source>
-        <translation>A(z) „%1” átalakítása nem sikerült egy „%2” típusú felsorolásértékre.</translation>
+        <translation>لا يمكن تحويل ’%1‘ إلى قيمة تعداد نوعها ’%2‘.</translation>
     </message>
 </context>
 <context>
     <name>DesignerMetaFlags</name>
     <message>
         <source>&apos;%1&apos; could not be converted to a flag value of type &apos;%2&apos;.</source>
-        <translation>A(z) „%1” átalakítása nem sikerült egy „%2” típusú jelzőértékre.</translation>
+        <translation>تعذّر تحويل ’%1‘ إلى قيمة راية نوعها ’%2‘.</translation>
     </message>
 </context>
 <context>
@@ -668,81 +690,81 @@
     <message>
         <source>&apos;%1&apos; is not a number.</source>
         <extracomment>Reading a number for an embedded device profile</extracomment>
-        <translation>A(z) „%1” nem szám.</translation>
+        <translation>‏’%L1‘ ليس عددًا.</translation>
     </message>
     <message>
         <source>An invalid tag &lt;%1&gt; was encountered.</source>
-        <translation>Egy érvénytelen &lt;%1&gt; címke fordult elő.</translation>
+        <translation>واجهتُ وسمًا غير صالح &lt;%1&gt;.</translation>
     </message>
 </context>
 <context>
     <name>DeviceProfileDialog</name>
     <message>
         <source>&amp;Family</source>
-        <translation>Betűcs&amp;alád</translation>
+        <translation>ال&amp;عائلة</translation>
     </message>
     <message>
         <source>&amp;Point Size</source>
-        <translation>&amp;Pontméret</translation>
+        <translation>حجم النّ&amp;قطة</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation>Stílus</translation>
+        <translation>النّمط</translation>
     </message>
     <message>
         <source>Device DPI</source>
-        <translation>Eszköz DPI</translation>
+        <translation>نقطة/بوصة للجهاز</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Név</translation>
+        <translation>الاسم</translation>
     </message>
 </context>
 <context>
     <name>DeviceSkin</name>
     <message>
         <source>The image file &apos;%1&apos; could not be loaded.</source>
-        <translation>Nem sikerült betölteni a(z) „%1” képfájlt.</translation>
+        <translation>تعذّر تحميل ملفّ الصّورة ’%1‘.</translation>
     </message>
     <message>
         <source>The skin directory &apos;%1&apos; does not contain a configuration file.</source>
-        <translation>A(z) „%1” felszínkönyvtár nem tartalmaz beállítófájlt.</translation>
+        <translation>دليل المظاهر ’%1‘ لا يحتوي ملفّ ضبط.</translation>
     </message>
     <message>
         <source>The skin configuration file &apos;%1&apos; could not be opened.</source>
-        <translation>A(z) „%1” felszínbeállító-fájlt nem sikerült megnyitni.</translation>
+        <translation>تعذّر فتح ملفّ ضبط المظاهر ’%1‘.</translation>
     </message>
     <message>
         <source>The skin configuration file &apos;%1&apos; could not be read: %2</source>
-        <translation>A(z) „%1” felszínbeállító-fájlt nem sikerült beolvasni: %2</translation>
+        <translation>تعذّر فتح ملفّ ضبط المظاهر ’%1‘: ‏%2</translation>
     </message>
     <message>
         <source>Syntax error: %1</source>
-        <translation>Szintaktikai hiba: %1</translation>
+        <translation>خطأ صياغيّ: %1</translation>
     </message>
     <message>
         <source>The skin &quot;up&quot; image file &apos;%1&apos; does not exist.</source>
-        <translation>A felszín „fel” képfájlja („%1”) nem létezik.</translation>
+        <translation>ملفّ صورة المظهر ”up“ ‏’%1‘ غير موجود.</translation>
     </message>
     <message>
         <source>The skin &quot;down&quot; image file &apos;%1&apos; does not exist.</source>
-        <translation>A felszín „le” képfájlja („%1”) nem létezik.</translation>
+        <translation>ملفّ صورة المظهر ”down“ ‏’%1‘ غير موجود.</translation>
     </message>
     <message>
         <source>The skin &quot;closed&quot; image file &apos;%1&apos; does not exist.</source>
-        <translation>A felszín „lezárt” képfájlja („%1”) nem létezik.</translation>
+        <translation>ملفّ صورة المظهر ”closed“ ‏’%1‘ غير موجود.</translation>
     </message>
     <message>
         <source>The skin cursor image file &apos;%1&apos; does not exist.</source>
-        <translation>A felszín kurzor képfájlja („%1”) nem létezik.</translation>
+        <translation>ملفّ صورة المؤشّر للمظهر ’%1‘ غير موجود.</translation>
     </message>
     <message>
         <source>Syntax error in area definition: %1</source>
-        <translation>Szintaktikai hiba a terület-meghatározásban: %1</translation>
+        <translation>خطأ صياغيّ في تعريف المنطقة: %1</translation>
     </message>
     <message>
         <source>Mismatch in number of areas, expected %1, got %2.</source>
-        <translation>Eltérés a területek számában: a várt érték %1, a kapott %2.</translation>
+        <translation>عدد المناطق غير متطابق، توقّعتُ %L1، وجدتُ %L2.</translation>
     </message>
 </context>
 <context>
@@ -750,7 +772,7 @@
     <message>
         <source>&lt;html&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Font&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%1, %2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Style&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Resolution&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%4 x %5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
         <extracomment>Format embedded device profile description</extracomment>
-        <translation>&lt;html&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Betűkészlet&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%1, %2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Stílus&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Felbontás&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%4 x %5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html dir=&quot;rtl&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;الخطّ&lt;/b&gt;&lt;/td&gt;&lt;td&gt;‏%1، %L2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;النّمط&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;الميز&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%L4 x %L5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -758,54 +780,54 @@
     <message>
         <source>Embedded Design</source>
         <extracomment>Tab in preferences dialog</extracomment>
-        <translation>Beágyazott terv</translation>
+        <translation>التّصميم المضمّن</translation>
     </message>
     <message>
         <source>Device Profiles</source>
         <extracomment>EmbeddedOptionsControl group box&quot;</extracomment>
-        <translation>Eszközprofilok</translation>
+        <translation>لاحات الأجهزة</translation>
     </message>
 </context>
 <context>
     <name>FontPanel</name>
     <message>
         <source>Font</source>
-        <translation>Betűkészlet</translation>
+        <translation>الخطّ</translation>
     </message>
     <message>
         <source>&amp;Writing system</source>
-        <translation>Írás&amp;rendszer</translation>
+        <translation>نظام ال&amp;كتابة</translation>
     </message>
     <message>
         <source>&amp;Family</source>
-        <translation>Betűcs&amp;alád</translation>
+        <translation>ال&amp;عائلة</translation>
     </message>
     <message>
         <source>&amp;Style</source>
-        <translation>&amp;Stílus</translation>
+        <translation>ال&amp;نّمط</translation>
     </message>
     <message>
         <source>&amp;Point size</source>
-        <translation>&amp;Pontméret</translation>
+        <translation>حجم النّ&amp;قطة</translation>
     </message>
 </context>
 <context>
     <name>FontPropertyManager</name>
     <message>
         <source>PreferDefault</source>
-        <translation>Alapértelmezés előnyben részesítése</translation>
+        <translation>تفضيل الافتراضيّ</translation>
     </message>
     <message>
         <source>NoAntialias</source>
-        <translation>Nincs élsimítás</translation>
+        <translation>لا إزالة تسنّن</translation>
     </message>
     <message>
         <source>PreferAntialias</source>
-        <translation>Élsimítás előnyben részesítése</translation>
+        <translation>تفضيل إزالة التّسنّن</translation>
     </message>
     <message>
         <source>Antialiasing</source>
-        <translation>Élsimítás</translation>
+        <translation>إزالة التّسنّن</translation>
     </message>
 </context>
 <context>
@@ -813,12 +835,12 @@
     <message>
         <source>Invalid stretch value for &apos;%1&apos;: &apos;%2&apos;</source>
         <extracomment>Parsing layout stretch values</extracomment>
-        <translation>Érvénytelen nyújtás a(z) „%1” objektumnál: „%2”</translation>
+        <translation>قيمة تمدّد غير صالحة لِ‍ ’%1‘: ‏’%2‘</translation>
     </message>
     <message>
         <source>Invalid minimum size for &apos;%1&apos;: &apos;%2&apos;</source>
         <extracomment>Parsing grid layout minimum size values</extracomment>
-        <translation>Érvénytelen minimális méret a(z) „%1” objektumnál: „%2”</translation>
+        <translation>أدنى مقاس غير صالح لِ‍ ’%1‘: ‏’%2‘</translation>
     </message>
 </context>
 <context>
@@ -826,196 +848,212 @@
     <message>
         <source>%1 %</source>
         <extracomment>Zoom percentage</extracomment>
-        <translation>%1 %</translation>
+        <translation>%L1 ٪</translation>
     </message>
     <message>
         <source>Preview Zoom</source>
-        <translation>Nagyítás előnézete</translation>
+        <translation>مستوى تكبير المعاينة</translation>
     </message>
     <message>
         <source>Default Zoom</source>
-        <translation>Alapértelmezett nagyítás</translation>
+        <translation>المستوى الافتراضيّ</translation>
     </message>
     <message>
         <source>Forms</source>
         <extracomment>Tab in preferences dialog</extracomment>
-        <translation>Űrlapok</translation>
+        <translation>النّماذج</translation>
     </message>
     <message>
         <source>Default Grid</source>
-        <translation>Alapértelmezett rács</translation>
+        <translation>الشّبكة الافتراضيّة</translation>
+    </message>
+    <message>
+        <source>Object Naming Convention</source>
+        <translation>معيار تسميات الكائنات</translation>
+    </message>
+    <message>
+        <source>Naming convention used for generating action object names from their text</source>
+        <translation>معيار التّسمية المستخدم لتوليد أسماء كائنات الإجراءات من نصّها</translation>
+    </message>
+    <message>
+        <source>Camel Case</source>
+        <translation>حالة الجمل</translation>
+    </message>
+    <message>
+        <source>Underscore</source>
+        <translation>شرطة سفليّة</translation>
     </message>
 </context>
 <context>
     <name>FormLayoutRowDialog</name>
     <message>
         <source>Add Form Layout Row</source>
-        <translation>Új űrlapelrendezés-sor hozzáadása</translation>
+        <translation>أضف صفًّا إلى تخطيط نموذج</translation>
     </message>
     <message>
         <source>&amp;Label text:</source>
-        <translation>&amp;Címkeszöveg:</translation>
+        <translation>نصّ الل&amp;صيقة:</translation>
     </message>
     <message>
         <source>Field &amp;type:</source>
-        <translation>Mező&amp;típus:</translation>
+        <translation>&amp;نوع الحقل:</translation>
     </message>
     <message>
         <source>&amp;Field name:</source>
-        <translation>&amp;Mezőnév:</translation>
+        <translation>اسم الح&amp;قل:</translation>
     </message>
     <message>
         <source>&amp;Buddy:</source>
-        <translation>&amp;Partner:</translation>
+        <translation>&amp;زميل/Buddy:</translation>
     </message>
     <message>
         <source>&amp;Row:</source>
-        <translation>&amp;Sor:</translation>
+        <translation>ال&amp;صّفّ:</translation>
     </message>
     <message>
         <source>Label &amp;name:</source>
-        <translation>Címke&amp;név:</translation>
+        <translation>ا&amp;سم اللصيقة:</translation>
     </message>
 </context>
 <context>
     <name>FormWindow</name>
     <message>
         <source>Unexpected element &lt;%1&gt;</source>
-        <translation>Váratlan &lt;%1&gt; elem</translation>
+        <translation>العنصر &lt;%1&gt; غير متوقّع</translation>
     </message>
     <message>
         <source>Error while pasting clipboard contents at line %1, column %2: %3</source>
-        <translation>Hiba a vágólap tartalmának beillesztésekor a(z) %1. sor %2. oszlopában: %3</translation>
+        <translation>خطأ في تحليل محتويات الحافظة في السّطر %L1، العمود %L2: ‏%3</translation>
     </message>
 </context>
 <context>
     <name>FormWindowSettings</name>
     <message>
         <source>Form Settings</source>
-        <translation>Űrlap beállítások</translation>
+        <translation>إعدادات النّموذج</translation>
     </message>
     <message>
         <source>Layout &amp;Default</source>
-        <translation>&amp;Alapértelmezett elrendezése</translation>
+        <translation>التّخطيط الا&amp;فتراضيّ</translation>
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation>&amp;Térköz:</translation>
+        <translation>التّ&amp;باعد:</translation>
     </message>
     <message>
         <source>&amp;Margin:</source>
-        <translation>&amp;Margó:</translation>
+        <translation>ال&amp;هامش:</translation>
     </message>
     <message>
         <source>&amp;Layout Function</source>
-        <translation>&amp;Elrendezési függvény</translation>
+        <translation>دالة التّ&amp;خطيط</translation>
     </message>
     <message>
         <source>Ma&amp;rgin:</source>
-        <translation>Ma&amp;rgó:</translation>
+        <translation>الها&amp;مش:</translation>
     </message>
     <message>
         <source>Spa&amp;cing:</source>
-        <translation>Tér&amp;köz:</translation>
+        <translation>التّبا&amp;عد:</translation>
     </message>
     <message>
         <source>&amp;Pixmap Function</source>
-        <translation>&amp;Kép függvény</translation>
+        <translation>دالة الصّورة البك&amp;سليّة</translation>
     </message>
     <message>
         <source>&amp;Include Hints</source>
-        <translation>&amp;Felvételi tippek</translation>
+        <translation>تلميحات التّ&amp;ضمين</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation>Rács</translation>
+        <translation>الشّبكة</translation>
     </message>
     <message>
         <source>Embedded Design</source>
-        <translation>Beágyazott terv</translation>
+        <translation>التّصميم المضمّن</translation>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation>&amp;Szerző</translation>
+        <translation>المؤلّ&amp;ف</translation>
     </message>
 </context>
 <context>
     <name>IconSelector</name>
     <message>
         <source>The pixmap file &apos;%1&apos; cannot be read.</source>
-        <translation>A(z) „%1” képfájl nem olvasható.</translation>
+        <translation>تعذّرت قراءة ملفّ الرّسمة البكسليّة ’%1‘.</translation>
     </message>
     <message>
         <source>The file &apos;%1&apos; does not appear to be a valid pixmap file: %2</source>
-        <translation>A(z) „%1” fájl nem tűnik érvényes képfájlnak: %2</translation>
+        <translation>لا يبدو الملفّ ’%1‘ ملفّ رسمة بكسليّة صالح: %2</translation>
     </message>
     <message>
         <source>The file &apos;%1&apos; could not be read: %2</source>
-        <translation>A(z) %1 fájlt nem sikerült beolvasni: %2</translation>
+        <translation>تعذّرت قراءة الملفّ ’%1‘: ‏%2</translation>
     </message>
     <message>
         <source>All Pixmaps (</source>
-        <translation>Összes képfájl (</translation>
+        <translation>كلّ الرّسمات البكسليّة (</translation>
     </message>
     <message>
         <source>Choose a Pixmap</source>
-        <translation>Válasszon egy képfájlt</translation>
+        <translation>اختر رسمة بكسليّة</translation>
     </message>
     <message>
         <source>Pixmap Read Error</source>
-        <translation>Képolvasási hiba</translation>
+        <translation>خطأ في قراءة الرّسمة البكسليّة</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>…</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Normal Off</source>
-        <translation>Normál ki</translation>
+        <translation>عاديّة - مُوقَفة</translation>
     </message>
     <message>
         <source>Normal On</source>
-        <translation>Normál be</translation>
+        <translation>عاديّة - مشغّلة</translation>
     </message>
     <message>
         <source>Disabled Off</source>
-        <translation>Letiltott ki</translation>
+        <translation>معطّلة - مُوقَفة</translation>
     </message>
     <message>
         <source>Disabled On</source>
-        <translation>Letiltott be</translation>
+        <translation>معطّلة - مشغّلة</translation>
     </message>
     <message>
         <source>Active Off</source>
-        <translation>Aktív ki</translation>
+        <translation>نشطة - مُوقَفة</translation>
     </message>
     <message>
         <source>Active On</source>
-        <translation>Aktív be</translation>
+        <translation>نشطة - مشغّلة</translation>
     </message>
     <message>
         <source>Selected Off</source>
-        <translation>Kijelölt ki</translation>
+        <translation>محدّدة - مُوقّفة</translation>
     </message>
     <message>
         <source>Selected On</source>
-        <translation>Kijelölt be</translation>
+        <translation>محدّدة - مشغّلة</translation>
     </message>
     <message>
         <source>Choose Resource...</source>
-        <translation>Erőforrás kiválasztása…</translation>
+        <translation>اختر موردًا...</translation>
     </message>
     <message>
         <source>Choose File...</source>
-        <translation>Fájl kiválasztása…</translation>
+        <translation>اختر ملفًّا...</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Visszaállítás</translation>
+        <translation>صفّر</translation>
     </message>
     <message>
         <source>Reset All</source>
-        <translation>Összes visszaállítása</translation>
+        <translation>صفّر الكلّ</translation>
     </message>
 </context>
 <context>
@@ -1023,7 +1061,7 @@
     <message>
         <source>XX Icon Selected off</source>
         <extracomment>Sample string to determinate the width for the first column of the list item property browser</extracomment>
-        <translation>XX ikon kijelölese ki</translation>
+        <translation>سس أيقونة لم تحدّدها</translation>
     </message>
 </context>
 <context>
@@ -1031,145 +1069,145 @@
     <message>
         <source>Main</source>
         <extracomment>Not currently used (main tool bar)</extracomment>
-        <translation>Fő</translation>
+        <translation>الرّئيسيّ</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Fájl</translation>
+        <translation>ملفّ</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Szerkesztés</translation>
+        <translation>تحرير</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Eszközök</translation>
+        <translation>أدوات</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation>Űrlap</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <source>Qt Designer</source>
-        <translation>Qt Tervező</translation>
+        <translation>كيوت المصمّم</translation>
     </message>
 </context>
 <context>
     <name>NewForm</name>
     <message>
         <source>Show this Dialog on Startup</source>
-        <translation>Jelenlen meg ez az ablak indításkor</translation>
+        <translation>أظهر هذا الحواريّ عند البدء</translation>
     </message>
     <message>
         <source>C&amp;reate</source>
-        <translation>&amp;Létrehozás</translation>
+        <translation>أ&amp;نشئ</translation>
     </message>
     <message>
         <source>Recent</source>
-        <translation>Legutóbbi</translation>
+        <translation>الحديثة</translation>
     </message>
     <message>
         <source>New Form</source>
-        <translation>Új űrlap</translation>
+        <translation>نموذج جديد</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Bezárás</translation>
+        <translation>أ&amp;غلق</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation>&amp;Megnyitás…</translation>
+        <translation>ا&amp;فتح...</translation>
     </message>
     <message>
         <source>&amp;Recent Forms</source>
-        <translation>&amp;Legutóbbi űrlapok</translation>
+        <translation>النّماذج ال&amp;حديثة</translation>
     </message>
     <message>
         <source>Read error</source>
-        <translation>Olvasási hiba</translation>
+        <translation>خطأ قراءة</translation>
     </message>
     <message>
         <source>A temporary form file could not be created in %1.</source>
-        <translation>Egy átmeneti űrlapfájlt nem sikerült létrehozni ebben: %1.</translation>
+        <translation>تعذّر إنشاء ملفّ نموذج مؤقّت في %1.</translation>
     </message>
     <message>
         <source>The temporary form file %1 could not be written.</source>
-        <translation>A(z) %1 átmeneti űrlapfájlt nem sikerült kiírni.</translation>
+        <translation>تعذّرت كتابة ملفّ النّموذج المؤقّت %1.</translation>
     </message>
 </context>
 <context>
     <name>ObjectInspectorModel</name>
     <message>
         <source>Object</source>
-        <translation>Objektum</translation>
+        <translation>الكائن</translation>
     </message>
     <message>
         <source>Class</source>
-        <translation>Osztály</translation>
+        <translation>الصّنف</translation>
     </message>
     <message>
         <source>separator</source>
-        <translation>elválasztó</translation>
+        <translation>فاصل</translation>
     </message>
     <message>
         <source>&lt;noname&gt;</source>
-        <translation>&lt;névtelen&gt;</translation>
+        <translation>&lt;لا اسم&gt;</translation>
     </message>
 </context>
 <context>
     <name>ObjectNameDialog</name>
     <message>
         <source>Change Object Name</source>
-        <translation>Objektumnév módosítása</translation>
+        <translation>غيّر اسم الكائن</translation>
     </message>
     <message>
         <source>Object Name</source>
-        <translation>Objektumnév</translation>
+        <translation>اسم الكائن</translation>
     </message>
 </context>
 <context>
     <name>PluginDialog</name>
     <message>
         <source>Plugin Information</source>
-        <translation>Bővítményinformációk</translation>
+        <translation>معلومات الملحقة</translation>
     </message>
     <message>
         <source>1</source>
-        <translation>1</translation>
+        <translation>١</translation>
     </message>
 </context>
 <context>
     <name>PreferencesDialog</name>
     <message>
         <source>Preferences</source>
-        <translation>Beállítások</translation>
+        <translation>التّفضيلات</translation>
     </message>
 </context>
 <context>
     <name>PreviewConfigurationWidget</name>
     <message>
         <source>Form</source>
-        <translation>Űrlap</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <source>Print/Preview Configuration</source>
-        <translation>Nyomtatási és előnézeti beállítások</translation>
+        <translation>ضبط الطّباعة/المعاينة</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation>Stílus</translation>
+        <translation>النّمط</translation>
     </message>
     <message>
         <source>Style sheet</source>
-        <translation>Stíluslap</translation>
+        <translation>ورقة الأنماط</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>…</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Device skin</source>
-        <translation>Eszközfelszín</translation>
+        <translation>المظهر الافتراضيّ</translation>
     </message>
 </context>
 <context>
@@ -1177,217 +1215,218 @@
     <message>
         <source>Not used</source>
         <extracomment>Usage of promoted widgets</extracomment>
-        <translation>Nem használt</translation>
+        <translation>غير مستخدم</translation>
     </message>
 </context>
 <context>
     <name>QAbstractFormBuilder</name>
     <message>
         <source>An error has occurred while reading the UI file at line %1, column %2: %3</source>
-        <translation>Hiba történt a felhasználói felület fájl olvasása közben a(z) %1. sor %2. oszlopában: %3</translation>
+        <translation>حدث خطأ أثناء قراءة ملفّ الواجهة في السّطر %L1، العمود %L2: ‏%3</translation>
     </message>
     <message>
         <source>This file was created using Designer from Qt-%1 and cannot be read.</source>
-        <translation>Ezt a fájlt a Qt-%1 verziójában lévő Tervező használatával hozták létre, és nem lehet beolvasni.</translation>
+        <translation>أُنشئ الملفّ باستخدام مصمّم من «كيوت %L1» ولا يمكن قراءته.</translation>
     </message>
     <message>
         <source>This file cannot be read because it was created using %1.</source>
-        <translation>Ezt a fájlt nem lehet beolvasni, mert a(z) %1 használatával hozták létre.</translation>
+        <translation>لا يمكن قراءة الملفّ لأنّ %1 من أنشأه.</translation>
     </message>
     <message>
         <source>Invalid UI file: The root element &lt;ui&gt; is missing.</source>
-        <translation>Érvénytelen felhasználói felület fájl: az &lt;ui&gt; gyökérelem hiányzik.</translation>
+        <translation>ملفّ الواجهة غير صالح: العنصر الجذر &lt;ui&gt; ناقص.</translation>
     </message>
     <message>
         <source>Invalid UI file</source>
-        <translation>Érvénytelen felhasználói felület fájl</translation>
+        <translation>ملفّ الواجهة غير صالح</translation>
     </message>
     <message>
         <source>The creation of a widget of the class &apos;%1&apos; failed.</source>
-        <translation>A(z) „%1” osztályú felületi elem létrehozása sikertelen.</translation>
+        <translation>فشل إنشاء ودجة من الصّنف ’%1‘.</translation>
     </message>
     <message>
         <source>Attempt to add child that is not of class QWizardPage to QWizard.</source>
-        <translation>Egy olyan gyermek hozzáadásának kísérlete a QWizard objektumhoz, amely nem QWizardPage osztályú.</translation>
+        <translation>محاولة إضافة ابن صنفه ليس QWizardPage إلى QWizard.</translation>
     </message>
     <message>
         <source>Attempt to add a layout to a widget &apos;%1&apos; (%2) which already has a layout of non-box type %3.
 This indicates an inconsistency in the ui-file.</source>
-        <translation>Egy elrendezés hozzáadásának kísérlet egy olyan „%1” (%2) felületi elemhez, amelynek már van egy %3 nem doboz típusú elrendezése.
-Ez következetlenséget jelez a felhasználói felület fájlban.</translation>
+        <translation>محاولة إضافة تخطيط إلى ودجة ’%1‘ ‏(%2) التي فيها بالفعل تخطيط من نوع ”ليس صندوقًا“ %3.
+يشير هذا إلى عدم اتّساق في ملفّ الواجهة.</translation>
     </message>
     <message>
         <source>Empty widget item in %1 &apos;%2&apos;.</source>
-        <translation>Üres felületi elem a következőben: %1 „%2”.</translation>
+        <translation>عنصر ودجة فارغ في %1 ‏’%1‘.</translation>
     </message>
     <message>
         <source>Flags property are not supported yet.</source>
-        <translation>A jelző tulajdonságok még nem támogatottak.</translation>
+        <translation>خاصيّة الرّايات غير مدعومة بعد.</translation>
     </message>
     <message>
         <source>While applying tab stops: The widget &apos;%1&apos; could not be found.</source>
-        <translation>A bejárási pontok alkalmazásakor: a(z) „%1” felületi elem nem található.</translation>
+        <translatorcomment>هذا معناه tab order</translatorcomment>
+        <translation>أثناء تطبيق ترتيب Tab: تعذّر العثور على الودجة ’%1‘.</translation>
     </message>
     <message>
         <source>Invalid QButtonGroup reference &apos;%1&apos; referenced by &apos;%2&apos;.</source>
-        <translation>A(z) „%2” érvénytelen „%1” QButtonGroup hivatkozásra hivatkozik.</translation>
+        <translation>مرجع QButtonGroup ‏’%1‘ غير صالح أشار إليه ’%2‘.</translation>
     </message>
 </context>
 <context>
     <name>QAxWidgetPlugin</name>
     <message>
         <source>ActiveX control</source>
-        <translation>ActiveX-vezérlő</translation>
+        <translation>تحكّم ActiveX</translation>
     </message>
     <message>
         <source>ActiveX control widget</source>
-        <translation>ActiveX-vezérlő felületi elem</translation>
+        <translation>ودجة تحكّم ActiveX</translation>
     </message>
 </context>
 <context>
     <name>QAxWidgetTaskMenu</name>
     <message>
         <source>Set Control</source>
-        <translation>Vezérlő beállítása</translation>
+        <translation>اضبط المتحكّم</translation>
     </message>
     <message>
         <source>Reset Control</source>
-        <translation>Vezérlő visszaállítása</translation>
+        <translation>صفّر المتحكّم</translation>
     </message>
     <message>
         <source>Licensed Control</source>
-        <translation>Licencelt vezérlő</translation>
+        <translation>متحكّم مرخّص</translation>
     </message>
     <message>
         <source>The control requires a design-time license</source>
-        <translation>A vezérlő egy tervezésidejű licencet igényel</translation>
+        <translation>يطلب هذا المتحكّم رخصة ”أثناء التّصميم“</translation>
     </message>
 </context>
 <context>
     <name>QCoreApplication</name>
     <message>
         <source>%1 is not a promoted class.</source>
-        <translation>A(z) %1 nem egy előléptetett osztály.</translation>
+        <translation>ليست %1 صنفًا مرقًّى.</translation>
     </message>
     <message>
         <source>The base class %1 is invalid.</source>
-        <translation>A(z) %1 alaposztály érvénytelen.</translation>
+        <translation>الصّنف الأساس %1 غير صالح.</translation>
     </message>
     <message>
         <source>The class %1 already exists.</source>
-        <translation>A(z) %1 osztály már létezik.</translation>
+        <translation>الصّنف %1 موجود بالفعل.</translation>
     </message>
     <message>
         <source>Promoted Widgets</source>
-        <translation>Előléptetett felület elemek</translation>
+        <translation>الودجات المرقّاة</translation>
     </message>
     <message>
         <source>The class %1 cannot be removed</source>
-        <translation>A(z) %1 osztályt nem lehet eltávolítani</translation>
+        <translation>تعذّرت إزالة الصّنف %1</translation>
     </message>
     <message>
         <source>The class %1 cannot be removed because it is still referenced.</source>
-        <translation>A(z) %1 osztályt nem lehet eltávolítani, mert még hivatkoznak rá.</translation>
+        <translation>لا يمكن إزالة الصّنف %1 لأنّ هناك ما يشير إليه.</translation>
     </message>
     <message>
         <source>The class %1 cannot be renamed</source>
-        <translation>A(z) %1 osztályt nem lehet átnevezni</translation>
+        <translation>تعذّر تغيير اسم الصّنف %1</translation>
     </message>
     <message>
         <source>The class %1 cannot be renamed to an empty name.</source>
-        <translation>A(z) %1 osztályt nem lehet átnevezni üres névre.</translation>
+        <translation>لا يمكن تغيير اسم الصّنف %1 باسم فارغ.</translation>
     </message>
     <message>
         <source>There is already a class named %1.</source>
-        <translation>Már van egy %1 nevű osztály.</translation>
+        <translation>هناك صنف بالاسم %1 بالفعل.</translation>
     </message>
     <message>
         <source>Cannot set an empty include file.</source>
-        <translation>Nem lehet beállítani egy üres felvételi fájlt.</translation>
+        <translation>لا يمكن ضبط ملفّ تضمين فارغ.</translation>
     </message>
 </context>
 <context>
     <name>QDesigner</name>
     <message>
         <source>%1 - warning</source>
-        <translation>%1 – figyelmeztetés</translation>
+        <translation>%1 - تحذير</translation>
     </message>
 </context>
 <context>
     <name>QDesignerActions</name>
     <message>
         <source>Saved %1.</source>
-        <translation>A(z) %1 elmentve.</translation>
+        <translation>حُفظ %1.</translation>
     </message>
     <message>
         <source>%1 already exists.
 Do you want to replace it?</source>
-        <translation>A(z) %1 már létezik.
-Szeretné lecserélni?</translation>
+        <translation>‏%1 موجود بالفعل.
+أتريد استبداله؟</translation>
     </message>
     <message>
         <source>Edit Widgets</source>
-        <translation>Felületi elemek szerkesztése</translation>
+        <translation>حرّر الودجات</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation>Ú&amp;j…</translation>
+        <translation>&amp;جديد...</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation>&amp;Megnyitás…</translation>
+        <translation>ا&amp;فتح...</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>Menté&amp;s</translation>
+        <translation>ا&amp;حفظ</translation>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation>Mentés má&amp;sként…</translation>
+        <translation>احفظ &amp;ك‍...</translation>
     </message>
     <message>
         <source>Save A&amp;ll</source>
-        <translation>&amp;Összes mentése</translation>
+        <translation>احفظ الك&amp;لّ</translation>
     </message>
     <message>
         <source>Save As &amp;Template...</source>
-        <translation>Mentés s&amp;ablonként…</translation>
+        <translation>احفظ ك&amp;قالب...</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Bezárás</translation>
+        <translation>أ&amp;غلق</translation>
     </message>
     <message>
         <source>Save &amp;Image...</source>
-        <translation>Ké&amp;p mentése…</translation>
+        <translation>احفظ &amp;صّورة...</translation>
     </message>
     <message>
         <source>&amp;Print...</source>
-        <translation>&amp;Nyomtatás…</translation>
+        <translation>ا&amp;طبع...</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>&amp;Kilépés</translation>
+        <translation>أ&amp;ننهِ</translation>
     </message>
     <message>
         <source>View &amp;Code...</source>
-        <translation>&amp;Kód megtekintése…</translation>
+        <translation>اعرض ال&amp;كود...</translation>
     </message>
     <message>
         <source>&amp;Minimize</source>
-        <translation>&amp;Kis méret</translation>
+        <translation>&amp;صغّر</translation>
     </message>
     <message>
         <source>Bring All to Front</source>
-        <translation>Összes előtérbe hozása</translation>
+        <translation>اجلب الكلّ للأمام</translation>
     </message>
     <message>
         <source>Preferences...</source>
-        <translation>Beállítások…</translation>
+        <translation>التّفضيلات...</translation>
     </message>
     <message>
         <source>Additional Fonts...</source>
-        <translation>További betűkészletek…</translation>
+        <translation>خطوط إضافيّة...</translation>
     </message>
     <message>
         <source>ALT+CTRL+S</source>
@@ -1407,157 +1446,157 @@ Szeretné lecserélni?</translation>
     </message>
     <message>
         <source>Qt Designer &amp;Help</source>
-        <translation>Qt Tervező &amp;súgó</translation>
+        <translation>م&amp;ساعدة كيوت المصمّم</translation>
     </message>
     <message>
         <source>Current Widget Help</source>
-        <translation>A jelenlegi felületi elem súgója</translation>
+        <translation>مساعدة الودجة الحاليّة</translation>
     </message>
     <message>
         <source>About Plugins</source>
-        <translation>Bővítmények névjegye</translation>
+        <translation>عن الملحقات</translation>
     </message>
     <message>
         <source>About Qt Designer</source>
-        <translation>A Qt Tervező névjegye</translation>
+        <translation>عن كيوت المصمّم</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation>A Qt névjegye</translation>
+        <translation>عن كيوت</translation>
     </message>
     <message>
         <source>Clear &amp;Menu</source>
-        <translation>&amp;Menü törlése</translation>
+        <translation>امسح ال&amp;قائمة</translation>
     </message>
     <message>
         <source>&amp;Recent Forms</source>
-        <translation>&amp;Legutóbbi űrlapok</translation>
+        <translation>النماذج ال&amp;حديثة</translation>
     </message>
     <message>
         <source>Open Form</source>
-        <translation>Űrlap megnyitása</translation>
+        <translation>افتح نموذجًا</translation>
     </message>
     <message>
         <source>Designer UI files (*.%1);;All Files (*)</source>
-        <translation>Tervező felületi elem fájlok (*.%1);;Összes fájl (*)</translation>
+        <translation>ملفّات «المصمّم» للواجهة الرّسوميّة (*.%1);;كلّ الملفّات (*)</translation>
     </message>
     <message>
         <source>Save Form As</source>
-        <translation>Űrlap mentése másként</translation>
+        <translation>احفظ النموذج ك‍</translation>
     </message>
     <message>
         <source>Designer</source>
-        <translation>Tervező</translation>
+        <translation>المصمّم</translation>
     </message>
     <message>
         <source>Feature not implemented yet!</source>
-        <translation>A funkció még nincs megvalósítva!</translation>
+        <translation>الميزة لم تُنجز بعد!</translation>
     </message>
     <message>
         <source>Code generation failed</source>
-        <translation>A kódelőállítás sikertelen</translation>
+        <translation>فشل توليد الكود</translation>
     </message>
     <message>
         <source>Read error</source>
-        <translation>Olvasási hiba</translation>
+        <translation>خطأ قراءة</translation>
     </message>
     <message>
         <source>%1
 Do you want to update the file location or generate a new form?</source>
         <translation>%1
-Frissíteni szeretné a fájl helyét, vagy előállít egy új űrlapot?</translation>
+أتريد تحديث مكان الملفّ أو توليد نموذج جديد؟</translation>
     </message>
     <message>
         <source>&amp;Update</source>
-        <translation>&amp;Frissítés</translation>
+        <translation>حدّ&amp;ث</translation>
     </message>
     <message>
         <source>&amp;New Form</source>
-        <translation>Ú&amp;j űrlap</translation>
+        <translation>نموذج &amp;جديد</translation>
     </message>
     <message>
         <source>Qt Designer</source>
-        <translation>Qt Tervező</translation>
+        <translation>كيوت المصمّم</translation>
     </message>
     <message>
         <source>Save Form?</source>
-        <translation>Menti az űrlapot?</translation>
+        <translation>أأحفظ النّموذج؟</translation>
     </message>
     <message>
         <source>Could not open file</source>
-        <translation>Nem sikerült megnyitni a fájlt</translation>
+        <translation>تعذّر فتح الملفّ</translation>
     </message>
     <message>
         <source>The file %1 could not be opened.
 Reason: %2
 Would you like to retry or select a different file?</source>
-        <translation>A(z) %1 fájlt nem sikerült megnyitni.
-Ok: %2
-Szeretné megpróbálni újra, vagy választ egy másik fájlt?</translation>
+        <translation>تعذّر فتح الملفّ %1.
+السّبب: %2
+أتريد إعادة المحاولة أو اختيار ملفّ آخر؟</translation>
     </message>
     <message>
         <source>Select New File</source>
-        <translation>Másik fájl választása</translation>
+        <translation>اختر ملفًّا جديدًا</translation>
     </message>
     <message>
         <source>Could not write file</source>
-        <translation>Nem sikerült írni a fájlt</translation>
+        <translation>تعذّرت الكتابة في الملفّ</translation>
     </message>
     <message>
         <source>It was not possible to write the entire file %1 to disk.
 Reason:%2
 Would you like to retry?</source>
-        <translation>Nem volt lehetséges a teljes %1 fájlt kiírni a lemezre.
-Ok: %2
-Szeretné megpróbálni újra?</translation>
+        <translation>تعذّرت كتابة الملفّ %1 كاملًا في القرص.
+السّبب: %2
+أتريد إعادة المحاولة؟</translation>
     </message>
     <message>
         <source>Assistant</source>
-        <translation>Asszisztens</translation>
+        <translation>المساعد</translation>
     </message>
     <message>
         <source>&amp;Close Preview</source>
-        <translation>Előnézet &amp;bezárása</translation>
+        <translation>أ&amp;غلق المعاينة</translation>
     </message>
     <message>
         <source>The backup file %1 could not be written.</source>
-        <translation>A(z) %1 biztonsági mentés fájlt nem sikerült kiírni.</translation>
+        <translation>تعذّرت كتابة ملفّ النّسخة الاحتياطيّة %1.</translation>
     </message>
     <message>
         <source>The backup directory %1 could not be created.</source>
-        <translation>A(z) %1 biztonsági mentési könyvtárat nem sikerül létrehozni.</translation>
+        <translation>تعذّر إنشاء دليل النّسخ الاحتياطيّة %1.</translation>
     </message>
     <message>
         <source>The temporary backup directory %1 could not be created.</source>
-        <translation>A(z) %1 átmeneti biztonsági másolat könyvtárat nem sikerült létrehozni.</translation>
+        <translation>تعذّر إنشاء دليل النّسخ الاحتياطيّة المؤقّت %1.</translation>
     </message>
     <message>
         <source>Preview failed</source>
-        <translation>Az előnézet sikertelen</translation>
+        <translation>فشلت المعاينة</translation>
     </message>
     <message>
         <source>Image files (*.%1)</source>
-        <translation>Képfájlok (*.%1)</translation>
+        <translation>ملفّات الصّور (*.%1)</translation>
     </message>
     <message>
         <source>Save Image</source>
-        <translation>Kép mentése</translation>
+        <translation>احفظ الصّورة</translation>
     </message>
     <message>
         <source>Saved image %1.</source>
-        <translation>A(z) %1 kép elmentve.</translation>
+        <translation>حُفظت الصّورة %1.</translation>
     </message>
     <message>
         <source>The file %1 could not be written.</source>
-        <translation>A(z) %1 fájlt nem sikerült kiírni.</translation>
+        <translation>تعذّرت كتابة الملفّ %1.</translation>
     </message>
     <message>
         <source>Please close all forms to enable the loading of additional fonts.</source>
-        <translation>Zárja be az összes űrlapot a további betűkészletek betöltésének engedélyezéséhez.</translation>
+        <translation>رجاءً أغلق كلّ النّماذج لتمكين تحميل الخطوط الإضافيّة.</translation>
     </message>
     <message>
         <source>Printed %1.</source>
-        <translation>A(z) %1 kinyomtatva.</translation>
+        <translation>طُبع %1.</translation>
     </message>
 </context>
 <context>
@@ -1565,302 +1604,307 @@ Szeretné megpróbálni újra?</translation>
     <message>
         <source>Appearance</source>
         <extracomment>Tab in preferences dialog</extracomment>
-        <translation>Megjelenés</translation>
+        <translation>المظهر</translation>
     </message>
 </context>
 <context>
     <name>QDesignerAppearanceOptionsWidget</name>
     <message>
         <source>Docked Window</source>
-        <translation>Dokkolt ablak</translation>
+        <translation>نافذة رصف</translation>
     </message>
     <message>
         <source>Multiple Top-Level Windows</source>
-        <translation>Több felsőszintű ablak</translation>
+        <translation>عدّة نوافذة عالية المستوى</translation>
     </message>
     <message>
         <source>Toolwindow Font</source>
-        <translation>Eszközablak betűkészlete</translation>
+        <translation>خطّ نافذة الأداة</translation>
     </message>
 </context>
 <context>
     <name>QDesignerAxWidget</name>
     <message>
         <source>Reset control</source>
-        <translation>Vezérlő visszaállítása</translation>
+        <translation>صفّر المتحكّم</translation>
     </message>
     <message>
         <source>Set control</source>
-        <translation>Vezérlő beállítása</translation>
+        <translation>اضبط المتحكّم</translation>
     </message>
     <message>
         <source>Control loaded</source>
-        <translation>Vezérlő betöltve</translation>
+        <translation>حُمّل المتحكّم</translation>
     </message>
     <message>
         <source>A COM exception occurred when executing a meta call of type %1, index %2 of &quot;%3&quot;.</source>
-        <translation>Egy COM kivétel történt a(z) %1 típusú metahíváskor a(z) „%3” objektum %2 indexénél.</translation>
+        <translation>حدث استثناء COM أثناء تنفيذ نداء وصفيّ من النّوع %1، الفهرس %L2 من ”%2“.</translation>
     </message>
 </context>
 <context>
     <name>QDesignerFormBuilder</name>
     <message>
         <source>The preview failed to build.</source>
-        <translation>Az előnézet összeállítása sikertelen.</translation>
+        <translation>فشل بناء المعاينة.</translation>
     </message>
     <message>
         <source>Designer</source>
-        <translation>Tervező</translation>
+        <translation>المصمّم</translation>
     </message>
 </context>
 <context>
     <name>QDesignerFormWindow</name>
     <message>
         <source>%1 - %2[*]</source>
-        <translation>%1 – %2[*]</translation>
+        <translation>%1 - %2[*]</translation>
     </message>
     <message>
         <source>Save Form?</source>
-        <translation>Menti az űrlapot?</translation>
+        <translation>أأحفظ النّموذج؟</translation>
     </message>
     <message>
         <source>Do you want to save the changes to this document before closing?</source>
-        <translation>Szeretné menteni a változtatásokat ebbe a dokumentumba a bezárás előtt?</translation>
+        <translation>أتريد حفظ التّغييرات على هذا المستند قبل الإغلاق؟</translation>
     </message>
     <message>
         <source>If you don&apos;t save, your changes will be lost.</source>
-        <translation>Ha nem menti, akkor a változtatások el fognak veszni.</translation>
+        <translation>إن لم تحفظ فستفقد التّعديلات.</translation>
     </message>
 </context>
 <context>
     <name>QDesignerMenu</name>
     <message>
         <source>Type Here</source>
-        <translation>Írjon ide</translation>
+        <translation>اطبع هنا</translation>
     </message>
     <message>
         <source>Add Separator</source>
-        <translation>Elválasztó hozzáadása</translation>
+        <translation>أضف فاصلًا</translation>
     </message>
     <message>
         <source>Insert separator</source>
-        <translation>Elválasztó beszúrása</translation>
+        <translation>أدرج فاصلًا</translation>
     </message>
     <message>
         <source>Remove separator</source>
-        <translation>Elválasztó eltávolítása</translation>
+        <translation>أزل الفاصل</translation>
     </message>
     <message>
         <source>Remove action &apos;%1&apos;</source>
-        <translation>„%1” művelet eltávolítása</translation>
+        <translation>أزل الإجراء ’%1‘</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation>Elválasztó hozzáadása</translation>
+        <translation>أضف فاصلًا</translation>
     </message>
     <message>
         <source>Insert action</source>
-        <translation>Művelet beszúrása</translation>
+        <translation>أدرج إجراء</translation>
     </message>
 </context>
 <context>
     <name>QDesignerMenuBar</name>
     <message>
         <source>Type Here</source>
-        <translation>Írjon ide</translation>
+        <translation>اطبع هنا</translation>
     </message>
     <message>
         <source>Remove Menu &apos;%1&apos;</source>
-        <translation>„%1” menü eltávolítása</translation>
+        <translation>أزل القائمة ’%1‘</translation>
     </message>
     <message>
         <source>Remove Menu Bar</source>
-        <translation>Menüsor eltávolítása</translation>
+        <translation>أزل شريط القوائم</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation>Menü</translation>
+        <translation>قائمة</translation>
     </message>
 </context>
 <context>
     <name>QDesignerPluginManager</name>
     <message>
         <source>An XML error was encountered when parsing the XML of the custom widget %1: %2</source>
-        <translation>XML hiba történt a(z) %1 egyéni felületi elem XML kódjának feldolgozásakor: %2</translation>
+        <translation>حدث خطأ XML أثناء تحليل XML الودجة المخصّصة %1: ‏%2</translation>
     </message>
     <message>
         <source>A required attribute (&apos;%1&apos;) is missing.</source>
-        <translation>Egy szükséges attribútum („%1”) hiányzik.</translation>
+        <translation>الخاصيّة المطلوبة (’%1‘) ناقصة.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is not a valid string property specification.</source>
-        <translation>A(z) „%1” nem érvényes karakterlánc-tulajdonság specifikáció.</translation>
+        <translation>ليس ’%1‘ توصيف خاصيّة سلسلة صالح.</translation>
     </message>
     <message>
         <source>An invalid property specification (&apos;%1&apos;) was encountered. Supported types: %2</source>
-        <translation>Egy érvénytelen tulajdonság specifikáció („%1”) fordult elő. Támogatott típusok: %2</translation>
+        <translation>قابلتُ توصيف خاصيّة غير صالح (’%1‘). الأنواع المدعومة: %2</translation>
     </message>
     <message>
         <source>The XML of the custom widget %1 does not contain any of the elements &lt;widget&gt; or &lt;ui&gt;.</source>
-        <translation>A(z) %1 felületi elem XML kódja nem tartalmaz sem &lt;widget&gt;, sem &lt;ui&gt; elemet.</translation>
+        <translation>بنية XML للودجة المخصّصة %1 لا تحتوي أيّ عناصر &lt;widget&gt; أو &lt;ui&gt;.</translation>
     </message>
     <message>
         <source>The class attribute for the class %1 is missing.</source>
-        <translation>Az osztályattribútum hiányzik a(z) %1 osztálynál.</translation>
+        <translation>خاصيّة الصّنف للصّنف %1 ناقصة.</translation>
     </message>
     <message>
         <source>The class attribute for the class %1 does not match the class name %2.</source>
-        <translation>Az osztályattribútum a(z) %1 osztálynál nem egyezik a(z) %2 osztálynévvel.</translation>
+        <translation>خاصيّة الصّنف للصّنف %1 لا تطابق اسم الصّنف %2.</translation>
     </message>
 </context>
 <context>
     <name>QDesignerPropertySheet</name>
     <message>
         <source>Dynamic Properties</source>
-        <translation>Dinamikus tulajdonságok</translation>
+        <translation>الخصائص الحركيّة</translation>
     </message>
 </context>
 <context>
     <name>QDesignerResource</name>
     <message>
         <source>The layout type &apos;%1&apos; is not supported, defaulting to grid.</source>
-        <translation>A(z) „%1” elrendezéstípus nem támogatott, visszatérés rácsra.</translation>
+        <translation>نوع التّخطيط ’%1‘ غير مدعوم، سأعود إلى الشّبكة.</translation>
     </message>
     <message>
         <source>The container extension of the widget &apos;%1&apos; (%2) returned a widget not managed by Designer &apos;%3&apos; (%4) when queried for page #%5.
 Container pages should only be added by specifying them in XML returned by the domXml() method of the custom widget.</source>
-        <translation>A(z) „%1” (%2) felületi elem konténerkiterjesztése egy olyan felületi elemet adott vissza a(z) %5. oldal lekérdezésekor, amelyet nem a(z) „%3” (%4) Tervező kezel.
-Konténeroldalak csak az egyéni felületi elem domXml() metódusa által visszaadott XML-ben történő meghatározással adhatók hozzá.</translation>
+        <translation>أرجع امتداد الحاوي للودجة ’%1‘ ‏(%2) ودجة لا يديرها «المصمّم» ’%3‘ ‏(%4) عندما استعلم عن صفحة رقم %L5.
+يجب أن تُضاف صفحات الحاوي بتحديدها فقط في XML الذي تُرجعه طريقة domXml()‎ لنفس الودجة.</translation>
     </message>
     <message>
         <source>Unexpected element &lt;%1&gt;</source>
         <extracomment>Parsing clipboard contents</extracomment>
-        <translation>Váratlan &lt;%1&gt; elem</translation>
+        <translation>العنصر &lt;%1&gt; غير متوقّع</translation>
     </message>
     <message>
         <source>Error while pasting clipboard contents at line %1, column %2: %3</source>
         <extracomment>Parsing clipboard contents</extracomment>
-        <translation>Hiba a vágólap tartalmának beillesztésekor a(z) %1. sor %2. oszlopában: %3</translation>
+        <translation>خطأ أثناء تحليل محتويات الحافظة في السّطر %L1، العمود %L2: ‏%3</translation>
     </message>
     <message>
         <source>Error while pasting clipboard contents: The root element &lt;ui&gt; is missing.</source>
         <extracomment>Parsing clipboard contents</extracomment>
-        <translation>Hiba a vágólap tartalmának beillesztésekor: az &lt;ui&gt; gyökérelem hiányzik.</translation>
+        <translation>خطأ في تحليل محتويات الحافظة: العنصر الجذر &lt;ui&gt; ناقص.</translation>
     </message>
 </context>
 <context>
     <name>QDesignerSharedSettings</name>
     <message>
         <source>The template path %1 could not be created.</source>
-        <translation>A(z) %1 sablonútvonalat nem sikerült létrehozni.</translation>
+        <translation>تعذّر إنشاء مسار القوالب %1.</translation>
     </message>
     <message>
         <source>An error has been encountered while parsing device profile XML: %1</source>
-        <translation>Hiba történt az eszközprofil XML feldolgozásakor: %1</translation>
+        <translation>حدث خطأ أثناء تحليل XML لاحة الجهاز: %1</translation>
     </message>
 </context>
 <context>
     <name>QDesignerToolWindow</name>
     <message>
         <source>Property Editor</source>
-        <translation>Tulajdonság-szerkesztő</translation>
+        <translation>محرّر الخصائص</translation>
     </message>
     <message>
         <source>Action Editor</source>
-        <translation>Műveletszerkesztő</translation>
+        <translation>محرّر الإجراءات</translation>
     </message>
     <message>
         <source>Object Inspector</source>
-        <translation>Objektumvizsgáló</translation>
+        <translation>فاحص الكائنات</translation>
     </message>
     <message>
         <source>Resource Browser</source>
-        <translation>Erőforrás-tallózó</translation>
+        <translation>متصفّح الموارد</translation>
     </message>
     <message>
         <source>Signal/Slot Editor</source>
-        <translation>Jelzés és tárolóhely szerkesztő</translation>
+        <translation>محرّر الإشارات/الأتلام</translation>
     </message>
     <message>
         <source>Widget Box</source>
-        <translation>Felületi elem doboz</translation>
+        <translation>صندوق الودجات</translation>
     </message>
 </context>
 <context>
     <name>QDesignerWorkbench</name>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;Fájl</translation>
+        <translation>&amp;ملفّ</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>S&amp;zerkesztés</translation>
+        <translation>ت&amp;حرير</translation>
     </message>
     <message>
         <source>F&amp;orm</source>
-        <translation>Ű&amp;rlap</translation>
+        <translation>نمو&amp;ذج</translation>
     </message>
     <message>
         <source>Preview in</source>
-        <translation>Előnézet ebben</translation>
+        <translation>عاين بِ‍</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation>&amp;Nézet</translation>
+        <translation>من&amp;ظور</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>&amp;Beállítások</translation>
+        <translation>إ&amp;عدادات</translation>
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation>&amp;Ablak</translation>
+        <translation>&amp;نافذة</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;Súgó</translation>
+        <translation>م&amp;ساعدة</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation>Eszköztárak</translation>
+        <translation>أشرطة الأدوات</translation>
     </message>
     <message>
         <source>Widget Box</source>
-        <translation>Felületi elem doboz</translation>
+        <translation>صندوق الودجات</translation>
     </message>
     <message>
         <source>Save Forms?</source>
-        <translation>Menti az űrlapokat?</translation>
+        <translation>أأحفظ النّماذج؟</translation>
     </message>
     <message numerus="yes">
         <source>There are %n forms with unsaved changes. Do you want to review these changes before quitting?</source>
         <translation>
-            <numerusform>%n mentetlen változtatással rendelkező űrlap van. Szeretné átnézni ezeket a változtatásokat a kilépés előtt?</numerusform>
+            <numerusform>لا نماذج فيها تغييرات غير محفوظة.</numerusform>
+            <numerusform>هناك نموذج واحد فيه تغييرات غير محفوظة. أتريد مراجعة هذه التّغييرات قبل الإنهاء؟</numerusform>
+            <numerusform>هناك نموذجين فيهما تغييرات غير محفوظة. أتريد مراجعة هذه التّغييرات قبل الإنهاء؟</numerusform>
+            <numerusform>هناك %Ln نماذج فيها تغييرات غير محفوظة. أتريد مراجعة هذه التّغييرات قبل الإنهاء؟</numerusform>
+            <numerusform>هناك %Ln نموذجًا فيهم تغييرات غير محفوظة. أتريد مراجعة هذه التّغييرات قبل الإنهاء؟</numerusform>
+            <numerusform>هناك %Ln نموذج فيهم تغييرات غير محفوظة. أتريد مراجعة هذه التّغييرات قبل الإنهاء؟</numerusform>
         </translation>
     </message>
     <message>
         <source>If you do not review your documents, all your changes will be lost.</source>
-        <translation>Ha nem nézi át a dokumentumokat, akkor minden változtatás el fog veszni.</translation>
+        <translation>إن لم تراجع مستنداتك فستفقد كلّ التّغييرات.</translation>
     </message>
     <message>
         <source>Discard Changes</source>
-        <translation>Változtatások eldobása</translation>
+        <translation>ارفض التّغييرات</translation>
     </message>
     <message>
         <source>Review Changes</source>
-        <translation>Változtatások átnézése</translation>
+        <translation>راجع التّغييرات</translation>
     </message>
     <message>
         <source>Backup Information</source>
-        <translation>Biztonsági mentés információk</translation>
+        <translation>معلومات النّسخ الاحتياطيّ</translation>
     </message>
     <message>
         <source>The last session of Designer was not terminated correctly. Backup files were left behind. Do you want to load them?</source>
-        <translation>A Tervező utolsó munkamenete nem megfelelően fejeződött be. Biztonsági mentés fájlok maradtak utána. Szeretné betölteni ezeket?</translation>
+        <translation>لم تُنهى آخر جلسة من «المصمّم» كما ينبغي. لذلك تُركت ملفّات احتياطيّة. أتريد تحميلها؟</translation>
     </message>
     <message>
         <source>The file &lt;b&gt;%1&lt;/b&gt; could not be opened: %2</source>
-        <translation>A(z) &lt;b&gt;%1&lt;/b&gt; fájlt nem sikerült megnyitni: %2</translation>
+        <translation>تعذّر فتح الملفّ &lt;b&gt;%1&lt;/b&gt;: ‏%2</translation>
     </message>
 </context>
 <context>
@@ -1868,477 +1912,477 @@ Konténeroldalak csak az egyéni felületi elem domXml() metódusa által vissza
     <message>
         <source>An empty class name was passed on to %1 (object name: &apos;%2&apos;).</source>
         <extracomment>Empty class name passed to widget factory method</extracomment>
-        <translation>Egy üres osztálynév lett átadva a(z) %1 metódusnak (objektumnév: „%2”).</translation>
+        <translation>مُرّر اسم صنف فارغ إلى %1 (اسم الكائن: ’%2‘).</translation>
     </message>
     <message>
         <source>QFormBuilder was unable to create a custom widget of the class &apos;%1&apos;; defaulting to base class &apos;%2&apos;.</source>
-        <translation>A QFormBuilder nem tudott „%1” osztályú egyéni felületi elemet létrehozni. Visszatérés a(z) „%2” alaposztályra.</translation>
+        <translation>تعذّر على QFormBuilder إنشاء ودجة مخصّصة من الصّنف ’%1‘. سأعود إلى الصّنف الأساس ’%2‘.</translation>
     </message>
     <message>
         <source>QFormBuilder was unable to create a widget of the class &apos;%1&apos;.</source>
-        <translation>A QFormBuilder nem tudott „%1” osztályú felületi elemet létrehozni.</translation>
+        <translation>تعذّر على QFormBuilder إنشاء ودجة من الصّنف ’%1‘.</translation>
     </message>
     <message>
         <source>The layout type `%1&apos; is not supported.</source>
-        <translation>A(z) „%1” elrendezéstípus nem támogatott.</translation>
+        <translation>نوع التّخطيط ’%1‘ غير مدعوم.</translation>
     </message>
     <message>
         <source>The set-type property %1 could not be read.</source>
-        <translation>A(z) %1 halmaz típusú tulajdonságot nem sikerült beolvasni.</translation>
+        <translation>تعذّرت قراءة خاصيّة ”نوع الضّبط/set“ ‏%1.</translation>
     </message>
     <message>
         <source>The enumeration-type property %1 could not be read.</source>
-        <translation>A(z) %1 felsorolás típusú tulajdonságot nem sikerült beolvasni.</translation>
+        <translation>تعذّرت قراءة خاصيّة ”نوع التّعداد/enumeration“ ‏%1.</translation>
     </message>
     <message>
         <source>Reading properties of the type %1 is not supported yet.</source>
-        <translation>A(z) %1 típusú tulajdonságok olvasása még nem támogatott.</translation>
+        <translation>قراءة الخصائص التي نوعها %1 غير مدعوم بعد.</translation>
     </message>
     <message>
         <source>The property %1 could not be written. The type %2 is not supported yet.</source>
-        <translation>A(z) %1 tulajdonságot nem sikerült kiírni. A(z) %2 típus még nem támogatott.</translation>
+        <translation>تعذّرت كتابة الخاصيّة %1. النّوع %2 ليس مدعومًا بعد.</translation>
     </message>
     <message>
         <source>The enumeration-value &apos;%1&apos; is invalid. The default value &apos;%2&apos; will be used instead.</source>
-        <translation>A(z) „%1” felsorolás érték érvénytelen. Helyette a(z) „%2” alapértelmezett érték lesz használva.</translation>
+        <translation>قيمة التّعداد ’%1‘ غير صالحة. سأستخدم القيمة الافتراضيّة ’%2‘ بدلًا عنها.</translation>
     </message>
     <message>
         <source>The flag-value &apos;%1&apos; is invalid. Zero will be used instead.</source>
-        <translation>A(z) „%1” jelzőérték érvénytelen. Helyette nulla lesz használva.</translation>
+        <translation>قيمة الرّاية ’%1‘ غير صالحة. سأستخدم ”صفر“ بدلًا عنها.</translation>
     </message>
 </context>
 <context>
     <name>QStackedWidgetEventFilter</name>
     <message>
         <source>Previous Page</source>
-        <translation>Előző oldal</translation>
+        <translation>الصّفحة السّابقة</translation>
     </message>
     <message>
         <source>Next Page</source>
-        <translation>Következő oldal</translation>
+        <translation>الصّفحة التّالية</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Törlés</translation>
+        <translation>احذف</translation>
     </message>
     <message>
         <source>Before Current Page</source>
-        <translation>A jelenlegi oldal elé</translation>
+        <translation>قبل الصّفحة الحاليّة</translation>
     </message>
     <message>
         <source>After Current Page</source>
-        <translation>A jelenlegi oldal után</translation>
+        <translation>بعد الصّفحة الحاليّة</translation>
     </message>
     <message>
         <source>Change Page Order...</source>
-        <translation>Oldalsorrend módosítása…</translation>
+        <translation>غيّر ترتيب الصّفحات...</translation>
     </message>
     <message>
         <source>Change Page Order</source>
-        <translation>Oldalsorrend módosítása</translation>
+        <translation>غيّر ترتيب الصّفحات</translation>
     </message>
     <message>
         <source>Page %1 of %2</source>
-        <translation>%1/%2 oldal</translation>
+        <translation>صفحة %L1 من %L2</translation>
     </message>
     <message>
         <source>Insert Page</source>
-        <translation>Oldal beszúrása</translation>
+        <translation>أدرج صفحة</translation>
     </message>
 </context>
 <context>
     <name>QStackedWidgetPreviewEventFilter</name>
     <message>
         <source>Go to previous page of %1 &apos;%2&apos; (%3/%4).</source>
-        <translation>Ugrás a(z) %1 „%2” előző oldalára (%3/%4).</translation>
+        <translation>انتقل إلى الصفّحة السّابقة لِ‍ %1 ‏’%2‘ ‏(%L3/%L4).</translation>
     </message>
     <message>
         <source>Go to next page of %1 &apos;%2&apos; (%3/%4).</source>
-        <translation>Ugrás a(z) %1 „%2” következő oldalára (%3/%4).</translation>
+        <translation>انتقل إلى الصفّحة التّالية لِ‍ %1 ‏’%2‘ ‏(%L3/%L4).</translation>
     </message>
 </context>
 <context>
     <name>QTabWidgetEventFilter</name>
     <message>
         <source>Delete</source>
-        <translation>Törlés</translation>
+        <translation>احذف</translation>
     </message>
     <message>
         <source>Before Current Page</source>
-        <translation>A jelenlegi oldal elé</translation>
+        <translation>قبل الصّفحة الحاليّة</translation>
     </message>
     <message>
         <source>After Current Page</source>
-        <translation>A jelenlegi oldal után</translation>
+        <translation>بعد الصّفحة الحاليّة</translation>
     </message>
     <message>
         <source>Page %1 of %2</source>
-        <translation>%1/%2 oldal</translation>
+        <translation>صفحة %L1 من %L2</translation>
     </message>
     <message>
         <source>Insert Page</source>
-        <translation>Oldal beszúrása</translation>
+        <translation>أدرج صفحة</translation>
     </message>
 </context>
 <context>
     <name>QToolBoxHelper</name>
     <message>
         <source>Delete Page</source>
-        <translation>Oldal törlése</translation>
+        <translation>احذف الصّفحة</translation>
     </message>
     <message>
         <source>Before Current Page</source>
-        <translation>A jelenlegi oldal elé</translation>
+        <translation>قبل الصّفحة الحاليّة</translation>
     </message>
     <message>
         <source>After Current Page</source>
-        <translation>A jelenlegi oldal után</translation>
+        <translation>بعد الصّفحة الحاليّة</translation>
     </message>
     <message>
         <source>Change Page Order...</source>
-        <translation>Oldalsorrend módosítása…</translation>
+        <translation>غيّر ترتيب الصّفحات...</translation>
     </message>
     <message>
         <source>Change Page Order</source>
-        <translation>Oldalsorrend módosítása</translation>
+        <translation>غيّر ترتيب الصّفحات</translation>
     </message>
     <message>
         <source>Page %1 of %2</source>
-        <translation>%1/%2 oldal</translation>
+        <translation>صفحة %L1 من %L2</translation>
     </message>
     <message>
         <source>Insert Page</source>
-        <translation>Oldal beszúrása</translation>
+        <translation>أدرج صفحة</translation>
     </message>
 </context>
 <context>
     <name>QtBoolEdit</name>
     <message>
         <source>True</source>
-        <translation>Igaz</translation>
+        <translation>صحيح</translation>
     </message>
     <message>
         <source>False</source>
-        <translation>Hamis</translation>
+        <translation>خطأ</translation>
     </message>
 </context>
 <context>
     <name>QtBoolPropertyManager</name>
     <message>
         <source>True</source>
-        <translation>Igaz</translation>
+        <translation>صحيح</translation>
     </message>
     <message>
         <source>False</source>
-        <translation>Hamis</translation>
+        <translation>خطأ</translation>
     </message>
 </context>
 <context>
     <name>QtCharEdit</name>
     <message>
         <source>Clear Char</source>
-        <translation>Karakter törlése</translation>
+        <translation>امسح المحرف</translation>
     </message>
 </context>
 <context>
     <name>QtColorEditWidget</name>
     <message>
         <source>...</source>
-        <translation>…</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
     <name>QtColorPropertyManager</name>
     <message>
         <source>Red</source>
-        <translation>Vörös</translation>
+        <translation>الأحمر</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Zöld</translation>
+        <translation>الأخضر</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Kék</translation>
+        <translation>الأزرق</translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation>Alfa</translation>
+        <translation>ألفا</translation>
     </message>
 </context>
 <context>
     <name>QtCursorDatabase</name>
     <message>
         <source>Arrow</source>
-        <translation>Nyíl</translation>
+        <translation>سهم</translation>
     </message>
     <message>
         <source>Up Arrow</source>
-        <translation>Felfelé nyíl</translation>
+        <translation>سهم لأعلى</translation>
     </message>
     <message>
         <source>Cross</source>
-        <translation>Kereszt</translation>
+        <translation>مربّع</translation>
     </message>
     <message>
         <source>Wait</source>
-        <translation>Várakozás</translation>
+        <translation>انتظار</translation>
     </message>
     <message>
         <source>IBeam</source>
-        <translation>Hiányjel</translation>
+        <translation>حرف I</translation>
     </message>
     <message>
         <source>Size Vertical</source>
-        <translation>Függőleges méretezés</translation>
+        <translation>مقاس - رأسيّ</translation>
     </message>
     <message>
         <source>Size Horizontal</source>
-        <translation>Vízszintes méretezés</translation>
+        <translation>مقاس - أفقيّ</translation>
     </message>
     <message>
         <source>Size Backslash</source>
-        <translation>Fordított perjel méretezés</translation>
+        <translation>مقاس - شرطة مائلة معكوسة</translation>
     </message>
     <message>
         <source>Size Slash</source>
-        <translation>Perjel méretezés</translation>
+        <translation>مقاس - شرطة مائلة</translation>
     </message>
     <message>
         <source>Size All</source>
-        <translation>Összes méretezése</translation>
+        <translation>مقاس - الكلّ</translation>
     </message>
     <message>
         <source>Blank</source>
-        <translation>Üres</translation>
+        <translation>بلا</translation>
     </message>
     <message>
         <source>Split Vertical</source>
-        <translation>Függőleges felosztás</translation>
+        <translation>تقسيم رأسيّ</translation>
     </message>
     <message>
         <source>Split Horizontal</source>
-        <translation>Vízszintes felosztás</translation>
+        <translation>تقسيم أفقيّ</translation>
     </message>
     <message>
         <source>Pointing Hand</source>
-        <translation>Mutató kéz</translation>
+        <translation>يد تشير لشيء</translation>
     </message>
     <message>
         <source>Forbidden</source>
-        <translation>Tiltott</translation>
+        <translation>ممنوع</translation>
     </message>
     <message>
         <source>Open Hand</source>
-        <translation>Nyitott kéz</translation>
+        <translation>يد مفتوحة</translation>
     </message>
     <message>
         <source>Closed Hand</source>
-        <translation>Csukott kéz</translation>
+        <translation>يد مغلقة</translation>
     </message>
     <message>
         <source>What&apos;s This</source>
-        <translation>Mi ez</translation>
+        <translation>ما هذا</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation>Foglalt</translation>
+        <translation>مشغول</translation>
     </message>
 </context>
 <context>
     <name>QtFontEditWidget</name>
     <message>
         <source>...</source>
-        <translation>…</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Select Font</source>
-        <translation>Betűkészlet kiválasztása</translation>
+        <translation>اختر خطًّا</translation>
     </message>
 </context>
 <context>
     <name>QtFontPropertyManager</name>
     <message>
         <source>Family</source>
-        <translation>Betűcsalád</translation>
+        <translation>العائلة</translation>
     </message>
     <message>
         <source>Point Size</source>
-        <translation>Pontméret</translation>
+        <translation>حجم النّقطة</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>Félkövér</translation>
+        <translation>ثخين</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Dőlt</translation>
+        <translation>مائل</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Aláhúzott</translation>
+        <translation>مسطّر</translation>
     </message>
     <message>
         <source>Strikeout</source>
-        <translation>Áthúzott</translation>
+        <translation>مشطوب</translation>
     </message>
     <message>
         <source>Kerning</source>
-        <translation>Alávágás</translation>
+        <translation>التّأليف</translation>
     </message>
 </context>
 <context>
     <name>QtGradientDialog</name>
     <message>
         <source>Edit Gradient</source>
-        <translation>Színátmenet szerkesztése</translation>
+        <translation>حرّر التّدرّج</translation>
     </message>
 </context>
 <context>
     <name>QtGradientEditor</name>
     <message>
         <source>Form</source>
-        <translation>Űrlap</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <source>Gradient Editor</source>
-        <translation>Színátmenet szerkesztő</translation>
+        <translation>محرّر التّدرّجات</translation>
     </message>
     <message>
         <source>This area shows a preview of the gradient being edited. It also allows you to edit parameters specific to the gradient&apos;s type such as start and final point, radius, etc. by drag &amp; drop.</source>
-        <translation>Ez a terület a szerkesztett színátmenet előnézetét jeleníti meg. Lehetővé teszi továbbá a színátmenet típusára jellemző paraméterek fogd és vidd módon történő szerkesztését, mint például a kezdő és befejező pont, sugár, stb.</translation>
+        <translation>تعرض هذه المنطقة معاينة للتّدرج الذي يجري تحريره. تتيح لك أيضًا تحرير معاملات مختصّة بنوع التّدرّج مثل نقطتي البداية والنّهاية، ونصف القطر، وذلك بالسّحب والإفلات (مثلًا).</translation>
     </message>
     <message>
         <source>1</source>
-        <translation>1</translation>
+        <translation>١</translation>
     </message>
     <message>
         <source>2</source>
-        <translation>2</translation>
+        <translation>٢</translation>
     </message>
     <message>
         <source>3</source>
-        <translation>3</translation>
+        <translation>٣</translation>
     </message>
     <message>
         <source>4</source>
-        <translation>4</translation>
+        <translation>٤</translation>
     </message>
     <message>
         <source>5</source>
-        <translation>5</translation>
+        <translation>٥</translation>
     </message>
     <message>
         <source>Gradient Stops Editor</source>
-        <translation>Színátmeneti végpont szerkesztő</translation>
+        <translation>محرّر توقّفات التّدرّج</translation>
     </message>
     <message>
         <source>This area allows you to edit gradient stops. Double click on the existing stop handle to duplicate it. Double click outside of the existing stop handles to create a new stop. Drag &amp; drop the handle to reposition it. Use right mouse button to popup context menu with extra actions.</source>
-        <translation>Ez a terület lehetővé teszi a színátmeneti határok szerkesztését. Kettőzéshez kattintson duplán a meglévő határfogantyúra. A meglévő határfogantyúkon kívülre történő dupla kattintással új határt hozhat létre. Fogd és vidd módon a fogantyú áthelyezhető. A jobb egérgomb használatával további műveleteket tartalmazó helyi menüt jeleníthet meg.</translation>
+        <translation>تتيح لك هذه المنطقة بتحرير توقّفات التّدرّج. انقر مزدوجًا على مقبض توقّف لتكراره. انقر مزدوجًا خارج مقابض التّوقّف الموجودة لإنشاء توقّف جديد. اسحب وأفلت المقبض لتغيير موضعه. استخدم زرّ الفأرة الأيمن لعرض قائمة سياقيّة فيها إجراءات إضافيّة.</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Nagyítás</translation>
+        <translation>مستوى التّكبير</translation>
     </message>
     <message>
         <source>Reset Zoom</source>
-        <translation>Nagyítás visszaállítása</translation>
+        <translation>صفّر مستوى التّكبير</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Helyzet</translation>
+        <translation>الموضع</translation>
     </message>
     <message>
         <source>Hue</source>
-        <translation>Árny</translation>
+        <translation>الصّبغة</translation>
     </message>
     <message>
         <source>H</source>
-        <translation>H</translation>
+        <translation>ص</translation>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>Telítettség</translation>
+        <translation>التّشبّع</translation>
     </message>
     <message>
         <source>S</source>
-        <translation>S</translation>
+        <translation>ش</translation>
     </message>
     <message>
         <source>Sat</source>
-        <translation>Tel</translation>
+        <translation>التّشبّع</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Érték</translation>
+        <translation>القيمة</translation>
     </message>
     <message>
         <source>V</source>
-        <translation>V</translation>
+        <translation>ق</translation>
     </message>
     <message>
         <source>Val</source>
-        <translation>Ért</translation>
+        <translation>القيمة</translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation>Alfa</translation>
+        <translation>ألفا</translation>
     </message>
     <message>
         <source>A</source>
-        <translation>A</translation>
+        <translation>ف</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Típus</translation>
+        <translation>النّوع</translation>
     </message>
     <message>
         <source>Spread</source>
-        <translation>Hízlalás</translation>
+        <translation>الاتنشار</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>Szín</translation>
+        <translation>اللون</translation>
     </message>
     <message>
         <source>Current stop&apos;s color</source>
-        <translation>Jelenlegi határ színe</translation>
+        <translation>لون التّوقّف الحاليّ</translation>
     </message>
     <message>
         <source>Show HSV specification</source>
-        <translation>HSV specifikáció megjelenítése</translation>
+        <translation>اعرض مواصفة ص‌ش‌ق</translation>
     </message>
     <message>
         <source>HSV</source>
-        <translation>HSV</translation>
+        <translation>ص‌ش‌ق</translation>
     </message>
     <message>
         <source>Show RGB specification</source>
-        <translation>RGB specifikáció megjelenítése</translation>
+        <translation>اعرض مواصفة خ‌ح‌ز</translation>
     </message>
     <message>
         <source>RGB</source>
-        <translation>RGB</translation>
+        <translation>خ‌ح‌ز</translation>
     </message>
     <message>
         <source>Current stop&apos;s position</source>
-        <translation>Jelenlegi határ helyzete</translation>
+        <translation>مكان التّوقّف الحاليّ</translation>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation>٪</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>Nagyítás</translation>
+        <translation>قرّب</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation>Kicsinyítés</translation>
+        <translation>بعّد</translation>
     </message>
     <message>
         <source>Toggle details extension</source>
-        <translation>Részletek kiterjesztés be- és kikapcsolása</translation>
+        <translation>بدّل تمدّد التّفاصيل</translation>
     </message>
     <message>
         <source>&gt;</source>
@@ -2346,497 +2390,497 @@ Konténeroldalak csak az egyéni felületi elem domXml() metódusa által vissza
     </message>
     <message>
         <source>Linear Type</source>
-        <translation>Lineáris típus</translation>
+        <translation>النّوع الخطّيّ</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>…</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Radial Type</source>
-        <translation>Sugáriranyú típus</translation>
+        <translation>النّوع الدّائريّ</translation>
     </message>
     <message>
         <source>Conical Type</source>
-        <translation>Kúpos típus</translation>
+        <translation>النّوع المخروطيّ</translation>
     </message>
     <message>
         <source>Pad Spread</source>
-        <translation>Hizlalás kitöltése</translation>
+        <translation>انتشار السّطح</translation>
     </message>
     <message>
         <source>Repeat Spread</source>
-        <translation>Hizlalás ismétlése</translation>
+        <translation>انتشار متكرّر</translation>
     </message>
     <message>
         <source>Reflect Spread</source>
-        <translation>Hizlalás tükröződése</translation>
+        <translation>انتشار منعكس</translation>
     </message>
     <message>
         <source>Start X</source>
-        <translation>Kezdő X</translation>
+        <translation>س البداية</translation>
     </message>
     <message>
         <source>Start Y</source>
-        <translation>Kezdő Y</translation>
+        <translation>ص البداية</translation>
     </message>
     <message>
         <source>Final X</source>
-        <translation>Végső X</translation>
+        <translation>س النّهاية</translation>
     </message>
     <message>
         <source>Final Y</source>
-        <translation>Végső Y</translation>
+        <translation>ص النّهاية</translation>
     </message>
     <message>
         <source>Central X</source>
-        <translation>Közép X</translation>
+        <translation>س الوسط</translation>
     </message>
     <message>
         <source>Central Y</source>
-        <translation>Közép Y</translation>
+        <translation>ص الوسط</translation>
     </message>
     <message>
         <source>Focal X</source>
-        <translation>Fókusz X</translation>
+        <translation>س التّركيز</translation>
     </message>
     <message>
         <source>Focal Y</source>
-        <translation>Fókusz Y</translation>
+        <translation>ص التّركيز</translation>
     </message>
     <message>
         <source>Radius</source>
-        <translation>Sugár</translation>
+        <translation>نصف القطر</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation>Szög</translation>
+        <translation>الزّاوية</translation>
     </message>
     <message>
         <source>Linear</source>
-        <translation>Lineáis</translation>
+        <translation>خطّيّ</translation>
     </message>
     <message>
         <source>Radial</source>
-        <translation>Sugárirányú</translation>
+        <translation>دائريّ</translation>
     </message>
     <message>
         <source>Conical</source>
-        <translation>Kúpos</translation>
+        <translation>مخروطيّ</translation>
     </message>
     <message>
         <source>Pad</source>
-        <translation>Kitöltés</translation>
+        <translation>سطح</translation>
     </message>
     <message>
         <source>Repeat</source>
-        <translation>Ismétlés</translation>
+        <translation>متكرّر</translation>
     </message>
     <message>
         <source>Reflect</source>
-        <translation>Tükröződés</translation>
+        <translation>منعكس</translation>
     </message>
 </context>
 <context>
     <name>QtGradientStopsWidget</name>
     <message>
         <source>New Stop</source>
-        <translation>Új határ</translation>
+        <translation>توقّف جديد</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Törlés</translation>
+        <translation>احذف</translation>
     </message>
     <message>
         <source>Flip All</source>
-        <translation>Összes tükrözése</translation>
+        <translation>اقلب الكلّ</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Összes kijelölése</translation>
+        <translation>حدّد الكلّ</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>Nagyítás</translation>
+        <translation>قرّب</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation>Kicsinyítés</translation>
+        <translation>بعّد</translation>
     </message>
     <message>
         <source>Reset Zoom</source>
-        <translation>Nagyítás visszaállítása</translation>
+        <translation>صفّر مستوى التّكبير</translation>
     </message>
 </context>
 <context>
     <name>QtGradientView</name>
     <message>
         <source>Gradient View</source>
-        <translation>Színátmenet nézet</translation>
+        <translation>منظور التّدرّجات</translation>
     </message>
     <message>
         <source>New...</source>
-        <translation>Új…</translation>
+        <translation>جديد...</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>Szerkesztés…</translation>
+        <translation>حرّر...</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Átnevezés</translation>
+        <translation>غيّر الاسم</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Eltávolítás</translation>
+        <translation>أزل</translation>
     </message>
     <message>
         <source>Grad</source>
-        <translation>Színátmenet</translation>
+        <translation>تدرّج</translation>
     </message>
     <message>
         <source>Remove Gradient</source>
-        <translation>Színátmenet eltávolítása</translation>
+        <translation>أزل التّدرّج</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the selected gradient?</source>
-        <translation>Biztosan el szeretné távolítani a kijelölt színátmenetet?</translation>
+        <translation>أمتأكّد من إزالة التّدرّج المحدّد؟</translation>
     </message>
 </context>
 <context>
     <name>QtGradientViewDialog</name>
     <message>
         <source>Select Gradient</source>
-        <translation>Színátmenet kiválasztása</translation>
+        <translation>اختر تدرّجًا</translation>
     </message>
 </context>
 <context>
     <name>QtLocalePropertyManager</name>
     <message>
         <source>&lt;Invalid&gt;</source>
-        <translation>&lt;érvénytelen&gt;</translation>
+        <translation>&lt;غير صالحة&gt;</translation>
     </message>
     <message>
         <source>%1, %2</source>
-        <translation>%1, %2</translation>
+        <translation>‏%1، ‏%2</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Nyelv</translation>
+        <translation>اللغة</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation>Ország</translation>
+        <translation>الدّولة</translation>
     </message>
 </context>
 <context>
     <name>QtPointFPropertyManager</name>
     <message>
         <source>(%1, %2)</source>
-        <translation>(%1, %2)</translation>
+        <translation>‏(%L1، %L2)</translation>
     </message>
     <message>
         <source>X</source>
-        <translation>X</translation>
+        <translation>س</translation>
     </message>
     <message>
         <source>Y</source>
-        <translation>Y</translation>
+        <translation>ص</translation>
     </message>
 </context>
 <context>
     <name>QtPointPropertyManager</name>
     <message>
         <source>(%1, %2)</source>
-        <translation>(%1, %2)</translation>
+        <translation>‏(%L1، %L2)</translation>
     </message>
     <message>
         <source>X</source>
-        <translation>X</translation>
+        <translation>س</translation>
     </message>
     <message>
         <source>Y</source>
-        <translation>Y</translation>
+        <translation>ص</translation>
     </message>
 </context>
 <context>
     <name>QtPropertyBrowserUtils</name>
     <message>
         <source>[%1, %2, %3] (%4)</source>
-        <translation>[%1, %2, %3] (%4)</translation>
+        <translation>‏[%L1، %L2، %L3] (%L4)</translation>
     </message>
     <message>
         <source>[%1, %2]</source>
-        <translation>[%1, %2]</translation>
+        <translation>‏[%L1، %L2]</translation>
     </message>
 </context>
 <context>
     <name>QtRectFPropertyManager</name>
     <message>
         <source>[(%1, %2), %3 x %4]</source>
-        <translation>[(%1, %2), %3 x %4]</translation>
+        <translation>‏[(%L1، %L2)، %L3 × %L4]</translation>
     </message>
     <message>
         <source>X</source>
-        <translation>X</translation>
+        <translation>س</translation>
     </message>
     <message>
         <source>Y</source>
-        <translation>Y</translation>
+        <translation>ص</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Szélesség</translation>
+        <translation>العرض</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Magasság</translation>
+        <translation>الارتفاع</translation>
     </message>
 </context>
 <context>
     <name>QtRectPropertyManager</name>
     <message>
         <source>[(%1, %2), %3 x %4]</source>
-        <translation>[(%1, %2), %3 x %4]</translation>
+        <translation>‏[(%L1، %L2)، %L3 × %L4]</translation>
     </message>
     <message>
         <source>X</source>
-        <translation>X</translation>
+        <translation>س</translation>
     </message>
     <message>
         <source>Y</source>
-        <translation>Y</translation>
+        <translation>ص</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Szélesség</translation>
+        <translation>العرض</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Magasság</translation>
+        <translation>الارتفاع</translation>
     </message>
 </context>
 <context>
     <name>QtResourceEditorDialog</name>
     <message>
         <source>Dialog</source>
-        <translation>Párbeszédablak</translation>
+        <translation>حواريّ</translation>
     </message>
     <message>
         <source>New File</source>
-        <translation>Új fájl</translation>
+        <translation>ملفّ جديد</translation>
     </message>
     <message>
         <source>N</source>
-        <translation>N</translation>
+        <translation>ج</translation>
     </message>
     <message>
         <source>Remove File</source>
-        <translation>Fájl eltávolítása</translation>
+        <translation>أزل الملفّ</translation>
     </message>
     <message>
         <source>R</source>
-        <translation>R</translation>
+        <translation>ز</translation>
     </message>
     <message>
         <source>I</source>
-        <translation>I</translation>
+        <translation>س</translation>
     </message>
     <message>
         <source>New Resource</source>
-        <translation>Új erőforrás</translation>
+        <translation>مورد جديد</translation>
     </message>
     <message>
         <source>A</source>
-        <translation>A</translation>
+        <translation>ض</translation>
     </message>
     <message>
         <source>Remove Resource or File</source>
-        <translation>Erőforrás vagy fájl eltávolítása</translation>
+        <translation>أزل المورد أو الملفّ</translation>
     </message>
     <message>
         <source>%1 already exists.
 Do you want to replace it?</source>
-        <translation>A(z) %1 már létezik.
-Szeretné lecserélni?</translation>
+        <translation>‏%1 موجود بالفعل.
+أتريد استبداله؟</translation>
     </message>
     <message>
         <source>The file does not appear to be a resource file; element &apos;%1&apos; was found where &apos;%2&apos; was expected.</source>
-        <translation>A fájl nem tűnik erőforrásfájlnak: a(z) „%1” elem volt megtalálható, ahol „%2” várt.</translation>
+        <translation>لا يبدو الملفّ ملفّ مورد، إذ عُثر على العنصر ’%1‘ بينما توقّعتُ ’%2‘.</translation>
     </message>
     <message>
         <source>%1 [read-only]</source>
-        <translation>%1 [csak olvasható]</translation>
+        <translation>%1 [للقراءة فقط]</translation>
     </message>
     <message>
         <source>%1 [missing]</source>
-        <translation>%1 [hiányzik]</translation>
+        <translation>%1 [ناقص]</translation>
     </message>
     <message>
         <source>&lt;no prefix&gt;</source>
-        <translation>&lt;nincs előtag&gt;</translation>
+        <translation>&lt;لا سابقة&gt;</translation>
     </message>
     <message>
         <source>New Resource File</source>
-        <translation>Új erőforrásfájl</translation>
+        <translation>ملفّ مورد جديد</translation>
     </message>
     <message>
         <source>Resource files (*.qrc)</source>
-        <translation>Erőforrásfájlok (*.qrc)</translation>
+        <translation>ملفّات الموارد (*.qrc)</translation>
     </message>
     <message>
         <source>Import Resource File</source>
-        <translation>Erőforrásfájl importálása</translation>
+        <translation>استورد ملفّ مورد</translation>
     </message>
     <message>
         <source>newPrefix</source>
-        <translation>új előtag</translation>
+        <translation>سابقةجديدة</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;b&gt;Warning:&lt;/b&gt; The file&lt;/p&gt;&lt;p&gt;%1&lt;/p&gt;&lt;p&gt;is outside of the current resource file&apos;s parent directory.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;Figyelmeztetés:&lt;/b&gt; a megadott&lt;/p&gt;&lt;p&gt;%1 fájl&lt;/p&gt;a jelenlegi erőforrásfájl szülőkönyvtárán kívül van.&lt;p&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;تحذير:&lt;/b&gt; الملفّ&lt;/p&gt;&lt;p&gt;%1&lt;/p&gt;&lt;p&gt;خارج دليل أبّ ملفّ المورد الحاليّ.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;To resolve the issue, press:&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Copy&lt;/th&gt;&lt;td&gt;to copy the file to the resource file&apos;s parent directory.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Copy As...&lt;/th&gt;&lt;td&gt;to copy the file into a subdirectory of the resource file&apos;s parent directory.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Keep&lt;/th&gt;&lt;td&gt;to use its current location.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</source>
-        <translation>&lt;p&gt;A probléma megoldásához válasszon a következők közül:&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Másolás&lt;/th&gt;&lt;td&gt;a fájl másolása az erőforrásfájl szülőkönyvtárába.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Másolás másként…&lt;/th&gt;&lt;td&gt;a fájl másolása az erőforrásfájl szülőkönyvtárának egyik alkönyvtárba.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Megtartás&lt;/th&gt;&lt;td&gt;a fájl jelenlegi helyének használata.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</translation>
+        <translation>&lt;p&gt;لحلّ هذه المشكلة، انقر:&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th align=&quot;right&quot;&gt;انسخ&lt;/th&gt;&lt;td&gt;لنسخ الملفّ إلى دليل أبّ ملفّ المورد.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th align=&quot;right&quot;&gt;انسخ ك‍...&lt;/th&gt;&lt;td&gt;لنسخ الملفّ إلى دليل فرعيّ من دليل أبّ الملفّ المورد.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th align=&quot;right&quot;&gt;أبقِ&lt;/th&gt;&lt;td&gt;لاستخدام المكان الحاليّ.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</translation>
     </message>
     <message>
         <source>Add Files</source>
-        <translation>Fájlok hozzáadása</translation>
+        <translation>أضف ملفّات</translation>
     </message>
     <message>
         <source>Incorrect Path</source>
-        <translation>Hibás útvonal</translation>
+        <translation>المسار غير صحيح</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Másolás</translation>
+        <translation>انسخ</translation>
     </message>
     <message>
         <source>Copy As...</source>
-        <translation>Másolás másként…</translation>
+        <translation>انسخ ك‍...</translation>
     </message>
     <message>
         <source>Keep</source>
-        <translation>Megtartás</translation>
+        <translation>أبقِ</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation>Kihagyás</translation>
+        <translation>تخطّ</translation>
     </message>
     <message>
         <source>Clone Prefix</source>
-        <translation>Előtag klónozása</translation>
+        <translation>استنسخ السّابقة</translation>
     </message>
     <message>
         <source>Enter the suffix which you want to add to the names of the cloned files.
 This could for example be a language extension like &quot;_de&quot;.</source>
-        <translation>Adja meg az utótagot, amelyet a klónozott fájlok neveihez szeretne hozzáadni.
-Ez lehet például egy nyelvi kiterjesztés, úgymint „_hu”.</translation>
+        <translation>أدخل السّابقة التي تريد إضافة أسماء الملفّات المستنسخة إليها.
+يمكن أن تكون هذه (مثلًا) امتداد لغة مثل ”‎_ar“.</translation>
     </message>
     <message>
         <source>Copy As</source>
-        <translation>Másolás másként</translation>
+        <translation>انسخ ك‍</translation>
     </message>
     <message>
         <source>&lt;p&gt;The selected file:&lt;/p&gt;&lt;p&gt;%1&lt;/p&gt;&lt;p&gt;is outside of the current resource file&apos;s directory:&lt;/p&gt;&lt;p&gt;%2&lt;/p&gt;&lt;p&gt;Please select another path within this directory.&lt;p&gt;</source>
-        <translation>&lt;p&gt;A kiválasztott fájl:&lt;/p&gt;&lt;p&gt;%1&lt;/p&gt;&lt;p&gt;a jelenlegi erőforrásfájl könyvtárán kívül van:&lt;/p&gt;&lt;p&gt;%2&lt;/p&gt;&lt;p&gt;Válasszon egy másik útvonalat ezen a könyvtáron belül.&lt;p&gt;</translation>
+        <translation>&lt;p&gt;الملفّ المحدّد:&lt;/p&gt;&lt;p&gt;%1&lt;/p&gt;&lt;p&gt;خارج دليل ملفّ المورد الحاليّ:&lt;/p&gt;&lt;p&gt;%2&lt;/p&gt;&lt;p&gt;رجاءً اختر مسارًا آخر داخل هذا الدّليل.&lt;p&gt;</translation>
     </message>
     <message>
         <source>Could not overwrite %1.</source>
-        <translation>Nem sikerült a(z) %1 felülírása.</translation>
+        <translation>تعذّرت الكتابة فوق %1.</translation>
     </message>
     <message>
         <source>Could not copy
 %1
 to
 %2</source>
-        <translation>Nem másolható
+        <translation>تعذّر نسخ
 %1
-ide:
+إلى
 %2</translation>
     </message>
     <message>
         <source>A parse error occurred at line %1, column %2 of %3:
 %4</source>
-        <translation>Feldolgozási hiba történt a(z) %3 %1. sorának %2. oszlopában:
+        <translation>حدث خطأ تحليل في السّطر %L1، العمود %L2 من %3:
 %4</translation>
     </message>
     <message>
         <source>Save Resource File</source>
-        <translation>Erőforrásfájl mentése</translation>
+        <translation>احفظ ملفّ المورد</translation>
     </message>
     <message>
         <source>Could not write %1: %2</source>
-        <translation>Nem sikerült a(z) %1 kiírása: %2</translation>
+        <translation>تعذّرت كتابة %1: ‏%2</translation>
     </message>
     <message>
         <source>Edit Resources</source>
-        <translation>Erőforrások szerkesztése</translation>
+        <translation>حرّر الموارد</translation>
     </message>
     <message>
         <source>New...</source>
-        <translation>Új…</translation>
+        <translation>جديد...</translation>
     </message>
     <message>
         <source>Open...</source>
-        <translation>Megnyitás…</translation>
+        <translation>افتح...</translation>
     </message>
     <message>
         <source>Open Resource File</source>
-        <translation>Erőforrásfájl megnyitása</translation>
+        <translation>افتح ملفّ مورد</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Eltávolítás</translation>
+        <translation>أزل</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation>Mozgatás fel</translation>
+        <translation>انقل لأعلى</translation>
     </message>
     <message>
         <source>Move Down</source>
-        <translation>Mozgatás le</translation>
+        <translation>انقل لأسفل</translation>
     </message>
     <message>
         <source>Add Prefix</source>
-        <translation>Előtag hozzáadása</translation>
+        <translation>أضف سابقة</translation>
     </message>
     <message>
         <source>Add Files...</source>
-        <translation>Fájlok hozzáadása…</translation>
+        <translation>أضف ملفّات...</translation>
     </message>
     <message>
         <source>Change Prefix</source>
-        <translation>Előtag módosítása</translation>
+        <translation>غيّر السّابقة</translation>
     </message>
     <message>
         <source>Change Language</source>
-        <translation>Nyelv módosítása</translation>
+        <translation>غيّر اللغة</translation>
     </message>
     <message>
         <source>Change Alias</source>
-        <translation>Álnév módosítása</translation>
+        <translation>غيّر الاختصار</translation>
     </message>
     <message>
         <source>Clone Prefix...</source>
-        <translation>Előtag klónozása…</translation>
+        <translation>استنسخ السّابقة...</translation>
     </message>
     <message>
         <source>Prefix / Path</source>
-        <translation>Előtag / útvonal</translation>
+        <translation>السّابقة / المسار</translation>
     </message>
     <message>
         <source>Language / Alias</source>
-        <translation>Nyelv / álnév</translation>
+        <translation>اللغة / الاختصار</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;p&gt;&lt;b&gt;Warning:&lt;/b&gt; There have been problems while reloading the resources:&lt;/p&gt;&lt;pre&gt;%1&lt;/pre&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;p&gt;&lt;b&gt;Figyelmeztetés:&lt;/b&gt; hibák történtek az erőforrás újratöltése közben:&lt;/p&gt;&lt;pre&gt;%1&lt;/pre&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;p&gt;&lt;b&gt;تحذير:&lt;/b&gt; حدثت مشاكل أثناء إعادة تحميل الموارد:&lt;/p&gt;&lt;pre&gt;%1&lt;/pre&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Resource Warning</source>
-        <translation>Erőforrás figyelmeztetés</translation>
+        <translation>تحذير عن الموارد</translation>
     </message>
 </context>
 <context>
@@ -2844,143 +2888,143 @@ ide:
     <message>
         <source>Size: %1 x %2
 %3</source>
-        <translation>Méret: %1 x %2
+        <translation>المقاس: %L1 × %L2
 %3</translation>
     </message>
     <message>
         <source>Edit Resources...</source>
-        <translation>Erőforrások szerkesztése…</translation>
+        <translation>حرّر الموارد...</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Újratöltés</translation>
+        <translation>أعد التّحميل</translation>
     </message>
     <message>
         <source>Copy Path</source>
-        <translation>Útvonal másolása</translation>
+        <translation>انسخ المسار</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Szűrő</translation>
+        <translation>رشّح</translation>
     </message>
 </context>
 <context>
     <name>QtResourceViewDialog</name>
     <message>
         <source>Select Resource</source>
-        <translation>Erőforrás kiválasztása</translation>
+        <translation>اختر موردًا</translation>
     </message>
 </context>
 <context>
     <name>QtSizeFPropertyManager</name>
     <message>
         <source>%1 x %2</source>
-        <translation>%1 x %2</translation>
+        <translation>%L1 × %L2</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Szélesség</translation>
+        <translation>العرض</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Magasság</translation>
+        <translation>الارتفاع</translation>
     </message>
 </context>
 <context>
     <name>QtSizePolicyPropertyManager</name>
     <message>
         <source>&lt;Invalid&gt;</source>
-        <translation>&lt;Érvénytelen&gt;</translation>
+        <translation>&lt;غير صالح&gt;</translation>
     </message>
     <message>
         <source>[%1, %2, %3, %4]</source>
-        <translation>[%1, %2, %3, %4]</translation>
+        <translation>‏[%1، ‏%2، ‏%L3، %L4]</translation>
     </message>
     <message>
         <source>Horizontal Policy</source>
-        <translation>Vízszintes irányelv</translation>
+        <translation>السّياسة الأفقيّة</translation>
     </message>
     <message>
         <source>Vertical Policy</source>
-        <translation>Függőleges irányelv</translation>
+        <translation>السّياسة الرّأسيّة</translation>
     </message>
     <message>
         <source>Horizontal Stretch</source>
-        <translation>Vízszintes nyújtás</translation>
+        <translation>التّمدّد الأفقيّ</translation>
     </message>
     <message>
         <source>Vertical Stretch</source>
-        <translation>Függőleges nyújtás</translation>
+        <translation>التّمدّد الرّأسيّ</translation>
     </message>
 </context>
 <context>
     <name>QtSizePropertyManager</name>
     <message>
         <source>%1 x %2</source>
-        <translation>%1 x %2</translation>
+        <translation>%L1 × %L2</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Szélesség</translation>
+        <translation>العرض</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Magasság</translation>
+        <translation>الارتفاع</translation>
     </message>
 </context>
 <context>
     <name>QtToolBarDialog</name>
     <message>
         <source>Customize Toolbars</source>
-        <translation>Eszköztárak személyre szabása</translation>
+        <translation>خصّص أشرطة الأدوات</translation>
     </message>
     <message>
         <source>1</source>
-        <translation>1</translation>
+        <translation>١</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation>Műveletek</translation>
+        <translation>الإجراءات</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation>Eszköztárak</translation>
+        <translation>أشرطة الأدوات</translation>
     </message>
     <message>
         <source>Add new toolbar</source>
-        <translation>Új eszköztár hozzáadása</translation>
+        <translation>أضف شريط أدوات جديد</translation>
     </message>
     <message>
         <source>New</source>
-        <translation>Új</translation>
+        <translation>جديد</translation>
     </message>
     <message>
         <source>Remove selected toolbar</source>
-        <translation>Kijelölt eszköztár eltávolítása</translation>
+        <translation>أزل شريط الأدوات المحدّد</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Eltávolítás</translation>
+        <translation>أزل</translation>
     </message>
     <message>
         <source>Rename toolbar</source>
-        <translation>Eszköztár átnevezése</translation>
+        <translation>غيّر اسم شريط الأدوات</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Átnevezés</translation>
+        <translation>غيّر الاسم</translation>
     </message>
     <message>
         <source>Move action up</source>
-        <translation>Művelet mozgatása fel</translation>
+        <translation>انقل الإجراء لأعلى</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>Fel</translation>
+        <translation>لأعلى</translation>
     </message>
     <message>
         <source>Remove action from toolbar</source>
-        <translation>Művelet eltávolítása az eszköztárról</translation>
+        <translation>أزل الإجراء من شريط الأدوات</translation>
     </message>
     <message>
         <source>&lt;-</source>
@@ -2988,7 +3032,7 @@ ide:
     </message>
     <message>
         <source>Add action to toolbar</source>
-        <translation>Művelet hozzáadása az eszköztárhoz</translation>
+        <translation>أضف إجراء إلى شريط الأدوات</translation>
     </message>
     <message>
         <source>-&gt;</source>
@@ -2996,151 +3040,151 @@ ide:
     </message>
     <message>
         <source>Move action down</source>
-        <translation>Művelet mozgatása le</translation>
+        <translation>انقل الإجراء لأسفل</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation>Le</translation>
+        <translation>لأسفل</translation>
     </message>
     <message>
         <source>Current Toolbar Actions</source>
-        <translation>Jelenlegi eszköztár műveletek</translation>
+        <translation>إجراءات شريط الأدوات الحاليّة</translation>
     </message>
     <message>
         <source>Custom Toolbar</source>
-        <translation>Egyéni eszköztár</translation>
+        <translation>شريط أدوات مخصّص</translation>
     </message>
     <message>
         <source>&lt; S E P A R A T O R &gt;</source>
-        <translation>&lt; E L V Á L A S Z T Ó &gt;</translation>
+        <translation>&lt; ف‍ ‍ا ص‍ ‍ل &gt;</translation>
     </message>
 </context>
 <context>
     <name>QtTreePropertyBrowser</name>
     <message>
         <source>Property</source>
-        <translation>Tulajdonság</translation>
+        <translation>الخاصيّة</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Érték</translation>
+        <translation>القيمة</translation>
     </message>
 </context>
 <context>
     <name>SaveFormAsTemplate</name>
     <message>
         <source>Save Form As Template</source>
-        <translation>Űrlap mentése sablonként</translation>
+        <translation>احفظ النّموذج كقالب</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>&amp;Név:</translation>
+        <translation>الا&amp;سم:</translation>
     </message>
     <message>
         <source>&amp;Category:</source>
-        <translation>&amp;Kategória:</translation>
+        <translation>ال&amp;فئة:</translation>
     </message>
     <message>
         <source>Add path...</source>
-        <translation>Útvonal hozzáadása…</translation>
+        <translation>أضف مسارًا...</translation>
     </message>
     <message>
         <source>Template Exists</source>
-        <translation>A sablon létezik</translation>
+        <translation>القالب موجود</translation>
     </message>
     <message>
         <source>A template with the name %1 already exists.
 Do you want overwrite the template?</source>
-        <translation>Egy %1 nevű sablon már létezik.
-Szeretné felülírni a sablont?</translation>
+        <translation>هناك قالب بالاسم %1 بالفعل.
+أتريد الكتابة فوق القالب؟</translation>
     </message>
     <message>
         <source>Overwrite Template</source>
-        <translation>Sablon felülírása</translation>
+        <translation>اكتب فوق القال</translation>
     </message>
     <message>
         <source>Open Error</source>
-        <translation>Megnyitási hiba</translation>
+        <translation>خطأ فتح</translation>
     </message>
     <message>
         <source>There was an error opening template %1 for writing. Reason: %2</source>
-        <translation>Hiba történt a(z) %1 sablon írásra való megnyitása során. Ok: %2</translation>
+        <translation>حدث خطأ في فتح القالب %1 للكتابة. السّبب: %2</translation>
     </message>
     <message>
         <source>Write Error</source>
-        <translation>Írási hiba</translation>
+        <translation>خطأ كتابة</translation>
     </message>
     <message>
         <source>There was an error writing the template %1 to disk. Reason: %2</source>
-        <translation>Hiba történt a(z) %1 sablon lemezre írása során. Ok: %2</translation>
+        <translation>حدث خطأ في كتابة القالب %1 في القرص. السّبب: %2</translation>
     </message>
     <message>
         <source>Pick a directory to save templates in</source>
-        <translation>Válasszon egy könyvtárat, amelybe a sablonokat menti</translation>
+        <translation>انتقِ دليلًا لحفظ القوالب فيه</translation>
     </message>
 </context>
 <context>
     <name>SelectSignalDialog</name>
     <message>
         <source>Go to slot</source>
-        <translation>Ugrás a tárolóhelyhez</translation>
+        <translation>انتقل إلى التّلم</translation>
     </message>
     <message>
         <source>Select signal</source>
-        <translation>Válasszon jelzést</translation>
+        <translation>اختر إشارة</translation>
     </message>
     <message>
         <source>signal</source>
-        <translation>jelzés</translation>
+        <translation>الإشارة</translation>
     </message>
     <message>
         <source>class</source>
-        <translation>osztály</translation>
+        <translation>الصّنف</translation>
     </message>
 </context>
 <context>
     <name>SignalSlotConnection</name>
     <message>
         <source>SENDER(%1), SIGNAL(%2), RECEIVER(%3), SLOT(%4)</source>
-        <translation>KÜLDŐ(%1), JELZÉS(%2), FOGADÓ(%3), TÁROLÓHELY(%4)</translation>
+        <translation>المرسل(‎%1‎)، الإشارة(‎%2‎)، المستقبل(‎%3‎)، التّلم(‎%4‎)</translation>
     </message>
 </context>
 <context>
     <name>SignalSlotDialogClass</name>
     <message>
         <source>Signals and slots</source>
-        <translation>Jelzések és tárolóhelyek</translation>
+        <translation>الإشارات والأتلام</translation>
     </message>
     <message>
         <source>Slots</source>
-        <translation>Tárolóhelyek</translation>
+        <translation>الأتلام</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Hozzáadás</translation>
+        <translation>أضف</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>…</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Törlés</translation>
+        <translation>احذف</translation>
     </message>
     <message>
         <source>Signals</source>
-        <translation>Jelzések</translation>
+        <translation>الإشارات</translation>
     </message>
 </context>
 <context>
     <name>Spacer</name>
     <message>
         <source>Horizontal Spacer &apos;%1&apos;, %2 x %3</source>
-        <translation>Vízszintes helyőrző: „%1”, %2 x %3</translation>
+        <translation>مُباعد أفقيّ ’%1‘، ‏%L2 × %L3</translation>
     </message>
     <message>
         <source>Vertical Spacer &apos;%1&apos;, %2 x %3</source>
-        <translation>Függőleges helyőrző: „%1”, %2 x %3</translation>
+        <translation>مُباعد رأسيّ ’%1‘، ‏%L2 × %L3</translation>
     </message>
 </context>
 <context>
@@ -3148,433 +3192,443 @@ Szeretné felülírni a sablont?</translation>
     <message>
         <source>Template Paths</source>
         <extracomment>Tab in preferences dialog</extracomment>
-        <translation>Sablonok útvonalai</translation>
+        <translation>مسارات القوالب</translation>
     </message>
 </context>
 <context>
     <name>ToolBarManager</name>
     <message>
         <source>Configure Toolbars...</source>
-        <translation>Eszköztárak személyre szabása…</translation>
+        <translation>اضبط أشرطة الأدوات...</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation>Ablak</translation>
+        <translation>نافذة</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Súgó</translation>
+        <translation>مساعدة</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation>Stílus</translation>
+        <translation>النّمط</translation>
     </message>
     <message>
         <source>Dock views</source>
-        <translation>Dokknézetek</translation>
+        <translation>مناظير الرّصف</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Fájl</translation>
+        <translation>ملفّ</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Szerkesztés</translation>
+        <translation>تحرير</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Eszközök</translation>
+        <translation>أدوات</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation>Űrlap</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation>Eszköztárak</translation>
+        <translation>أشرطة الأدوات</translation>
     </message>
 </context>
 <context>
     <name>VersionDialog</name>
     <message>
         <source>&lt;h3&gt;%1&lt;/h3&gt;&lt;br/&gt;&lt;br/&gt;Version %2</source>
-        <translation>&lt;h3&gt;%1&lt;/h3&gt;&lt;br/&gt;&lt;br/&gt;%2. verzió</translation>
+        <translation>&lt;h3&gt;%1&lt;/h3&gt;&lt;br/&gt;&lt;br/&gt;الإصدارة %L2</translation>
     </message>
     <message>
         <source>Qt Designer</source>
-        <translation>Qt Tervező</translation>
+        <translation>كيوت المصمّم</translation>
     </message>
     <message>
         <source>&lt;br/&gt;Qt Designer is a graphical user interface designer for Qt applications.&lt;br/&gt;</source>
-        <translation>&lt;br/&gt;A Qt Tervező egy grafikus felhasználói felület tervező a Qt alkalmazásokhoz.&lt;br/&gt;</translation>
+        <translation>&lt;br/&gt;«كيوت المصمّم» مصمّم واجهات مستخدم رسوميّة لتطبيقات «كيوت».&lt;br/&gt;</translation>
     </message>
     <message>
         <source>%1&lt;br/&gt;Copyright (C) %2 The Qt Company Ltd.</source>
-        <translation>%1&lt;br/&gt;Copyright (C) %2 The Qt Company Ltd.</translation>
+        <translation>%1&lt;br/&gt;حقوق النّسخ © %L2 ل‍«شركة كيوت المحدودة».</translation>
     </message>
 </context>
 <context>
     <name>WidgetDataBase</name>
     <message>
         <source>A custom widget plugin whose class name (%1) matches that of an existing class has been found.</source>
-        <translation>Egy egyéni felületi elem bővítmény, amely osztályneve (%1) megegyezik azzal, hogy egy létező osztály található.</translation>
+        <translation>عُثر على ملحقة ودجة مخصّصة اسم صنفها (%1) مطابقة لواحدة أخرى لصنف موجود.</translation>
     </message>
     <message>
         <source>The file contains a custom widget &apos;%1&apos; whose base class (%2) differs from the current entry in the widget database (%3). The widget database is left unchanged.</source>
-        <translation>A fájl egy egyéni felületi elemet tartalmaz („%1”), amelynek alaposztálya (%2) eltér a jelenlegi bejegyzéstől a felületi elem adatbázisban (%3). A felületi elem adatbázis változatlanul lett hagyva.</translation>
+        <translation>الملفّ الذي يحتوي ودجة مخصّصة ’%1‘ اسم صنفها (%2) يختلف عن المدخلة الحاليّة في قاعدة بيانات الودجات (%3). تُركت قاعدة بيانات الودجات دون تغيير.</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal</name>
     <message>
         <source>%1 Widget</source>
-        <translation>%1 felületi elem</translation>
+        <translation>ودجة %1</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::ActionEditor</name>
     <message>
         <source>New...</source>
-        <translation>Új…</translation>
+        <translation>جديد...</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>Szerkesztés…</translation>
+        <translation>حرّر...</translation>
     </message>
     <message>
         <source>Go to slot...</source>
-        <translation>Ugrás a tárolóhelyhez…</translation>
+        <translation>انتقل إلى التّلم...</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Másolás</translation>
+        <translation>انسخ</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Kivágás</translation>
+        <translation>قصّ</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Beillesztés</translation>
+        <translation>ألصق</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>Összes kijelölése</translation>
+        <translation>حدّد الكلّ</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Törlés</translation>
+        <translation>احذف</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation>Műveletek</translation>
+        <translation>الإجراءات</translation>
     </message>
     <message>
         <source>Configure Action Editor</source>
-        <translation>Műveletszerkesztő beállítása</translation>
+        <translation>اضبط محرّر الإجراءات</translation>
     </message>
     <message>
         <source>Icon View</source>
-        <translation>Ikon nézet</translation>
+        <translation>منظور أيقوناتيّ</translation>
     </message>
     <message>
         <source>Detailed View</source>
-        <translation>Részletes nézet</translation>
+        <translation>منظور مفصّل</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Szűrő</translation>
+        <translation>رشّح</translation>
     </message>
     <message>
         <source>New action</source>
-        <translation>Új művelet</translation>
+        <translation>إجراء جديد</translation>
     </message>
     <message>
         <source>Edit action</source>
-        <translation>Művelet szerkesztése</translation>
+        <translation>حرّر الإجراء</translation>
     </message>
     <message>
         <source>Remove action &apos;%1&apos;</source>
-        <translation>„%1” művelet eltávolítása</translation>
+        <translation>إزالة الإجراء ’%1‘</translation>
     </message>
     <message>
         <source>Remove actions</source>
-        <translation>Műveletek eltávolítása</translation>
+        <translation>إزالة الإجراءات</translation>
     </message>
     <message>
         <source>Used In</source>
-        <translation>Használat helye</translation>
+        <translation>مستخدم في</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::ActionModel</name>
     <message>
         <source>Name</source>
-        <translation>Név</translation>
+        <translation>الاسم</translation>
     </message>
     <message>
         <source>Used</source>
-        <translation>Használatban</translation>
+        <translation>مستخدم</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Szöveg</translation>
+        <translation>النّصّ</translation>
     </message>
     <message>
         <source>Shortcut</source>
-        <translation>Gyorsbillentyű</translation>
+        <translation>الاختصار</translation>
     </message>
     <message>
         <source>Checkable</source>
-        <translation>Bejelölhető</translation>
+        <translation>يمكن تأشيره</translation>
     </message>
     <message>
         <source>ToolTip</source>
-        <translation>Buboréksúgó</translation>
+        <translation>التّلميحة</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::BuddyEditor</name>
     <message>
         <source>Add buddy</source>
-        <translation>Partner hozzáadása</translation>
+        <translation>إضافة الزّميل</translation>
     </message>
     <message>
         <source>Remove buddies</source>
-        <translation>Partnerek eltávolítása</translation>
+        <translation>إزالة الزّملاء</translation>
     </message>
     <message numerus="yes">
         <source>Remove %n buddies</source>
         <translation>
-            <numerusform>%n partner eltávolítása</numerusform>
+            <numerusform>لم يُزل شيء</numerusform>
+            <numerusform>إزالة الزّميل</numerusform>
+            <numerusform>إزالة الزّميلين</numerusform>
+            <numerusform>إزالة %Ln زملاء</numerusform>
+            <numerusform>إزالة %Ln زميلًا</numerusform>
+            <numerusform>إزالة %Ln زميل</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Add %n buddies</source>
         <translation>
-            <numerusform>%n partner hozzáadása</numerusform>
+            <numerusform>لم يُضف شيء</numerusform>
+            <numerusform>إضافة الزّميل</numerusform>
+            <numerusform>إضافة الزّميلين</numerusform>
+            <numerusform>إضافة %Ln زملاء</numerusform>
+            <numerusform>إضافة %Ln زميلًا</numerusform>
+            <numerusform>إضافة %Ln زميل</numerusform>
         </translation>
     </message>
     <message>
         <source>Set automatically</source>
-        <translation>Automatikus beállítás</translation>
+        <translation>اضبط آليًّا</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::BuddyEditorPlugin</name>
     <message>
         <source>Edit Buddies</source>
-        <translation>Partnerek szerkesztése</translation>
+        <translation>حرّر الزّملاء</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::BuddyEditorTool</name>
     <message>
         <source>Edit Buddies</source>
-        <translation>Partnerek szerkesztése</translation>
+        <translation>حرّر الزّملاء</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::ButtonGroupMenu</name>
     <message>
         <source>Select members</source>
-        <translation>Tagok kijelölése</translation>
+        <translation>حدّد أعضاءها</translation>
     </message>
     <message>
         <source>Break</source>
-        <translation>Feltörés</translation>
+        <translation>اكسرها</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::ButtonTaskMenu</name>
     <message>
         <source>Assign to button group</source>
-        <translation>Hozzárendelés gombcsoporthoz</translation>
+        <translation>أسند إلى مجموعة أزرار</translation>
     </message>
     <message>
         <source>Button group</source>
-        <translation>Gombcsoport</translation>
+        <translation>مجموعة الأزرار</translation>
     </message>
     <message>
         <source>New button group</source>
-        <translation>Új gombcsoport</translation>
+        <translation>مجموعة أزرار جديدة</translation>
     </message>
     <message>
         <source>Change text...</source>
-        <translation>Szöveg módosítása…</translation>
+        <translation>غيّر النّصّ...</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Nincs</translation>
+        <translation>بلا</translation>
     </message>
     <message>
         <source>Button group &apos;%1&apos;</source>
-        <translation>„%1” gombcsoport</translation>
+        <translation>مجموعة الأزرار ’%1‘</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::CodeDialog</name>
     <message>
         <source>Save...</source>
-        <translation>Mentés…</translation>
+        <translation>احفظ...</translation>
     </message>
     <message>
         <source>Copy All</source>
-        <translation>Összes másolása</translation>
+        <translation>انسخ الكلّ</translation>
     </message>
     <message>
         <source>&amp;Find in Text...</source>
-        <translation>Ke&amp;resés a szövegben…</translation>
+        <translation>ا&amp;بحث في النّصّ...</translation>
     </message>
     <message>
         <source>A temporary form file could not be created in %1.</source>
-        <translation>Egy átmeneti űrlapfájlt nem sikerült létrehozni ebben: %1.</translation>
+        <translation>تعذّر إنشاء ملفّ نموذج مؤقّت في %1.</translation>
     </message>
     <message>
         <source>The temporary form file %1 could not be written.</source>
-        <translation>A(z) %1 átmeneti űrlapfájlt nem sikerült kiírni.</translation>
+        <translation>تعذّرت كتابة ملفّ النّموذج المؤقّت %1.</translation>
     </message>
     <message>
         <source>%1 - [Code]</source>
-        <translation>%1 – [Kód]</translation>
+        <translation>%1 - [الكود]</translation>
     </message>
     <message>
         <source>Save Code</source>
-        <translation>Kód mentése</translation>
+        <translation>احفظ الكود</translation>
     </message>
     <message>
         <source>Header Files (*.%1)</source>
-        <translation>Fejlécfájlok (*.%1)</translation>
+        <translation>ملفّات التّرويسات (*.%1)</translation>
     </message>
     <message>
         <source>The file %1 could not be opened: %2</source>
-        <translation>A(z) %1 fájlt nem sikerült megnyitni: %2</translation>
+        <translation>تعذّر فتح الملفّ %1: ‍%2</translation>
     </message>
     <message>
         <source>The file %1 could not be written: %2</source>
-        <translation>A(z) %1 fájlt nem sikerült kiírni: %2</translation>
+        <translation>تعذّرت كتابة الملفّ %1: ‍%2</translation>
     </message>
     <message>
         <source>%1 - Error</source>
-        <translation>%1 – Hiba</translation>
+        <translation>%1 - خطأ</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::ColorAction</name>
     <message>
         <source>Text Color</source>
-        <translation>Szövegszín</translation>
+        <translation>لون النّصّ</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::ComboBoxTaskMenu</name>
     <message>
         <source>Edit Items...</source>
-        <translation>Elemek szerkesztése…</translation>
+        <translation>حرّر العناصر...</translation>
     </message>
     <message>
         <source>Change Combobox Contents</source>
-        <translation>Legördülő menü tartalmának módosítása</translation>
+        <translation>غيّر محتويات المربّع المنسدل</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::CommandLinkButtonTaskMenu</name>
     <message>
         <source>Change description...</source>
-        <translation>Leírás módosítása…</translation>
+        <translation>غيّر الوصف...</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::ConnectionEdit</name>
     <message>
         <source>Select All</source>
-        <translation>Összes kijelölése</translation>
+        <translation>حدّد الكلّ</translation>
     </message>
     <message>
         <source>Deselect All</source>
-        <translation>Kijelölés megszüntetése</translation>
+        <translation>أزل تحديد الكلّ</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Törlés</translation>
+        <translation>احذف</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::ConnectionModel</name>
     <message>
         <source>Sender</source>
-        <translation>Küldő</translation>
+        <translation>المرسل</translation>
     </message>
     <message>
         <source>Signal</source>
-        <translation>Jelzés</translation>
+        <translation>الإشارة</translation>
     </message>
     <message>
         <source>Receiver</source>
-        <translation>Fogadó</translation>
+        <translation>المستقبل</translation>
     </message>
     <message>
         <source>Slot</source>
-        <translation>Tárolóhely</translation>
+        <translation>التّلم</translation>
     </message>
     <message>
         <source>&lt;sender&gt;</source>
-        <translation>&lt;küldő&gt;</translation>
+        <translation>&lt;المرسل&gt;</translation>
     </message>
     <message>
         <source>&lt;signal&gt;</source>
-        <translation>&lt;jelzés&gt;</translation>
+        <translation>&lt;الإشارة&gt;</translation>
     </message>
     <message>
         <source>&lt;receiver&gt;</source>
-        <translation>&lt;fogadó&gt;</translation>
+        <translation>&lt;المستقبل&gt;</translation>
     </message>
     <message>
         <source>&lt;slot&gt;</source>
-        <translation>&lt;tárolóhely&gt;</translation>
+        <translation>&lt;التّلم&gt;</translation>
     </message>
     <message>
         <source>The connection already exists!&lt;br&gt;%1</source>
-        <translation>A kapcsolat már létezik!&lt;br&gt;%1</translation>
+        <translation>الاتّصال موجود بالفعل!&lt;br&gt;%1</translation>
     </message>
     <message>
         <source>Signal and Slot Editor</source>
-        <translation>Jelzés és tárolóhely szerkesztő</translation>
+        <translation>محرّر الإشارات والأتلام</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::ContainerWidgetTaskMenu</name>
     <message>
         <source>Delete</source>
-        <translation>Törlés</translation>
+        <translation>احذف</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation>Beszúrás</translation>
+        <translation>أدرج</translation>
     </message>
     <message>
         <source>Insert Page Before Current Page</source>
-        <translation>Oldal beszúrása a jelenlegi oldal elé</translation>
+        <translation>أدرج صفحة قبل الصّفحة الحاليّة</translation>
     </message>
     <message>
         <source>Insert Page After Current Page</source>
-        <translation>Oldal beszúrása a jelenlegi oldal után</translation>
+        <translation>أدرج صفحة بعد الصّفحة الحاليّة</translation>
     </message>
     <message>
         <source>Add Subwindow</source>
-        <translation>Gyermekablak hozzáadása</translation>
+        <translation>أضف نافذة فرعيّة</translation>
     </message>
     <message>
         <source>Subwindow</source>
-        <translation>Gyermekablak</translation>
+        <translation>نافذة فرعيّة</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation>Oldal</translation>
+        <translation>صفحة</translation>
     </message>
     <message>
         <source>Page %1 of %2</source>
-        <translation>%1/%2 oldal</translation>
+        <translation>صفحة %L1 من %L2</translation>
     </message>
 </context>
 <context>
@@ -3582,275 +3636,281 @@ Szeretné felülírni a sablont?</translation>
     <message>
         <source>System (%1 x %2)</source>
         <extracomment>System resolution</extracomment>
-        <translation>Rendszer (%1 × %2)</translation>
+        <translation>النّظام (%L1 × %L2)</translation>
     </message>
     <message>
         <source>User defined</source>
-        <translation>Felhasználó által megadott</translation>
+        <translation>عرّفها المستخدم</translation>
     </message>
     <message>
         <source> x </source>
         <extracomment>DPI X/Y separator</extracomment>
-        <translation> x </translation>
+        <translation> × </translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::DesignerPropertyManager</name>
     <message>
         <source>translatable</source>
-        <translation>lefordítható</translation>
+        <translation>يمكن ترجمته</translation>
     </message>
     <message>
         <source>disambiguation</source>
-        <translation>egyértelműsítés</translation>
+        <translation>التّوضيح</translation>
     </message>
     <message>
         <source>comment</source>
-        <translation>megjegyzés</translation>
+        <translation>تعليق</translation>
     </message>
     <message>
         <source>AlignLeft</source>
-        <translation>Igazítás balra</translation>
+        <translation>محاذاة لليسار</translation>
     </message>
     <message>
         <source>AlignHCenter</source>
-        <translation>Igazítás vízszintesen középre</translation>
+        <translation>محاذاة للوسط الأفقيّ</translation>
     </message>
     <message>
         <source>AlignRight</source>
-        <translation>Igazítás jobbra</translation>
+        <translation>محاذاة لليمين</translation>
     </message>
     <message>
         <source>AlignJustify</source>
-        <translation>Igazítás sorkizártan</translation>
+        <translation>محاذاة مضبوطة</translation>
     </message>
     <message>
         <source>AlignTop</source>
-        <translation>Igazítás felülre</translation>
+        <translation>محاذاة للأعلى</translation>
     </message>
     <message>
         <source>AlignVCenter</source>
-        <translation>Igazítás függőlegesen középre</translation>
+        <translation>محاذاة للوسط الرّأسيّ</translation>
     </message>
     <message>
         <source>AlignBottom</source>
-        <translation>Igazítás alulra</translation>
+        <translation>محاذاة للأسفل</translation>
     </message>
     <message>
         <source>%1, %2</source>
-        <translation>%1, %2</translation>
+        <translatorcomment>القيم هي قيم المحاذاة أعلاه مترجمة</translatorcomment>
+        <translation>%1، %2</translation>
     </message>
     <message numerus="yes">
         <source>Customized (%n roles)</source>
         <translation>
-            <numerusform>Személyre szabott (%n szerep)</numerusform>
+            <numerusform>مخصّصة (لا أدوار)</numerusform>
+            <numerusform>مخصّصة (دور واحد)</numerusform>
+            <numerusform>مخصّصة (دوران)</numerusform>
+            <numerusform>مخصّصة (%Ln أدوار)</numerusform>
+            <numerusform>مخصّصة (%Ln دورًا)</numerusform>
+            <numerusform>مخصّصة (%Ln دور)</numerusform>
         </translation>
     </message>
     <message>
         <source>Inherited</source>
-        <translation>Öröklött</translation>
+        <translation>موروثة</translation>
     </message>
     <message>
         <source>[Theme] %1</source>
-        <translation>[Téma] %1</translation>
+        <translation>[السّمة] %1</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Vízszintes</translation>
+        <translation>الأفقيّة</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Függőleges</translation>
+        <translation>الرّأسيّة</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation>Téma</translation>
+        <translation>السّمة</translation>
     </message>
     <message>
         <source>Normal Off</source>
-        <translation>Normál ki</translation>
+        <translation>عاديّة - مُوقَفة</translation>
     </message>
     <message>
         <source>Normal On</source>
-        <translation>Normál be</translation>
+        <translation>عاديّة - مشغّلة</translation>
     </message>
     <message>
         <source>Disabled Off</source>
-        <translation>Letiltott ki</translation>
+        <translation>معطّلة - مُوقَفة</translation>
     </message>
     <message>
         <source>Disabled On</source>
-        <translation>Letiltott be</translation>
+        <translation>معطّلة - مشغّلة</translation>
     </message>
     <message>
         <source>Active Off</source>
-        <translation>Aktív ki</translation>
+        <translation>نشطة - مُوقَفة</translation>
     </message>
     <message>
         <source>Active On</source>
-        <translation>Aktív be</translation>
+        <translation>نشطة - مشغّلة</translation>
     </message>
     <message>
         <source>Selected Off</source>
-        <translation>Kijelölt ki</translation>
+        <translation>محدّدة - مُوقّفة</translation>
     </message>
     <message>
         <source>Selected On</source>
-        <translation>Kijelölt be</translation>
+        <translation>محدّدة - مشغّلة</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::DeviceProfileDialog</name>
     <message>
         <source>Device Profiles (*.%1)</source>
-        <translation>Eszközprofilok (*.%1)</translation>
+        <translation>لاحات الأجهزة (*.%1)</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Alapértelmezett</translation>
+        <translation>الافتراضيّة</translation>
     </message>
     <message>
         <source>Save Profile</source>
-        <translation>Profil mentése</translation>
+        <translation>احفظ اللاحة</translation>
     </message>
     <message>
         <source>Save Profile - Error</source>
-        <translation>Profil mentése – Hiba</translation>
+        <translation>حفظ اللاحة - خطأ</translation>
     </message>
     <message>
         <source>Unable to open the file &apos;%1&apos; for writing: %2</source>
-        <translation>Nem nyitható meg a(z) „%1” fájl írásra: %2</translation>
+        <translation>تعذّر فتح الملفّ ’%1‘ للكتابة: %2</translation>
     </message>
     <message>
         <source>Open profile</source>
-        <translation>Profil megnyitása</translation>
+        <translation>افتح لاحة</translation>
     </message>
     <message>
         <source>Open Profile - Error</source>
-        <translation>Profil megnyitása – Hiba</translation>
+        <translation>فتح اللاحة - خطأ</translation>
     </message>
     <message>
         <source>Unable to open the file &apos;%1&apos; for reading: %2</source>
-        <translation>Nem nyitható meg a(z) „%1” fájl olvasásra: %2</translation>
+        <translation>تعذّر فتح الملفّ ’%1‘ للقراءة: %2</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is not a valid profile: %2</source>
-        <translation>A(z) „%1” nem érvényes profil: %2</translation>
+        <translation>ليست ’%1‘ لاحة صالحة: %2</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::Dialog</name>
     <message>
         <source>Dialog</source>
-        <translation>Párbeszédablak</translation>
+        <translation>حواريّ</translation>
     </message>
     <message>
         <source>StringList</source>
-        <translation>Karakterlánclista</translation>
+        <translation>قائمة السّلاسل</translation>
     </message>
     <message>
         <source>New String</source>
-        <translation>Új karakterlánc</translation>
+        <translation>سلسلة جديدة</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>Ú&amp;j</translation>
+        <translation>&amp;جديد</translation>
     </message>
     <message>
         <source>Delete String</source>
-        <translation>Karakterlánc törlése</translation>
+        <translation>احذف السّلسلة</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Törlés</translation>
+        <translation>ا&amp;حذف</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
-        <translation>&amp;Érték:</translation>
+        <translation>ال&amp;قيمة:</translation>
     </message>
     <message>
         <source>Move String Up</source>
-        <translation>Karakterlánc mozgatása fel</translation>
+        <translation>انقل السّلسلة لأعلى</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>Fel</translation>
+        <translation>لأعلى</translation>
     </message>
     <message>
         <source>Move String Down</source>
-        <translation>Karakterlánc mozgatása le</translation>
+        <translation>انقل السّلسلة لأسفل</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation>Le</translation>
+        <translation>لأسفل</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::EmbeddedOptionsControl</name>
     <message>
         <source>None</source>
-        <translation>Nincs</translation>
+        <translation>بلا</translation>
     </message>
     <message>
         <source>Add a profile</source>
-        <translation>Egy profil hozzáadása</translation>
+        <translation>أضف لاحة</translation>
     </message>
     <message>
         <source>Edit the selected profile</source>
-        <translation>A kijelölt profil szerkesztése</translation>
+        <translation>حرّر اللاحة المحدّدة</translation>
     </message>
     <message>
         <source>Delete the selected profile</source>
-        <translation>A kijelölt profil törlése</translation>
+        <translation>احذف اللاحة المحدّدة</translation>
     </message>
     <message>
         <source>Add Profile</source>
-        <translation>Profil hozzáadása</translation>
+        <translation>أضف لاحة</translation>
     </message>
     <message>
         <source>New profile</source>
-        <translation>Új profil</translation>
+        <translation>لاحة جديدة</translation>
     </message>
     <message>
         <source>Edit Profile</source>
-        <translation>Profil szerkesztése</translation>
+        <translation>حرّر اللاحة</translation>
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation>Profil törlése</translation>
+        <translation>احذف اللاحة</translation>
     </message>
     <message>
         <source>Would you like to delete the profile &apos;%1&apos;?</source>
-        <translation>Törölni szeretné a következő profilt: „%1”?</translation>
+        <translation>أتريد حذف اللاحة ’%1‘؟</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Alapértelmezett</translation>
+        <translation>الافتراضيّ</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::FormEditor</name>
     <message>
         <source>Resource File Changed</source>
-        <translation>Az erőforrásfájl megváltozott</translation>
+        <translation>تغيّر ملفّ المورد</translation>
     </message>
     <message>
         <source>The file &quot;%1&quot; has changed outside Designer. Do you want to reload it?</source>
-        <translation>A(z) „%1” fájlt a Tervezőn kívül módosították. Szeretné újratölteni?</translation>
+        <translation>تغيّر الملفّ ”%1“ خارج «المصمّم». أتريد إعادة تحميله؟</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::FormLayoutMenu</name>
     <message>
         <source>Add form layout row...</source>
-        <translation>Űrlapelrendezés-sor hozzáadása…</translation>
+        <translation>أضف صفًّا إلى تخطيط نموذج...</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::FormWindow</name>
     <message>
         <source>Edit contents</source>
-        <translation>Tartalom szerkesztése</translation>
+        <translation>حرّر المحتويات</translation>
     </message>
     <message>
         <source>F2</source>
@@ -3858,848 +3918,861 @@ Szeretné felülírni a sablont?</translation>
     </message>
     <message>
         <source>Insert widget &apos;%1&apos;</source>
-        <translation>„%1” felületi elem beszúrása</translation>
+        <translation>إدراج الودجة ’%1‘</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation>Átméretezés</translation>
+        <translation>تغيير المقاس</translation>
     </message>
     <message>
         <source>Key Resize</source>
-        <translation>Átméretezés billentyűvel</translation>
+        <translatorcomment>المعنى هو استخدام Shift مع أحد الأسهم لتغيير مقاس كائن</translatorcomment>
+        <translation>تغيير المقاس بالمفتاح</translation>
     </message>
     <message>
         <source>Key Move</source>
-        <translation>Áthelyezés billentyűvel</translation>
+        <translatorcomment>المعنى هو تحريك كائن باستخدام مفاتيح الأسهم</translatorcomment>
+        <translation>التّحريك بالمفتاح</translation>
     </message>
     <message numerus="yes">
         <source>Paste %n action(s)</source>
         <translation>
-            <numerusform>%n művelet beillesztése</numerusform>
+            <numerusform>عدم لصق شيء</numerusform>
+            <numerusform>لصق الإجراء</numerusform>
+            <numerusform>لصق الإجراءين</numerusform>
+            <numerusform>لصق %Ln إجراءات</numerusform>
+            <numerusform>لصق %Ln إجراءً</numerusform>
+            <numerusform>لصق %Ln إجراء</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Paste %n widget(s)</source>
         <translation>
-            <numerusform>%n felületi elem beillesztése</numerusform>
+            <numerusform>عدم لصق شيء</numerusform>
+            <numerusform>لصق الودجة</numerusform>
+            <numerusform>لصق الودجتين</numerusform>
+            <numerusform>لصق %Ln ودجات</numerusform>
+            <numerusform>لصق %Ln ودجة</numerusform>
+            <numerusform>لصق %Ln ودجة</numerusform>
         </translation>
     </message>
     <message>
         <source>Paste (%1 widgets, %2 actions)</source>
-        <translation>Beillesztés (%1 felületi elem, %2 művelet)</translation>
+        <translation>اللصق (%L1 ودجة، %L2 إجراء)</translation>
     </message>
     <message>
         <source>Cannot paste widgets. Designer could not find a container without a layout to paste into.</source>
-        <translation>Nem lehet felületi elemeket beilleszteni. A Tervező nem talál elrendezés nélküli konténert a beillesztéshez.</translation>
+        <translation>تعذّر لصق الودجات. تعذّر على «المصمّم» العثور على حاوٍ دون تخطيط للّصق فيه.</translation>
     </message>
     <message>
         <source>Break the layout of the container you want to paste into, select this container and then paste again.</source>
-        <translation>Törje fel annak a konténernek az elrendezését, amelybe be szeretné illeszteni, jelölje ki a konténert, és illessze be ismét.</translation>
+        <translation>اكسر تخطيط الحاوي الذي تريد اللصق فيه، حدّد هذا الحاوي وألصق مجدّدًا.</translation>
     </message>
     <message>
         <source>Paste error</source>
-        <translation>Beillesztési hiba</translation>
+        <translation>خطأ في اللصق</translation>
     </message>
     <message>
         <source>Raise widgets</source>
-        <translation>Felületi elemek előrébb hozása</translation>
+        <translation>رفع الودجات</translation>
     </message>
     <message>
         <source>Lower widgets</source>
-        <translation>Felületi elemek hátrébb küldése</translation>
+        <translation>خفض الودجات</translation>
     </message>
     <message>
         <source>Select Ancestor</source>
-        <translation>Ős kiválasztása</translation>
+        <translation>حدّد سلفًا</translation>
     </message>
     <message>
         <source>Lay out</source>
-        <translation>Elrendezés</translation>
+        <translation>نسّق</translation>
     </message>
     <message>
         <source>Drop widget</source>
-        <translation>Felületi elem eldobása</translation>
+        <translation>إسقاط الودجة</translation>
     </message>
     <message>
         <source>A QMainWindow-based form does not contain a central widget.</source>
-        <translation>Egy QMainWindow alapú űrlap nem tartalmaz központi felületi elemet.</translation>
+        <translation>نموذج مبنيّ على QMainWindow لا يملك ودجة مركزيّة.</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::FormWindowBase</name>
     <message>
         <source>Delete &apos;%1&apos;</source>
-        <translation>„%1” törlése</translation>
+        <translation>حذف ’%1‘</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Törlés</translation>
+        <translation>الحذف</translation>
     </message>
     <message>
         <source>Invalid form</source>
-        <translation>Érvénytelen űrlap</translation>
+        <translation>نموذج غير صالح</translation>
     </message>
     <message>
         <source>&lt;p&gt;This file contains top level spacers.&lt;br/&gt;They will &lt;b&gt;not&lt;/b&gt; be saved.&lt;/p&gt;&lt;p&gt;Perhaps you forgot to create a layout?&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Ez a fájl felsőszintű helyőrzőket tartalmaz.&lt;br/&gt;Ezek &lt;b&gt;nem&lt;/b&gt; lesznek mentve.&lt;/p&gt;&lt;p&gt;Talán elfelejtett elrendezést létrehozni?&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;يحتوي هذا الملفّ مُباعِدات مستواها عالٍ.&lt;br/&gt;سوف &lt;b&gt;لن&lt;/b&gt; تُحفظ هذه المُباعِدات.&lt;/p&gt;&lt;p&gt;لربّما نسيت إنشاء تخطيط؟&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::FormWindowManager</name>
     <message>
         <source>Cu&amp;t</source>
-        <translation>&amp;Kivágás</translation>
+        <translation>&amp;قصّ</translation>
     </message>
     <message>
         <source>Cuts the selected widgets and puts them on the clipboard</source>
-        <translation>Kivágja a kijelölt felületi elemeket, és beteszi azokat a vágólapra</translation>
+        <translation>قصّ الودجات المحدّدة وضعها في الحافظة</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;Másolás</translation>
+        <translation>ا&amp;نسخ</translation>
     </message>
     <message>
         <source>Copies the selected widgets to the clipboard</source>
-        <translation>Lemásolja a kijelölt felületi elemeket a vágólapra</translation>
+        <translation>انسخ الودجات المحدّدة إلى الحافظة</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>&amp;Beillesztés</translation>
+        <translation>أل&amp;صق</translation>
     </message>
     <message>
         <source>Pastes the clipboard&apos;s contents</source>
-        <translation>Beilleszti a vágólap tartalmát</translation>
+        <translation>ألصق محتويات الحافظة</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Törlés</translation>
+        <translation>ا&amp;حذف</translation>
     </message>
     <message>
         <source>Deletes the selected widgets</source>
-        <translation>Törli a kijelölt felületi elemeket</translation>
+        <translation>احذف الودجات المحدّدة</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation>&amp;Összes kijelölése</translation>
+        <translation>حدّد ال&amp;كلّ</translation>
     </message>
     <message>
         <source>Selects all widgets</source>
-        <translation>Kijelöli az összes felületi elemet</translation>
+        <translation>حدّد كلّ الودجات</translation>
     </message>
     <message>
         <source>Bring to &amp;Front</source>
-        <translation>&amp;Előtérbe hozás</translation>
+        <translation>اجلب إلى الأ&amp;مام</translation>
     </message>
     <message>
         <source>Raises the selected widgets</source>
-        <translation>Előre hozza a kijelölt felületi elemeket</translation>
+        <translation>ارفع الودجات المحدّدة</translation>
     </message>
     <message>
         <source>Send to &amp;Back</source>
-        <translation>&amp;Háttérbe küldés</translation>
+        <translation>أرسل إلى ال&amp;خلف</translation>
     </message>
     <message>
         <source>Lowers the selected widgets</source>
-        <translation>Hátraküldi a kijelölt felületi elemeket</translation>
+        <translation>اخفض الودجات المحدّدة</translation>
     </message>
     <message>
         <source>Adjust &amp;Size</source>
-        <translation>&amp;Méret igazítása</translation>
+        <translation>اضبط الم&amp;قاس</translation>
     </message>
     <message>
         <source>Adjusts the size of the selected widget</source>
-        <translation>Beállítja a kijelölt felületi elemek méretét</translation>
+        <translation>اضبط مقاس الودجة المحدّدة</translation>
     </message>
     <message>
         <source>Lay Out &amp;Horizontally</source>
-        <translation>Elrendezés &amp;vízszintesen</translation>
+        <translation>نسّق أ&amp;فقيًّا</translation>
     </message>
     <message>
         <source>Lays out the selected widgets horizontally</source>
-        <translation>Vízszintesen rendezi el a kijelölt felületi elemeket</translation>
+        <translation>نسّق الودجات المحدّدة في تخطيط أفقيّ</translation>
     </message>
     <message>
         <source>Lay Out &amp;Vertically</source>
-        <translation>Elrendezés &amp;függőlegesen</translation>
+        <translation>نسّق رأ&amp;سيًّا</translation>
     </message>
     <message>
         <source>Lays out the selected widgets vertically</source>
-        <translation>Függőlegesen rendezi el a kijelölt felületi elemeket</translation>
+        <translation>نسّق الودجات المحدّدة في تخطيط رأسيّ</translation>
     </message>
     <message>
         <source>Lay Out in a &amp;Form Layout</source>
-        <translation>Elrendezés egy űrl&amp;apelrendezésen</translation>
+        <translation>نسّق في تخطيط اس&amp;تمارة</translation>
     </message>
     <message>
         <source>Lays out the selected widgets in a form layout</source>
-        <translation>Űrlapszerűen rendezi el a kijelölt felületi elemeket</translation>
+        <translation>نسّق الودجات المحدّدة في تخطيط استمارة</translation>
     </message>
     <message>
         <source>Lay Out in a &amp;Grid</source>
-        <translation>Elrendezés egy &amp;rácson</translation>
+        <translation>نسّق في &amp;شبكة</translation>
     </message>
     <message>
         <source>Lays out the selected widgets in a grid</source>
-        <translation>Rácsba rendezi a kijelölt felületi elemeket</translation>
+        <translation>نسّق الودجات المحدّدة في تخطيط شبكة</translation>
     </message>
     <message>
         <source>Lay Out Horizontally in S&amp;plitter</source>
-        <translation>Elrendezés vízszintesen egy &amp;szétválasztóban</translation>
+        <translation>نسّق أفقيًّا في قاسِ&amp;م</translation>
     </message>
     <message>
         <source>Lays out the selected widgets horizontally in a splitter</source>
-        <translation>Vízszintesen rendezi el a kijelölt felületi elemeket egy szétválasztóban</translation>
+        <translation>نسّق الودجات المحدّدة أفقيًّا في قاسِم</translation>
     </message>
     <message>
         <source>Lay Out Vertically in Sp&amp;litter</source>
-        <translation>Elrendezés függőlegesen egy s&amp;zétválasztóban</translation>
+        <translation>&amp;نسّق رأسيًّا في قاسِم</translation>
     </message>
     <message>
         <source>Lays out the selected widgets vertically in a splitter</source>
-        <translation>Függőlegesen rendezi el a kijelölt felületi elemeket egy szétválasztóban</translation>
+        <translation>نسّق الودجات المحدّدة رأسيًّا في قاسِم</translation>
     </message>
     <message>
         <source>&amp;Break Layout</source>
-        <translation>Elrendezés fel&amp;törése</translation>
+        <translation>ا&amp;كسر التّخطيط</translation>
     </message>
     <message>
         <source>Breaks the selected layout</source>
-        <translation>Feltöri a kijelölt elrendezést</translation>
+        <translation>اكسر التّخطيط الحاليّ</translation>
     </message>
     <message>
         <source>Si&amp;mplify Grid Layout</source>
-        <translation>Rács elrendezés &amp;egyszerűsítése</translation>
+        <translation>بسّ&amp;ط تخطيط الشّبكة</translation>
     </message>
     <message>
         <source>Removes empty columns and rows</source>
-        <translation>Eltávolítja az üres oszlopokat és sorokat</translation>
+        <translation>أزل الأعمدة والصّفوف الفارغة</translation>
     </message>
     <message>
         <source>&amp;Preview...</source>
-        <translation>&amp;Előnézet…</translation>
+        <translation>&amp;عاين...</translation>
     </message>
     <message>
         <source>Preview current form</source>
-        <translation>A jelenlegi űrlap előnézete</translation>
+        <translation>عاين النّموذج الحاليّ</translation>
     </message>
     <message>
         <source>Form &amp;Settings...</source>
-        <translation>Űrlap&amp;beállítások…</translation>
+        <translation>إ&amp;عدادات النّموذج...</translation>
     </message>
     <message>
         <source>Break Layout</source>
-        <translation>Elrendezés feltörése</translation>
+        <translation>اكسر التّخطيط</translation>
     </message>
     <message>
         <source>Adjust Size</source>
-        <translation>Méret igazítása</translation>
+        <translation>ضبط المقاس</translation>
     </message>
     <message>
         <source>Could not create form preview</source>
         <comment>Title of warning message box</comment>
-        <translation>Nem sikerült létrehozni az űrlap előnézetét</translation>
+        <translation>تعذّر إنشاء معاينة النّموذج</translation>
     </message>
     <message>
         <source>Form Settings - %1</source>
-        <translation>Űrlapbeállítások – %1</translation>
+        <translation>إعدادات النّموذج - %1</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::FormWindowSettings</name>
     <message>
         <source>None</source>
-        <translation>Nincs</translation>
+        <translation>بلا</translation>
     </message>
     <message>
         <source>Device Profile: %1</source>
-        <translation>Eszközprofil: %1</translation>
+        <translation>لاحة الجهاز: %1</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::GridPanel</name>
     <message>
         <source>Form</source>
-        <translation>Űrlap</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation>Rács</translation>
+        <translation>الشّبكة</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation>Látható</translation>
+        <translation>مرئيّة</translation>
     </message>
     <message>
         <source>Grid &amp;X</source>
-        <translation>&amp;X rács</translation>
+        <translation>&amp;س الشّبكة</translation>
     </message>
     <message>
         <source>Snap</source>
-        <translation>Illesztés</translation>
+        <translation>اجذب</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Visszaállítás</translation>
+        <translation>صفّر</translation>
     </message>
     <message>
         <source>Grid &amp;Y</source>
-        <translation>&amp;Y rács</translation>
+        <translation>&amp;ص الشّبكة</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::GroupBoxTaskMenu</name>
     <message>
         <source>Change title...</source>
-        <translation>Cím módosítása…</translation>
+        <translation>غيّر العنوان...</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::HtmlTextEdit</name>
     <message>
         <source>Insert HTML entity</source>
-        <translation>HTML entitás beszúrása</translation>
+        <translation>أدرج كيان HTML</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::IconThemeDialog</name>
     <message>
         <source>Set Icon From Theme</source>
-        <translation>Ikon beállítása témából</translation>
+        <translation>أدرج أيقونة من السّمة</translation>
     </message>
     <message>
         <source>Input icon name from the current theme:</source>
-        <translation>Adja meg az ikon nevét a jelenlegi témából:</translation>
+        <translation>أدخل اسم الأيقونة من السّمة الحاليّة:</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::ItemListEditor</name>
     <message>
         <source>Items List</source>
-        <translation>Elemek listája</translation>
+        <translation>قائمة العناصر</translation>
     </message>
     <message>
         <source>New Item</source>
-        <translation>Új elem</translation>
+        <translation>عنصر جديد</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>Ú&amp;j</translation>
+        <translation>&amp;جديد</translation>
     </message>
     <message>
         <source>Delete Item</source>
-        <translation>Elem törlése</translation>
+        <translation>احذف العنصر</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Törlés</translation>
+        <translation>ا&amp;حذف</translation>
     </message>
     <message>
         <source>Move Item Up</source>
-        <translation>Elem mozgatása fel</translation>
+        <translation>انقل العنصر لأعلى</translation>
     </message>
     <message>
         <source>U</source>
-        <translation>F</translation>
+        <translation>ع</translation>
     </message>
     <message>
         <source>Move Item Down</source>
-        <translation>Elem mozgatása le</translation>
+        <translation>انقل العنصر لأسفل</translation>
     </message>
     <message>
         <source>D</source>
-        <translation>L</translation>
+        <translation>س</translation>
     </message>
     <message>
         <source>Properties &amp;&gt;&gt;</source>
-        <translation>Tulajdonságok &amp;&gt;&gt;</translation>
+        <translation>الخصائص &amp;&gt;&gt;</translation>
     </message>
     <message>
         <source>Properties &amp;&lt;&lt;</source>
-        <translation>Tulajdonságok &amp;&lt;&lt;</translation>
+        <translation>الخصائص &amp;&lt;&lt;</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::LabelTaskMenu</name>
     <message>
         <source>Change rich text...</source>
-        <translation>Formázott szöveg módosítása…</translation>
+        <translation>غيّر النّصّ الغنيّ...</translation>
     </message>
     <message>
         <source>Change plain text...</source>
-        <translation>Egyszerű szöveg módosítása…</translation>
+        <translation>غيّر النّصّ المجرّد...</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::LanguageResourceDialog</name>
     <message>
         <source>Choose Resource</source>
-        <translation>Erőforrás kiválasztása</translation>
+        <translation>غيّر المورد</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::LineEditTaskMenu</name>
     <message>
         <source>Change text...</source>
-        <translation>Szöveg módosítása…</translation>
+        <translation>غيّر النّصّ...</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::ListWidgetEditor</name>
     <message>
         <source>New Item</source>
-        <translation>Új elem</translation>
+        <translation>عنصر جديد</translation>
     </message>
     <message>
         <source>Edit List Widget</source>
-        <translation>Lista felületi elem szerkesztése</translation>
+        <translation>حرّر ودجة القائمة</translation>
     </message>
     <message>
         <source>Edit Combobox</source>
-        <translation>Legördülő menü szerkesztése</translation>
+        <translation>حرّر المربّع المنسدل</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::ListWidgetTaskMenu</name>
     <message>
         <source>Edit Items...</source>
-        <translation>Elemek szerkesztése…</translation>
+        <translation>حرّر العناصر...</translation>
     </message>
     <message>
         <source>Change List Contents</source>
-        <translation>Listatartalom módosítása</translation>
+        <translation>غيّر محتويات القائمة</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::MdiContainerWidgetTaskMenu</name>
     <message>
         <source>Next Subwindow</source>
-        <translation>Következő gyermekablak</translation>
+        <translation>النّافذة الفرعيّة التّالية</translation>
     </message>
     <message>
         <source>Previous Subwindow</source>
-        <translation>Előző gyermekablak</translation>
+        <translation>النّافذة الفرعيّة السّابقة</translation>
     </message>
     <message>
         <source>Tile</source>
-        <translation>Csempe</translation>
+        <translation>نسّق كبلاط</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation>Lépcsőzetes</translation>
+        <translation>نسّق لتتالى</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::MenuTaskMenu</name>
     <message>
         <source>Remove</source>
-        <translation>Eltávolítás</translation>
+        <translation>أزل</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::MorphMenu</name>
     <message>
         <source>Morph into</source>
-        <translation>Átalakítás erre</translation>
+        <translatorcomment>لتبديل كائن من نوع ما إلى نوع آخر أصيل</translatorcomment>
+        <translation>بدّل إلى</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::NewActionDialog</name>
     <message>
         <source>New Action...</source>
-        <translation>Új művelet…</translation>
+        <translation>إجراء جديد...</translation>
     </message>
     <message>
         <source>&amp;Text:</source>
-        <translation>&amp;Szöveg:</translation>
+        <translation>ال&amp;نّصّ:</translation>
     </message>
     <message>
         <source>Object &amp;name:</source>
-        <translation>Objektum &amp;neve:</translation>
+        <translation>ا&amp;سم الكائن:</translation>
     </message>
     <message>
         <source>T&amp;oolTip:</source>
-        <translation>&amp;Buboréksúgó:</translation>
+        <translation>التّلمي&amp;حة:</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>…</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Icon th&amp;eme:</source>
-        <translation>Ikon &amp;téma:</translation>
+        <translation>&amp;سمة الأيقونة:</translation>
     </message>
     <message>
         <source>&amp;Icon:</source>
-        <translation>&amp;Ikon:</translation>
+        <translation>الأي&amp;قونة:</translation>
     </message>
     <message>
         <source>&amp;Checkable:</source>
-        <translation>&amp;Bejelölhető:</translation>
+        <translation>يمكن تأ&amp;شيره:</translation>
     </message>
     <message>
         <source>&amp;Shortcut:</source>
-        <translation>&amp;Gyorsbillentyű:</translation>
+        <translation>الا&amp;ختصار:</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::NewDynamicPropertyDialog</name>
     <message>
         <source>Create Dynamic Property</source>
-        <translation>Dinamikus tulajdonság létrehozása</translation>
+        <translation>أنشئ خاصيّة حركيّة</translation>
     </message>
     <message>
         <source>Property Name</source>
-        <translation>Tulajdonságnév</translation>
+        <translation>اسم الخاصيّة</translation>
     </message>
     <message>
         <source>horizontalSpacer</source>
-        <translation>Vízszintes helyőrző</translation>
+        <translation>مُباعِد أفقيّ</translation>
     </message>
     <message>
         <source>Property Type</source>
-        <translation>Tulajdonságtípus</translation>
+        <translation>نوع الخاصيّة</translation>
     </message>
     <message>
         <source>Set Property Name</source>
-        <translation>Tulajdonságnév beállítása</translation>
+        <translation>اضبط اسم الخاصيّة</translation>
     </message>
     <message>
         <source>The current object already has a property named &apos;%1&apos;.
 Please select another, unique one.</source>
-        <translation>A jelenlegi objektumnak már van egy „%1” nevű tulajdonsága.
-Válasszon egy másik, egyedi nevet.</translation>
+        <translation>الكائن الحاليّ له فعلًا خاصيّة بالاسم ’%1‘.
+رجاءً اختر غيرها فريدة.</translation>
     </message>
     <message>
         <source>The &apos;_q_&apos; prefix is reserved for the Qt library.
 Please select another name.</source>
-        <translation>A „_q_” előtag a Qt függvénykönyvtár számára van fenntartva.
-Válasszon egy másik nevet.</translation>
+        <translation>سابقة ’_q_‘ محجوزة لمكتبة «كيوت».
+رجاءً اختر اسمًا آخر.</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::NewFormWidget</name>
     <message>
         <source>0</source>
-        <translation>0</translation>
+        <translation>٠</translation>
     </message>
     <message>
         <source>Choose a template for a preview</source>
-        <translation>Válasszon sablont az előnézethez</translation>
+        <translation>اختر قالبًا لمعاينته</translation>
     </message>
     <message>
         <source>Embedded Design</source>
-        <translation>Beágyazott terv</translation>
+        <translation>التّصميم المضمّن</translation>
     </message>
     <message>
         <source>Device:</source>
-        <translation>Eszköz:</translation>
+        <translation>الجهاز:</translation>
     </message>
     <message>
         <source>Screen Size:</source>
-        <translation>Képernyőméret:</translation>
+        <translation>مقاس الشّاشة:</translation>
     </message>
     <message>
         <source>Default size</source>
-        <translation>Alapértelmezett méret</translation>
+        <translation>المقاس الافتراضيّ</translation>
     </message>
     <message>
         <source>QVGA portrait (240x320)</source>
-        <translation>QVGA álló (240x320)</translation>
+        <translation>‏QVGA بالطّول (٢٤٠×٣٢٠)</translation>
     </message>
     <message>
         <source>QVGA landscape (320x240)</source>
-        <translation>QVGA fekvő (320x240)</translation>
+        <translation>‏QVGA بالعرض (٣٢٠×٢٤٠)</translation>
     </message>
     <message>
         <source>VGA portrait (480x640)</source>
-        <translation>VGA álló (480x640)</translation>
+        <translation>‏VGA بالطّول (٤٨٠×٦٤٠)</translation>
     </message>
     <message>
         <source>VGA landscape (640x480)</source>
-        <translation>VGA fekvő (640x480)</translation>
+        <translation>‏VGA بالعرض (٦٤٠×٤٨٠)</translation>
     </message>
     <message>
         <source>Widgets</source>
         <extracomment>New Form Dialog Categories</extracomment>
-        <translation>Felületi elemek</translation>
+        <translation>الودجات</translation>
     </message>
     <message>
         <source>Custom Widgets</source>
-        <translation>Egyéni felületi elemek</translation>
+        <translation>الودجات المخصّصة</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Nincs</translation>
+        <translation>بلا</translation>
     </message>
     <message>
         <source>Error loading form</source>
-        <translation>Hiba az űrlap beöltésekor</translation>
+        <translation>خطأ في تحميل النّموذج</translation>
     </message>
     <message>
         <source>Unable to open the form template file &apos;%1&apos;: %2</source>
-        <translation>Nem nyitható meg a(z) „%1” űrlapsablonfájl: %2</translation>
+        <translation>تعذّر فتح ملفّ النّموذج القالب ’%1‘: ‏%2</translation>
     </message>
     <message>
         <source>Internal error: No template selected.</source>
-        <translation>Belső hiba: nem lett kiválasztva sablon.</translation>
+        <translation>خطأ داخليّ: لا قوالب محدّدة.</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::NewPromotedClassPanel</name>
     <message>
         <source>Add</source>
-        <translation>Hozzáadás</translation>
+        <translation>أضف</translation>
     </message>
     <message>
         <source>New Promoted Class</source>
-        <translation>Új előléptetett osztály</translation>
+        <translation>صنف مرقًّى جديد</translation>
     </message>
     <message>
         <source>Base class name:</source>
-        <translation>Alaposztály neve:</translation>
+        <translation>اسم الصّنف الأساس:</translation>
     </message>
     <message>
         <source>Promoted class name:</source>
-        <translation>Előléptetett osztály neve:</translation>
+        <translation>اسم الصّنف المرقّى:</translation>
     </message>
     <message>
         <source>Header file:</source>
-        <translation>Fejlécfájl:</translation>
+        <translation>اسم التّرويسة:</translation>
     </message>
     <message>
         <source>Global include</source>
-        <translation>Globális felvétel</translation>
+        <translation>ضمّن عموميًّا</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Visszaállítás</translation>
+        <translation>صفّر</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::ObjectInspector</name>
     <message>
         <source>Change Current Page</source>
-        <translation>Jelenlegi oldal módosítása</translation>
+        <translation>غيّر الصّفحة الحاليّة</translation>
     </message>
     <message>
         <source>&amp;Find in Text...</source>
-        <translation>Ke&amp;resés a szövegben…</translation>
+        <translation>ا&amp;بحث في النّصّ...</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::OrderDialog</name>
     <message>
         <source>Change Page Order</source>
-        <translation>Oldalsorrend módosítása</translation>
+        <translation>غيّر ترتيب الصّفحات</translation>
     </message>
     <message>
         <source>Page Order</source>
-        <translation>Oldalsorrend</translation>
+        <translation>ترتيب الصّفحات</translation>
     </message>
     <message>
         <source>Move page up</source>
-        <translation>Oldal mozgatása fel</translation>
+        <translation>انقل العنصر لأعلى</translation>
     </message>
     <message>
         <source>Move page down</source>
-        <translation>Oldal mozgatása le</translation>
+        <translation>انقل العنصر لأسفل</translation>
     </message>
     <message>
         <source>Index %1 (%2)</source>
-        <translation>Index %1 (%2)</translation>
+        <translation>فهرس %L1 ‏(%2)</translation>
     </message>
     <message>
         <source>%1 %2</source>
-        <translation>%1 %2</translation>
+        <translation>‏%L1 ‎%2‎</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::PaletteEditor</name>
     <message>
         <source>Edit Palette</source>
-        <translation>Paletta szerkesztése</translation>
+        <translation>حرّر اللوحة</translation>
     </message>
     <message>
         <source>Tune Palette</source>
-        <translation>Paletta hangolása</translation>
+        <translation>اضبط اللوحة</translation>
     </message>
     <message>
         <source>Show Details</source>
-        <translation>Részletek megjelenítése</translation>
+        <translation>أظهر التّفاصيل</translation>
     </message>
     <message>
         <source>Compute Details</source>
-        <translation>Részletek kiszámítása</translation>
+        <translation>احسب التّفاصيل</translation>
     </message>
     <message>
         <source>Quick</source>
-        <translation>Gyors</translation>
+        <translation>بسرعة</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Előnézet</translation>
+        <translation>المعاينة</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation>Letiltva</translation>
+        <translation>معطّلة</translation>
     </message>
     <message>
         <source>Inactive</source>
-        <translation>Inaktív</translation>
+        <translation>غير نشطة</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation>Aktív</translation>
+        <translation>نشطة</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::PaletteEditorButton</name>
     <message>
         <source>Change Palette</source>
-        <translation>Paletta módosítása</translation>
+        <translation>غيّر اللوحة</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::PaletteModel</name>
     <message>
         <source>Color Role</source>
-        <translation>Színszabály</translation>
+        <translation>دور اللون</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation>Aktív</translation>
+        <translation>نشط</translation>
     </message>
     <message>
         <source>Inactive</source>
-        <translation>Inaktív</translation>
+        <translation>غير نشط</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation>Letiltva</translation>
+        <translation>معطّل</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::PixmapEditor</name>
     <message>
         <source>Choose Resource...</source>
-        <translation>Erőforrás kiválasztása…</translation>
+        <translation>اختر موردًا...</translation>
     </message>
     <message>
         <source>Choose File...</source>
-        <translation>Fájl kiválasztása…</translation>
+        <translation>اختر ملفًّا...</translation>
     </message>
     <message>
         <source>Set Icon From Theme...</source>
-        <translation>Ikon beállítása témából…</translation>
+        <translation>عيّن الأيقونة من السّمة...</translation>
     </message>
     <message>
         <source>Copy Path</source>
-        <translation>Útvonal másolása</translation>
+        <translation>انسخ المسار</translation>
     </message>
     <message>
         <source>Paste Path</source>
-        <translation>Útvonal beillesztése</translation>
+        <translation>ألصق المسار</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>…</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>[Theme] %1</source>
-        <translation>[Téma] %1</translation>
+        <translation>[السّمة] %1</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::PlainTextEditorDialog</name>
     <message>
         <source>Edit text</source>
-        <translation>Szöveg szerkesztése</translation>
+        <translation>حرّر النّصّ</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::PluginDialog</name>
     <message>
         <source>Components</source>
-        <translation>Összetevők</translation>
+        <translation>المكوّنات</translation>
     </message>
     <message>
         <source>Plugin Information</source>
-        <translation>Bővítményinformációk</translation>
+        <translation>معلومات الملحقة</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation>Frissítés</translation>
+        <translation>أنعش</translation>
     </message>
     <message>
         <source>Scan for newly installed custom widget plugins.</source>
-        <translation>Újonnan telepített egyéni felületi elem bővítmények keresése.</translation>
+        <translation>ابحث بحثًا عن ملحقات ودجات مخصّصة ثُبّتت حديثًا.</translation>
     </message>
     <message>
         <source>Loaded Plugins</source>
-        <translation>Betöltött bővítmények</translation>
+        <translation>الملحقات المحمّلة</translation>
     </message>
     <message>
         <source>Failed Plugins</source>
-        <translation>Hibás bővítmények</translation>
+        <translation>الملحقات الفاشلة</translation>
     </message>
     <message>
         <source>Qt Designer couldn&apos;t find any plugins</source>
-        <translation>A Qt Tervező nem talált semmilyen bővítményt</translation>
+        <translation>تعذّر على «كيوت المصمّم» العثور على أيّ ملحقة</translation>
     </message>
     <message>
         <source>Qt Designer found the following plugins</source>
-        <translation>A Qt Tervező a következő bővítményeket találta</translation>
+        <translation>عثر «كيوت المصمّم» الملحقات الآتية</translation>
     </message>
     <message>
         <source>New custom widget plugins have been found.</source>
-        <translation>Új egyéni felületi elem bővítmények találhatók.</translation>
+        <translation>عُثر على ملحقات ودجات مخصّصة جديدة.</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::PreviewActionGroup</name>
     <message>
         <source>%1 Style</source>
-        <translation>%1 stílus</translation>
+        <translation>نمط %1</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::PreviewConfigurationWidget</name>
     <message>
         <source>Default</source>
-        <translation>Alapértelmezett</translation>
+        <translation>الافتراضيّ</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Nincs</translation>
+        <translation>بلا</translation>
     </message>
     <message>
         <source>Browse...</source>
-        <translation>Tallózás…</translation>
+        <translation>تصفّح...</translation>
     </message>
     <message>
         <source>Load Custom Device Skin</source>
-        <translation>Egyéni eszközfelszín betöltése</translation>
+        <translation>حمّل مظاهر جهاز مخصّصة</translation>
     </message>
     <message>
         <source>All QVFB Skins (*.%1)</source>
-        <translation>Összes QVFB felszín (*.%1)</translation>
+        <translation>كلّ مظاهر QVFB ‏(*.%1)</translation>
     </message>
     <message>
         <source>%1 - Duplicate Skin</source>
-        <translation>%1 – Kettőzött felszín</translation>
+        <translation>%1 - مظهر متكرّر</translation>
     </message>
     <message>
         <source>The skin &apos;%1&apos; already exists.</source>
-        <translation>A(z) %1 felszín már létezik.</translation>
+        <translation>المظهر ’%1‘ موجود بالفعل.</translation>
     </message>
     <message>
         <source>%1 - Error</source>
-        <translation>%1 – Hiba</translation>
+        <translation>%1 - خطأ</translation>
     </message>
     <message>
         <source>%1 is not a valid skin directory:
 %2</source>
-        <translation>A(z) %1 nem érvényes felszínkönyvtár:
+        <translation>ليس %1 دليل مظاهر صالح:
 %2</translation>
     </message>
 </context>
@@ -4707,28 +4780,28 @@ Válasszon egy másik nevet.</translation>
     <name>qdesigner_internal::PreviewDeviceSkin</name>
     <message>
         <source>&amp;Portrait</source>
-        <translation>&amp;Álló</translation>
+        <translation>بال&amp;طّول</translation>
     </message>
     <message>
         <source>Landscape (&amp;CCW)</source>
         <extracomment>Rotate form preview counter-clockwise</extracomment>
-        <translation>Fekvő (&amp;balra forgatva)</translation>
+        <translation>بالعرض (ع&amp;كس عقارب السّاعة)</translation>
     </message>
     <message>
         <source>&amp;Landscape (CW)</source>
         <extracomment>Rotate form preview clockwise</extracomment>
-        <translation>&amp;Fekvő (jobbra forgatva)</translation>
+        <translation>بالعرض (&amp;مع عقارب السّاعة)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Bezárás</translation>
+        <translation>أ&amp;غلق</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::PreviewManager</name>
     <message>
         <source>%1 - [Preview]</source>
-        <translation>%1 – [Előnézet]</translation>
+        <translation>%1 - [معاينة]</translation>
     </message>
 </context>
 <context>
@@ -4737,8 +4810,9 @@ Válasszon egy másik nevet.</translation>
         <source>The moose in the noose
 ate the goose who was loose.</source>
         <extracomment>Palette editor background</extracomment>
-        <translation>A gyapjas jak apja gyapja
-gyakran gyatra gyapjas jak apa gyapja.</translation>
+        <translatorcomment>يبدو أنها خاصة بالمطورين، لا بأس من استخدام عبارة الخطوط الجامعة :)</translatorcomment>
+        <translation>نصٌّ حكيمٌ لهُ سرٌّ
+قاطعٌ وذو شأنٍ عظيم.</translation>
     </message>
 </context>
 <context>
@@ -4746,325 +4820,330 @@ gyakran gyatra gyapjas jak apa gyapja.</translation>
     <message>
         <source>Preview Window</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Előnézeti ablak</translation>
+        <translation>نافذة معاينة</translation>
     </message>
     <message>
         <source>LineEdit</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Sorszerkesztés</translation>
+        <translation>محرّر نصّيّ</translation>
     </message>
     <message>
         <source>ComboBox</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Legördülő menü</translation>
+        <translation>مربّع منسدل</translation>
     </message>
     <message>
         <source>PushButton</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Nyomógomb</translation>
+        <translation>زرّ</translation>
     </message>
     <message>
         <source>ButtonGroup2</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>2. gombcsoport</translation>
+        <translation>مجموعة أزرار ثانية</translation>
     </message>
     <message>
         <source>CheckBox1</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>1. jelölőnégyzet</translation>
+        <translation>مربّع تأشير أوّل</translation>
     </message>
     <message>
         <source>CheckBox2</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>2. jelölőnégyzet</translation>
+        <translation>مربّع تأشير ثانٍ</translation>
     </message>
     <message>
         <source>ButtonGroup</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Gombcsoport</translation>
+        <translation>مجموعة أزرار</translation>
     </message>
     <message>
         <source>RadioButton1</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>1. választógomb</translation>
+        <translation>زرّ اختيار أوّل</translation>
     </message>
     <message>
         <source>RadioButton2</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>2. választógomb</translation>
+        <translation>زرّ اختيار ثانٍ</translation>
     </message>
     <message>
         <source>RadioButton3</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>3. választógomb</translation>
+        <translation>زرّ اختيار ثالث</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::PromotionModel</name>
     <message>
         <source>Name</source>
-        <translation>Név</translation>
+        <translation>الاسم</translation>
     </message>
     <message>
         <source>Header file</source>
-        <translation>Fejlécfájl</translation>
+        <translation>ملفّ التّرويسة</translation>
     </message>
     <message>
         <source>Global include</source>
-        <translation>Globális felvétel</translation>
+        <translation>التّضمين عموميًّا</translation>
     </message>
     <message>
         <source>Usage</source>
-        <translation>Használat</translation>
+        <translation>الاستخدام</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::PromotionTaskMenu</name>
     <message>
         <source>Promoted widgets...</source>
-        <translation>Előléptetett felületi elemek…</translation>
+        <translation>الودجات المرقّاة...</translation>
     </message>
     <message>
         <source>Promote to ...</source>
-        <translation>Előléptetés erre…</translation>
+        <translation>رقّ إلى...</translation>
     </message>
     <message>
         <source>Change signals/slots...</source>
-        <translation>Jelzések és tárolóhelyek módosítása…</translation>
+        <translation>غيّر الإشارات/الأتلام...</translation>
     </message>
     <message>
         <source>Promote to</source>
-        <translation>Előléptetés erre</translation>
+        <translation>رقّ إلى</translation>
     </message>
     <message>
         <source>Demote to %1</source>
-        <translation>Lefokozás erre: %1</translation>
+        <translation>اخفض إلى %1</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::PropertyEditor</name>
     <message>
         <source>Add Dynamic Property...</source>
-        <translation>Dinamikus tulajdonság hozzáadása…</translation>
+        <translation>أضف خاصيّة حركيّة...</translation>
     </message>
     <message>
         <source>Remove Dynamic Property</source>
-        <translation>Dinamikus tulajdonság eltávolítása</translation>
+        <translation>أزل الخاصيّة الحركيّة</translation>
     </message>
     <message>
         <source>Sorting</source>
-        <translation>Rendezés</translation>
+        <translation>الفرز</translation>
     </message>
     <message>
         <source>Color Groups</source>
-        <translation>Csoportok színezése</translation>
+        <translation>مجموعات الألوان</translation>
     </message>
     <message>
         <source>Tree View</source>
-        <translation>Fa nézet</translation>
+        <translation>منظور شجريّ</translation>
     </message>
     <message>
         <source>Drop Down Button View</source>
-        <translation>Legördülő gomb nézet</translation>
+        <translation>منظور زرّ بقائمة منسدلة</translation>
     </message>
     <message>
         <source>String...</source>
-        <translation>Karakterlánc…</translation>
+        <translation>سلسلة...</translation>
     </message>
     <message>
         <source>Bool...</source>
-        <translation>Logikai…</translation>
+        <translation>قيمة منطقيّة...</translation>
     </message>
     <message>
         <source>Other...</source>
-        <translation>Egyéb…</translation>
+        <translation>أخرى...</translation>
     </message>
     <message>
         <source>Configure Property Editor</source>
-        <translation>Tulajdonság-szerkesztő beállításai</translation>
+        <translation>اضبط محرّر الخصائص</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Szűrő</translation>
+        <translation>رشّح</translation>
     </message>
     <message>
         <source>Object: %1
 Class: %2</source>
-        <translation>Objektum: %1
-Osztály: %2</translation>
+        <translation>الكائن: %1
+الصّنف: %2</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::PropertyLineEdit</name>
     <message>
         <source>Insert line break</source>
-        <translation>Sortörés beszúrása</translation>
+        <translation>أدرج كاسر أسطر</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::QDesignerPromotionDialog</name>
     <message>
         <source>Promoted Widgets</source>
-        <translation>Előléptetett felület elemek</translation>
+        <translation>الودجات المرقّاة</translation>
     </message>
     <message>
         <source>Promoted Classes</source>
-        <translation>Előléptetett osztályok</translation>
+        <translation>الأصناف المرقّاة</translation>
     </message>
     <message>
         <source>Promote</source>
-        <translation>Előléptetés</translation>
+        <translation>رقّ</translation>
     </message>
     <message>
         <source>Change signals/slots...</source>
-        <translation>Jelzések és tárolóhelyek módosítása…</translation>
+        <translation>غيّر الإشارات/الأتلام...</translation>
     </message>
     <message>
         <source>%1 - Error</source>
-        <translation>%1 – Hiba</translation>
+        <translation>%1 - خطأ</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::QDesignerResource</name>
     <message>
         <source>Loading qrc file</source>
-        <translation>Egy qrc fájl betöltése</translation>
+        <translation>يحمّل ملفّ qrc</translation>
     </message>
     <message>
         <source>The specified qrc file &lt;p&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/p&gt;&lt;p&gt;could not be found. Do you want to update the file location?&lt;/p&gt;</source>
-        <translation>A megadott qrc fájl &lt;p&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/p&gt;&lt;p&gt; nem található. Szeretné frissíteni a fájl helyét?&lt;/p&gt;</translation>
+        <translation>تعذّر العثور على ملفّ qrc المحدّد &lt;p&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/p&gt;&lt;p&gt;. أتريد تحديث مكان الملفّ؟&lt;/p&gt;</translation>
     </message>
     <message>
         <source>New location for %1</source>
-        <translation>A(z) %1 új útvonala</translation>
+        <translation>مكان جديد لِ‍ %1</translation>
     </message>
     <message>
         <source>Resource files (*.qrc)</source>
-        <translation>Erőforrásfájlok (*.qrc)</translation>
+        <translation>ملفّات الموارد (*.qrc)</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::QDesignerTaskMenu</name>
     <message>
         <source>Layout Alignment</source>
-        <translation>Elrendezés igazítása</translation>
+        <translation>محاذاة التّخطيط</translation>
     </message>
     <message>
         <source>No Horizontal Alignment</source>
-        <translation>Nincs vízszintes igazítás</translation>
+        <translation>لا محاذاة أفقيّة</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Balra</translation>
+        <translation>اليسار</translation>
     </message>
     <message>
         <source>Center Horizontally</source>
-        <translation>Vízszintesen középre</translation>
+        <translation>توسيط أفقيّ</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Jobbra</translation>
+        <translation>اليمين</translation>
     </message>
     <message>
         <source>No Vertical Alignment</source>
-        <translation>Nincs függőleges igazítás</translation>
+        <translation>لا محاذاة رأسيّة</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Fentre</translation>
+        <translation>الأعلى</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Függőlegesen középre</translation>
+        <translation>توسيط رأسيّ</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Lentre</translation>
+        <translation>الأسفل</translation>
     </message>
     <message>
         <source>Change objectName...</source>
-        <translation>Objektumnév módosítása…</translation>
+        <translation>غيّر اسم الكائن...</translation>
     </message>
     <message>
         <source>Change toolTip...</source>
-        <translation>Buboréksúgó módosítása…</translation>
+        <translation>غيّر التّلميحة...</translation>
     </message>
     <message>
         <source>Change whatsThis...</source>
-        <translation>„Mi ez?” módosítása…</translation>
+        <translation>غيّر ”ما هذا؟“...</translation>
     </message>
     <message>
         <source>Change styleSheet...</source>
-        <translation>Stíluslap módosítása…</translation>
+        <translation>غيّر ورقة الأنماط...</translation>
     </message>
     <message>
         <source>Create Menu Bar</source>
-        <translation>Menüsor létrehozása</translation>
+        <translation>أنشئ شريط قوائم</translation>
     </message>
     <message>
         <source>Add Tool Bar</source>
-        <translation>Eszköztár hozzáadása</translation>
+        <translation>أضف شريط أدوات</translation>
     </message>
     <message>
         <source>Create Status Bar</source>
-        <translation>Állapotsor létrehozása</translation>
+        <translation>أنشئ شريط حالة</translation>
     </message>
     <message>
         <source>Remove Status Bar</source>
-        <translation>Állapotsor eltávolítása</translation>
+        <translation>أزل شريط الحالة</translation>
     </message>
     <message>
         <source>Change signals/slots...</source>
-        <translation>Jelzések és tárolóhelyek módosítása…</translation>
+        <translation>غيّر الإشارات/الأتلام...</translation>
     </message>
     <message>
         <source>Go to slot...</source>
-        <translation>Ugrás a tárolóhelyhez…</translation>
+        <translation>انتقل إلى التّلم...</translation>
     </message>
     <message>
         <source>Size Constraints</source>
-        <translation>Méretkorlátozások</translation>
+        <translation>تقييدات المقاس</translation>
     </message>
     <message>
         <source>Set Minimum Width</source>
-        <translation>Legkisebb szélesség beállítása</translation>
+        <translation>اضبط أدنى عرض</translation>
     </message>
     <message>
         <source>Set Minimum Height</source>
-        <translation>Legkisebb magasság beállítása</translation>
+        <translation>اضبط أدنى ارتفاع</translation>
     </message>
     <message>
         <source>Set Minimum Size</source>
-        <translation>Legkisebb méret beállítása</translation>
+        <translation>اضبط أدنى حجم</translation>
     </message>
     <message>
         <source>Set Maximum Width</source>
-        <translation>Legnagyobb szélesség beállítása</translation>
+        <translation>أضبط أقصى عرض</translation>
     </message>
     <message>
         <source>Set Maximum Height</source>
-        <translation>Legnagyobb magasság beállítása</translation>
+        <translation>اضبط أقصى ارتفاع</translation>
     </message>
     <message>
         <source>Set Maximum Size</source>
-        <translation>Legnagyobb méret beállítása</translation>
+        <translation>اضبط أقصى مقاس</translation>
     </message>
     <message>
         <source>Edit ToolTip</source>
-        <translation>Buboréksúgó szerkesztése</translation>
+        <translation>حرّر التّلميحة</translation>
     </message>
     <message>
         <source>Edit WhatsThis</source>
-        <translation>„Mi ez?” szerkesztése</translation>
+        <translation>حرّر ”ما هذا؟“</translation>
     </message>
     <message>
         <source>no signals available</source>
-        <translation>nincsenek elérhető jelzések</translation>
+        <translation>لا إشارات متوفّرة</translation>
     </message>
     <message numerus="yes">
         <source>Set size constraint on %n widget(s)</source>
         <translation>
-            <numerusform>Méretkorlátozás beállítása %n felületi elemen</numerusform>
+            <numerusform>عدم ضبط شيء</numerusform>
+            <numerusform>ضبط تقييدات المقاس على الودجة</numerusform>
+            <numerusform>ضبط تقييدات المقاس على الودجتين</numerusform>
+            <numerusform>ضبط تقييدات المقاس على %Ln ودجات</numerusform>
+            <numerusform>ضبط تقييدات المقاس على %Ln ودجة</numerusform>
+            <numerusform>ضبط تقييدات المقاس على %Ln ودجة</numerusform>
         </translation>
     </message>
 </context>
@@ -5072,124 +5151,124 @@ Osztály: %2</translation>
     <name>qdesigner_internal::QDesignerWidgetBox</name>
     <message>
         <source>Unexpected element &lt;%1&gt;</source>
-        <translation>Váratlan &lt;%1&gt; elem</translation>
+        <translation>العنصر &lt;%1&gt; غير متوقّع</translation>
     </message>
     <message>
         <source>A parse error occurred at line %1, column %2 of the XML code specified for the widget %3: %4
 %5</source>
-        <translation>Feldolgozási hiba történt a(z) %3 felületi elemhez megadott XML kód %1. sorának %2. oszlopában: %4
+        <translation>حدث خطأ تحليل في السّطر %L1، العمود %L2 لكود XML المحدّد للودجة %3: ‏%4
 %5</translation>
     </message>
     <message>
         <source>The XML code specified for the widget %1 does not contain any widget elements.
 %2</source>
-        <translation>A(z) %1 felületi elemhez megadott XML kód nem tartalmaz egyetlen felületi elemet sem.
+        <translation>كود XML المحدّد للودجة %1 لا يحتوي أيّة عناصر ودجيّة.
 %2</translation>
     </message>
     <message>
         <source>An error has been encountered at line %1 of %2: %3</source>
-        <translation>Hiba történt a(z) %2 %1. sorában: %3</translation>
+        <translation>واجهتُ خطأ في السّطر %L1 من %2: ‏%3</translation>
     </message>
     <message>
         <source>Unexpected element &lt;%1&gt; encountered when parsing for &lt;widget&gt; or &lt;ui&gt;</source>
-        <translation>Váratlan &lt;%1&gt; elem fordult elő a &lt;widget&gt; vagy az &lt;ui&gt; címkék feldolgozásakor</translation>
+        <translation>واجهتُ العنصر &lt;%1&gt; غير المتوقّع أثناء التّحليل بحثًا عن &lt;widget&gt; أو &lt;ui&gt;</translation>
     </message>
     <message>
         <source>Unexpected end of file encountered when parsing widgets.</source>
-        <translation>Váratlan fájlvég fordult elő a felületi elemek feldolgozásakor.</translation>
+        <translation>واجهتُ نهاية الملفّ غير متوقّعة عند تحليل الودجات.</translation>
     </message>
     <message>
         <source>A widget element could not be found.</source>
-        <translation>Egy felületi elem nem található.</translation>
+        <translation>تعّذر العثور على عنصر ودجة.</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::QtGradientStopsController</name>
     <message>
         <source>H</source>
-        <translation>H</translation>
+        <translation>ص</translation>
     </message>
     <message>
         <source>S</source>
-        <translation>S</translation>
+        <translation>ش</translation>
     </message>
     <message>
         <source>V</source>
-        <translation>V</translation>
+        <translation>ق</translation>
     </message>
     <message>
         <source>Hue</source>
-        <translation>Árny</translation>
+        <translation>الصّبغة</translation>
     </message>
     <message>
         <source>Sat</source>
-        <translation>Tel</translation>
+        <translation>التّشبّع</translation>
     </message>
     <message>
         <source>Val</source>
-        <translation>Ért</translation>
+        <translation>القيمة</translation>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>Telítettség</translation>
+        <translation>التّشبّع</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Érték</translation>
+        <translation>القيمة</translation>
     </message>
     <message>
         <source>R</source>
-        <translation>R</translation>
+        <translation>ح</translation>
     </message>
     <message>
         <source>G</source>
-        <translation>G</translation>
+        <translation>خ</translation>
     </message>
     <message>
         <source>B</source>
-        <translation>B</translation>
+        <translation>ز</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation>Vörös</translation>
+        <translation>الأحمر</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Zöld</translation>
+        <translation>الأخضر</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Kék</translation>
+        <translation>الأزرق</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::RichTextEditorDialog</name>
     <message>
         <source>Edit text</source>
-        <translation>Szöveg szerkesztése</translation>
+        <translation>حرّر النّصّ</translation>
     </message>
     <message>
         <source>Rich Text</source>
-        <translation>Formázott szöveg</translation>
+        <translation>النّصّ الغنيّ</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation>Forrás</translation>
+        <translation>المصدر</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+        <translation>&amp;حسنًا</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Mégse</translation>
+        <translation>أل&amp;غِ</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::RichTextEditorToolBar</name>
     <message>
         <source>Bold</source>
-        <translation>Félkövér</translation>
+        <translation>ثخين</translation>
     </message>
     <message>
         <source>CTRL+B</source>
@@ -5197,7 +5276,7 @@ Osztály: %2</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Dőlt</translation>
+        <translation>مائل</translation>
     </message>
     <message>
         <source>CTRL+I</source>
@@ -5205,7 +5284,7 @@ Osztály: %2</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Aláhúzott</translation>
+        <translation>مسطّر</translation>
     </message>
     <message>
         <source>CTRL+U</source>
@@ -5213,69 +5292,69 @@ Osztály: %2</translation>
     </message>
     <message>
         <source>Left Align</source>
-        <translation>Balra igazítás</translation>
+        <translation>حاذِ يسارًا</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Középre igazítás</translation>
+        <translation>وسّط</translation>
     </message>
     <message>
         <source>Right Align</source>
-        <translation>Jobbra igazítás</translation>
+        <translation>حاذِ يمينًا</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation>Sorkizárás</translation>
+        <translation>ضبط</translation>
     </message>
     <message>
         <source>Right to Left</source>
-        <translation>Jobbról balra</translation>
+        <translation>من اليمين إلى اليسار</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation>Felső index</translation>
+        <translation>نصّ علويّ</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation>Alsó index</translation>
+        <translation>نصّ سفليّ</translation>
     </message>
     <message>
         <source>Insert &amp;Link</source>
-        <translation>&amp;Hivatkozás beszúrása</translation>
+        <translation>أدرج راب&amp;طًا</translation>
     </message>
     <message>
         <source>Insert &amp;Image</source>
-        <translation>&amp;Kép beszúrása</translation>
+        <translation>أدرج &amp;صورة</translation>
     </message>
     <message>
         <source>Simplify Rich Text</source>
-        <translation>Formázott szöveg egyszerűsítése</translation>
+        <translation>بسّط النّصّ الغنيّ</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::SignalSlotDialog</name>
     <message>
         <source>There is already a slot with the signature &apos;%1&apos;.</source>
-        <translation>Már létezik egy tárolóhely a(z) „%1” aláírással.</translation>
+        <translation>هناك تلم بالتّوقيع ’%1‘ بالفعل.</translation>
     </message>
     <message>
         <source>There is already a signal with the signature &apos;%1&apos;.</source>
-        <translation>Már létezik egy jelzés a(z) „%1” aláírással.</translation>
+        <translation>هناك إشارة بالتّوقيع ’%1‘ بالفعل.</translation>
     </message>
     <message>
         <source>%1 - Duplicate Signature</source>
-        <translation>%1 – Kettőzött aláírás</translation>
+        <translation>%1 - توقيع متكرّر</translation>
     </message>
     <message>
         <source>Signals/Slots of %1</source>
-        <translation>%1 jelzései és tárolóhelyei</translation>
+        <translation>إشارات/أتلام %1</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::SignalSlotEditorPlugin</name>
     <message>
         <source>Edit Signals/Slots</source>
-        <translation>Jelzések és tárolóhelyek szerkesztése</translation>
+        <translation>حرّر الإشارات/الأتلام</translation>
     </message>
     <message>
         <source>F4</source>
@@ -5286,410 +5365,410 @@ Osztály: %2</translation>
     <name>qdesigner_internal::SignalSlotEditorTool</name>
     <message>
         <source>Edit Signals/Slots</source>
-        <translation>Jelzések és tárolóhelyek szerkesztése</translation>
+        <translation>حرّر الإشارات/الأتلام</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::StatusBarTaskMenu</name>
     <message>
         <source>Remove</source>
-        <translation>Eltávolítás</translation>
+        <translation>أزل</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::StringListEditorButton</name>
     <message>
         <source>Change String List</source>
-        <translation>Karakterlánclista módosítása</translation>
+        <translation>غيّر قائمة السّلاسل</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::StyleSheetEditorDialog</name>
     <message>
         <source>Valid Style Sheet</source>
-        <translation>Érvényes stíluslap</translation>
+        <translation>ورقة الأنماط صالحة</translation>
     </message>
     <message>
         <source>Add Resource...</source>
-        <translation>Erőforrás hozzáadása…</translation>
+        <translation>أضف موردًا...</translation>
     </message>
     <message>
         <source>Add Gradient...</source>
-        <translation>Színátmenet hozzáadása…</translation>
+        <translation>أضف تدرّجًا...</translation>
     </message>
     <message>
         <source>Add Color...</source>
-        <translation>Szín hozzáadása…</translation>
+        <translation>أضف لونًا...</translation>
     </message>
     <message>
         <source>Add Font...</source>
-        <translation>Betűkészlet hozzáadása…</translation>
+        <translation>أضف خطًّا...</translation>
     </message>
     <message>
         <source>Edit Style Sheet</source>
-        <translation>Stíluslap szerkesztése</translation>
+        <translation>حرّر ورقة الأنماط</translation>
     </message>
     <message>
         <source>Invalid Style Sheet</source>
-        <translation>Érvénytelen stíluslap</translation>
+        <translation>ورقة الأنماط غير صالحة</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::TabOrderEditor</name>
     <message>
         <source>Start from Here</source>
-        <translation>Kezdés innen</translation>
+        <translation>ابدأ من هنا</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation>Újrakezdés</translation>
+        <translation>أعد البدء</translation>
     </message>
     <message>
         <source>Tab Order List...</source>
-        <translation>Lapsorrend lista…</translation>
+        <translation>قائمة ترتيب Tab...</translation>
     </message>
     <message>
         <source>Tab Order List</source>
-        <translation>Lapsorrend lista</translation>
+        <translation>قائمة ترتيب Tab</translation>
     </message>
     <message>
         <source>Tab Order</source>
-        <translation>Lapsorrend</translation>
+        <translation>ترتيب Tab</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::TabOrderEditorPlugin</name>
     <message>
         <source>Edit Tab Order</source>
-        <translation>Lapsorrend szerkesztése</translation>
+        <translation>حرّر ترتيب Tab</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::TabOrderEditorTool</name>
     <message>
         <source>Edit Tab Order</source>
-        <translation>Lapsorrend szerkesztése</translation>
+        <translation>حرّر ترتيب Tab</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::TableWidgetEditor</name>
     <message>
         <source>Edit Table Widget</source>
-        <translation>Táblázat felületi elem szerkesztése</translation>
+        <translation>حرّر ودجة الجدول</translation>
     </message>
     <message>
         <source>&amp;Items</source>
-        <translation>&amp;Elemek</translation>
+        <translation>ال&amp;عناصر</translation>
     </message>
     <message>
         <source>Table Items</source>
-        <translation>Táblázatelemek</translation>
+        <translation>عناصر الجدول</translation>
     </message>
     <message>
         <source>Properties &amp;&gt;&gt;</source>
-        <translation>Tulajdonságok &amp;&gt;&gt;</translation>
+        <translation>الخصائص &amp;&gt;&gt;</translation>
     </message>
     <message>
         <source>New Column</source>
-        <translation>Új oszlop</translation>
+        <translation>عمود جديد</translation>
     </message>
     <message>
         <source>New Row</source>
-        <translation>Új sor</translation>
+        <translation>صفّ جديد</translation>
     </message>
     <message>
         <source>&amp;Columns</source>
-        <translation>&amp;Oszlopok</translation>
+        <translation>الأ&amp;عمدة</translation>
     </message>
     <message>
         <source>&amp;Rows</source>
-        <translation>&amp;Sorok</translation>
+        <translation>ال&amp;صّفوف</translation>
     </message>
     <message>
         <source>Properties &amp;&lt;&lt;</source>
-        <translation>Tulajdonságok &amp;&lt;&lt;</translation>
+        <translation>الخصائص &amp;&lt;&lt;</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::TableWidgetTaskMenu</name>
     <message>
         <source>Edit Items...</source>
-        <translation>Elemek szerkesztése…</translation>
+        <translation>حرّر العناصر...</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::TemplateOptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation>Űrlap</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <source>Additional Template Paths</source>
-        <translation>További sablonútvonalak</translation>
+        <translation>مسارات القوالب الإضافيّة</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>…</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Pick a directory to save templates in</source>
-        <translation>Válasszon egy könyvtárat, amelybe a sablonokat menti</translation>
+        <translation>انتقِ دليلًا لحفظ القوالب فيه</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::TextEditTaskMenu</name>
     <message>
         <source>Edit HTML</source>
-        <translation>HTML szerkesztése</translation>
+        <translation>حرّر HTML</translation>
     </message>
     <message>
         <source>Change HTML...</source>
-        <translation>HTML módosítása…</translation>
+        <translation>غيّر HTML...</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation>Szöveg szerkesztése</translation>
+        <translation>حرّر النصّ</translation>
     </message>
     <message>
         <source>Change Plain Text...</source>
-        <translation>Egyszerű szöveg módosítása…</translation>
+        <translation>غيّر النصّ الصّرف...</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::TextEditor</name>
     <message>
         <source>Choose Resource...</source>
-        <translation>Erőforrás kiválasztása…</translation>
+        <translation>اختر موردًا...</translation>
     </message>
     <message>
         <source>Choose File...</source>
-        <translation>Fájl kiválasztása…</translation>
+        <translation>اختر ملفًّا...</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>…</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Choose a File</source>
-        <translation>Válasszon egy fájlt</translation>
+        <translation>اختر ملفًّا</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::ToolBarEventFilter</name>
     <message>
         <source>Insert Separator before &apos;%1&apos;</source>
-        <translation>Elválasztó beszúrása a(z) „%1” elé</translation>
+        <translation>أدرج فاصلًا قبل ’%1‘</translation>
     </message>
     <message>
         <source>Append Separator</source>
-        <translation>Elválasztó hozzáfűzése</translation>
+        <translation>ألحق فاصلًا</translation>
     </message>
     <message>
         <source>Remove action &apos;%1&apos;</source>
-        <translation>„%1” művelet eltávolítása</translation>
+        <translation>أزل الإجراء ’%1‘</translation>
     </message>
     <message>
         <source>Remove Toolbar &apos;%1&apos;</source>
-        <translation>„%1” eszköztár eltávolítása</translation>
+        <translation>أزل شريط الأدوات ’%1‘</translation>
     </message>
     <message>
         <source>Insert Separator</source>
-        <translation>Elválasztó beszúrása</translation>
+        <translation>أدرج فاصلًا</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::TreeWidgetEditor</name>
     <message>
         <source>Edit Tree Widget</source>
-        <translation>Fa felületi elem szerkesztése</translation>
+        <translation>حرّر ودجة الشّجرة</translation>
     </message>
     <message>
         <source>&amp;Items</source>
-        <translation>&amp;Elemek</translation>
+        <translation>ال&amp;عناصر</translation>
     </message>
     <message>
         <source>Tree Items</source>
-        <translation>Faelemek</translation>
+        <translation>عناصر الشّجرة</translation>
     </message>
     <message>
         <source>1</source>
-        <translation>1</translation>
+        <translation>١</translation>
     </message>
     <message>
         <source>New Item</source>
-        <translation>Új elem</translation>
+        <translation>عنصر جديد</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>Ú&amp;j</translation>
+        <translation>&amp;جديد</translation>
     </message>
     <message>
         <source>New Subitem</source>
-        <translation>Új alelem</translation>
+        <translation>عنصر فرعيّ جديد</translation>
     </message>
     <message>
         <source>New &amp;Subitem</source>
-        <translation>Új &amp;alelem</translation>
+        <translation>عنصر &amp;فرعيّ جديد</translation>
     </message>
     <message>
         <source>Delete Item</source>
-        <translation>Elem törlése</translation>
+        <translation>احذف العنصر</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Törlés</translation>
+        <translation>ا&amp;حذف</translation>
     </message>
     <message>
         <source>Move Item Left (before Parent Item)</source>
-        <translation>Elem mozgatása balra (a szülőelem elé)</translation>
+        <translation>انقل العنصر لليمين (قبل العنصر الأبّ)</translation>
     </message>
     <message>
         <source>L</source>
-        <translation>B</translation>
+        <translation>يس</translation>
     </message>
     <message>
         <source>Move Item Right (as a First Subitem of the Next Sibling Item)</source>
-        <translation>Elem mozgatása jobbra (a következő testvérelem első alelemeként)</translation>
+        <translation>انقل العنصر لليسار (كعنصر فرعيّ أوّل للعنصر القريب التّالي)</translation>
     </message>
     <message>
         <source>R</source>
-        <translation>J</translation>
+        <translation>يم</translation>
     </message>
     <message>
         <source>Move Item Up</source>
-        <translation>Elem mozgatása fel</translation>
+        <translation>انقل العنصر لأعلى</translation>
     </message>
     <message>
         <source>U</source>
-        <translation>F</translation>
+        <translation>ع</translation>
     </message>
     <message>
         <source>Move Item Down</source>
-        <translation>Elem mozgatása le</translation>
+        <translation>انقل العنصر لأسفل</translation>
     </message>
     <message>
         <source>D</source>
-        <translation>L</translation>
+        <translation>س</translation>
     </message>
     <message>
         <source>Properties &amp;&gt;&gt;</source>
-        <translation>Tulajdonságok &amp;&gt;&gt;</translation>
+        <translation>الخصائص &amp;&gt;&gt;</translation>
     </message>
     <message>
         <source>New Column</source>
-        <translation>Új oszlop</translation>
+        <translation>عمود جديد</translation>
     </message>
     <message>
         <source>&amp;Columns</source>
-        <translation>&amp;Oszlopok</translation>
+        <translation>الأ&amp;عمدة</translation>
     </message>
     <message>
         <source>Per column properties</source>
-        <translation>Oszloponkénti tulajdonságok</translation>
+        <translation>خصائص كلّ عمود</translation>
     </message>
     <message>
         <source>Common properties</source>
-        <translation>Közös tulajdonságok</translation>
+        <translation>خصائص عامّة</translation>
     </message>
     <message>
         <source>Properties &amp;&lt;&lt;</source>
-        <translation>Tulajdonságok &amp;&lt;&lt;</translation>
+        <translation>الخصائص &amp;&lt;&lt;</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::TreeWidgetTaskMenu</name>
     <message>
         <source>Edit Items...</source>
-        <translation>Elemek szerkesztése…</translation>
+        <translation>حرّر العناصر...</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::WidgetBox</name>
     <message>
         <source>Filter</source>
-        <translation>Szűrő</translation>
+        <translation>رشّح</translation>
     </message>
     <message>
         <source>Warning: Widget creation failed in the widget box. This could be caused by invalid custom widget XML.</source>
-        <translation>Figyelmeztetés: a felületi elem létrehozása sikertelen a felületi elem dobozban. Ezt egy érvénytelen egyéni felületi elem XML okozhatta.</translation>
+        <translation>تحذير: فشل إنشاء الودجة في صندوق الودجات. قد يكون هذا بسبب بنية XML غير صالحة لودجة مخصّصة.</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::WidgetBoxTreeWidget</name>
     <message>
         <source>Scratchpad</source>
-        <translation>Jegyzettömb</translation>
+        <translation>المفكّرة</translation>
     </message>
     <message>
         <source>Custom Widgets</source>
-        <translation>Egyéni felületi elemek</translation>
+        <translation>ودجات مخصّصة</translation>
     </message>
     <message>
         <source>Expand all</source>
-        <translation>Összes kinyitása</translation>
+        <translation>وسّع الكلّ</translation>
     </message>
     <message>
         <source>Collapse all</source>
-        <translation>Összes összecsukása</translation>
+        <translation>اطوِ الكلّ</translation>
     </message>
     <message>
         <source>List View</source>
-        <translation>Lista nézet</translation>
+        <translation>منظور قوائميّ</translation>
     </message>
     <message>
         <source>Icon View</source>
-        <translation>Ikon nézet</translation>
+        <translation>منظور أيقوناتيّ</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Eltávolítás</translation>
+        <translation>أزل</translation>
     </message>
     <message>
         <source>Edit name</source>
-        <translation>Név szerkesztése</translation>
+        <translation>حرّر الاسم</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::WidgetEditorTool</name>
     <message>
         <source>Edit Widgets</source>
-        <translation>Felületi elemek szerkesztése</translation>
+        <translation>حرّر الودجات</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::WidgetFactory</name>
     <message>
         <source>The custom widget factory registered for widgets of class %1 returned 0.</source>
-        <translation>A(z) %1 osztályú felületi elemekhez regisztrált egyéni felületi elem gyár 0-val tért vissza.</translation>
+        <translation>أرجع مصنع الودجات المخصّصة المسجّل لودجات من الصّنف %1 القيمة صفر.</translation>
     </message>
     <message>
         <source>A class name mismatch occurred when creating a widget using the custom widget factory registered for widgets of class %1. It returned a widget of class %2.</source>
-        <translation>Osztálynév eltérés történt a felületi elem létrehozásánál a(z) %1 osztályú felületi elemekhez regisztrált egyéni felületi elem gyár használatakor. A gyár %2 osztályú felületi elemet adott vissza.</translation>
+        <translation>حدث عدم تطابق لأسماء الأصناف عند إنشاء ودجة باستخدام مصنع ودجات مخصّصة مسجّل لودجات من الصّنف %1. لقد أرجع ودجة من الصّنف %2.</translation>
     </message>
     <message>
         <source>The current page of the container &apos;%1&apos; (%2) could not be determined while creating a layout.This indicates an inconsistency in the ui-file, probably a layout being constructed on a container widget.</source>
-        <translation>A(z) „%1” (%2) konténer jelenlegi oldalát nem sikerült meghatározni az elrendezés létrehozása során. Ez a felhasználói felület fájlban lévő következetlenséget jelzi, valószínűleg egy elrendezés hoztak létre egy konténer felületi elemen.</translation>
+        <translation>تعذّر تحديد صفحة الحاوي ’%1‘ ‏(%2) الحاليّة أثناء إنشاء تخطيط. يشير هذا إلى عدم اتّساق في ملفّ الواجهة، غالبًا بأنّ هناك تخطيط سيُنشئ في ودجة احتواء.</translation>
     </message>
     <message>
         <source>Attempt to add a layout to a widget &apos;%1&apos; (%2) which already has an unmanaged layout of type %3.
 This indicates an inconsistency in the ui-file.</source>
-        <translation>Egy olyan „%1” (%2) felületi elemhez próbál elrendezést hozzáadni, amely már tartalmaz egy %3 típusú kezeletlen elrendezést.
-Ez a felhasználói felület fájlban lévő következetlenséget jelzi.</translation>
+        <translation>محاولة إضافة تخطيط إلى ودجة ’%1‘ ‏(%2) والتي لديها بالفعل تخطيط نوعه %3 غير مُدار.
+يشير هذا إلى عدم اتّساق في ملفّ الواجهة.</translation>
     </message>
     <message>
         <source>Cannot create style &apos;%1&apos;.</source>
-        <translation>Nem hozható létre a(z) „%1” stílus.</translation>
+        <translation>تعذّر إنشاء النّمط ’%1‘.</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::WizardContainerWidgetTaskMenu</name>
     <message>
         <source>Next</source>
-        <translation>Következő</translation>
+        <translation>التّالي</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation>Vissza</translation>
+        <translation>السّابق</translation>
     </message>
 </context>
 <context>
@@ -5697,14 +5776,15 @@ Ez a felhasználói felület fájlban lévő következetlenséget jelzi.</transl
     <message>
         <source>%1 %</source>
         <extracomment>Zoom factor</extracomment>
-        <translation>%1 %</translation>
+        <translation>%L1 ٪</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::ZoomablePreviewDeviceSkin</name>
     <message>
         <source>&amp;Zoom</source>
-        <translation>&amp;Nagyítás</translation>
+        <translatorcomment>قائمة سياقية تعرض مستويات التقريب الممكنة، هذه لا تظهر لأنها &quot;اسم&quot; لها</translatorcomment>
+        <translation>م&amp;ستوى التّقريب</translation>
     </message>
 </context>
 </TS>

@@ -1,83 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.1" language="ar">
 <context>
     <name>AboutDialog</name>
     <message>
         <source>Qt Linguist</source>
-        <translation>Qt Linguist</translation>
+        <translation>كيوت اللغويّ</translation>
     </message>
 </context>
 <context>
     <name>BatchTranslationDialog</name>
     <message>
         <source>Qt Linguist - Batch Translation</source>
-        <translation>Qt Linguist – kötegelt fordítás</translation>
+        <translation>كيوت اللغويّ - دفعة ترجمة</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Beállítások</translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <source>Set translated entries to finished</source>
-        <translation>Lefordított szövegek befejezettre állítása</translation>
+        <translation>عيّن المدخلات المترجمة كمنتهية</translation>
     </message>
     <message>
         <source>Retranslate entries with existing translation</source>
-        <translation>Bejegyzések újrafordítása a meglévő fordítással</translation>
+        <translation>أعد ترجمة كلّ المدخلات بالتّرجمة الموجودة</translation>
     </message>
     <message>
         <source>Note that the modified entries will be reset to unfinished if &apos;Set translated entries to finished&apos; above is unchecked</source>
-        <translation>Ne feledje, hogy a módosított bejegyzések befejezetlenre lesznek visszaállítva, ha a fenti „Lefordított szövegek befejezettre állítása” nincs bejelölve</translation>
+        <translation>لاحظ أنّ المدخلات المعدّلة ستُصفّر إلى غير منتهية إن لم يُؤشّر على ’عيّن المدخلات المترجمة كمنتهية‘ أعلاه</translation>
     </message>
     <message>
         <source>Translate also finished entries</source>
-        <translation>A befejezett bejegyzéseket is fordítsa le</translation>
+        <translation>ترجم المدخلات المنتهية أيضًا</translation>
     </message>
     <message>
         <source>Phrase book preference</source>
-        <translation>Kifejezéstár sorrend</translation>
+        <translation>كتب العبارات المحبّذة</translation>
     </message>
     <message>
         <source>Move up</source>
-        <translation>Mozgatás fel</translation>
+        <translation>انقل لأعلى</translation>
     </message>
     <message>
         <source>Move down</source>
-        <translation>Mozgatás le</translation>
+        <translation>انقل لأسفل</translation>
     </message>
     <message>
         <source>The batch translator will search through the selected phrase books in the order given above</source>
-        <translation>A kötegelt fordító a fent megadott sorrendben fogja átnézni a kijelölt kifejezéstárakat</translation>
+        <translation>سيبحث مترجم الدّفعة في كتب العبارات المحدّدة بالتّرتيب المعطى أعلاه</translation>
     </message>
     <message>
         <source>&amp;Run</source>
-        <translation>&amp;Futtatás</translation>
+        <translation>&amp;شغّل</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégse</translation>
+        <translation>ألغِ</translation>
     </message>
     <message>
         <source>Batch Translation of &apos;%1&apos; - Qt Linguist</source>
-        <translation>„%1” kötegelt fordítása – Qt Linguist</translation>
+        <translation>دفعة ترجمة لِ‍’%1‘ - كيوت اللغويّ</translation>
     </message>
     <message>
         <source>Searching, please wait...</source>
-        <translation>Keresés, kérem várjon…</translation>
+        <translation>يبحث، رجاءً انتظر...</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Mégse</translation>
+        <translation>أل&amp;غِ</translation>
     </message>
     <message>
         <source>Linguist batch translator</source>
-        <translation>Linguist kötegelt fordító</translation>
+        <translation>مترجم الدّفعات اللغويّ</translation>
     </message>
     <message numerus="yes">
         <source>Batch translated %n entries</source>
         <translation>
-            <numerusform>%n bejegyzés kötegelten lefordítva</numerusform>
+            <numerusform>لم تترجم الدّفعة أيّة مدخلة</numerusform>
+            <numerusform>ترجمت الدّفعة مدخلة واحدة</numerusform>
+            <numerusform>ترجمت الدّفعة مدخلتين</numerusform>
+            <numerusform>ترجمت الدّفعة %n مدخلات</numerusform>
+            <numerusform>ترجمت الدّفعة %n مدخلة</numerusform>
+            <numerusform>ترجمت الدّفعة %n مدخلة</numerusform>
         </translation>
     </message>
 </context>
@@ -85,160 +90,191 @@
     <name>DataModel</name>
     <message>
         <source>The translation file &apos;%1&apos; will not be loaded because it is empty.</source>
-        <translation>A(z) „%1” fordítási fájl nem lesz betöltve, mert üres.</translation>
+        <translation>لن يُحمّل ملفّ التّرجمة ’%1‘ لأنّه فارغ.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Duplicate messages found in &apos;%1&apos;:</source>
-        <translation>&lt;qt&gt;Kettőzött üzenetek találhatók a(z) „%1” fájlban:</translation>
+        <translation>&lt;qt&gt;عُثر على رسائل متكرّرة في ’%1‘:</translation>
     </message>
     <message>
         <source>&lt;p&gt;[more duplicates omitted]</source>
-        <translation>&lt;p&gt;[a többi előfordulás kihagyva]</translation>
+        <translation>&lt;p&gt;[ثمّة تكرارات أخرى وقد حُذفت]</translation>
     </message>
     <message>
         <source>&lt;p&gt;* ID: %1</source>
-        <translation>&lt;p&gt;* Azonosító: %1</translation>
+        <translation>&lt;p&gt;* المعرّف: %1</translation>
     </message>
     <message>
         <source>&lt;p&gt;* Context: %1&lt;br&gt;* Source: %2</source>
-        <translation>&lt;p&gt;* Környezet: %1&lt;br&gt;* Forrás: %2</translation>
+        <translation>&lt;p&gt;* السّياق: %1&lt;br&gt;* المصدر: %2</translation>
     </message>
     <message>
         <source>&lt;br&gt;* Comment: %3</source>
-        <translation>&lt;br&gt;* Megjegyzés: %3</translation>
+        <translation>&lt;br&gt;* تعليق: %3</translation>
     </message>
     <message>
         <source>Linguist does not know the plural rules for &apos;%1&apos;.
 Will assume a single universal form.</source>
-        <translation>A Linguist nem ismeri a többes szám képzést ennél: „%1”.
-Egyes számú általános formát fog feltételezni.</translation>
+        <translation>لا يعرف اللغويّ قواعد جموع ’%1‘.
+سأعتبرها إحدى صيغ الجمع العالميّة.</translation>
     </message>
     <message>
         <source>Cannot create &apos;%2&apos;: %1</source>
-        <translation>A(z) „%2” létrehozása sikertelen: %1</translation>
+        <translation>تعذّر إنشاء ’%2‘: ‏%1</translation>
     </message>
     <message>
         <source>Universal Form</source>
-        <translation>Általános alak</translation>
+        <translation>الصّيغة العالميّة</translation>
     </message>
 </context>
 <context>
     <name>ErrorsView</name>
     <message>
         <source>Accelerator possibly superfluous in translation.</source>
-        <translation>A gyorsbillentyű valószínűleg felesleges a fordításban.</translation>
+        <translation>ثمّة مسرّع زائد في التّرجمة.</translation>
     </message>
     <message>
         <source>Accelerator possibly missing in translation.</source>
-        <translation>Egy gyorsbillentyű valószínűleg hiányzik a fordításból.</translation>
+        <translation>ثمّة مسرّع ناقص في التّرجمة.</translation>
+    </message>
+    <message>
+        <source>Translation does not have same leading and trailing whitespace as the source text.</source>
+        <translation>ليس في التّرجمة ذات المسافات البادئة والختاميّة في النّصّ المصدر.</translation>
     </message>
     <message>
         <source>Translation does not end with the same punctuation as the source text.</source>
-        <translation>A fordítás nem ugyanazzal az írásjellel végződik mint a forrásszöveg.</translation>
+        <translation>لا تنتهي التّرجمة بنفس علامة التّرقيم في النّصّ المصدر.</translation>
     </message>
     <message>
         <source>A phrase book suggestion for &apos;%1&apos; was ignored.</source>
-        <translation>A(z) „%1” kifejezéstári javaslata figyelmen kívül lett hagyva.</translation>
+        <translation>تجاهلتُ اقتراح كتاب العبارات لِ‍ ’%1‘.</translation>
     </message>
     <message>
         <source>Translation does not refer to the same place markers as in the source text.</source>
-        <translation>A fordítás nem ugyanannyi helykitöltőre hivatkozik mint a forrásszöveg.</translation>
+        <translation>لا تشير التّرجمة إلى نفس حافظات المكان في النّصّ المصدر.</translation>
     </message>
     <message>
         <source>Translation does not contain the necessary %n/%Ln place marker.</source>
-        <translation>A fordítás nem tartalmazza a szükséges %n/%Ln helyfoglalót.</translation>
+        <translation>ليس في التّرجمة حافظ المكان ‎%n/%Ln المطلوب.</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Ismeretlen hiba</translation>
+        <translation>خطأ مجهول</translation>
+    </message>
+</context>
+<context>
+    <name>FMT</name>
+    <message>
+        <source>GNU Gettext localization files</source>
+        <translation>ملفّات غنو غِت​تكست توطينيّة</translation>
+    </message>
+    <message>
+        <source>GNU Gettext localization template files</source>
+        <translation>ملفّات قوالب غنو غِت​تكست توطينيّة</translation>
+    </message>
+    <message>
+        <source>Compiled Qt translations</source>
+        <translation>ملفّات كيوت مصرّفة</translation>
+    </message>
+    <message>
+        <source>Qt Linguist &apos;Phrase Book&apos;</source>
+        <translation>’كتاب عبارات‘ كيوت اللغويّ</translation>
+    </message>
+    <message>
+        <source>Qt translation sources</source>
+        <translation>مصادر ترجمات كيوت</translation>
+    </message>
+    <message>
+        <source>XLIFF localization files</source>
+        <translation>ملفّات XLIFF توطينيّة</translation>
     </message>
 </context>
 <context>
     <name>FindDialog</name>
     <message>
         <source>Find</source>
-        <translation>Keresés</translation>
+        <translation>اعثر</translation>
     </message>
     <message>
         <source>This window allows you to search for some text in the translation source file.</source>
-        <translation>Ez az ablak lehetővé teszi, hogy szöveget keressen a fordítás forrásfájljában.</translation>
+        <translation>تسمح لك هذه النّافذة بالبحث عن النّصوص في ملفّ التّرجمة المصدر.</translation>
     </message>
     <message>
         <source>&amp;Find what:</source>
-        <translation>Amit &amp;keres:</translation>
+        <translation>ا&amp;عثر على:</translation>
     </message>
     <message>
         <source>Type in the text to search for.</source>
-        <translation>Gépelje be a keresendő szöveget.</translation>
+        <translation>اطبع النّصّ الّذي تريد البحث عنه.</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Beállítások</translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <source>Source texts are searched when checked.</source>
-        <translation>A forrásszövegekben is keresni fog, ha be van jelölve.</translation>
+        <translation>سيُبحث في النّصوص المصدر عند التّأشير.</translation>
     </message>
     <message>
         <source>&amp;Source texts</source>
-        <translation>&amp;Forrásszövegek</translation>
+        <translation>النّصوص الم&amp;صدر</translation>
     </message>
     <message>
         <source>Translations are searched when checked.</source>
-        <translation>A fordításokban is keresni fog, ha be van jelölve.</translation>
+        <translation>سيُبحث في التّرجمات عند التّأشير.</translation>
     </message>
     <message>
         <source>&amp;Translations</source>
-        <translation>F&amp;ordítások</translation>
+        <translation>التّر&amp;جمات</translation>
     </message>
     <message>
         <source>Texts such as &apos;TeX&apos; and &apos;tex&apos; are considered as different when checked.</source>
-        <translation>Az olyan szövegek, mint például a „TeX” és „tex”, különbözőnek lesznek tekintve, ha be van jelölve.</translation>
+        <translation>النّصوص الشّبيهة بِ‍ ’TeX‘ و’tex‘ ستُعتبر مختلفة عند التّأشير.</translation>
     </message>
     <message>
         <source>&amp;Match case</source>
-        <translation>&amp;Kis- és nagybetűk megkülönböztetése</translation>
+        <translation>&amp;طابق الحالة</translation>
     </message>
     <message>
         <source>Comments and contexts are searched when checked.</source>
-        <translation>A megjegyzésekben és a környezetekben is keresni fog, ha be van jelölve.</translation>
+        <translation>سيُبحث في التّعليقات والسّياقات عند التّأشير.</translation>
     </message>
     <message>
         <source>&amp;Comments</source>
-        <translation>&amp;Megjegyzések</translation>
+        <translation>التّ&amp;عليقات</translation>
     </message>
     <message>
         <source>Ignore &amp;accelerators</source>
-        <translation>&amp;Gyorsbillentyűk mellőzése</translation>
+        <translation>تجاهل الم&amp;سرّعات</translation>
     </message>
     <message>
         <source>Obsoleted messages are skipped when checked.</source>
-        <translation>Az elavult üzenet kihagyásra kerülnek, ha be van jelölve.</translation>
+        <translation>الرّسائل البائدة ستُتخطّى عند التّأشير.</translation>
     </message>
     <message>
         <source>Skip &amp;obsolete</source>
-        <translation>&amp;Elavultak kihagyása</translation>
+        <translation>تخطّ البا&amp;ئدة</translation>
     </message>
     <message>
         <source>Click here to find the next occurrence of the text you typed in.</source>
-        <translation>Kattintson ide a begépelt szöveg következő előfordulásának kereséséhez.</translation>
+        <translation>انقر هنا للعثور على الحدوث التّالي للنّصّ الّذي طبعته.</translation>
     </message>
     <message>
         <source>Find Next</source>
-        <translation>Következő keresése</translation>
+        <translation>اعثر على التّالي</translation>
     </message>
     <message>
         <source>Click here to close this window.</source>
-        <translation>Kattintson ide az ablak bezárásához.</translation>
+        <translation>انقر هنا لإغلاق هذه النّافذة.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégse</translation>
+        <translation>ألغِ</translation>
     </message>
     <message>
         <source></source>
         <comment>Choose Edit|Find from the menu bar or press Ctrl+F to pop up the Find dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -260,11 +296,11 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>Confirmation - Qt Linguist</source>
-        <translation>Megerősítés – Qt Linguist</translation>
+        <translation>أكّد - كيوت اللغويّ</translation>
     </message>
     <message>
         <source>Delete non-empty length variant?</source>
-        <translation>Törli a nem üres hosszváltozatot?</translation>
+        <translation>أأحذف تنويعات الطّول غير الفارغة؟</translation>
     </message>
 </context>
 <context>
@@ -272,124 +308,117 @@ Egyes számú általános formát fog feltételezni.</translation>
     <message numerus="yes">
         <source>Dropped %n message(s) which had no ID.</source>
         <translation>
-            <numerusform>%n üzenet eldobva, amelynek nem volt azonosítója.</numerusform>
+            <numerusform>لم أُسقط أيّة رسالة.</numerusform>
+            <numerusform>أسقطتُ رسالة واحدة لم تحتوي معرّفًا.</numerusform>
+            <numerusform>أسقطتُ رسالتين لم تحتويان معرّفًا.</numerusform>
+            <numerusform>أسقطتُ %Ln رسائل لم تحتوي معرّفًا.</numerusform>
+            <numerusform>أسقطتُ %Ln رسالة لم تحتوي معرّفًا.</numerusform>
+            <numerusform>أسقطتُ %Ln رسالة لم تحتوي معرّفًا.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Excess context/disambiguation dropped from %n message(s).</source>
         <translation>
-            <numerusform>Többlet környezet vagy egyértelműség eldobva %n üzenetből.</numerusform>
+            <numerusform>لم أُسقط أيّ سياق/توضيح زائد من الرّسائل.</numerusform>
+            <numerusform>أسقطتُ سياقًا/توضيحًا زائدًا واحدًا من الرّسائل.</numerusform>
+            <numerusform>أسقطتُ سياقين/توضيحين زائدين من الرّسائل.</numerusform>
+            <numerusform>أسقطتُ %Ln سياقات/توضيحات زائدة من الرّسائل.</numerusform>
+            <numerusform>أسقطتُ %Ln سياقًا/توضيحًا زائدًا من الرّسائل.</numerusform>
+            <numerusform>أسقطتُ %Ln سياق/توضيح زائد من الرّسائل.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>    Generated %n translation(s) (%1 finished and %2 unfinished)</source>
         <translation>
-            <numerusform>%n fordítás előállítva (%1 befejezett és %2 befejezetlen)</numerusform>
+            <numerusform>    لم أولّد أيّة ترجمة (%L1 منتهية و%L2 غير منتهية)</numerusform>
+            <numerusform>    ولّدتُ ترجمة واحدة (%L1 منتهية و%L2 غير منتهية)</numerusform>
+            <numerusform>    ولّدتُ ترجمتين (%L1 منتهية و%L2 غير منتهية)</numerusform>
+            <numerusform>    ولّدتُ %Ln ترجمات (%L1 منتهية و%L2 غير منتهية)</numerusform>
+            <numerusform>    ولّدتُ %Ln ترجمة (%L1 منتهية و%L2 غير منتهية)</numerusform>
+            <numerusform>    ولّدتُ %Ln ترجمة (%L1 منتهية و%L2 غير منتهية)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>    Ignored %n untranslated source text(s)</source>
         <translation>
-            <numerusform>%n lefordítatlan forrásszöveg figyelmen kívül hagyva</numerusform>
+            <numerusform>    لم أتجاهل أيّة نصوص مصدريّة غير مترجمة</numerusform>
+            <numerusform>    تجاهلتُ نصًّا مصدريًّا واحدًا غير مترجم</numerusform>
+            <numerusform>    تجاهلتُ نصّين مصدريّين غير مترجمين</numerusform>
+            <numerusform>    تجاهلتُ %Ln نصوص مصدريّة غير مترجمة</numerusform>
+            <numerusform>    تجاهلتُ %Ln نصًّا مصدريّ غير مترجمًا</numerusform>
+            <numerusform>    تجاهلتُ L%n نصّ مصدريّ غير مترجم</numerusform>
         </translation>
-    </message>
-</context>
-<context>
-    <name>Linguist</name>
-    <message>
-        <source>GNU Gettext localization files</source>
-        <translation>GNU Gettext honosítási fájlok</translation>
-    </message>
-    <message>
-        <source>GNU Gettext localization template files</source>
-        <translation>GNU Gettext honosítási sablonfájlok</translation>
-    </message>
-    <message>
-        <source>Compiled Qt translations</source>
-        <translation>Lefordított Qt fordítások</translation>
-    </message>
-    <message>
-        <source>Qt Linguist &apos;Phrase Book&apos;</source>
-        <translation>Qt Linguist „kifejezéstár”</translation>
-    </message>
-    <message>
-        <source>Qt translation sources</source>
-        <translation>Qt fordítási források</translation>
-    </message>
-    <message>
-        <source>XLIFF localization files</source>
-        <translation>XLIFF honosítási fájlok</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>MainWindow</source>
-        <translation>Főablak</translation>
+        <translation>النّافذة الرّئيسيّة</translation>
     </message>
     <message>
         <source>&amp;Phrases</source>
-        <translation>&amp;Kifejezések</translation>
+        <translation>&amp;عبارات</translation>
     </message>
     <message>
         <source>&amp;Close Phrase Book</source>
-        <translation>Kifejezéstár &amp;bezárása</translation>
+        <translation>أ&amp;غلق كتاب العبارات</translation>
     </message>
     <message>
         <source>&amp;Edit Phrase Book</source>
-        <translation>Kifejezéstár &amp;szerkesztése</translation>
+        <translation>&amp;حرّر كتاب العبارات</translation>
     </message>
     <message>
         <source>&amp;Print Phrase Book</source>
-        <translation>Kifejezéstár &amp;nyomtatása</translation>
+        <translation>ا&amp;طبع كتاب العبارات</translation>
     </message>
     <message>
         <source>V&amp;alidation</source>
-        <translation>&amp;Ellenőrzés</translation>
+        <translation>&amp;صحّة</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation>&amp;Nézet</translation>
+        <translation>من&amp;ظور</translation>
     </message>
     <message>
         <source>Vie&amp;ws</source>
-        <translation>&amp;Nézetek</translation>
+        <translation>ال&amp;عروض</translation>
     </message>
     <message>
         <source>&amp;Toolbars</source>
-        <translation>&amp;Eszköztárak</translation>
+        <translation>أ&amp;شرطة الأدوات</translation>
     </message>
     <message>
         <source>&amp;Zoom</source>
-        <translation>&amp;Nagyítás</translation>
+        <translation>التّ&amp;قريب</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;Súgó</translation>
+        <translation>م&amp;ساعدة</translation>
     </message>
     <message>
         <source>&amp;Translation</source>
-        <translation>F&amp;ordítás</translation>
+        <translation>&amp;ترجمة</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;Fájl</translation>
+        <translation>&amp;ملفّ</translation>
     </message>
     <message>
         <source>Recently Opened &amp;Files</source>
-        <translation>Legutóbb megnyitott &amp;fájlok</translation>
+        <translation>المل&amp;فّات المفتوحة مؤخّرًا</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>S&amp;zerkesztés</translation>
+        <translation>&amp;حرّر</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation>&amp;Megnyitás…</translation>
+        <translation>ا&amp;فتح...</translation>
     </message>
     <message>
         <source>Open a Qt translation source file (TS file) for editing</source>
-        <translation>Egy Qt fordítási forrásforrás (TS-fájl) megnyitása szerkesztésre</translation>
+        <translation>افتح ملفّ ترجمة كيوت مصدريّ (ملفّ TS) للتّحرير</translation>
     </message>
     <message>
         <source>Ctrl+O</source>
@@ -397,11 +426,11 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation>&amp;Kilépés</translation>
+        <translation>ا&amp;خرج</translation>
     </message>
     <message>
         <source>Close this window and exit.</source>
-        <translation>Ablak bezárása és kilépés.</translation>
+        <translation>أغلق هذه النّافذة واخرج.</translation>
     </message>
     <message>
         <source>Ctrl+Q</source>
@@ -409,39 +438,39 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Mentés</translation>
+        <translation>احفظ</translation>
     </message>
     <message>
         <source>Save changes made to this Qt translation source file</source>
-        <translation>Ezen a Qt fordítási forrásfájlon végzett változtatások mentése</translation>
+        <translation>احفظ التّعديلات على ملفّ ترجمة كيوت المصدريّ هذا</translation>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation>Mentés má&amp;sként…</translation>
+        <translation>احفظ &amp;كَ‍...</translation>
     </message>
     <message>
         <source>Save As...</source>
-        <translation>Mentés másként…</translation>
+        <translation>احفظ كَ‍...</translation>
     </message>
     <message>
         <source>Save changes made to this Qt translation source file into a new file.</source>
-        <translation>Ezen a Qt fordítási forrásfájlon végzett változtatások elmentése egy új fájlba.</translation>
+        <translation>احفظ التّعديلات على ملفّ ترجمة كيوت المصدريّ هذا إلى ملفّ جديد.</translation>
     </message>
     <message>
         <source>Release</source>
-        <translation>Kiadás</translation>
+        <translation>أطلق</translation>
     </message>
     <message>
         <source>Create a Qt message file suitable for released applications from the current message file.</source>
-        <translation>A kiadott alkalmazások számára megfelelő Qt üzenetfájl létrehozása a jelenlegi üzenetfájlból.</translation>
+        <translation>أنشئ ملفّ رسائل كيوت مناسب للتّطبيقات المُصدرة من ملفّ الرّسائل الحاليّ.</translation>
     </message>
     <message>
         <source>&amp;Print...</source>
-        <translation>&amp;Nyomtatás…</translation>
+        <translation>ا&amp;طبع...</translation>
     </message>
     <message>
         <source>Print a list of all the translation units in the current translation source file.</source>
-        <translation>A jelenlegi fordítási forrásfájlban lévő összes fordítási egység listájának kinyomtatása.</translation>
+        <translation>اطبق قائمة وحدات التّرجمة في ملفّ التّرجمة المصدريّ الحاليّ.</translation>
     </message>
     <message>
         <source>Ctrl+P</source>
@@ -449,11 +478,11 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>&amp;Visszavonás</translation>
+        <translation>ت&amp;راجع</translation>
     </message>
     <message>
         <source>Undo the last editing operation performed on the current translation.</source>
-        <translation>A jelenlegi fordításon elvégzett utolsó szerkesztési művelet visszavonása.</translation>
+        <translation>تراجع عن آخر عمليّة تحرير أجريتها على التّرجمة الحاليّة.</translation>
     </message>
     <message>
         <source>Ctrl+Z</source>
@@ -461,11 +490,11 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>Új&amp;ra</translation>
+        <translation>أ&amp;عد</translation>
     </message>
     <message>
         <source>Redo an undone editing operation performed on the translation.</source>
-        <translation>A fordításon elvégzett visszavont szerkesztési művelet megismétlése.</translation>
+        <translation>أعد عمليّة تحرير قد أُجريت على التّرجمة ولكن تراجعتَ عنها.</translation>
     </message>
     <message>
         <source>Ctrl+Y</source>
@@ -473,11 +502,11 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation>&amp;Kivágás</translation>
+        <translation>&amp;قصّ</translation>
     </message>
     <message>
         <source>Copy the selected translation text to the clipboard and deletes it.</source>
-        <translation>A kijelölt fordítási szöveg másolása a vágólapra és annak törlése.</translation>
+        <translation>انسخ نصّ التّرجمة المحدّد إلى الحافظة واحذفه.</translation>
     </message>
     <message>
         <source>Ctrl+X</source>
@@ -485,11 +514,11 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;Másolás</translation>
+        <translation>ا&amp;نسخ</translation>
     </message>
     <message>
         <source>Copy the selected translation text to the clipboard.</source>
-        <translation>A kijelölt fordítási szöveg másolása a vágólapra.</translation>
+        <translation>انسخ نصّ التّرجمة المحدّد إلى الحافظة.</translation>
     </message>
     <message>
         <source>Ctrl+C</source>
@@ -497,11 +526,11 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>&amp;Beillesztés</translation>
+        <translation>أل&amp;صق</translation>
     </message>
     <message>
         <source>Paste the clipboard text into the translation.</source>
-        <translation>A vágólapon lévő szöveg beillesztése a fordításba.</translation>
+        <translation>ألصق نصّ الحافظة إلى التّرجمة.</translation>
     </message>
     <message>
         <source>Ctrl+V</source>
@@ -509,11 +538,11 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation>Össz&amp;es kijelölése</translation>
+        <translation>حدّد ال&amp;كلّ</translation>
     </message>
     <message>
         <source>Select the whole translation text.</source>
-        <translation>A teljes fordítási szöveg kijelölése.</translation>
+        <translation>حدّد نصّ التّرجمة بالكامل.</translation>
     </message>
     <message>
         <source>Ctrl+A</source>
@@ -521,11 +550,11 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>&amp;Find...</source>
-        <translation>K&amp;eresés…</translation>
+        <translation>ا&amp;عثر...</translation>
     </message>
     <message>
         <source>Search for some text in the translation source file.</source>
-        <translation>Szöveg keresése a fordítási forrásfájlban.</translation>
+        <translation>ابحث عن نصّ في ملفّ التّرجمة المصدريّ.</translation>
     </message>
     <message>
         <source>Ctrl+F</source>
@@ -533,11 +562,11 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>Find &amp;Next</source>
-        <translation>Kö&amp;vetkező keresése</translation>
+        <translation>اعثر على ال&amp;تّالي</translation>
     </message>
     <message>
         <source>Continue the search where it was left.</source>
-        <translation>Annak a keresésnek a folytatása, ahol otthagyták.</translation>
+        <translation>تابع البحث حيث توقّف.</translation>
     </message>
     <message>
         <source>F3</source>
@@ -545,15 +574,15 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>&amp;Prev Unfinished</source>
-        <translation>&amp;Előző befejezetlen</translation>
+        <translation>غير المنتهي ال&amp;سّابق</translation>
     </message>
     <message>
         <source>Previous unfinished item</source>
-        <translation>Előző befejezetlen elem</translation>
+        <translation>العنصر السّابق غير المنته</translation>
     </message>
     <message>
         <source>Move to the previous unfinished item.</source>
-        <translation>Ugrás az előző befejezetlen elemre.</translation>
+        <translation>انتقل إلى العنصر السّابق غير المنته.</translation>
     </message>
     <message>
         <source>Ctrl+K</source>
@@ -561,15 +590,15 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>&amp;Next Unfinished</source>
-        <translation>Következő befejezetle&amp;n</translation>
+        <translation>غير المنتهي ال&amp;تّالي</translation>
     </message>
     <message>
         <source>Next unfinished item</source>
-        <translation>Következő befejezetlen elem</translation>
+        <translation>العنصر التّالي غير المنته</translation>
     </message>
     <message>
         <source>Move to the next unfinished item.</source>
-        <translation>Ugrás a következő befejezetlen elemre.</translation>
+        <translation>انتقل إلى العنصر التّالي غير المنته.</translation>
     </message>
     <message>
         <source>Ctrl+J</source>
@@ -577,15 +606,15 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>P&amp;rev</source>
-        <translation>E&amp;lőző</translation>
+        <translation>السّا&amp;بق</translation>
     </message>
     <message>
         <source>Move to previous item</source>
-        <translation>Ugrás az előző elemre</translation>
+        <translation>العنصر السّابق</translation>
     </message>
     <message>
         <source>Move to the previous item.</source>
-        <translation>Ugrás az előző elemre.</translation>
+        <translation>انتقل إلى العنصر السّابق.</translation>
     </message>
     <message>
         <source>Ctrl+Shift+K</source>
@@ -593,15 +622,15 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>Ne&amp;xt</source>
-        <translation>Kö&amp;vetkező</translation>
+        <translation>التّا&amp;لي</translation>
     </message>
     <message>
         <source>Next item</source>
-        <translation>Következő elem</translation>
+        <translation>العنصر التّالي</translation>
     </message>
     <message>
         <source>Move to the next item.</source>
-        <translation>Ugrás a következő elemre.</translation>
+        <translation>انتقل إلى العنصر التّالي.</translation>
     </message>
     <message>
         <source>Ctrl+Shift+J</source>
@@ -609,27 +638,27 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>&amp;Done and Next</source>
-        <translation>&amp;Kész és következő</translation>
+        <translation>&amp;تمّ والتّالي</translation>
     </message>
     <message>
         <source>Mark item as done and move to the next unfinished item</source>
-        <translation>Az elem készre jelölése és ugrás a következő befejezetlen elemre</translation>
+        <translation>علّم العنصر كتامّ وانتقل إلى العنصر التّالي غير المنته</translation>
     </message>
     <message>
         <source>Mark this item as done and move to the next unfinished item.</source>
-        <translation>Az elem készre jelölése és ugrás a következő befejezetlen elemre.</translation>
+        <translation>علّم هذا العنصر كتامّ وانتقل إلى العنصر التّالي غير المنته.</translation>
     </message>
     <message>
         <source>Copy from source text</source>
-        <translation>Másolás a forrásszövegből</translation>
+        <translation>انسخ من النّصّ المصدر</translation>
     </message>
     <message>
         <source>Copies the source text into the translation field</source>
-        <translation>Átmásolja a forrásszöveget a fordítási mezőbe</translation>
+        <translation>انسخ النّصّ المصدر إلى حقل التّرجمة</translation>
     </message>
     <message>
         <source>Copies the source text into the translation field.</source>
-        <translation>Átmásolja a forrásszöveget a fordítási mezőbe.</translation>
+        <translation>انسخ النّصّ المصدر إلى حقل التّرجمة.</translation>
     </message>
     <message>
         <source>Ctrl+B</source>
@@ -637,59 +666,71 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>&amp;Accelerators</source>
-        <translation>&amp;Gyorsbillentyűk</translation>
+        <translation>الم&amp;سرّعات</translation>
     </message>
     <message>
         <source>Toggle the validity check of accelerators</source>
-        <translation>A gyorsbillentyűk érvényességi ellenőrzésének be- és kikapcsolása</translation>
+        <translation>بدّل فحص صحّة المسرّعات</translation>
     </message>
     <message>
         <source>Toggle the validity check of accelerators, i.e. whether the number of ampersands in the source and translation text is the same. If the check fails, a message is shown in the warnings window.</source>
-        <translation>A gyorsbillentyűk érvényességi ellenőrzésének be- és kikapcsolása, azaz ugyanannyi „és”-jel van-e a forrás és a fordítási szövegben. Ha az ellenőrzés sikertelen, akkor egy üzenet jelenik meg a figyelmeztetések ablakában.</translation>
+        <translation>بدّل فحص صحّة علامات المسرّعات، أي إن كان عدد محارف ”&amp;&amp;“ هو نفسه في نصّيّ المصدر والتّرجمة. إن فشل الفحص، ستظهر رسالة في نافذة التّحذيرات.</translation>
+    </message>
+    <message>
+        <source>Surrounding &amp;Whitespace.</source>
+        <translation>المسافات المحي&amp;طة.</translation>
+    </message>
+    <message>
+        <source>Toggle the validity check of surrounding whitespace.</source>
+        <translation>بدّل فحص صحّة المسافات المحيطة.</translation>
+    </message>
+    <message>
+        <source>Toggle the validity check of surrounding whitespace. If the check fails, a message is shown in the warnings window.</source>
+        <translation>بدّل فحص صحّة المسافات المحيطة. إن فشل الفحص، ستظهر رسالة في نافذة التّحذيرات.</translation>
     </message>
     <message>
         <source>&amp;Ending Punctuation</source>
-        <translation>&amp;Mondatvégi írásjelek</translation>
+        <translation>علامات التّرقيم ال&amp;نّهائيّة</translation>
     </message>
     <message>
         <source>Toggle the validity check of ending punctuation</source>
-        <translation>A mondatvégi írásjelek érvényességi ellenőrzésének be- és kikapcsolása</translation>
+        <translation>بدّل فحص صحّة علامات التّرقيم النّهائيّة</translation>
     </message>
     <message>
         <source>Toggle the validity check of ending punctuation. If the check fails, a message is shown in the warnings window.</source>
-        <translation>A mondatvégi írásjelek érvényességi ellenőrzésének be- és kikapcsolása. Ha az ellenőrzés sikertelen, akkor egy üzenet jelenik meg a figyelmeztetések ablakában.</translation>
+        <translation>بدّل فحص صحّة علامات التّرقيم النّهائيّة. إن فشل الفحص، ستظهر رسالة في نافذة التّحذيرات.</translation>
     </message>
     <message>
         <source>&amp;Phrase matches</source>
-        <translation>&amp;Kifejezésegyezések</translation>
+        <translation>التّطابق مع ال&amp;عبارات</translation>
     </message>
     <message>
         <source>Toggle checking that phrase suggestions are used</source>
-        <translation>Azon ellenőrzés be- és kikapcsolása, hogy a kifejezésjavaslatokat használják-e</translation>
+        <translation>بدّل فحص استخدام اقتراحات العبارات</translation>
     </message>
     <message>
         <source>Toggle checking that phrase suggestions are used. If the check fails, a message is shown in the warnings window.</source>
-        <translation>Azon ellenőrzés be- és kikapcsolása, hogy a kifejezésjavaslatokat használják-e. Ha az ellenőrzés sikertelen, akkor egy üzenet jelenik meg a figyelmeztetések ablakában.</translation>
+        <translation>بدّل فحص استخدام اقتراحات العبارات. إن فشل الفحص، ستظهر رسالة في نافذة التّحذيرات.</translation>
     </message>
     <message>
         <source>Place &amp;Marker Matches</source>
-        <translation>&amp;Helyfoglaló egyezések</translation>
+        <translation>تطابق &amp;حافظات المكان</translation>
     </message>
     <message>
         <source>Toggle the validity check of place markers</source>
-        <translation>A helyfoglalók érvényességi ellenőrzésének be- és kikapcsolása</translation>
+        <translation>بدّل فحص صحّة حافظات المكان</translation>
     </message>
     <message>
         <source>Toggle the validity check of place markers, i.e. whether %1, %2, ... are used consistently in the source text and translation text. If the check fails, a message is shown in the warnings window.</source>
-        <translation>A helyfoglalók érvényességi ellenőrzésének be- és kikapcsolása, azaz a %1, %2, … következetesen vannak-e használva a forrásszövegben és a fordítási szövegben. Ha az ellenőrzés sikertelen, akkor egy üzenet jelenik meg a figyelmeztetések ablakában.</translation>
+        <translation>بدّل فحص صحّة علامات المسرّعات، أي إن كانت %1، %2 قد استُخدمت بشكل ثابت في نصّيّ المصدر والتّرجمة. إن فشل الفحص، ستظهر رسالة في نافذة التّحذيرات.</translation>
     </message>
     <message>
         <source>&amp;New Phrase Book...</source>
-        <translation>Ú&amp;j kifejezéstár…</translation>
+        <translation>كتاب عبارات &amp;جديد...</translation>
     </message>
     <message>
         <source>Create a new phrase book.</source>
-        <translation>Egy új kifejezéstár létrehozása.</translation>
+        <translation>أنشئ كتاب عبارات جديد.</translation>
     </message>
     <message>
         <source>Ctrl+N</source>
@@ -697,11 +738,11 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>&amp;Open Phrase Book...</source>
-        <translation>Kifejezéstár meg&amp;nyitása…</translation>
+        <translation>ا&amp;فتح كتاب عبارات...</translation>
     </message>
     <message>
         <source>Open a phrase book to assist translation.</source>
-        <translation>Egy kifejezéstár megnyitása a fordítás segítéséhez.</translation>
+        <translation>افتح كتاب عبارات للمساعدة في التّرجمة.</translation>
     </message>
     <message>
         <source>Ctrl+H</source>
@@ -709,31 +750,31 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>&amp;Reset Sorting</source>
-        <translation>Rendezés &amp;visszaállítása</translation>
+        <translation>&amp;صفّر الفرز</translation>
     </message>
     <message>
         <source>Sort the items back in the same order as in the message file.</source>
-        <translation>Az elemek visszarendezése ugyanabba a sorrendbe, ahogy az üzenetfájlban van.</translation>
+        <translation>افرز العناصر بنفس التّرتيب في ملفّ الرّسائل.</translation>
     </message>
     <message>
         <source>&amp;Display guesses</source>
-        <translation>&amp;Tippek megjelenítése</translation>
+        <translation>ا&amp;عرض التّخمينات</translation>
     </message>
     <message>
         <source>Set whether or not to display translation guesses.</source>
-        <translation>Annak beállítása, hogy a fordítási tippek megjelenjenek-e vagy sem.</translation>
+        <translation>عيّن فيما إذا أردت عرض تخمينات التّرجمة أم لا.</translation>
     </message>
     <message>
         <source>&amp;Statistics</source>
-        <translation>&amp;Statisztikák</translation>
+        <translation>الإ&amp;حصائيّات</translation>
     </message>
     <message>
         <source>Display translation statistics.</source>
-        <translation>Fordítási statisztikák megjelenítése.</translation>
+        <translation>اعرض إحصائيّات التّرجمة.</translation>
     </message>
     <message>
         <source>&amp;Manual</source>
-        <translation>&amp;Kézikönyv</translation>
+        <translation>ال&amp;كتيّب</translation>
     </message>
     <message>
         <source>F1</source>
@@ -741,27 +782,27 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>About Qt Linguist</source>
-        <translation>A Qt Linguist névjegye</translation>
+        <translation>عنْ كيوت اللغويّ</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation>A Qt névjegye</translation>
+        <translation>عنْ كيوت</translation>
     </message>
     <message>
         <source>Display information about the Qt toolkit by Digia.</source>
-        <translation>Információk megjelenítése a Qt eszközkészletről, a Digiától.</translation>
+        <translation>اعرض معلومات عن عُدّة أدوات كيوت لِ‍«ديجيا».</translation>
     </message>
     <message>
         <source>&amp;What&apos;s This?</source>
-        <translation>Mi e&amp;z?</translation>
+        <translation>ما &amp;هذا؟</translation>
     </message>
     <message>
         <source>What&apos;s This?</source>
-        <translation>Mi ez?</translation>
+        <translation>ما هذا؟</translation>
     </message>
     <message>
         <source>Enter What&apos;s This? mode.</source>
-        <translation>Átlépés „Mi ez?” módba.</translation>
+        <translation>ادخل وضع ”ما هذا؟“.</translation>
     </message>
     <message>
         <source>Shift+F1</source>
@@ -769,55 +810,55 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>&amp;Search And Translate...</source>
-        <translation>Keresés és &amp;fordítás…</translation>
+        <translation>ا&amp;بحث وترجم...</translation>
     </message>
     <message>
         <source>Replace the translation on all entries that matches the search source text.</source>
-        <translation>A fordítás cseréje minden olyan bejegyzésnél, amely illeszkedik a keresési forrásszövegre.</translation>
+        <translation>استبدل التّرجمة في كلّ العناصر التي تطابق نصّ المصدر.</translation>
     </message>
     <message>
         <source>&amp;Batch Translation...</source>
-        <translation>&amp;Kötegelt fordítás…</translation>
+        <translation>&amp;دفعة ترجمة...</translation>
     </message>
     <message>
         <source>Batch translate all entries using the information in the phrase books.</source>
-        <translation>Az összes bejegyzés kötegelt fordítása a kifejezéstárakban lévő információk használatával.</translation>
+        <translation>ترجم كلّ المدخلات دفعة واحدة اعتمادًا على المعلومات في كتب العبارات.</translation>
     </message>
     <message>
         <source>Release As...</source>
-        <translation>Kiadás másként…</translation>
+        <translation>أطلق كَ‍...</translation>
     </message>
     <message>
         <source>Create a Qt message file suitable for released applications from the current message file. The filename will automatically be determined from the name of the TS file.</source>
-        <translation>A kiadott alkalmazások számára megfelelő Qt üzenetfájl létrehozása a jelenlegi üzenetfájlból. A fájlnév a TS-fájl nevéből lesz automatikusan meghatározva.</translation>
+        <translation>أنشئ ملفّ رسائل كيوت مناسب للتّطبيقات المُصدرة من ملفّ الرّسائل الحاليّ. سيُحدّد اسم الملفّ آليًّا من اسم ملفّ TS.</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Fájl</translation>
+        <translation>ملفّ</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Szerkesztés</translation>
+        <translation>حرّر</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation>Fordítás</translation>
+        <translation>ترجمة</translation>
     </message>
     <message>
         <source>Validation</source>
-        <translation>Ellenőrzés</translation>
+        <translation>صحّة</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Súgó</translation>
+        <translation>مساعدة</translation>
     </message>
     <message>
         <source>Open/Refresh Form &amp;Preview</source>
-        <translation>Űrlap &amp;előnézet megnyitása és frissítése</translation>
+        <translation>افتح/أنعش من الم&amp;عاينة</translation>
     </message>
     <message>
         <source>Form Preview Tool</source>
-        <translation>Űrlapelőnézet eszköz</translation>
+        <translation>أداة معاينة النّماذج</translation>
     </message>
     <message>
         <source>F5</source>
@@ -825,11 +866,11 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>Translation File &amp;Settings...</source>
-        <translation>Fordítási fájl beállítá&amp;sai…</translation>
+        <translation>إ&amp;عدادات ملفّ التّرجمة...</translation>
     </message>
     <message>
         <source>&amp;Add to Phrase Book</source>
-        <translation>Hozzá&amp;adás a kifejezéstárhoz</translation>
+        <translation>أ&amp;ضف إلى كتاب العبارات</translation>
     </message>
     <message>
         <source>Ctrl+T</source>
@@ -837,11 +878,11 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>Open Read-O&amp;nly...</source>
-        <translation>Megnyitás csak &amp;olvasásra…</translation>
+        <translation>افتح للقراءة &amp;فقط...</translation>
     </message>
     <message>
         <source>&amp;Save All</source>
-        <translation>Összes &amp;mentése</translation>
+        <translation>ا&amp;حفظ الكلّ</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
@@ -849,15 +890,15 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>&amp;Release All</source>
-        <translation>Összes k&amp;iadása</translation>
+        <translation>أ&amp;طلق الكلّ</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Bezárás</translation>
+        <translation>أغلق</translation>
     </message>
     <message>
         <source>&amp;Close All</source>
-        <translation>Összes &amp;bezárása</translation>
+        <translation>أ&amp;غلق الكلّ</translation>
     </message>
     <message>
         <source>Ctrl+W</source>
@@ -865,19 +906,19 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>Length Variants</source>
-        <translation>Hosszváltozatok</translation>
+        <translation>تنويعات الطّول</translation>
     </message>
     <message>
         <source>Visualize whitespace</source>
-        <translation>Üres karakterek megjelenítése</translation>
+        <translation>صوّر المسافات</translation>
     </message>
     <message>
         <source>Toggle visualize whitespace in editors</source>
-        <translation>Üres karakterek megjelenítésének be- és kikapcsolása a szerkesztőkben</translation>
+        <translation>بدّل تصوير المسافات في المحرّرات</translation>
     </message>
     <message>
         <source>Increase</source>
-        <translation>Növelés</translation>
+        <translation>زِد</translation>
     </message>
     <message>
         <source>Ctrl++</source>
@@ -885,7 +926,7 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>Decrease</source>
-        <translation>Csökkentés</translation>
+        <translation>أنقص</translation>
     </message>
     <message>
         <source>Ctrl+-</source>
@@ -893,7 +934,7 @@ Egyes számú általános formát fog feltételezni.</translation>
     </message>
     <message>
         <source>Reset to default</source>
-        <translation>Alapértelmezések visszaállítása</translation>
+        <translation>صفّر إلى الافتراضيّ</translation>
     </message>
     <message>
         <source>Ctrl+0</source>
@@ -902,246 +943,261 @@ Egyes számú általános formát fog feltételezni.</translation>
     <message>
         <source></source>
         <comment>This is the application&apos;s main window.</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Source text</source>
-        <translation>Forrásszöveg</translation>
+        <translation>النّصّ المصدر</translation>
     </message>
     <message>
         <source>Index</source>
-        <translation>Index</translation>
+        <translation>الفهرس</translation>
     </message>
     <message>
         <source>Context</source>
-        <translation>Környezet</translation>
+        <translation>السّياق</translation>
     </message>
     <message>
         <source>Items</source>
-        <translation>Elemek</translation>
+        <translation>العناصر</translation>
     </message>
     <message>
         <source>This panel lists the source contexts.</source>
-        <translation>Ez a panel sorolja fel a forráskörnyezeteket.</translation>
+        <translation>تسرد هذه اللوحة سياقات المصدر.</translation>
     </message>
     <message>
         <source>Strings</source>
-        <translation>Karakterláncok</translation>
+        <translation>السّلاسل</translation>
     </message>
     <message>
         <source>Phrases and guesses</source>
-        <translation>Kifejezések és tippek</translation>
+        <translation>العبارات والتّخمينات</translation>
     </message>
     <message>
         <source>Sources and Forms</source>
-        <translation>Források és űrlapok</translation>
+        <translation>المصادر والنّماذج</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation>Figyelmeztetések</translation>
+        <translation>التّحذيرات</translation>
     </message>
     <message>
         <source> MOD </source>
         <comment>status bar: file(s) modified</comment>
-        <translation> MOD </translation>
+        <translation> عُدّل </translation>
     </message>
     <message>
         <source>Loading...</source>
-        <translation>Betöltés…</translation>
+        <translation>يحمّل...</translation>
     </message>
     <message>
         <source>Loading File - Qt Linguist</source>
-        <translation>Fájl betöltése – Qt Linguist</translation>
+        <translation>يحمّل الملفّ - كيوت اللغويّ</translation>
     </message>
     <message>
         <source>The file &apos;%1&apos; does not seem to be related to the currently open file(s) &apos;%2&apos;.
 
 Close the open file(s) first?</source>
-        <translation>A(z) „%1” fájl nem a jelenleg megnyitott „%2” fájlokhoz tartozónak tűnik.
+        <translation>لا يبدو الملفّ ’%1‘ مرتبطًا بالملفّ/الملفّات ’%2‘ المفتوحة حاليًّا.
 
-Bezárja előbb a nyitott fájlokat?</translation>
+أأغلق الملفّ/الملفّات المفتوحة أوّلًا؟</translation>
     </message>
     <message>
         <source>The file &apos;%1&apos; does not seem to be related to the file &apos;%2&apos; which is being loaded as well.
 
 Skip loading the first named file?</source>
-        <translation>A(z) „%1” fájl nem a(z) „%2” fájlhoz tartozónak tűnik, amely szintén be lett töltve.
+        <translation>لا يبدو الملفّ ’%1‘ مرتبطًا بالملفّ ’%2‘ المحمّل أيضًا.
 
-Kihagyja az elsőre megnevezett fájl betöltését?</translation>
+أأتخطّى تحميل أوّل ملفّ؟</translation>
     </message>
     <message numerus="yes">
         <source>%n translation unit(s) loaded.</source>
         <translation>
-            <numerusform>%n fordítási egység betöltve.</numerusform>
+            <numerusform>لم تُحمّل أيّة وحدة ترجمة.</numerusform>
+            <numerusform>حُمّلت وحدة ترجمة واحدة.</numerusform>
+            <numerusform>حُمّلت وحدتا ترجمة.</numerusform>
+            <numerusform>حُمّلت %Ln وحدات ترجمة.</numerusform>
+            <numerusform>حُمّلت %Ln وحدة ترجمة.</numerusform>
+            <numerusform>حُمّلت %Ln وحدة ترجمة.</numerusform>
         </translation>
     </message>
     <message>
         <source>Related files (%1);;</source>
-        <translation>Kapcsolódó fájlok (%1);;</translation>
+        <translation>الملفّات ذات الصّلة (%1);;</translation>
     </message>
     <message>
         <source>Open Translation Files</source>
-        <translation>Fordítási fájlok megnyitása</translation>
+        <translation>افتح ملفّات ترجمة</translation>
     </message>
     <message>
         <source>File saved.</source>
-        <translation>A fájl elmentve.</translation>
+        <translation>حُفظ الملفّ.</translation>
     </message>
     <message>
         <source>Qt message files for released applications (*.qm)
 All files (*)</source>
-        <translation>Qt üzenetfájlok a kiadott alkalmazásokhoz (*.qm)
-Minden fájl (*)</translation>
+        <translation>ملفّات رسائل كيوت للتّطبيقات المُصدرة (‎*.qm)
+كلّ الملفّات (*)</translation>
     </message>
     <message>
         <source>File created.</source>
-        <translation>A fájl létrehozva.</translation>
+        <translation>أُنشأ الملفّ.</translation>
     </message>
     <message>
         <source>Printing...</source>
-        <translation>Nyomtatás…</translation>
+        <translation>يطبع...</translation>
     </message>
     <message>
         <source>Context: %1</source>
-        <translation>Környezet: %1</translation>
+        <translation>السّياق: %1</translation>
     </message>
     <message>
         <source>finished</source>
-        <translation>befejezett</translation>
+        <translation>منتهية</translation>
     </message>
     <message>
         <source>unresolved</source>
-        <translation>megoldatlan</translation>
+        <translation>غير محلولة</translation>
     </message>
     <message>
         <source>obsolete</source>
-        <translation>elavult</translation>
+        <translation>بائدة</translation>
     </message>
     <message>
         <source>Printing... (page %1)</source>
-        <translation>Nyomtatás… (%1. oldal)</translation>
+        <translation>يطبع... (صفحة %L1)</translation>
     </message>
     <message>
         <source>Printing completed</source>
-        <translation>Nyomtatás befejezve</translation>
+        <translation>اكتملت الطّباعة</translation>
     </message>
     <message>
         <source>Printing aborted</source>
-        <translation>Nyomtatás megszakítva</translation>
+        <translation>أُجهضت الطّباعة</translation>
     </message>
     <message>
         <source>Search wrapped.</source>
-        <translation>A keresés körbeért.</translation>
+        <translation>التفّ البحث.</translation>
     </message>
     <message>
         <source>Qt Linguist</source>
-        <translation>Qt Linguist</translation>
+        <translation>كيوت اللغويّ</translation>
     </message>
     <message>
         <source>Cannot find the string &apos;%1&apos;.</source>
-        <translation>Nem található a(z) „%1” karakterlánc.</translation>
+        <translation>تعذّر العثور على السّلسلة ’%1‘.</translation>
     </message>
     <message>
         <source>Search And Translate in &apos;%1&apos; - Qt Linguist</source>
-        <translation>Keresés és fordítás itt: „%1” - Qt Linguist</translation>
+        <translation>ابحث وترجم في ’%1‘ - كيوت اللغويّ</translation>
     </message>
     <message>
         <source>Translate - Qt Linguist</source>
-        <translation>Fordítás – Qt Linguist</translation>
+        <translation>ترجم - كيوت اللغويّ</translation>
     </message>
     <message numerus="yes">
         <source>Translated %n entry(s)</source>
         <translation>
-            <numerusform>%n bejegyzés lefordítva</numerusform>
+            <numerusform>لم تُترجم أيّة مدخلة</numerusform>
+            <numerusform>ترجمتُ مدخلة واحدة</numerusform>
+            <numerusform>ترجمتُ مدخلتين</numerusform>
+            <numerusform>ترجمتُ %Ln مدخلات</numerusform>
+            <numerusform>ترجمتُ %Ln مدخلة</numerusform>
+            <numerusform>ترجمتُ %Ln مدخلة</numerusform>
         </translation>
     </message>
     <message>
         <source>No more occurrences of &apos;%1&apos;. Start over?</source>
-        <translation>Nincs több találat erre: „%1”. Kezdje elölről?</translation>
+        <translation>لا حدوثات أخرى لِ‍ ’%1‘. أأبدأ من جديد؟</translation>
     </message>
     <message>
         <source>Create New Phrase Book</source>
-        <translation>Új kifejezéstár létrehozása</translation>
+        <translation>أنشئ كتاب عبارات جديد</translation>
     </message>
     <message>
         <source>Qt phrase books (*.qph)
 All files (*)</source>
-        <translation>Qt kifejezéstárak (*.qph)
-Minden fájl (*)</translation>
+        <translation>كتب عبارات كيوت (*.qph)
+كلّ الملفّات (*)</translation>
     </message>
     <message>
         <source>Phrase book created.</source>
-        <translation>A kifejezéstár létrehozva.</translation>
+        <translation>أُنشأ كتاب العبارات.</translation>
     </message>
     <message>
         <source>Open Phrase Book</source>
-        <translation>Kifejezéstár megnyitása</translation>
+        <translation>افتح كتاب عبارات</translation>
     </message>
     <message>
         <source>Qt phrase books (*.qph);;All files (*)</source>
-        <translation>Qt kifejezéstárak (*.qph);;Minden fájl (*)</translation>
+        <translation>كتب عبارات كيوت (*.qph);;كلّ الملفّات (*)</translation>
     </message>
     <message numerus="yes">
         <source>%n phrase(s) loaded.</source>
         <translation>
-            <numerusform>%n kifejezés betöltve.</numerusform>
+            <numerusform>لم تُحمّل أيّة عبارة.</numerusform>
+            <numerusform>حُمّلت عبارة واحدة.</numerusform>
+            <numerusform>حُمّلت عبارتين.</numerusform>
+            <numerusform>حُمّلت %Ln عبارات.</numerusform>
+            <numerusform>حُمّلت %Ln عبارة.</numerusform>
+            <numerusform>حُمّلت %Ln عبارة.</numerusform>
         </translation>
     </message>
     <message>
         <source>Add to phrase book</source>
-        <translation>Hozzáadás a kifejezéstárhoz</translation>
+        <translation>أضف إلى كتاب العبارات</translation>
     </message>
     <message>
         <source>No appropriate phrasebook found.</source>
-        <translation>Nem található megfelelő kifejezéstár.</translation>
+        <translation>لم يُعثر على كتاب عبارات مناسب.</translation>
     </message>
     <message>
         <source>Adding entry to phrasebook %1</source>
-        <translation>Bejegyzés hozzáadása a(z) %1 kifejezéstárhoz</translation>
+        <translation>يضيف المدخلة إلى كتاب العبارات %1</translation>
     </message>
     <message>
         <source>Select phrase book to add to</source>
-        <translation>Válassza ki a bővítendő kifejezéstárat</translation>
+        <translation>اختر كتاب العبارات للإضافة إليه</translation>
     </message>
     <message>
         <source>Unable to launch Qt Assistant (%1)</source>
-        <translation>Nem indítható el a Qt Asszisztens (%1)</translation>
+        <translation>تعذّر إطلاق كيوت المساعد (%1)</translation>
     </message>
     <message>
         <source>Version %1</source>
-        <translation>%1. verzió</translation>
+        <translation>الإصدارة %L1</translation>
     </message>
     <message>
         <source>&lt;center&gt;&lt;img src=&quot;:/images/splash.png&quot;/&gt;&lt;/img&gt;&lt;p&gt;%1&lt;/p&gt;&lt;/center&gt;&lt;p&gt;Qt Linguist is a tool for adding translations to Qt applications.&lt;/p&gt;&lt;p&gt;Copyright (C) %2 The Qt Company Ltd.</source>
-        <translation>&lt;center&gt;&lt;img src=&quot;:/images/splash.png&quot;/&gt;&lt;/img&gt;&lt;p&gt;%1&lt;/p&gt;&lt;/center&gt;&lt;p&gt;A Qt Linguist egy eszköz a fordítások Qt alkalmazásokhoz történő hozzáadásához.&lt;/p&gt;&lt;p&gt;Copyright (C) %2 The Qt Company Ltd.</translation>
+        <translation>&lt;center&gt;&lt;img src=&quot;:/images/splash.png&quot;/&gt;&lt;/img&gt;&lt;p&gt;%1&lt;/p&gt;&lt;/center&gt;&lt;p&gt;«كيوت اللغويّ» أداة لإضافة ترجمات إلى تطبيقات «كيوت».&lt;/p&gt;&lt;p&gt;حقوق النّسخ © %L2 ل‍«شركة كيوت المحدودة».</translation>
     </message>
     <message>
         <source>Do you want to save the modified files?</source>
-        <translation>Szeretné menteni a módosított fájlokat?</translation>
+        <translation>أتريد حفظ الملفّات المعدّلة؟</translation>
     </message>
     <message>
         <source>Do you want to save &apos;%1&apos;?</source>
-        <translation>Szeretné menteni a(z) „%1” fájlt?</translation>
+        <translation>أتريد حفظ ’%1‘؟</translation>
     </message>
     <message>
         <source>Qt Linguist[*]</source>
-        <translation>Qt Linguist[*]</translation>
+        <translation>كيوت اللغويّ[*]</translation>
     </message>
     <message>
         <source>%1[*] - Qt Linguist</source>
-        <translation>%1[*] – Qt Linguist</translation>
+        <translation>%1[*] - كيوت اللغويّ</translation>
     </message>
     <message>
         <source>No untranslated translation units left.</source>
-        <translation>Nem maradt több lefordítatlan fordítási egység.</translation>
+        <translation>لم تبق أيّة وحدات غير مترجمة.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation>&amp;Ablak</translation>
+        <translation>&amp;نافذة</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation>Kis méret</translation>
+        <translation>صغّر</translation>
     </message>
     <message>
         <source>Ctrl+M</source>
@@ -1149,95 +1205,95 @@ Minden fájl (*)</translation>
     </message>
     <message>
         <source>Display the manual for %1.</source>
-        <translation>A(z) %1 kézikönyvének megjelenítése.</translation>
+        <translation>اعرض كتيّب %1.</translation>
     </message>
     <message>
         <source>Display information about %1.</source>
-        <translation>Információk megjelenítése erről: %1.</translation>
+        <translation>اعرض معلومات عن %1.</translation>
     </message>
     <message>
         <source>&amp;Save &apos;%1&apos;</source>
-        <translation>„%1” menté&amp;se</translation>
+        <translation>ا&amp;حفظ ’%1‘</translation>
     </message>
     <message>
         <source>Save &apos;%1&apos; &amp;As...</source>
-        <translation>„%1” me&amp;ntése másként…</translation>
+        <translation>ا&amp;حفظ ’%1‘ كَ‍...</translation>
     </message>
     <message>
         <source>Release &apos;%1&apos;</source>
-        <translation>„%1” kiadása</translation>
+        <translation>أطلق ’%1‘</translation>
     </message>
     <message>
         <source>Release &apos;%1&apos; As...</source>
-        <translation>„%1” kiadása másként…</translation>
+        <translation>أطلق ’%1‘ كَ‍...</translation>
     </message>
     <message>
         <source>&amp;Close &apos;%1&apos;</source>
-        <translation>„%1” be&amp;zárása</translation>
+        <translation>أ&amp;غلق ’%1‘</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>Menté&amp;s</translation>
+        <translation>ا&amp;حفظ</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Bezárás</translation>
+        <translation>أ&amp;غلق</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation>Összes mentése</translation>
+        <translation>احفظ الكلّ</translation>
     </message>
     <message>
         <source>Close All</source>
-        <translation>Összes bezárása</translation>
+        <translation>أغلق الكلّ</translation>
     </message>
     <message>
         <source>&amp;Release</source>
-        <translation>Kia&amp;dás</translation>
+        <translation>أ&amp;طلق</translation>
     </message>
     <message>
         <source>Translation File &amp;Settings for &apos;%1&apos;...</source>
-        <translation>Fordítási fájl &amp;beállításai ehhez: „%1”…</translation>
+        <translation>إ&amp;عدادات ملفّ التّرجمة ’%1‘...</translation>
     </message>
     <message>
         <source>&amp;Batch Translation of &apos;%1&apos;...</source>
-        <translation>„%1” &amp;kötegelt fordítása…</translation>
+        <translation>&amp;دفعة ترجمة لِ‍ ’%1‘...</translation>
     </message>
     <message>
         <source>Search And &amp;Translate in &apos;%1&apos;...</source>
-        <translation>Keresés és &amp;fordítás itt: „%1”…</translation>
+        <translation>ابحث و&amp;ترجم في ’%1‘...</translation>
     </message>
     <message>
         <source>Search And &amp;Translate...</source>
-        <translation>Keresés és &amp;fordítás…</translation>
+        <translation>ابحث و&amp;ترجم...</translation>
     </message>
     <message>
         <source>Cannot read from phrase book &apos;%1&apos;.</source>
-        <translation>Nem lehet olvasni a(z) „%1” kifejezéstárból.</translation>
+        <translation>تعذّرت القراءة من كتاب العبارات ’%1‘.</translation>
     </message>
     <message>
         <source>Close this phrase book.</source>
-        <translation>A kifejezéstár bezárása.</translation>
+        <translation>أغلق كتاب العبارات.</translation>
     </message>
     <message>
         <source>Enables you to add, modify, or delete entries in this phrase book.</source>
-        <translation>Lehetővé teszi bejegyzések hozzáadását, módosítását és törlését ebben a kifejezéstárban.</translation>
+        <translation>يمكّنك من إضافة المدخلات إلى كتاب العبارات هذا، أو تعديلها أو حذفها.</translation>
     </message>
     <message>
         <source>Print the entries in this phrase book.</source>
-        <translation>A kifejezéstárban lévő bejegyzések nyomtatása.</translation>
+        <translation>اطبع المدخلات في كتاب العبارات هذا.</translation>
     </message>
     <message>
         <source>Cannot create phrase book &apos;%1&apos;.</source>
-        <translation>Nem lehet létrehozni a(z) „%1” kifejezéstárat.</translation>
+        <translation>تعذّر إنشاء كتاب العبارات ’%1‘.</translation>
     </message>
     <message>
         <source>Do you want to save phrase book &apos;%1&apos;?</source>
-        <translation>Szeretné menteni a(z) „%1” kifejezéstárat?</translation>
+        <translation>أتريد حفظ كتاب العبارات ’%1‘؟</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>Összes</translation>
+        <translation>الكلّ</translation>
     </message>
 </context>
 <context>
@@ -1245,388 +1301,388 @@ Minden fájl (*)</translation>
     <message>
         <source></source>
         <comment>This is the right panel of the main window.</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation>Orosz</translation>
+        <translation>الرّوسيّة</translation>
     </message>
     <message>
         <source>German</source>
-        <translation>Német</translation>
+        <translation>الألمانيّة</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation>Japán</translation>
+        <translation>اليابانيّة</translation>
     </message>
     <message>
         <source>French</source>
-        <translation>Francia</translation>
+        <translation>الفرنسيّة</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation>Lengyel</translation>
+        <translation>البولنديّة</translation>
     </message>
     <message>
         <source>Chinese</source>
-        <translation>Kínai</translation>
+        <translation>الصّينيّة</translation>
     </message>
     <message>
         <source>This whole panel allows you to view and edit the translation of some source text.</source>
-        <translation>Ez az egész panel lehetővé teszi a forrásszövegek fordításainak megtekintését és szerkesztését.</translation>
+        <translation>تسمح لك هذه اللوحة بعرض وتحرير ترجمة نفس النّصّ المصدر.</translation>
     </message>
     <message>
         <source>Source text</source>
-        <translation>Forrásszöveg</translation>
+        <translation>النّصّ المصدر</translation>
     </message>
     <message>
         <source>This area shows the source text.</source>
-        <translation>Ez a terület a forrásszöveget jeleníti meg.</translation>
+        <translation>تُظهر هذه المنطقة النّصّ المصدر.</translation>
     </message>
     <message>
         <source>Source text (Plural)</source>
-        <translation>Forrásszöveg (többes szám)</translation>
+        <translation>النّصّ المصدر (الجمع)</translation>
     </message>
     <message>
         <source>This area shows the plural form of the source text.</source>
-        <translation>Ez a terület a forrásszöveg többesszámát jeleníti meg.</translation>
+        <translation>تُظهر هذه المنطقة صيغة الجمع للنّصّ المصدر.</translation>
     </message>
     <message>
         <source>Developer comments</source>
-        <translation>Fejlesztői megjegyzések</translation>
+        <translation>تعليقات المطوّر</translation>
     </message>
     <message>
         <source>This area shows a comment that may guide you, and the context in which the text occurs.</source>
-        <translation>Ez a terület olyan egy megjegyzést jelenít meg, amely a segítségére lehet, és azt a környezetet, amelyben a szöveg előfordul.</translation>
+        <translation>تُظهر هذه المنطقة تعليقًا قد يساعدك في التّرجمة، والسّياق حيث قد يظهر النّصّ.</translation>
     </message>
     <message>
         <source>Here you can enter comments for your own use. They have no effect on the translated applications.</source>
-        <translation>Itt írhat be saját használatú megjegyzéseket. Ezek nincsenek hatással a lefordított alkalmazásokra.</translation>
+        <translation>هنا يمكنك إدخال التّعليقات لاستخدامك الخاصّ. لا تأثير لها في التّطبيقات المترجمة.</translation>
     </message>
     <message>
         <source>%1 translation (%2)</source>
-        <translation>%1 fordítás (%2)</translation>
+        <translation>التّرجمة %1 ‏(%2)</translation>
     </message>
     <message>
         <source>This is where you can enter or modify the translation of the above source text.</source>
-        <translation>Ez az a terület, ahol a fenti forrásszöveg fordítását beírhatja vagy módosíthatja.</translation>
+        <translation>هنا حيث تُدخل ترجمة النّصّ المصدر أعلاه أو تعدّله.</translation>
     </message>
     <message>
         <source>%1 translation</source>
-        <translation>%1 fordítás</translation>
+        <translation>التّرجمة %1</translation>
     </message>
     <message>
         <source>%1 translator comments</source>
-        <translation>%1 fordítói megjegyzés</translation>
+        <translation>تعليقات مترجم %1</translation>
     </message>
     <message>
         <source>&apos;%1&apos;
 Line: %2</source>
-        <translation>„%1”
-Sor: %2</translation>
+        <translation>&apos;%1&apos;
+السّطر: %L2</translation>
     </message>
 </context>
 <context>
     <name>MessageModel</name>
     <message>
         <source>Completion status for %1</source>
-        <translation>Befejezettségi állapot ehhez: %1</translation>
+        <translation>حالة اكتمال %1</translation>
     </message>
     <message>
         <source>&lt;file header&gt;</source>
-        <translation>&lt;fájlfejléc&gt;</translation>
+        <translation>&lt;ترويسة ملفّ&gt;</translation>
     </message>
     <message>
         <source>&lt;context comment&gt;</source>
-        <translation>&lt;környezeti megjegyzés&gt;</translation>
+        <translation>&lt;تعليق سياقيّ&gt;</translation>
     </message>
     <message>
         <source>&lt;unnamed context&gt;</source>
-        <translation>&lt;névtelen környezet&gt;</translation>
+        <translation>&lt;تعليق غير مسمّى&gt;</translation>
     </message>
 </context>
 <context>
     <name>PhraseBook</name>
     <message>
         <source>Parse error at line %1, column %2 (%3).</source>
-        <translation>Feldolgozási hiba a(z) %1. sor, %2. oszlopában (%3).</translation>
+        <translation>خطأ في التّحليل في السّطر %L1، العمود %L2 ‏(%L3).</translation>
     </message>
 </context>
 <context>
     <name>PhraseBookBox</name>
     <message>
         <source>Edit Phrase Book</source>
-        <translation>Kifejezéstár szerkesztése</translation>
+        <translation>حرّر كتاب العبارات</translation>
     </message>
     <message>
         <source>This window allows you to add, modify, or delete entries in a phrase book.</source>
-        <translation>Ez az ablak lehetővé teszi bejegyzések hozzáadását, módosítását és törlését egy kifejezéstárban.</translation>
+        <translation>تسمح لك هذه النّافذة بإضافة مدخلات أو تعديلها أو حذفها من كتاب العبارات.</translation>
     </message>
     <message>
         <source>&amp;Translation:</source>
-        <translation>&amp;Fordítás:</translation>
+        <translation>التّر&amp;جمة:</translation>
     </message>
     <message>
         <source>This is the phrase in the target language corresponding to the source phrase.</source>
-        <translation>Ez a kifejezés a célnyelven a forrásnyelv megfelelője.</translation>
+        <translation>هذه هي العبارة في اللغة الهدف التي تقابل العبارة المصدر.</translation>
     </message>
     <message>
         <source>S&amp;ource phrase:</source>
-        <translation>F&amp;orrás kifejezés:</translation>
+        <translation>ال&amp;عبارة المصدر:</translation>
     </message>
     <message>
         <source>This is a definition for the source phrase.</source>
-        <translation>Ez a forráskifejezés meghatározása.</translation>
+        <translation>هذا تعلريف العبارة المصدر.</translation>
     </message>
     <message>
         <source>This is the phrase in the source language.</source>
-        <translation>Ez a kifejezés a forrásnyelven.</translation>
+        <translation>هذه العبارة في اللغة المصدر.</translation>
     </message>
     <message>
         <source>&amp;Definition:</source>
-        <translation>&amp;Definíció:</translation>
+        <translation>ال&amp;تّعريف:</translation>
     </message>
     <message>
         <source>Click here to add the phrase to the phrase book.</source>
-        <translation>Kattintson ide a kifejezés hozzáadásához a kifejezéstárba.</translation>
+        <translation>انقر هنا لإضافة العبارة إلى كتاب العبارات.</translation>
     </message>
     <message>
         <source>&amp;New Entry</source>
-        <translation>Ú&amp;j bejegyzés</translation>
+        <translation>مدخلة &amp;جديدة</translation>
     </message>
     <message>
         <source>Click here to remove the entry from the phrase book.</source>
-        <translation>Kattintson ide a bejegyzés eltávolításához a kifejezéstárból.</translation>
+        <translation>انقر هنا لإزالة المدخلة من كتاب العبارات.</translation>
     </message>
     <message>
         <source>&amp;Remove Entry</source>
-        <translation>Bejegyzés &amp;eltávolítása</translation>
+        <translation>أ&amp;زل المدخلة</translation>
     </message>
     <message>
         <source>Settin&amp;gs...</source>
-        <translation>&amp;Beállítások…</translation>
+        <translation>إ&amp;عدادات...</translation>
     </message>
     <message>
         <source>Click here to save the changes made.</source>
-        <translation>Kattintson ide az elvégzett változtatások mentéséhez.</translation>
+        <translation>انقر هنا لحفظ التّعديلات.</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>Menté&amp;s</translation>
+        <translation>ا&amp;حفظ</translation>
     </message>
     <message>
         <source>Click here to close this window.</source>
-        <translation>Kattintson ide az ablak bezárásához.</translation>
+        <translation>انقر هنا لإغلاق هذه النّافذة.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Bezárás</translation>
+        <translation>أغلق</translation>
     </message>
     <message>
         <source></source>
         <comment>Go to Phrase &gt; Edit Phrase Book... The dialog that pops up is a PhraseBookBox.</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>(New Entry)</source>
-        <translation>(Új bejegyzés)</translation>
+        <translation>(مدخلة جديدة)</translation>
     </message>
     <message>
         <source>%1[*] - Qt Linguist</source>
-        <translation>%1[*] – Qt Linguist</translation>
+        <translation>%1[*] - كيوت اللغويّ</translation>
     </message>
     <message>
         <source>Qt Linguist</source>
-        <translation>Qt Linguist</translation>
+        <translation>كيوت اللغويّ</translation>
     </message>
     <message>
         <source>Cannot save phrase book &apos;%1&apos;.</source>
-        <translation>Nem lehet elmenteni a(z) „%1” kifejezéstárat.</translation>
+        <translation>تعذّر حفظ كتاب العبارات ’%1‘.</translation>
     </message>
 </context>
 <context>
     <name>PhraseModel</name>
     <message>
         <source>Source phrase</source>
-        <translation>Forráskifejezés</translation>
+        <translation>العبارة المصدر</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation>Fordítás</translation>
+        <translation>التّرجمة</translation>
     </message>
     <message>
         <source>Definition</source>
-        <translation>Definíció</translation>
+        <translation>التّعريف</translation>
     </message>
 </context>
 <context>
     <name>PhraseView</name>
     <message>
         <source>Insert</source>
-        <translation>Beszúrás</translation>
+        <translation>أدرج</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Szerkesztés</translation>
+        <translation>حرّر</translation>
     </message>
     <message>
         <source>Guess (%1)</source>
-        <translation>Tipp (%1)</translation>
+        <translation>خمّن (%1)</translation>
     </message>
     <message>
         <source>Guess</source>
-        <translation>Tipp</translation>
+        <translation>خمّن</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Translation files (%1);;</source>
-        <translation>Fordítási fájlok (%1);;</translation>
+        <translation>ملفّات التّرجمة (%1);;</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation>Minden fájl (*)</translation>
+        <translation>كلّ الملفّات (*)</translation>
     </message>
     <message>
         <source>Qt Linguist</source>
-        <translation>Qt Linguist</translation>
+        <translation>كيوت اللغويّ</translation>
     </message>
 </context>
 <context>
     <name>SourceCodeView</name>
     <message>
         <source>&lt;i&gt;Source code not available&lt;/i&gt;</source>
-        <translation>&lt;i&gt;A forráskód nem érhető el&lt;/i&gt;</translation>
+        <translation>&lt;i&gt;الكود المصدريّ غير متوفّر&lt;/i&gt;</translation>
     </message>
     <message>
         <source>&lt;i&gt;File %1 not available&lt;/i&gt;</source>
-        <translation>&lt;i&gt;A(z) %1 nem érhető el&lt;/i&gt;</translation>
+        <translation>&lt;i&gt;الملفّ %1 غير متوفّر&lt;/i&gt;</translation>
     </message>
     <message>
         <source>&lt;i&gt;File %1 not readable&lt;/i&gt;</source>
-        <translation>&lt;i&gt;A(z) %1 fájl nem olvasható&lt;/i&gt;</translation>
+        <translation>&lt;i&gt;الملفّ %1 لا يمكن قراءته&lt;/i&gt;</translation>
     </message>
 </context>
 <context>
     <name>Statistics</name>
     <message>
         <source>Statistics</source>
-        <translation>Statisztikák</translation>
+        <translation>إحصائيّات</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Bezárás</translation>
+        <translation>أغلق</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation>Fordítás</translation>
+        <translation>التّرجمة</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation>Forrás</translation>
+        <translation>المصدر</translation>
     </message>
     <message>
         <source>0</source>
-        <translation>0</translation>
+        <translation>٠</translation>
     </message>
     <message>
         <source>Words:</source>
-        <translation>Szavak:</translation>
+        <translation>الكلمات:</translation>
     </message>
     <message>
         <source>Characters:</source>
-        <translation>Karakterek:</translation>
+        <translation>المحارف:</translation>
     </message>
     <message>
         <source>Characters (with spaces):</source>
-        <translation>Karakterek (szóközökkel):</translation>
+        <translation>المحارف (مع المسافات):</translation>
     </message>
 </context>
 <context>
     <name>TranslateDialog</name>
     <message>
         <source>This window allows you to search for some text in the translation source file.</source>
-        <translation>Ez az ablak lehetővé teszi, hogy szöveget keressen a fordítás forrásfájljában.</translation>
+        <translation>تسمح لك هذه النّافذة بالبحث عن النّصوص في ملفّ التّرجمة المصدر.</translation>
     </message>
     <message>
         <source>Type in the text to search for.</source>
-        <translation>Gépelje be a keresendő szöveget.</translation>
+        <translation>اطبع النّصّ الّذي تريد البحث عنه.</translation>
     </message>
     <message>
         <source>Find &amp;source text:</source>
-        <translation>&amp;Forrásszöveg keresése:</translation>
+        <translation>اعثر على النّصّ الم&amp;صدر:</translation>
     </message>
     <message>
         <source>&amp;Translate to:</source>
-        <translation>&amp;Fordítás erre:</translation>
+        <translation>&amp;ترجم إلى:</translation>
     </message>
     <message>
         <source>Search options</source>
-        <translation>Keresési beállítások</translation>
+        <translation>خيارات البحث</translation>
     </message>
     <message>
         <source>Texts such as &apos;TeX&apos; and &apos;tex&apos; are considered as different when checked.</source>
-        <translation>Az olyan szövegek, mint például a „TeX” és „tex”, különbözőnek lesznek tekintve, ha be van jelölve.</translation>
+        <translation>النّصوص الشّبيهة بِ‍ ’TeX‘ و’tex‘ ستُعتبر مختلفة عند التّأشير.</translation>
     </message>
     <message>
         <source>Match &amp;case</source>
-        <translation>&amp;Kis- és nagybetűk megkülönböztetése</translation>
+        <translation>&amp;طابق الحالة</translation>
     </message>
     <message>
         <source>Mark new translation as &amp;finished</source>
-        <translation>Új fordítás megjelölése be&amp;fejezettként</translation>
+        <translation>عيّن المدخلات المترجمة كمنت&amp;هية</translation>
     </message>
     <message>
         <source>Click here to find the next occurrence of the text you typed in.</source>
-        <translation>Kattintson ide a begépelt szöveg következő előfordulásának kereséséhez.</translation>
+        <translation>انقر هنا للعثور على الحدوث التّالي للنّصّ الذي طبعته.</translation>
     </message>
     <message>
         <source>Find Next</source>
-        <translation>Következő keresése</translation>
+        <translation>اعثر على التّالي</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation>Fordítás</translation>
+        <translation>ترجم</translation>
     </message>
     <message>
         <source>Translate All</source>
-        <translation>Összes fordítása</translation>
+        <translation>ترجم الكلّ</translation>
     </message>
     <message>
         <source>Click here to close this window.</source>
-        <translation>Kattintson ide az ablak bezárásához.</translation>
+        <translation>انقر هنا لإغلاق هذه النّافذة.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégse</translation>
+        <translation>ألغِ</translation>
     </message>
 </context>
 <context>
     <name>TranslationSettingsDialog</name>
     <message>
         <source>Source language</source>
-        <translation>Forrásnyelv</translation>
+        <translation>اللغة المصدر</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Nyelv</translation>
+        <translation>اللغة</translation>
     </message>
     <message>
         <source>Country/Region</source>
-        <translation>Ország vagy régió</translation>
+        <translation>الدّولة/المنطقة</translation>
     </message>
     <message>
         <source>Target language</source>
-        <translation>Célnyelv</translation>
+        <translation>اللغة الهدف</translation>
     </message>
     <message>
         <source>Settings for &apos;%1&apos; - Qt Linguist</source>
-        <translation>„%1” beállításai – Qt Linguist</translation>
+        <translation>إعدادات ’%1‘ - كيوت اللغويّ</translation>
     </message>
     <message>
         <source>Any Country</source>
-        <translation>Bármely ország</translation>
+        <translation>أضف دولة</translation>
     </message>
 </context>
 </TS>

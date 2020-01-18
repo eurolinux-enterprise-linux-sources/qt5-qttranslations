@@ -1,109 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.1" language="ar">
 <context>
     <name>LoggerWidget</name>
     <message>
         <source>Warnings</source>
-        <translation>Figyelmeztetések</translation>
+        <translation>التّحذيرات</translation>
     </message>
     <message>
         <source>(No warnings)</source>
-        <translation>(Nincsenek figyelmeztetések)</translation>
+        <translation>(لا تحذيرات)</translation>
     </message>
     <message>
         <source>Show by default</source>
-        <translation>Megjelenítés alapértelmezés szerint</translation>
+        <translation>أظهر افتراضيًّا</translation>
     </message>
     <message>
         <source>Hide by default</source>
-        <translation>Elrejtés alapértelmezés szerint</translation>
+        <translation>أخفِ افتراضيًّا</translation>
     </message>
     <message>
         <source>Show for first warning</source>
-        <translation>Megjelenítés az első figyelmeztetéshez</translation>
+        <translation>أظهر لأوّل تحذير</translation>
     </message>
 </context>
 <context>
     <name>ProxySettings</name>
     <message>
         <source>Dialog</source>
-        <translation>Párbeszédablak</translation>
+        <translation>حواريّ</translation>
     </message>
     <message>
         <source>Use http proxy</source>
-        <translation>HTTP proxy használata</translation>
+        <translation>استخدم وسيط http</translation>
     </message>
     <message>
         <source>Server Address:</source>
-        <translation>Kiszolgáló címe:</translation>
+        <translation>عنوان الخادوم:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Port:</translation>
+        <translation>المنفذ:</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation>Felhasználónév:</translation>
+        <translation>اسم المستخدم:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Jelszó</translation>
+        <translation>كلمة المرور:</translation>
     </message>
 </context>
 <context>
     <name>QDeclarativeViewer</name>
     <message>
         <source>Qt QML Viewer</source>
-        <translation>Qt QML megjelenítő</translation>
+        <translation>عارض كيوت لِ‍ QML</translation>
     </message>
     <message>
         <source>Save Video File</source>
-        <translation>Videofájl mentése</translation>
+        <translation>احفظ ملفّ الفيديو</translation>
     </message>
     <message>
         <source>Save PNG Frames</source>
-        <translation>PNG képkockák mentése</translation>
+        <translation>احفظ إطارات PNG</translation>
     </message>
     <message>
         <source>Common Video files</source>
-        <translation>Közös videofájlok</translation>
+        <translation>ملفّات فيديو شائعة</translation>
     </message>
     <message>
         <source>GIF Animation</source>
-        <translation>GIF animáció</translation>
+        <translation>تحريكة GIF</translation>
     </message>
     <message>
         <source>Individual PNG frames</source>
-        <translation>Egyedi PNG képkockák</translation>
+        <translation>إطارات PNG منفردة</translation>
     </message>
     <message>
         <source>All ffmpeg formats (*.*)</source>
-        <translation>Minden ffmpeg formátum (*.*)</translation>
+        <translation>كلّ نسق ffmpeg ‏(*.*)</translation>
     </message>
     <message>
         <source>ffmpeg and ImageMagick not available - no video output</source>
-        <translation>Az ffmpeg és az ImageMagick nem érhető el – nincs videokimenet</translation>
+        <translation>ffmpeg و ImageMagick غير متوفّرين - لا خرج فيديو</translation>
     </message>
     <message>
         <source>ffmpeg not available - GIF and PNG outputs only</source>
-        <translation>Az ffmpeg nem érhető el – csak GIF és PNG kimenet</translation>
+        <translation>ffmpeg غير متوفّر - خرج GIF و PNG فقط</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation>&amp;Megnyitás…</translation>
+        <translation>ا&amp;فتح...</translation>
     </message>
     <message>
         <source>Open &amp;URL...</source>
-        <translation>&amp;URL megnyitása…</translation>
+        <translation>افتح &amp;عنوانًا...</translation>
     </message>
     <message>
         <source>&amp;Reload</source>
-        <translation>Új&amp;ratöltés</translation>
+        <translation>أ&amp;عد التّحميل</translation>
     </message>
     <message>
         <source>&amp;Take Snapshot</source>
-        <translation>Pillanatkép &amp;készítése</translation>
+        <translation>&amp;خُذ لقطة شاشة</translation>
     </message>
     <message>
         <source>F3</source>
@@ -111,7 +111,7 @@
     </message>
     <message>
         <source>Start Recording &amp;Video</source>
-        <translation>&amp;Videorögzítés indítása</translation>
+        <translation>ابدأ تسجيل ال&amp;فيديو</translation>
     </message>
     <message>
         <source>F9</source>
@@ -119,11 +119,11 @@
     </message>
     <message>
         <source>Video &amp;Options...</source>
-        <translation>Video&amp;beállítások…</translation>
+        <translation>&amp;خيارات الفيديو...</translation>
     </message>
     <message>
         <source>&amp;Slow Down Animations</source>
-        <translation>Animációk &amp;lelassítása</translation>
+        <translation>أب&amp;طئ التّحريكات</translation>
     </message>
     <message>
         <source>Ctrl+.</source>
@@ -131,19 +131,19 @@
     </message>
     <message>
         <source>Show Warnings</source>
-        <translation>Figyelmeztetések megjelenítése</translation>
+        <translation>أظهر التّحذيرات</translation>
     </message>
     <message>
         <source>HTTP &amp;Proxy...</source>
-        <translation>HTTP &amp;proxy…</translation>
+        <translation>&amp;وسيط HTTP...</translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation>Teljes képernyő</translation>
+        <translation>ملء الشّاشة</translation>
     </message>
     <message>
         <source>Rotate orientation</source>
-        <translation>Tájolás forgatása</translation>
+        <translation>دوّر الاتّجاه</translation>
     </message>
     <message>
         <source>Ctrl+T</source>
@@ -151,173 +151,173 @@
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Álló</translation>
+        <translation>طوليّ</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation>Fekvő</translation>
+        <translation>عرضيّ</translation>
     </message>
     <message>
         <source>Portrait (inverted)</source>
-        <translation>Álló (fordított)</translation>
+        <translation>طوليّ (معكوس)</translation>
     </message>
     <message>
         <source>Landscape (inverted)</source>
-        <translation>Fekvő (fordított)</translation>
+        <translation>عرضيّ (معكوس)</translation>
     </message>
     <message>
         <source>&amp;About Qt...</source>
-        <translation>A Qt &amp;névjegye…</translation>
+        <translation>&amp;عنْ كيوت...</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Bezárás</translation>
+        <translation>أ&amp;غلق</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>&amp;Kilépés</translation>
+        <translation>أ&amp;نهِ</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;Fájl</translation>
+        <translation>&amp;ملفّ</translation>
     </message>
     <message>
         <source>&amp;Recording</source>
-        <translation>&amp;Rögzítés</translation>
+        <translation>تس&amp;جيل</translation>
     </message>
     <message>
         <source>&amp;Debugging</source>
-        <translation>&amp;Hibakeresés</translation>
+        <translation>ت&amp;نقيح</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>&amp;Beállítások</translation>
+        <translation>إ&amp;عدادات</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Tulajdonságok</translation>
+        <translation>خصائص</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;Súgó</translation>
+        <translation>م&amp;ساعدة</translation>
     </message>
     <message>
         <source>&amp;Stop Recording Video	F9</source>
-        <translation>Videorögzítés &amp;leállítása	F9</translation>
+        <translation>أ&amp;وقف تسجيل الفيديو	F9</translation>
     </message>
     <message>
         <source>&amp;Start Recording Video	F9</source>
-        <translation>Videorögzítés &amp;indítása	F9</translation>
+        <translation>ا&amp;بدأ تسجيل الفيديو	F9</translation>
     </message>
     <message>
         <source>Open QML file</source>
-        <translation>QML-fájl megnyitása</translation>
+        <translation>افتح ملفّ QML</translation>
     </message>
     <message>
         <source>QML Files (*.qml)</source>
-        <translation>QML-fájlok (*.qml)</translation>
+        <translation>ملفّات QML ‏(‎*.qml)</translation>
     </message>
     <message>
         <source>URL of main QML file:</source>
-        <translation>A fő QML-fájl URL-je:</translation>
+        <translation>عنوان ملفّ QML الرّئيس:</translation>
     </message>
     <message>
         <source>%1 - Qt QML Viewer</source>
-        <translation>%1 – Qt QML megjelenítő</translation>
+        <translation>%1 - عارض كيوت لِ‍ QML</translation>
     </message>
     <message>
         <source>Video recording uses ffmpeg:</source>
-        <translation>Videorögzítés ffmpeg használatával:</translation>
+        <translation>تسجيل الفيديو الذي يستخدم ffmpeg:</translation>
     </message>
     <message>
         <source>Saving frames...</source>
-        <translation>Képkockák mentése…</translation>
+        <translation>يحفظ الإطارات...</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégse</translation>
+        <translation>ألغِ</translation>
     </message>
     <message>
         <source>Converting frames to GIF file...</source>
-        <translation>Képkockák átalakítása GIF-fájllá…</translation>
+        <translation>يحوّل الإطارات إلى ملفّ GIF...</translation>
     </message>
 </context>
 <context>
     <name>RecordingDialog</name>
     <message>
         <source>Original (%1x%2)</source>
-        <translation>Eredeti (%1×%2)</translation>
+        <translation>الأصليّ (%L1×%L2)</translation>
     </message>
 </context>
 <context>
     <name>RecordingOptions</name>
     <message>
         <source>Video options</source>
-        <translation>Videobeállítások</translation>
+        <translation>خيارات الفيديو</translation>
     </message>
     <message>
         <source>File:</source>
-        <translation>Fájl:</translation>
+        <translation>الملفّ:</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>…</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Méret</translation>
+        <translation>الحجم</translation>
     </message>
     <message>
         <source>VGA</source>
-        <translation>VGA</translation>
+        <translation>VGA (م‌ع‌م)</translation>
     </message>
     <message>
         <source>720p</source>
-        <translation>720p</translation>
+        <translation>720p (٧٣٠ تقدّميّ)</translation>
     </message>
     <message>
         <source>QVGA</source>
-        <translation>QVGA</translation>
+        <translation>QVGA (م​ع​م​ر)</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation>Szélesség:</translation>
+        <translation>العرض:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation>Magasság:</translation>
+        <translation>الارتفاع:</translation>
     </message>
     <message>
         <source>Rate</source>
-        <translation>Gyakoriság</translation>
+        <translation>المعدّل</translation>
     </message>
     <message>
         <source>60Hz</source>
-        <translation>60 Hz</translation>
+        <translation>٦٠ هرتز</translation>
     </message>
     <message>
         <source>50Hz</source>
-        <translation>50 Hz</translation>
+        <translation>٥٠ هرتز</translation>
     </message>
     <message>
         <source>25Hz</source>
-        <translation>25 Hz</translation>
+        <translation>٢٥ هرتز</translation>
     </message>
     <message>
         <source>Hz</source>
-        <translation>Hz</translation>
+        <translation>هرتز</translation>
     </message>
     <message>
         <source>24Hz</source>
-        <translation>24Hz</translation>
+        <translation>٢٤ هرتز</translation>
     </message>
     <message>
         <source>Profile</source>
-        <translation>Profil</translation>
+        <translation>التّشكيلة</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Súgó</translation>
+        <translation>مساعدة</translation>
     </message>
 </context>
 </TS>
